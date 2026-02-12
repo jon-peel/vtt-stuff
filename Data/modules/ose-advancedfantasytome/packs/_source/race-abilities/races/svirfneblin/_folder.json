@@ -1,0 +1,19 @@
+{
+  "name": "Svirfneblin",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "2VikIAHy5XOpvp8R",
+  "sort": 0,
+  "color": "#00e70e",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460541012,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!2VikIAHy5XOpvp8R"
+}

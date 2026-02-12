@@ -1,0 +1,44 @@
+{
+  "_id": "mvlGNPxTHhha5Q1q",
+  "name": "Rug of Suffocation",
+  "type": "item",
+  "img": "icons/commodities/cloth/cloth-patterned-green.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 10400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A high quality, woven carpet which is cursed to smother any who attempt to activate its magic.</p><ul><li><p><strong>Commanding:</strong> Any command issued to the rug by a character sitting on it activates its curse.</p></li><li><p><strong>When activated:</strong> The rug rolls up tightly around the character and attempts to suffocate them.</p></li><li><p><strong>Saving throw:</strong> The victim may <strong>save versus spells</strong> to avoid being suffocated.</p></li><li><p><strong>Suffocating:</strong> The character suffocates in [[/r 1d4+2]] rounds.</p></li><li><p><strong>Freeing the victim:</strong> <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.r1nzPx4J12JY6TAO]{Dispel magic}</em> causes the rug to release the victim.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441989454,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!mvlGNPxTHhha5Q1q"
+}

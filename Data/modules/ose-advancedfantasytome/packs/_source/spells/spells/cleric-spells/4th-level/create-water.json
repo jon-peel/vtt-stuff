@@ -1,0 +1,37 @@
+{
+  "_id": "FNs4mXkpOAvgDUh4",
+  "name": "Create Water",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "hQiAgT9TyM2uGpZ3",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell causes a magical fount to spring forth from the ground or a wall.</p><ul><li><p><strong>Volume:</strong> The fount produces approximately 50 gallons of water—enough to sustain twelve humans and twelve mounts for one day.</p></li><li><p><strong>Higher level casters:</strong> If the caster is higher than 8th level, water sufficient for an additional twelve humans and mounts is produced for each level beyond 8th.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "Permanent",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449390158,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!FNs4mXkpOAvgDUh4"
+}

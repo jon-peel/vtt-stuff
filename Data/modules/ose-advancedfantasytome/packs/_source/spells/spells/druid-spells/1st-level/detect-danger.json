@@ -1,0 +1,37 @@
+{
+  "name": "Detect Danger",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "98H5alZjT4gFD44w",
+  "sort": 0,
+  "flags": {},
+  "_id": "UnZA2XRwTJZiAyS1",
+  "system": {
+    "description": "<p>The caster can concentrate to detect dangers within range.</p><ul><li><p><strong>Areas:</strong> Scanning a 10’ × 10’ area takes one turn.</p></li><li><p><strong>Creatures:</strong> Scanning a creature takes one round.</p></li><li><p><strong>Objects:</strong> Scanning a small object (e.g. a chest, weapon, etc.) takes one round. Larger objects take longer.</p></li><li><p><strong>After scanning:</strong> The caster knows whether the area, creature, or object poses a danger to their person. This knowledge distinguishes between immediate dangers and potential dangers.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Druid",
+    "duration": "Permanent",
+    "range": "5' per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449635197,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UnZA2XRwTJZiAyS1"
+}

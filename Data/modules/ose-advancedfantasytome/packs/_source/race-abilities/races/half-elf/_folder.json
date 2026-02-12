@@ -1,0 +1,19 @@
+{
+  "name": "Half-Elf",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "iy72xbZ34Yo8OeLG",
+  "sort": 0,
+  "color": "#00c428",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460486646,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!iy72xbZ34Yo8OeLG"
+}

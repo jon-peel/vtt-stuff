@@ -1,0 +1,475 @@
+{
+  "_id": "moKtnYcVilyHZv7U",
+  "name": "Trapper",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/trapper%20-%20jerry%20boucher%20-%20c%20ng%202025.webp",
+  "items": [
+    {
+      "_id": "v0eTiy6Nh1GgrukJ",
+      "name": "Lure",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Often form a protrusion resembling a chest near centre to lure prey.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!moKtnYcVilyHZv7U.v0eTiy6Nh1GgrukJ"
+    },
+    {
+      "_id": "dxCPiEp5pfTKhrYI",
+      "name": "Surprise",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>On a [[/r 1d6]]{1–5}, due to camouflaged appearance.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d6",
+        "rollType": "below",
+        "rollTarget": 5,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762142395302
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!moKtnYcVilyHZv7U.dxCPiEp5pfTKhrYI"
+    },
+    {
+      "_id": "6B6Vrg5xoaWfiX5v",
+      "name": "Trap",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Affects all within the 20’ square area the trapper covers. A single attack roll is made and compared against the AC of all targets.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!moKtnYcVilyHZv7U.6B6Vrg5xoaWfiX5v"
+    },
+    {
+      "_id": "qVv8RNz1Ry1h1zTV",
+      "name": "Trapped victims",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Cannot move, automatically suffer [[/r 1d8]] damage per round. Can attack the trapper only if they had a short weapon (e.g. dagger, short sword) in hand when trapped.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!moKtnYcVilyHZv7U.qVv8RNz1Ry1h1zTV"
+    },
+    {
+      "_id": "m4dc25Qew1Jr6ggk",
+      "name": "Suffocation",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Trapped victims die after 6 rounds due to suffocation.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!moKtnYcVilyHZv7U.m4dc25Qew1Jr6ggk"
+    },
+    {
+      "_id": "w4FnJQDtyCi9MMfN",
+      "name": "Damage reduction",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Half damage from fire and cold-based attacks.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!moKtnYcVilyHZv7U.w4FnJQDtyCi9MMfN"
+    },
+    {
+      "_id": "TwdG1cuwlve3QG7s",
+      "name": "Trap",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "1d8",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d8",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!moKtnYcVilyHZv7U.TwdG1cuwlve3QG7s"
+    }
+  ],
+  "effects": [],
+  "folder": "3yGYlNWLCnPqHWcS",
+  "flags": {},
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "12d8",
+      "value": 54,
+      "max": 54
+    },
+    "ac": {
+      "value": 3,
+      "mod": 0
+    },
+    "aac": {
+      "value": 16,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 10,
+      "bba": 9,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 6
+      },
+      "wand": {
+        "value": 7
+      },
+      "paralysis": {
+        "value": 8
+      },
+      "breath": {
+        "value": 8
+      },
+      "spell": {
+        "value": 10
+      }
+    },
+    "movement": {
+      "base": 30,
+      "encounter": 10
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#trapper]{Trapper}</p><p>Intelligent, cunning predators that stretch their stony, amorphous bodies flat across large areas of floor. Wait for victims to walk across, then fold up, trapping the victims. Typically cover a 20’ square area (though larger specimens are occasionally encountered). Dwell underground.</p>",
+      "alignment": "Neutral",
+      "xp": "1,900",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.Sjb5WqrsXsRUv29l]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1",
+        "w": "0"
+      },
+      "morale": "11",
+      "movement": "30’ (10’)"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Trapper",
+    "displayName": 20,
+    "width": 2,
+    "height": 2,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "color": "#ffb638",
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/trapper.Token.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925312523,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!moKtnYcVilyHZv7U"
+}

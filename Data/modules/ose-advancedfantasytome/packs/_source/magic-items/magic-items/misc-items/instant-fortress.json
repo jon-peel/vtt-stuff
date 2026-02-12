@@ -1,0 +1,44 @@
+{
+  "_id": "x8uMz8N2SYl5jsy7",
+  "name": "Instant Fortress",
+  "type": "item",
+  "img": "icons/environment/settlement/watchtower-cliff.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 12600000,
+  "flags": {},
+  "system": {
+    "description": "<p>A small metal cube which can transform into a metal tower 30’ tall and 20’ square.</p><ul><li><p><strong>Command words:</strong> One command word activates the tower and another returns it to the form of a small metal cube.</p></li><li><p><strong>When activated:</strong> The tower springs up in 1 round. Any (except the owner) within 20’ must <strong>save versus paralysis</strong> or suffer [[/r 10d6]] damage.</p></li><li><p><strong>Exterior:</strong> The fortress has 3 storeys, arrow slits on all 4 sides, a single entrance door at ground level, and a crenellated battlement atop it.</p></li><li><p><strong>Entering:</strong> The door only opens at the owner’s command. Knock spells cannot open it.</p></li><li><p><strong>Inside:</strong> Stairs lead to each of the 2 upper storeys and the battlement.</p></li><li><p><strong>Damaging:</strong> The tower is treated as a vehicle (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.LbHe6XO6WBsfDseJ.JournalEntryPage.QzjcHbKWy2QPveNh]{Vehicles}) with AC 5 [14] and 40 hull points. Only a wish can repair it (2 hull points per wish).</p></li><li><p><strong>Deactivating:</strong> The fortress can only be deactivated when it is empty.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761439927803,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!x8uMz8N2SYl5jsy7"
+}

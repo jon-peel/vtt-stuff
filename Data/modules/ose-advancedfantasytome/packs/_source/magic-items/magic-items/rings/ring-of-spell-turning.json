@@ -1,0 +1,39 @@
+{
+  "_id": "At6h12ony9NAYFjG",
+  "name": "Ring of Spell Turning",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-cabochon-notched-gold-green.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 500000,
+  "flags": {},
+  "system": {
+    "description": "<p>Spells cast on the wearer of this ring are reflected back onto the caster.</p><ul><li><p><strong>Charges:</strong> After [[/r 2d6]] spells are reflected, the ring loses its power.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443263633,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!At6h12ony9NAYFjG"
+}

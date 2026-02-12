@@ -1,0 +1,37 @@
+{
+  "name": "Part Water",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "MFXqvLgGFAITOLS8",
+  "system": {
+    "description": "<p>The caster creates a path 10’ wide and a maximum of 120’ long through water, such as a pond, lake, or other body. The caster can dismiss the spell’s effect before the duration ends.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "6 turns",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160013685,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!MFXqvLgGFAITOLS8"
+}

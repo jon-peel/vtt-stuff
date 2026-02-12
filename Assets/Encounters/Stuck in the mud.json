@@ -1,0 +1,36 @@
+{
+  "name": "Stuck in the mud",
+  "width": 11250,
+  "height": 5400,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.3,
+  "lights": [
+    {
+      "x": 4154,
+      "y": 4614,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7788,
+      "y": 2360,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    }
+  ],
+  "walls": [],
+  "img": null,
+  "foreground": null
+}

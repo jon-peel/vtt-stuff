@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Wounding",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-guard-gold-worn.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 2700000,
+  "flags": {},
+  "_id": "k5xL3QHXKiMpj0p0",
+  "system": {
+    "description": "<p>Inflicts vicious, bleeding wounds.</p><ul><li><p><strong>Bleeding:</strong> After being hit, the target suffers 1 additional point of damage per round (up to a maximum of 10 rounds).</p></li><li><p><strong>Multiple wounds</strong>: Each deal additional damage per round.</p></li><li><p><strong>Stopping bleeding:</strong> Bandaging a wound stops it bleeding and negates further damage.</p></li><li><p><strong>Healing:</strong> Damage from the sword cannot be healed by magic or regeneration.</p></li><li><p><strong>Restrictions:</strong> Constructs and creatures without blood are unaffected by the sword’s wounding effect.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445789994,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!k5xL3QHXKiMpj0p0"
+}

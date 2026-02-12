@@ -1,0 +1,36 @@
+{
+  "_id": "umuUADyNL4RYqvAo",
+  "name": "Arcane Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "YopJn8vFhyJwwfqI",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on Arcane Magic.</p><p><strong>Spell casting</strong>: From 2nd level, half-elves gain the ability to cast arcane spells, owning a spell book in which the magical formulae for the spells they know are recorded. The level progression table (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.pKRzPpWFHma1Xfnx.JournalEntryPage.qEHpv3owi6iUKT3v#after-reaching-9th-level]{Half - Elf Level Progression}) shows both the number of spells in the half-elf’s spell book and the number they may memorize, determined by the character’s experience level. Thus, a 2nd level half-elf has one spell in their spell book, selected by the referee (who may allow the player to choose). The list of spells available to half-elves is provided in Cleric and Magic-User Spells (half-elves have the same spell selection as magic-users).</p><p><strong>Using magic items</strong>: As spell casters, half-elves are able to use magic scrolls of spells on their spell list. They can also use items that may only be used by arcane spell casters (e.g. magic wands).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-elf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457849772,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!umuUADyNL4RYqvAo"
+}

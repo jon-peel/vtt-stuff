@@ -1,0 +1,531 @@
+{
+  "_id": "eVjSXV2dyaoFUrHb",
+  "name": "Hulker",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/hulker%20-%20simon%20underwood%20-%20c%202024%20ng.webp",
+  "items": [
+    {
+      "_id": "3InGduob8f0ZR5mm",
+      "name": "Burrowing",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Can burrow through solid stone at 10’ (3’) or soft earth at 60’ (20’).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.3InGduob8f0ZR5mm"
+    },
+    {
+      "_id": "yodJvVRDEWd2jwN3",
+      "name": "Surprise",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Characters surprised by a hulker meet its gaze.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.yodJvVRDEWd2jwN3"
+    },
+    {
+      "_id": "KGiIxIIVrDA6AdNo",
+      "name": "Confusing gaze",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Anyone meeting a hulker’s gaze is confused for [[/r 3d4]] rounds (<strong>save versus spells</strong>). Unless averting eyes or using a mirror, characters in melee are affected each round.</p>",
+        "save": "spell",
+        "pattern": "red",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.KGiIxIIVrDA6AdNo"
+    },
+    {
+      "_id": "VfRHu4msZgnSMHCQ",
+      "name": "Confusion",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Victims behave randomly; roll [[/r 1d8]] each round.</p><ul><li><p><strong>1: </strong>move randomly,</p></li><li><p><strong>2–5: </strong>no action,</p></li><li><p><strong>6–7:</strong> attack nearest creature,</p></li><li><p><strong>8:</strong> flee.</p></li></ul>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762130144178
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.VfRHu4msZgnSMHCQ"
+    },
+    {
+      "_id": "9mrMc2ot7Q2sIEGC",
+      "name": "Averting eyes",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "–4 penalty to hit; the hulker gains a +2 bonus to attack.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.9mrMc2ot7Q2sIEGC"
+    },
+    {
+      "_id": "soKKAoLjH6kkip7y",
+      "name": "Mirrors",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "The reflection of a hulker is harmless. Fighting by looking in a mirror incurs a –1 penalty to attack.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.soKKAoLjH6kkip7y"
+    },
+    {
+      "_id": "Mx7YyHo8MHXKzY5y",
+      "name": "Claw",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "3d4",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "3d4",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 2,
+          "max": 2
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.Mx7YyHo8MHXKzY5y"
+    },
+    {
+      "_id": "b4dTrbJySrnX1sVp",
+      "name": "Mandibles",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "2d8",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "2d8",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!eVjSXV2dyaoFUrHb.b4dTrbJySrnX1sVp"
+    }
+  ],
+  "effects": [],
+  "folder": "EAo3lQ9OO2Map3lm",
+  "flags": {},
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "10d8",
+      "value": 45,
+      "max": 45
+    },
+    "ac": {
+      "value": 2,
+      "mod": 0
+    },
+    "aac": {
+      "value": 17,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 11,
+      "bba": 8,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 6
+      },
+      "wand": {
+        "value": 7
+      },
+      "paralysis": {
+        "value": 8
+      },
+      "breath": {
+        "value": 8
+      },
+      "spell": {
+        "value": 10
+      }
+    },
+    "movement": {
+      "base": 60,
+      "encounter": 20
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 1,
+        "value": 1
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#hulker]{Hulker}</p><p>Hulking (9’ tall, 5’ wide), bipedal monsters with claws of iron, wicked mandibles, and four eyes (two insectoid, two human-like). Hunt for fresh meat in caverns, tunnels, and dungeons.</p>",
+      "alignment": "Chaotic",
+      "xp": "1600",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.Sjb5WqrsXsRUv29l]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1d4",
+        "w": "0"
+      },
+      "morale": "10",
+      "movement": "60’ (20’)"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {
+      "ignoreBonusDamage": false,
+      "enableInventory": false
+    }
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Hulker",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "color": "#ffb638",
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/hulker.Token.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925312523,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!eVjSXV2dyaoFUrHb"
+}

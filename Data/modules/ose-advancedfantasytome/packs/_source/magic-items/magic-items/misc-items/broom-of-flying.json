@@ -1,0 +1,44 @@
+{
+  "_id": "FxundSfsmpp8OvlT",
+  "name": "Broom of Flying",
+  "type": "item",
+  "img": "icons/tools/hand/broom-straw-brown.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3600000,
+  "flags": {},
+  "system": {
+    "description": "<p>A broom that can be commanded to fly, carrying the owner aloft.</p><ul><li><p><strong>Speed</strong>: The broom flies at 240’ (80’).</p></li><li><p><strong>Passengers</strong>: An additional passenger may be carried. When carrying two people, the broom’s speed is 180’ (60’).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427358843,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!FxundSfsmpp8OvlT"
+}

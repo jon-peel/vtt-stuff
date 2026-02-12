@@ -1,0 +1,37 @@
+{
+  "name": "Defensive Bonus",
+  "type": "ability",
+  "img": "icons/equipment/shield/heater-steel-gold.webp",
+  "effects": [],
+  "folder": "QflRm48M1NqflUIJ",
+  "flags": {},
+  "system": {
+    "description": "<p>Due to their small size, gnomes gain a +2 bonus to Armour Class when attacked by large opponents (greater than human-sized).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685802572871,
+    "modifiedTime": 1685802572871,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "sftyocATMxfo3tXx",
+  "sort": 0,
+  "_key": "!items!sftyocATMxfo3tXx"
+}

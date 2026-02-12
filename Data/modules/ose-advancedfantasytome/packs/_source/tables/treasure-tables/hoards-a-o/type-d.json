@@ -1,0 +1,191 @@
+{
+  "name": "Type D",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "3,900gp average",
+  "results": [
+    {
+      "_id": "otl9PrtqH7a1OGTc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d8 * 1000]]cp.",
+      "name": "",
+      "_key": "!tables.results!8TKXVQrjVzO23wCT.otl9PrtqH7a1OGTc"
+    },
+    {
+      "_id": "6XQAVRiy0E4olEnh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 15,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d12 *1000]]sp.",
+      "name": "",
+      "_key": "!tables.results!8TKXVQrjVzO23wCT.6XQAVRiy0E4olEnh"
+    },
+    {
+      "_id": "PLPqsD4ni4qDoSli",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 60,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6 *1000]]gp.",
+      "name": "",
+      "_key": "!tables.results!8TKXVQrjVzO23wCT.PLPqsD4ni4qDoSli"
+    },
+    {
+      "_id": "MFKtleS2FxMmt0jY",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 30,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d8]] gems.",
+      "name": "",
+      "_key": "!tables.results!8TKXVQrjVzO23wCT.MFKtleS2FxMmt0jY"
+    },
+    {
+      "_id": "w9z9Pq86FrmO8UKU",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 30,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d8]] pieces of jewelery.",
+      "name": "",
+      "_key": "!tables.results!8TKXVQrjVzO23wCT.w9z9Pq86FrmO8UKU"
+    },
+    {
+      "_id": "nUbvpqHYuuojKr2X",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 15,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2 magic items plus 1 potion.",
+      "name": "",
+      "_key": "!tables.results!8TKXVQrjVzO23wCT.nUbvpqHYuuojKr2X"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "T0g4kT1b6Y6FcqNt",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    },
+    "ose-dev": {
+      "treasure": true
+    }
+  },
+  "_id": "8TKXVQrjVzO23wCT",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159979673,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!8TKXVQrjVzO23wCT"
+}

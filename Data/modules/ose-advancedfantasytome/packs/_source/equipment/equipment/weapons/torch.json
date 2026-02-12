@@ -1,0 +1,54 @@
+{
+  "_id": "b1TtpyaiSpdGrupR",
+  "name": "Torch",
+  "type": "weapon",
+  "img": "icons/sundries/lights/torch-brown-lit.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Melee</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 1,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159906206,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!b1TtpyaiSpdGrupR"
+}

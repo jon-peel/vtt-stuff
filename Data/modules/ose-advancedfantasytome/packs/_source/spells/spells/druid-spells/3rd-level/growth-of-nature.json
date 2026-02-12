@@ -1,0 +1,37 @@
+{
+  "name": "Growth of Nature",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VZ2bxyQHtpoVt8qa",
+  "sort": 0,
+  "flags": {},
+  "_id": "qabNZfH3QzRFqh7i",
+  "system": {
+    "description": "<p>This spell has two uses<strong>:</strong></p><ol><li><p><strong>Animal growth:</strong> Doubling the size of a normal, non-magical animal.</p></li><li><p><strong>Plant growth:</strong> Causing vigorous growth of normal vegetation.</p></li></ol><p>When used to affect an animal:</p><ul><li><p><strong>Strength:</strong> The animal’s strength is doubled, along with the damage inflicted by its attacks and the amount of weight it can carry.</p></li><li><p><strong>Restrictions:</strong> This spell may be used on giant versions of normal animals, but intelligent animals and fantastic monsters are unaffected.</p></li></ul><p>When used to affect plants:</p><ul><li><p><strong>Area:</strong> Plants in an area within range of up to 3,000 square feet are affected. The area is selected by the caster (e.g. 150’ × 20’, 100’ × 30’, etc.).</p></li><li><p><strong>Passage:</strong> Plants in the affected area become thick and overgrown, entwining to form a thorny jungle that only very large creatures can force their way through.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Druid",
+    "duration": "12 turns (animals) or permanent (plants)",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449903135,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qabNZfH3QzRFqh7i"
+}

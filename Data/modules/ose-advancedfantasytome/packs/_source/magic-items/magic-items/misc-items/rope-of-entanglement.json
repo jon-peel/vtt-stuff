@@ -1,0 +1,44 @@
+{
+  "_id": "lQBOw1YXa6wvnI5Y",
+  "name": "Rope of Entanglement",
+  "type": "item",
+  "img": "icons/sundries/survival/rope-wrapped-purple.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 10000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A 50’ length of rope with the power to entangle enemies.</p><ul><li><p><strong>Commanding:</strong> The owner can command the rope to entangle up to 8 human-sized creatures (or a number of larger or smaller creatures equivalent to 8 humans).</p></li><li><p><strong>Range:</strong> Up to 20’ forward or 10’ up.</p></li><li><p><strong>Saving</strong> <strong>throw:</strong> Each target may <strong>save versus spells</strong> to avoid being entangled.</p></li><li><p><strong>Entangled creatures:</strong> Are fully restrained: unable to move, cast spells, or free themselves in any way.</p></li><li><p><strong>Cutting the rope:</strong> It has AC –2 [21] and 22 hit points. If cut through, the rope becomes non-magical.</p></li><li><p><strong>Regeneration:</strong> The rope repairs any damage to itself in 6 turns.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441822753,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!lQBOw1YXa6wvnI5Y"
+}

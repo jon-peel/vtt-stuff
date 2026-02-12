@@ -1,0 +1,37 @@
+{
+  "name": "Disintegrate",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "Qia3KIVoKxni1VDo",
+  "system": {
+    "description": "<p>The material form of a single, non-magical creature or object is instantly and permanently destroyed.</p><ul><li><p><strong>If a creature is targeted:</strong> It may <strong>save versus death</strong> to resist disintegration.</p></li><li><p><strong>Examples of objects:</strong> The following might be targeted: a tree, a ship, a 10’ section of wall.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "death",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454689864,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Qia3KIVoKxni1VDo"
+}

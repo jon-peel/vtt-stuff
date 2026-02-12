@@ -1,0 +1,37 @@
+{
+  "name": "Available Classes and Max Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "H5LyintcfH0JcQca",
+  "flags": {},
+  "system": {
+    "description": "<ul><li><p><strong>Assassin:</strong> 9th</p></li><li><p><strong>Cleric*:</strong> 8th</p></li><li><p><strong>Fighter:</strong> 9th</p></li><li><p><strong>Thief:</strong> 9th</p></li></ul><p>* At the referee’s option, duergar clerics may only exist as NPCs.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "duergar",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685801734838,
+    "modifiedTime": 1761459328649,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uW94ptMTEuwIXP5T",
+  "sort": 0,
+  "_key": "!items!uW94ptMTEuwIXP5T"
+}

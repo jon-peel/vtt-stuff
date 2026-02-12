@@ -1,0 +1,37 @@
+{
+  "name": "Colour Spray",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "BHQqqRyd0BrYThQ8",
+  "system": {
+    "description": "<p>A flurry of clashing, rainbow-hued colours erupts from the caster’s hand.</p><ul><li><p><strong>Targets:</strong> [[/r 1d6]] creatures in the area of effect.</p></li><li><p><strong>The effect:</strong> Depends on the HD of each target, relative to the caster:</p><ul><li><p><strong>HD less than or equal to caster:</strong> Knocked unconscious for [[/r 2d4]] rounds. (Creatures of 6HD or greater may <strong>save versus spells</strong>.)</p></li><li><p><strong>HD up to 2 greater than caster:</strong> <strong>Save versus spells</strong> or be blinded for [[/r 1d4]] rounds. A blind creature cannot attack.</p></li><li><p><strong>HD 3 or more greater than caster:</strong> <strong>Save versus spells</strong> or be unable to move, attack, or make other actions for one round.</p></li></ul></li><li><p><strong>Creatures that cannot see:</strong> Are unaffected by this spell.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "Instant",
+    "range": "20’ long cone, 20’ wide at end",
+    "roll": "1d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450404935,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BHQqqRyd0BrYThQ8"
+}

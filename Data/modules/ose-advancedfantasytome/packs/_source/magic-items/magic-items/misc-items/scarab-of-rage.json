@@ -1,0 +1,44 @@
+{
+  "_id": "qTtorH9hFgt3vmbZ",
+  "name": "Scarab of Rage",
+  "type": "item",
+  "img": "icons/equipment/neck/necklace-animal-scarab.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11100000,
+  "flags": {},
+  "system": {
+    "description": "<p>A small, scarab-shaped amulet with the power to instil a blood rage in those who see it.</p><ul><li><p><strong>Charges:</strong> [[/r 1d6+18]] charges.</p></li><li><p><strong>Command word:</strong> The owner must present the scarab and utter a command word to activate its magic.</p></li><li><p><strong>When activated:</strong> Intelligent enemies within 40’ are stricken with blood rage (<strong>save versus spells</strong> to avoid).</p></li><li><p><strong>Blood rage:</strong> Affected creatures immediately attack the closest creature, whether it is friend or foe. If the creature is killed, the stricken creature attacks the next nearest. The rage causes a +1 bonus to attack rolls, a +2 bonus to damage rolls, and a –3 AC penalty.</p></li><li><p><strong>Duration:</strong> [[/r 1d6+6]] rounds.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442062754,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qTtorH9hFgt3vmbZ"
+}

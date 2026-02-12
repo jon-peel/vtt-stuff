@@ -1,0 +1,37 @@
+{
+  "name": "Light Sensitivity",
+  "type": "ability",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
+  "effects": [],
+  "folder": "2VikIAHy5XOpvp8R",
+  "flags": {},
+  "system": {
+    "description": "<p>When in bright light (daylight, <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.8H5VgKVGnbX0yngI]{continual light}</em>), svirfneblins suffer a –2 penalty to attack rolls and a –1 penalty to AC.</p><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685803260671,
+    "modifiedTime": 1761459727522,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "yXNXVbkr8FxEqW1R",
+  "sort": 1000000,
+  "_key": "!items!yXNXVbkr8FxEqW1R"
+}

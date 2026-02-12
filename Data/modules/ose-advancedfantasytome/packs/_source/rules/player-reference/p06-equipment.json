@@ -1,0 +1,132 @@
+{
+  "name": "P06. Equipment",
+  "pages": [
+    {
+      "sort": 150000,
+      "name": "Weapons and Armour",
+      "type": "text",
+      "_id": "nYCaZdKJr9MkDwk4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2><strong>Weapons</strong></h2><table><thead><tr><th>Weapon</th><th>Cost (gp)</th><th>Weight (Coins)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.fwC1kOkh1vuWrnen]{Battle axe}</td><td>7</td><td>50</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.Pbs23aJNvvQOXdWv]{Club}</td><td>3</td><td>50</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.zqvrIEJf5YJDejCq]{Crossbow}</td><td>30</td><td>50</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.Ix5YelGuQSmzZk5y]{Dagger}</td><td>3</td><td>10</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.kryTb6v4e176Bun9]{Hand axe}</td><td>3</td><td>30</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.8oFvUGnTXVDAlvsn]{Javelin}</td><td>1</td><td>20</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.8UekavjujPTSUUl4]{Lance}</td><td>5</td><td>120</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.RaaQ9kTGBojzsqur]{Long bow}</td><td>40</td><td>30</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.GbDkJZ6wQW4O08ut]{Mace}</td><td>5</td><td>30</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.Ztz3OC5TjYSV1yUv]{Pole arm}</td><td>7</td><td>100</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.bhdhASmTAFZ8nwAb]{Short bow}</td><td>25</td><td>30</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.YCmaYTNHuPPTS5h9]{Short sword}</td><td>7</td><td>30</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.mRkl492QaMl0FXVW]{Silver dagger}</td><td>30</td><td>10</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.z4YAzVDi1UaQeXIT]{Sling}</td><td>2</td><td>5</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.LzIBy6GvDrep5J1z]{Spear}</td><td>3</td><td>30</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.BGiR6xWNYemDNzLm]{Staff}</td><td>2</td><td>40</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.yMs1hE0MlPqwMUqv]{Sword}</td><td>10</td><td>60</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.algSLh3YxFeF916h]{Two-handed sword}</td><td>15</td><td>150</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.8fGf1WwAy5qsnTpe]{War hammer}</td><td>5</td><td>30</td></tr></tbody></table><h2><strong>Ammunition</strong></h2><table><thead><tr><th>Ammunition</th><th>Cost (gp)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.6rQwE7ifmWzP9ksR]{Arrows (quiver of 20)}</td><td>5</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.4tOY8cqOqMGqijy2]{Crossbow bolts (case of 30)}</td><td>10</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.clutqIk9X5qZYoTS]{Silver tipped arrow (1)}</td><td>5</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.Lhy6a6gvLHbcLIaV]{Sling stones}</td><td>Free</td></tr></tbody></table><h2><strong>Armour</strong></h2><table><thead><tr><th>Armour</th><th>AC</th><th>Cost (gp)</th><th>Weight (Coins)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.mHhhD0oT344TMzWA]{Leather}</td><td>7 [12]</td><td>20</td><td>200</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.ORF9LqYZbVq4ApAl]{Chainmail}</td><td>5 [14]</td><td>40</td><td>400</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.Rd6x5YnADxbIRHpN]{Plate mail}</td><td>3 [16]</td><td>60</td><td>500</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.DpKJygWKgyXD6xPT]{Shield}</td><td>+1 bonus</td><td>10</td><td>100</td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Encumbrance (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If the optional rules for encumbrance are used (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.nRk895vQvT8AuWZ5#encumbrance-(optional-rule)]{see Encumbrance}), armour and weapons carried are treated as follows.</p><ul><li><p>@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.nRk895vQvT8AuWZ5#option-1:-basic-encumbrance]{Option 1: Basic Encumbrance}<br />Leather armour counts as <em>light armour</em>, chainmail and plate mail count as <em>heavy armour</em>.</p></li><li><p>@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.nRk895vQvT8AuWZ5#option-2:-detailed-encumbrance]{Option 2: Detailed Encumbrance}<br />The listed weight of armour and weapons is tracked. The listed weight of missile weapons already includes the weight of the ammunition and its container.</p></li></ul></div></div></div></div></td></tr></tbody></table><h2><strong>Weapon Combat Stats</strong></h2><table><thead><tr><th>Weapon</th><th>Damage</th><th>Qualities</th></tr></thead><tbody><tr><td>Battle axe</td><td>[[/r 1d8]]</td><td>Melee, Slow, Two-handed</td></tr><tr><td>Club</td><td>[[/r 1d4]]</td><td>Blunt, Melee</td></tr><tr><td>Crossbow</td><td>[[/r 1d6]]</td><td>Missile (5”–80” / 8”–160” / 16”–240”), Reload, Slow</td></tr><tr><td>Dagger</td><td>[[/r 1d4]]</td><td>Melee, Missile (5”–10” / 11”–20” / 21”–30”)</td></tr><tr><td>Hand axe</td><td>[[/r 1d6]]</td><td>Melee, Missile (5”–10” / 11”–20” / 21”–30”)</td></tr><tr><td>Holy water vial</td><td>[[/r 1d6]]</td><td>Missile (5”–10” / 11”–20” / 21”–30”), Splash weapon</td></tr><tr><td>Javelin</td><td>[[/r 1d6]]</td><td>Missile (5”–10” / 11”–20” / 21”–30”)</td></tr><tr><td>Lance</td><td>[[/r 1d6]]</td><td>Charge, Melee</td></tr><tr><td>Long bow</td><td>[[/r 1d6]]</td><td>Missile (5”–70” / 71”–140” / 141”–210”), Two-handed</td></tr><tr><td>Mace</td><td>[[/r 1d6]]</td><td>Blunt, Melee</td></tr><tr><td>Oil flask, burning</td><td>[[/r 1d8]]</td><td>Missile (5”–10” / 11”–20” / 31”–50”), Splash weapon</td></tr><tr><td>Pole arm</td><td>[[/r 1d10]]</td><td>Brace, Melee, Slow, Two-handed</td></tr><tr><td>Short bow</td><td>[[/r 1d6]]</td><td>Missile (5”–50” / 51”–100” / 101”–150”), Two-handed</td></tr><tr><td>Short sword</td><td>[[/r 1d6]]</td><td>Melee</td></tr><tr><td>Silver dagger</td><td>[[/r 1d4]]</td><td>Melee, Missile (5”–10” / 11”–20” / 21”–30”)</td></tr><tr><td>Sling</td><td>[[/r 1d4]]</td><td>Blunt, Missile (5”–40” / 41”–80” / 81”–160”)</td></tr><tr><td>Spear</td><td>[[/r 1d6]]</td><td>Melee, Missile (5”–20” / 21”–40” / 41”–60”)</td></tr><tr><td>Staff</td><td>[[/r 1d4]]</td><td>Blunt, Melee, Slow, Two-handed</td></tr><tr><td>Sword</td><td>[[/r 1d8]]</td><td>Melee</td></tr><tr><td>Torch</td><td>[[/r 1d4]]</td><td>Melee</td></tr><tr><td>Two-handed sword</td><td>[[/r 1d10]]</td><td>Melee, Slow, Two-handed</td></tr><tr><td>War hammer</td><td>[[/r 1d6]]</td><td>Blunt, Melee</td></tr></tbody></table><p><strong>Damage:</strong> Die rolled when using the optional rule for variable weapon damage (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.ouf3QNv4dWj0L1IW#variable-weapon-damage-(optional-rule)]{see Combat}).</p><h3><strong>Weapon Qualities</strong></h3><ul><li><strong>Blunt:</strong> May be used by clerics.</li><li><strong>Brace:</strong> Bracing against the ground doubles damage against charging monsters.</li><li><strong>Charge:</strong> On horseback, moving at least 60’ in a round and attacking doubles damage done with a successful hit.</li><li><strong>Melee:</strong> Close quarters weapon (5’ or less).</li><li><strong>Missile:</strong> Thrown or fired weapon (greater than 5’ distance). The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</li><li><strong>Reload (optional rule):</strong> Requires a round to reload between shots; can only be fired every second round.</li><li><strong>Slow:</strong> The character acts last in each combat round (see <em>Combat, p234</em>).</li><li><strong>Splash weapon:</strong> On a successful attack, the container smashes and douses the target with the liquid. The listed damage is rolled two rounds, as is the liquid duration.</li><li><strong>Two-handed:</strong> Requires both hands; the character cannot use a shield.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761105544211
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!SN5CVAUjvB4QIh8D.nYCaZdKJr9MkDwk4"
+    },
+    {
+      "sort": 0,
+      "name": "Adventuring Gear",
+      "type": "text",
+      "_id": "ZnlHtNS1rbylMldg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table><thead><tr><th>Item</th><th>Cost (gp)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.WgYlLFs3ogqLb776]{Backpack}</td><td>5</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.4l2clvx50mX0GyKD]{Crowbar}</td><td>10</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.MgqWT0OHgYI6NKCt]{Garlic}</td><td>5</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.v2cvJvZ2knxh29db]{Grappling hook}</td><td>25</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.zar5scJyK95rQX6x]{Hammer (small)}</td><td>2</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.MuTpsMkDpyl7bFFc]{Holy symbol}</td><td>25</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.7skccayzhAYNEB9D]{Holy water (vial)}</td><td>25</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.0Dkht1zkczOnSfrm]{Iron spikes (12)}</td><td>1</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.12RyEUQLxYLi4UrC]{Lantern}</td><td>10</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.dUfwhLQiZjaDPliU]{Mirror (hand-sized, steel)}</td><td>5</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.H2Ev8l0HSaQ600qn]{Oil (1 flask)}</td><td>2</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.mRLZYTjBs9thUvgc]{Pole (10’ long, wooden)}</td><td>1</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.VxMq5PUMvOr7NhxU]{Rations (iron, 7 days)}</td><td>15</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.iD7fYJgQfksNhaDH]{Rations (standard, 7 days)}</td><td>5</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.5bqENvg6z0wQXAyx]{Rope (50’)}</td><td>1</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.SNq71GG0ySPPM89X]{Sack (large)}</td><td>2</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.WYOpSdLXxwsFvOVY]{Sack (small)}</td><td>1</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.a7vJivTZYG1878zP]{Stakes (3) and mallet}</td><td>3</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.jAbvsYZnqDvu2jZ8]{Thieves’ tools}</td><td>25</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.2H7PfY6yAAZLFFpB]{Tinder box (flint &amp; steel)}</td><td>3</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.G7c57UDoLXWJuYn3]{Torches (6)}</td><td>1</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.U4HRM0IgFmP9O0Iq]{Waterskin}</td><td>1</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.s6boOnk4oBlbarM6]{Wine (2 pints)}</td><td>1</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.V4Rh8gVQaT0rZMWg]{Wolfsbane (1 bunch)}</td><td>10</td></tr></tbody></table><h2><strong>Descriptions</strong></h2><p><strong>Backpack:</strong> Has two straps and can be worn on the back, keeping the hands free. Holds up to 400 coins.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Crowbar:</strong> 2’–3’ long and made of solid iron. Can be used for forcing doors and other objects open.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Grappling hook:</strong> Has 3 or 4 prongs. Can be used for anchoring a rope.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Hammer:</strong> Can be used for construction or as a mallet with iron or wooden spikes.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Holy symbol:</strong> A divine spell caster is required to own a holy symbol of their deity, often worn as a necklace. Each religion has its own holy symbol.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Holy water:</strong> Water that has been blessed by a holy person. It is used in some religious rituals and inflicts damage on undead monsters (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D.JournalEntryPage.nYCaZdKJr9MkDwk4#weapon-combat-stats]{see Weapon Combat Stats}). Holy water does not retain its power if stored in any other container than the special vials it is blessed in.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Iron spikes:</strong> May be used for wedging doors open or shut (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.DpsGa6pHQRkwiQR8#doors]{see Dungeon Adventuring}), as an anchor to attach a rope to, and many other purposes.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Lantern:</strong> Can be closed to hide the light. Burns one oil flask every four hours (24 turns). Casts light in a 30’ radius.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Mirror:</strong> Useful for looking around corners or for reflecting a gaze attack.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Oil flask: </strong>A flask of oil fuels a lantern for four hours (24 turns). In addition to fuelling lanterns, oil can be used as a weapon:</p><ul><li><strong>Throwing:</strong> An oil flask may be lit on fire and thrown (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D.JournalEntryPage.nYCaZdKJr9MkDwk4#weapon-combat-stats]{see Weapon Combat Stats}).</li><li><strong>Pools:</strong> Oil that is poured on the ground and lit covers a diameter of 3 feet and burns for 1 turn, inflicting damage on any character or monster moving through the pool.</li><li><strong>Immunity:</strong> Burning oil does not harm monsters that have a natural flame attack.</li></ul><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Pole, 10': </strong>A 2” thick wooden pole useful for poking and prodding suspicious items in a dungeon.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Rations, iron:</strong> Dried and preserved food to be carried on long voyages when securing fresh food may be uncertain.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Rations, standard:</strong> Fresh, unpreserved food.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Rope:</strong> Can hold the weight of approximately three human-sized beings.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Sack, large:</strong> Can hold up to 600 coins.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Sack, small:</strong> Can hold up to 200 coins.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Stakes and mallet:</strong> A wooden mallet and three 18” long stakes. Valuable when confronting vampires.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Thieves’ tools:</strong> This kit contains all of the tools needed to pick locks.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Tinder box:</strong> Used to light fires, including torches. Using a tinder box takes one round. There is a [[/r 1d6]]{2-in-6} chance of success per round.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Torch:</strong> A torch burns for 1 hour (6 turns), clearly illuminating a 30’ radius. Torches may also be used in combat (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D.JournalEntryPage.nYCaZdKJr9MkDwk4#weapon-combat-stats]{see Weapon Combat Stats}).</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Waterskin:</strong> This container, made of hide, will hold 2 pints (1 quart) of fluid.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Wolfsbane:</strong> This herb can be used to repel lycanthropes. The creature must be hit with the herb in melee combat.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Other Equipment</strong></h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>The items detailed in this section are those most commonly available for purchase. Should PCs wish to purchase items not on these lists, the referee may use the listed items as guidelines for determining the prices and characteristics of new items, including combat statistics (if appropriate).</p></div></div></div></div></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761105151356
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!SN5CVAUjvB4QIh8D.ZnlHtNS1rbylMldg"
+    },
+    {
+      "sort": 400000,
+      "name": "Poison",
+      "type": "text",
+      "_id": "lq1PLuQp1keQ13eM",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>At the referee’s option, various types of poison may be available for purchase. Using poison is a chaotic act, so it will be avoided by many characters. The sale of poisons is also prohibited by most cultures. Characters may have to turn to the black market or to clandestine guilds (e.g. of thieves or assassins) to acquire poison.</p><h2>Effects of Poison</h2><p>A victim of a poison attack must save versus poison with a modifier depending on the strength of the poison. The effects of the poison then depend on whether the save succeeded or failed.</p><p>The tables opposite list the available types of poison, the cost to purchase a single vial, and the following details:</p><ul><li><strong>Save modifier:</strong> Applied to the victim’s saving throw. Indicative of the strength of the poison.</li><li><strong>Chance of detection:</strong> Probability of the victim noticing the poison, either visually (per round of a poisoned blade being used) or by smell or taste. Characters who notice a poisoned blade may attack the one wielding it or may call for aid. A victim who notices an ingested poison will reject the poisoned drink or food, thus avoiding being poisoned.</li><li><strong>Onset time:</strong> The poison’s effect occurs after this delay. An onset time of “instant” indicates that the poison takes effect instantly, before the victim has a chance to react in any way.</li><li><strong>Effect (if save succeeds / fails):</strong> Notes what happens to victim if the saving throw fails or succeeds.</li></ul><h2>Using Bloodstream Poisons</h2><p>Bloodstream poisons are typically applied to a bladed weapon.</p><p><strong>Application:</strong> Applying a vial of poison to a weapon takes one turn. A vial of poison is sufficient for a single bladed melee weapon or up to 6 arrows or crossbow bolts.</p><p><strong>Effectiveness:</strong> Once applied to a blade, a poison is effective for up to two days or two hits in combat, whichever comes first.</p><p><strong>Evaporation over time:</strong> After one day, a poison is at half effectiveness; after two days it is no longer effective.</p><p><strong>Wiping off after hits:</strong> A poison has full effectiveness on the first successful attack. On the second successful attack, it has half effectiveness, and upon subsequent attacks the poison is no longer effective.</p><p><strong>Half effectiveness:</strong> A poison at half effectiveness inflicts only half damage. For poisons that cause death (rather than damage), half effectiveness grants a +4 bonus to the saving throw.</p><h3><strong>Bloodstream Poisons</strong></h3><table><thead><tr><th>Type</th><th>Cost (gp)</th><th>Save Mod.</th><th>Chance of Detection</th><th>Onset Time</th><th>Effect (Save Succeeds)</th><th>Effect (Save Fails)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.Z48La7dNRCcTsyKj]{I}</td><td>10</td><td>+6</td><td>[[/r 1d100]]{80%}</td><td>[[/r 1d4+1]] rounds</td><td>None</td><td>15hp damage</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.odyUFmqRAZtgqB2k]{II}</td><td>75</td><td>+5</td><td>[[/r 1d100]]{65%}</td><td>[[/r 1d3]] rounds</td><td>None</td><td>25 hp damage</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.6KSG1y8WBhSKmLR7]{III}</td><td>600</td><td>+4</td><td>[[/r 1d100]]{40%}</td><td>1 round</td><td>None</td><td>35hp damage</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.jxNza70jSepVQx4X]{IV}</td><td>1,500</td><td>+3</td><td>[[/r 1d100]]{15%}</td><td>Instant</td><td>None</td><td>Death</td></tr></tbody></table><h2>Using Ingested Poisons</h2><p>Ingested poisons take effect when swallowed by the victim. A vial of poison is enough to poison one victim.</p><h3><strong>Ingested Poisons</strong></h3><table><thead><tr><th>Type</th><th>Cost (gp)</th><th>Save Mod.</th><th>Chance of Detection</th><th>Onset Time</th><th>Effect (Save Succeeds)</th><th>Effect (Save Fails)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.MSp4p32Dt5cfdVkT]{I}</td><td>5</td><td>+6</td><td>[[/r 1d100]]{80%}</td><td>[[/r 2d4]] rounds</td><td>10hp damage</td><td>20hp damage</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.ozEIEC9HSUzyHkUq]{II}</td><td>30</td><td>+5</td><td>[[/r 1d100]]{65%}</td><td>[[/r 1d4+1]] rounds</td><td>15hp damage</td><td>30hp damage</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.WWsefVSmx6IdtMBx]{III}</td><td>200</td><td>+4</td><td>[[/r 1d100]]{40%}</td><td>[[/r 1d2]] rounds</td><td>20hp damage</td><td>40hp damage</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.FpYzhhMMKZNeFxLE]{IV}</td><td>500</td><td>+3</td><td>[[/r 1d100]]{15%}</td><td>Instant</td><td>25hp damage</td><td>Death</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.uIh0k8GFsi1wGsWB]{V}</td><td>1,000</td><td>+2</td><td>0%</td><td>[[/r 1d4]] turns</td><td>30hp damage</td><td>Death</td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762847415734
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!SN5CVAUjvB4QIh8D.lq1PLuQp1keQ13eM"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "SN5CVAUjvB4QIh8D",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!SN5CVAUjvB4QIh8D"
+}

@@ -1,0 +1,425 @@
+{
+  "folder": "4k76nVerpjSlWD8I",
+  "name": "Triceratops",
+  "type": "monster",
+  "_id": "oqyykZVKIvAPd745",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/triceratops%20-%20lucas%20korte%20-%20c%202024%20ng.webp",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": null,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "11d8",
+      "value": 49,
+      "max": 49
+    },
+    "ac": {
+      "value": 2,
+      "mod": 0
+    },
+    "aac": {
+      "value": 17,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 11,
+      "bba": 8,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 10
+      },
+      "wand": {
+        "value": 11
+      },
+      "paralysis": {
+        "value": 12
+      },
+      "breath": {
+        "value": 13
+      },
+      "spell": {
+        "value": 14
+      }
+    },
+    "movement": {
+      "base": 90
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#triceratops]{Triceratops}</p><p>Massive (12’ to the shoulder, almost 40’ long), aggressive, herbivorous dinosaurs with a protective crest behind the head, and three long horns.</p><p>Dwell in Lost World grasslands.</p>",
+      "alignment": "Neutral",
+      "xp": "1100",
+      "specialAbilities": "3",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "1d4"
+      },
+      "morale": "8",
+      "movement": "90' (30')"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "name": "Triceratops",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/triceratops.Token.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 2,
+    "height": 2,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "name": "Gore",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "_id": "giF1rl38qbHpHoVy",
+      "system": {
+        "description": "",
+        "quantity": {
+          "value": null,
+          "max": null
+        },
+        "weight": null,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "3d6",
+        "bonus": null,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": false,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oqyykZVKIvAPd745.giF1rl38qbHpHoVy"
+    },
+    {
+      "name": "Trample",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "_id": "mqu03MPkXhyrPenC",
+      "system": {
+        "description": "<p>There is a 3-in-4 chance of trampling&nbsp;each round.</p>\n<p>+4 to hit human-sized or smaller creatures</p>",
+        "quantity": {
+          "value": null,
+          "max": null
+        },
+        "weight": null,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "yellow",
+        "damage": "3d6",
+        "bonus": 4,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": false,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762142453088
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oqyykZVKIvAPd745.mqu03MPkXhyrPenC"
+    },
+    {
+      "name": "Aggressive",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "_id": "I5FJZ0i7w0yVRqul",
+      "system": {
+        "description": "<p>Normally attack on sight.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": null,
+        "blindroll": false,
+        "tags": []
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oqyykZVKIvAPd745.I5FJZ0i7w0yVRqul"
+    },
+    {
+      "name": "Charge",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "_id": "5WlPIJ0Dcl9Cvrpc",
+      "system": {
+        "description": "<p>In first round of combat,&nbsp;when not in melee.</p>\n<p>Requires a clear run&nbsp;of at least 20 yards.</p>\n<p>Horns inflict double&nbsp;damage.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": null,
+        "blindroll": false,
+        "tags": []
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oqyykZVKIvAPd745.5WlPIJ0Dcl9Cvrpc"
+    },
+    {
+      "name": "Trample",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "_id": "7d38DaSMZwyV2Fwf",
+      "system": {
+        "description": "<p>[[/r 1d4]]{3-in-4} chance of trampling each round. +4 to hit human-sized or smaller creatures.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d4",
+        "rollType": "below",
+        "rollTarget": 3,
+        "blindroll": false,
+        "tags": []
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762142473686
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oqyykZVKIvAPd745.7d38DaSMZwyV2Fwf"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925299445,
+    "modifiedTime": 1763375111579,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!oqyykZVKIvAPd745"
+}

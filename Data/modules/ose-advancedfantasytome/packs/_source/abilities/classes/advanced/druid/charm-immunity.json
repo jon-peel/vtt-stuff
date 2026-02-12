@@ -1,0 +1,36 @@
+{
+  "_id": "QIHuSYbMJwvuvpNf",
+  "name": "Charm Immunity",
+  "type": "ability",
+  "img": "icons/magic/life/heart-broken-red.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Druids of 7th level and above are immune to the charms of fairies and Sylvan creatures (e.g. dryads, nixies).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159958880,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QIHuSYbMJwvuvpNf"
+}

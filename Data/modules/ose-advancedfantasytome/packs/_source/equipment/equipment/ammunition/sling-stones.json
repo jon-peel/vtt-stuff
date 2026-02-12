@@ -1,0 +1,44 @@
+{
+  "_id": "Lhy6a6gvLHbcLIaV",
+  "name": "Sling Stones",
+  "type": "item",
+  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+  "effects": [],
+  "folder": "4ZVdwuP2KQk1NzyF",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 20,
+      "max": 20
+    },
+    "weight": null,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Ammunition",
+        "value": "Ammunition"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159899731,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Lhy6a6gvLHbcLIaV"
+}

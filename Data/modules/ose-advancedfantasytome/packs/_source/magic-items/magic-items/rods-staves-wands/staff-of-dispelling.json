@@ -1,0 +1,63 @@
+{
+  "name": "Staff of Dispelling",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-orb-feather.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 3000000,
+  "flags": {},
+  "_id": "ttCgCIaIhMyda1Hj",
+  "system": {
+    "description": "<p>Dispels any magical effect which is touched.</p><ul><li><p><strong>Spells:</strong> If the caster of the spell effect to be dispelled is higher than 9th level, there is a 5% chance per level difference that the attempt to dispel will fail.</p></li><li><p><strong>Magic items:</strong> One-use magic items (e.g. potions, scrolls) are destroyed utterly. Permanent items (e.g. armour, weapons, wands) are rendered non-magical for [[/r 1d4]] rounds.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761444498599,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ttCgCIaIhMyda1Hj"
+}

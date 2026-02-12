@@ -1,0 +1,37 @@
+{
+  "name": "Haste",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "BdLXnWDLUqFCG47T",
+  "sort": 0,
+  "flags": {},
+  "_id": "GcBqaXK4W3JNUzp8",
+  "system": {
+    "description": "<p>Up to 24 creatures in a 60’ diameter area are enchanted to be able to move and act twice as quickly as normal:</p><ul><li><p><strong>Movement:</strong> Subjects’ maximum movement rates are doubled.</p></li><li><p><strong>Attacks</strong>: Subjects may make double the normal number of attacks per round.</p></li><li><p><strong>Spells</strong>: The number of spells a subject may cast per round is not doubled.</p></li><li><p><strong>Magical devices</strong>: The use of devices such as wands is also not doubled.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "3 turns",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453339588,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GcBqaXK4W3JNUzp8"
+}

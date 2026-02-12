@@ -1,0 +1,37 @@
+{
+  "_id": "j8XBcJ64Kh8hiLz0",
+  "name": "Dispel Evil",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RmvVdtYAmuQub8Ch",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell has three uses:</p><ol><li><p><strong>Ward:</strong> By concentrating and remaining stationary, enchanted or undead monsters that come within range may be banished or destroyed. Each monster may <strong>save versus spells</strong> to avoid banishment or destruction. If a monster’s save succeeds, it flees the affected area.</p></li><li><p><strong>Target single monster:</strong> Instantly banish or destroy a single enchanted or undead monster within range. The monster may <strong>save versus spells </strong>(<strong>with a –2 penalty</strong>) to avoid banishment or destruction. If the monster’s save succeeds, it flees the affected area.</p></li><li><p><strong>Dispel curse:</strong> Instantly dispel the hold that a cursed item has over a being within range.</p></li></ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "con/instant",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449531328,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!j8XBcJ64Kh8hiLz0"
+}

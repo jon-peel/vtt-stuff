@@ -1,0 +1,37 @@
+{
+  "name": "Web",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "xGExmmZW6E9yuXmI",
+  "system": {
+    "description": "<p><em>Web</em> conjures a many-layered mass of strong, sticky threads, blocking a 10′ cube area.</p><ul><li><strong>Entanglement:</strong> Creatures caught within a web become entangled among the gluey fibres. Entangled creatures can’t move, but can break free depending on their strength (see below).</li><li><strong>Flammable:</strong> The strands of the web are flammable and can be destroyed by fire in two rounds. All creatures caught within flaming webs suffer [[/r 1d6]] points of damage from the flames.</li></ul><p><strong>Breaking free:</strong> Depends on STR:</p><ul><li><strong>Normal human range:</strong> The creature can break free in [[/r 2d4]] turns.</li><li><strong>Magically augmented STR above 18:</strong> The creature can break free in 4 rounds.</li><li><strong>Giant strength:</strong> The creature can break free in two rounds.</li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "48 turns",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453269063,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xGExmmZW6E9yuXmI"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#69b67c",
+  "name": "Illusionist",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "19CKrmFs1J9vBYUg",
+  "_id": "fG3WgjGwlYRbKIMZ",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!fG3WgjGwlYRbKIMZ"
+}

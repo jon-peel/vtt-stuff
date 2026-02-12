@@ -1,0 +1,37 @@
+{
+  "name": "Infravision",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "BdLXnWDLUqFCG47T",
+  "sort": 0,
+  "flags": {},
+  "_id": "bbwP85tUd2iacKHI",
+  "system": {
+    "description": "<p>The subject is able to see 60’ in the dark with infravision.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "1 day",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160026327,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bbwP85tUd2iacKHI"
+}

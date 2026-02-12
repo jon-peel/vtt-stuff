@@ -1,0 +1,378 @@
+{
+  "_id": "SmtMELK5X3RlxxuL",
+  "name": "Invisible Stalker",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/invisible%20stalker%20-%20frank%20scacalossi%20-%20c%202025%20frank%20scacalossi.webp",
+  "items": [
+    {
+      "_id": "WfOW6zOTfrvxEB7A",
+      "name": "Tracking",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Without fault.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!SmtMELK5X3RlxxuL.WfOW6zOTfrvxEB7A"
+    },
+    {
+      "_id": "TZmLhiC1flKNu1JS",
+      "name": "Surprise",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>On a [[/r 1d6]]{1–5}, unless target can detect invisibility.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d6",
+        "rollType": "below",
+        "rollTarget": 5,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762130597786
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!SmtMELK5X3RlxxuL.TZmLhiC1flKNu1JS"
+    },
+    {
+      "_id": "ISMKk0ypkw3F2Tvy",
+      "name": "If killed",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Returns to plane of origin.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!SmtMELK5X3RlxxuL.ISMKk0ypkw3F2Tvy"
+    },
+    {
+      "_id": "H9pefwaVQUmmZpes",
+      "name": "Blow",
+      "type": "weapon",
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "4d4",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!SmtMELK5X3RlxxuL.H9pefwaVQUmmZpes"
+    }
+  ],
+  "effects": [],
+  "folder": "AgPktd0SPvnoJhc6",
+  "flags": {
+    "ose": {
+      "party": false
+    }
+  },
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "8d8",
+      "value": 36,
+      "max": 36
+    },
+    "ac": {
+      "value": 3,
+      "mod": 0
+    },
+    "aac": {
+      "value": 16,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 12,
+      "bba": 7,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 8
+      },
+      "wand": {
+        "value": 9
+      },
+      "paralysis": {
+        "value": 10
+      },
+      "breath": {
+        "value": 10
+      },
+      "spell": {
+        "value": 12
+      }
+    },
+    "movement": {
+      "base": 120,
+      "encounter": 40
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#invisible-stalker]{Invisible Stalker}</p><p>Highly intelligent, magical creatures summoned from another plane of existence to perform tasks for powerful magic-users.</p><hr><p>Art by Frank Scacalossi from his collection of free-for-personal-use VTT tokens at <a href=\"https://youseethis.blog/tokens/\">https://youseethis.blog/tokens/</a>. Inclusion in the OSE Foundry VTT Premium Game module with permission of the artist.</p>",
+      "alignment": "Neutral",
+      "xp": "1200",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1",
+        "w": "1"
+      },
+      "morale": "12",
+      "movement": "120’ (40’)"
+    },
+    "attacks": "",
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Invisible Stalker",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.1,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": "#ffb638",
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/invisible_stalker.Token.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.12",
+    "createdTime": 1752925299445,
+    "modifiedTime": 1765766712476,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!SmtMELK5X3RlxxuL"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "LrmQ2E0AkHwUZNWE",
+  "name": "Purify Food and Water",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M8wSNIwAlVFexHGd",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell makes spoiled, rotten, poisonous, or otherwise contaminated food and water pure and suitable for eating and drinking. One of the following may be affected:<br>▶ <strong>Drink:</strong> 6 quarts.<br>▶ <strong>Rations</strong>: One trail ration (iron or standard).<br>▶ <strong>Unpreserved food</strong>: A quantity sufficient for 12 human-sized beings.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Cleric",
+    "duration": "permanent",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160013002,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!LrmQ2E0AkHwUZNWE"
+}

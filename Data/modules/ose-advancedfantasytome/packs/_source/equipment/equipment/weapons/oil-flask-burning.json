@@ -1,0 +1,59 @@
+{
+  "_id": "ZNYGKCf2jqy90e6C",
+  "name": "Oil flask, burning",
+  "type": "weapon",
+  "img": "icons/consumables/drinks/clay-jar-glowing-orange-blue.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Missile (5’–10’ / 11’–30’ / 31’–50’), Splash weapon</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 2,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 30,
+      "long": 50
+    },
+    "pattern": "white",
+    "damage": "1d8",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Splash weapon",
+        "value": "Splash weapon"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686559229707,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ZNYGKCf2jqy90e6C"
+}

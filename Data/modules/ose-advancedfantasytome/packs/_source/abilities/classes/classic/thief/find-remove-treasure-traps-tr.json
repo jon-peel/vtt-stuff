@@ -1,0 +1,36 @@
+{
+  "_id": "5kxjDTNlQIG8Xxhe",
+  "name": "Find/remove treasure traps (TR)",
+  "type": "ability",
+  "img": "icons/environment/traps/trap-jaw-green.webp",
+  "effects": [],
+  "folder": "EEvlsnBupX1MArIu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A roll is required to find a treasure trap and then another to remove it. This may be attempted only once per trap.</p><hr><table><thead><tr><th>Level</th><th>TR</th></tr></thead><tbody><tr><td>1</td><td>10</td></tr><tr><td>2</td><td>15</td></tr><tr><td>3</td><td>20</td></tr><tr><td>4</td><td>25</td></tr><tr><td>5</td><td>30</td></tr><tr><td>6</td><td>40</td></tr><tr><td>7</td><td>50</td></tr><tr><td>8</td><td>60</td></tr><tr><td>9</td><td>70</td></tr><tr><td>10</td><td>80</td></tr><tr><td>11</td><td>90</td></tr><tr><td>12</td><td>95</td></tr><tr><td>13</td><td>97</td></tr><tr><td>14</td><td>99</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "thief",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 10,
+    "blindroll": true
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458658554,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5kxjDTNlQIG8Xxhe"
+}

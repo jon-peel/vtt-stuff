@@ -1,0 +1,44 @@
+{
+  "_id": "yoH3M4vUcdP3NJWZ",
+  "name": "Pearl of Power",
+  "type": "item",
+  "img": "icons/commodities/gems/pearl-natural.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 12900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A magical pearl which grants an arcane spell caster the ability to recall cast spells.</p><ul><li><p><strong>Effect:</strong> The character may instantly re-memorize one spell which has already been cast. The spell must be among those which the character most recently memorized.</p></li><li><p><strong>Maximum spell level:</strong> When found, roll [[/r 1d20]] on the table below to determine the maximum level of spell which may be recalled.</p></li><li><p><strong>Usage frequency:</strong> The pearl’s power may be used once per day.</p></li></ul><table style=\"width: 98.5646%; height: 128px;\"><thead><tr style=\"height: 16px;\"><td style=\"width: 99.5146%; height: 16px;\" colspan=\"2\">Pearl of Power:Maximum Spell Level</td></tr></thead><tbody><tr style=\"height: 16px;\"><td style=\"width: 24.0291%; height: 16px;\">[[/r d20]]</td><td style=\"width: 75.4854%; height: 16px;\">Maximum Spell Level</td></tr><tr><td style=\"width: 24.0291%; height: 16px;\">1–5</td><td style=\"width: 75.4854%; height: 16px;\">1st</td></tr><tr style=\"height: 16px;\"><td style=\"width: 24.0291%; height: 16px;\">6–10</td><td style=\"width: 75.4854%; height: 16px;\">2nd</td></tr><tr><td style=\"width: 24.0291%; height: 16px;\">11–14</td><td style=\"width: 75.4854%; height: 16px;\">3rd</td></tr><tr style=\"height: 16px;\"><td style=\"width: 24.0291%; height: 16px;\">15–17</td><td style=\"width: 75.4854%; height: 16px;\">4th</td></tr><tr style=\"height: 16px;\"><td style=\"width: 24.0291%; height: 16px;\">18–19</td><td style=\"width: 75.4854%; height: 16px;\">5th</td></tr><tr style=\"height: 16px;\"><td style=\"width: 24.0291%; height: 16px;\">20</td><td style=\"width: 75.4854%; height: 16px;\">6th</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440866080,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!yoH3M4vUcdP3NJWZ"
+}

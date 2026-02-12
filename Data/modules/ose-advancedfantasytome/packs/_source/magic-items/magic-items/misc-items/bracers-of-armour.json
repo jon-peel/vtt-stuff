@@ -1,0 +1,44 @@
+{
+  "_id": "7jLACfKH4YKza2u1",
+  "name": "Bracers of Armour",
+  "type": "item",
+  "img": "icons/equipment/wrist/bracer-burnished-steel-purple.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 2700000,
+  "flags": {},
+  "system": {
+    "description": "<p>Enchanted wrist-guards which grant the wearer protection as if wearing armour.</p><ul><li><p><strong>AC granted</strong>: The bracers grant an AC of [[/r 8-1d4]] ([[/r 11+1d4]]). (The AC granted by each pair of bracers is fixed.)</p></li><li><p><strong>Wearing along with armour</strong>: The bracers grant no benefit.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427278025,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7jLACfKH4YKza2u1"
+}

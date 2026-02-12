@@ -1,0 +1,36 @@
+{
+  "_id": "UJl5GTgXUPksDSFu",
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "EEvlsnBupX1MArIu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Because of their need for stealth and free movement, thieves cannot wear armour heavier than leather and cannot use shields. They can use any weapon.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "thief",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159959565,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UJl5GTgXUPksDSFu"
+}

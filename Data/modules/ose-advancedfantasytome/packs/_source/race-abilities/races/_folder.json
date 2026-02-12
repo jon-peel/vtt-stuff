@@ -1,0 +1,19 @@
+{
+  "name": "Races",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "aS8f0fcPo63zq1uB",
+  "sort": 0,
+  "color": "#008f51",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460141632,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!aS8f0fcPo63zq1uB"
+}

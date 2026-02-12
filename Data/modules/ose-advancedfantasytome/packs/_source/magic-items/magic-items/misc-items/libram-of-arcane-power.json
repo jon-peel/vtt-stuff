@@ -1,0 +1,44 @@
+{
+  "_id": "utY1z5wWU1uqvPwF",
+  "name": "Libram of Arcane Power",
+  "type": "item",
+  "img": "icons/sundries/books/book-embossed-jewel-blue-red.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 12100000,
+  "flags": {},
+  "system": {
+    "description": "<p>A tome of arcane knowledge affiliated with a specific alignment. The effects of opening the tome depend on the class and alignment of the character.</p><ul><li><p><strong>Libram’s alignment:</strong> Determined by rolling [[/br 1d6]]:</p><ul><li><p><strong>1–2:</strong> Lawful</p></li><li><p><strong>3–4:</strong> Neutral</p></li><li><p><strong>5–6:</strong> Chaotic.</p></li></ul></li><li><p><strong>Vanishes after use:</strong> Once the book’s magical effect has occurred, it vanishes.</p></li><li><p><strong>Arcane casters (same alignment):</strong> May study the tome for 1 week to gain one experience level. A character can only gain this benefit once, even if another golden libram is discovered.</p></li><li><p><strong>Arcane casters (other alignment):</strong> Suffer [[/r 5d4]] damage, fall unconscious for [[/r 5d4]] turns, and become unable to gain experience points unless a quest of atonement is performed.</p></li><li><p><strong>Other classes:</strong> Must <strong>save versus spells</strong> or become permanently insane. This insanity can only be removed by magic.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440111715,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!utY1z5wWU1uqvPwF"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "Rzc3WPU7y9KAd1Ua",
+  "name": "Divine Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "B8U954IiHaUyYaB3",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on divine magic.</p>\n<p><strong>Holy symbol</strong>: A cleric must carry a holy symbol.</p>\n<p><strong>Deity disfavour</strong>: Clerics must be faithful to the tenets of their alignment, clergy, and religion. Clerics who fall from favour with their deity may incur penalties.</p>\n<p><strong>Magical research</strong>: A cleric of any level may spend time and money on magical research. This allows them to create new spells or other magical effects associated with their deity. When a cleric reaches 9th level, they are also able to create magic items.</p>\n<p><strong>Spell casting</strong>: Once a cleric has proven their faith (from 2nd level), the character may pray to receive spells. The power and number of spells available to a cleric are determined by the character&rsquo;s experience level. The list of spells available to clerics is found on p62.</p>\n<p><strong>Using magic items</strong>: As spell casters, clerics can use magic scrolls of spells on their spell list. They can also use items that may only be used by divine spell casters (e.g. some magic staves).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "cleric",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686558757155,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Rzc3WPU7y9KAd1Ua"
+}

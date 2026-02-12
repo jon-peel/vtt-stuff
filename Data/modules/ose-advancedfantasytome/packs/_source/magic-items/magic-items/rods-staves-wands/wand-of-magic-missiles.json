@@ -1,0 +1,41 @@
+{
+  "name": "Wand of Magic Missiles",
+  "type": "item",
+  "img": "icons/weapons/wands/wand-carved-stone-shard.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "flags": {},
+  "system": {
+    "description": "<p>Shoots magic missiles which hit their mark unerringly.</p><ul><li><p><strong>Missiles:</strong> Each charge conjures a missile that unerringly hits a foe within 150’, inflicting [[/r 1d6+1]] damage.</p></li><li><p><strong>Charges per round:</strong> Up to 2 charges may be expended in a single round.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 20,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761370885652,
+    "modifiedTime": 1761370885652,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "DqkyODQtxkMkkgQ0",
+  "sort": 0,
+  "_key": "!items!DqkyODQtxkMkkgQ0"
+}

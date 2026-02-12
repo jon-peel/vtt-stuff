@@ -1,0 +1,44 @@
+{
+  "_id": "ODxaKgwNl5SW9TQT",
+  "name": "Alchemist's Beaker",
+  "type": "item",
+  "img": "icons/tools/laboratory/vial-orange.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5300000,
+  "flags": {},
+  "system": {
+    "description": "<p>A glass beaker containing a liquid with [[/r 1d4+1]] different layers. Each layer has the effects of a magic potion.</p><ul><li><p><strong>Potion types:</strong> The referee randomly selects the [[/r 1d4+1]] potion types. (Duplicates and detrimental potions are possible.)</p></li><li><p><strong>Pouring:</strong> Potions are always poured out in the order of the layers.</p></li><li><p><strong>Mixing potions:</strong> Is dangerous. See @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.4BBygEVrcKAQ9jcF]{Mixing Potions}.</p></li><li><p><strong>Replenishing:</strong> Once all layers have been poured out, the liquid replenishes after a number of days equal to the number of potions in the beaker.</p></li><li><p><strong>Expiration:</strong> Every month, the beaker stops being able to produce the lowest layer of the liquid, eventually losing its magical power altogether.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761426574874,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ODxaKgwNl5SW9TQT"
+}

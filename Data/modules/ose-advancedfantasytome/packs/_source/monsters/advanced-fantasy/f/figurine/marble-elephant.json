@@ -1,0 +1,421 @@
+{
+  "name": "Marble Elephant",
+  "type": "monster",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "9d8",
+      "value": 40,
+      "max": 40
+    },
+    "ac": {
+      "value": 5,
+      "mod": 0
+    },
+    "aac": {
+      "value": 14,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 12,
+      "bba": 7,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 10
+      },
+      "wand": {
+        "value": 11
+      },
+      "paralysis": {
+        "value": 12
+      },
+      "breath": {
+        "value": 13
+      },
+      "spell": {
+        "value": 14
+      }
+    },
+    "movement": {
+      "base": 120
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>A large, tusked elephant that can be used as a beast of burden or commanded to attack.</p><p>Summoned by a @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.0VOYCVFQCqpJfXcH#figurine-of-wondrous-power]{Figurine of Wondrous Power}.</p>",
+      "alignment": "Neutral",
+      "xp": "900",
+      "specialAbilities": "0",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "0"
+      },
+      "morale": 12,
+      "movement": "120' (40')"
+    },
+    "encumbrance": {},
+    "config": {}
+  },
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/elephant%20-%20thomas%20denmark%20-%20c%202020%20thomas%20denmark.webp",
+  "prototypeToken": {
+    "name": "Marble Elephant",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 2,
+    "height": 2,
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/elephant.Token.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Tusk",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "system": {
+        "description": "[[/r 2d4]]",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 2,
+          "max": 2
+        },
+        "itemslots": 1
+      },
+      "_id": "QLOGNgwHpsOLNCoR",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!VK5j1jMIAUEX8Ots.QLOGNgwHpsOLNCoR"
+    },
+    {
+      "name": "Trample",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "system": {
+        "description": "[[/r 4d8]]",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_id": "1gl7nfQv151GrU0G",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!VK5j1jMIAUEX8Ots.1gl7nfQv151GrU0G"
+    },
+    {
+      "name": "Charge",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "system": {
+        "description": "In first round of combat, when not in melee. Requires a clear run of at least 20 yards. Tusks inflict double damage.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_id": "gzEpsS7Zpjf3mR0R",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!VK5j1jMIAUEX8Ots.gzEpsS7Zpjf3mR0R"
+    },
+    {
+      "name": "Trample",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "system": {
+        "description": "<p>[[/r 1d4]]{3-in-4} chance of trampling each round. +4 to hit human-sized or smaller creatures.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d4",
+        "rollType": "below",
+        "rollTarget": 4,
+        "blindroll": false,
+        "tags": []
+      },
+      "_id": "1dXTKVvrFhEIsY21",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761366478834
+      },
+      "_key": "!actors.items!VK5j1jMIAUEX8Ots.1dXTKVvrFhEIsY21"
+    },
+    {
+      "name": "Usage Frequency",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "system": {
+        "description": "At most 4 times a month, for up to 24 hours at a time.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_id": "fdkueP83kRYSnS80",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!VK5j1jMIAUEX8Ots.fdkueP83kRYSnS80"
+    }
+  ],
+  "effects": [],
+  "folder": "VleuDDxjk9WIYmy2",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1761366221090,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "VK5j1jMIAUEX8Ots",
+  "sort": 400000,
+  "_key": "!actors!VK5j1jMIAUEX8Ots"
+}

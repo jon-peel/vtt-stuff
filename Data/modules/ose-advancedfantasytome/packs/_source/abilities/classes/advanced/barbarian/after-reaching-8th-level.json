@@ -1,0 +1,36 @@
+{
+  "_id": "bX8ZYinwnzbKi52Y",
+  "name": "After Reaching 8th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "cOt7bmTx1Q2WSYbw",
+  "sort": 700000,
+  "flags": {},
+  "system": {
+    "description": "<p>A barbarian can call upon their native people to form a great horde of warriors, numbering 250 per level above 7th. The warriors are 1st level fighters with basic combat gear and may be mounted if customary in their culture. A horde can only be mustered for a specific purpose (e.g. attacking an enemy city, rescuing hostages, etc.). Once the purpose is achieved or abandoned, the horde disbands. Mustering a horde takes one week, and it remains for one week per level of the barbarian.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "barbarian",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456948172,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bX8ZYinwnzbKi52Y"
+}

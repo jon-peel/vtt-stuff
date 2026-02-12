@@ -1,0 +1,44 @@
+{
+  "_id": "tzPDUJBdQBz0uPnM",
+  "name": "Dust of Appearance",
+  "type": "item",
+  "img": "icons/commodities/materials/bowl-powder-teal.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 12000000,
+  "flags": {},
+  "system": {
+    "description": "<p>Silk-wrapped parcels of ultra-fine, metallic dust which renders anything it touches invisible. Usually [[/r 5d10]] parcels are found together.</p><ul><li><p><strong>Throwing into the air:</strong> The dust coats everything in a 10’ radius.</p></li><li><p><strong>Blowing through a tube:</strong> The dust coats everything in a 20’ long cone, 15’ wide at the end.</p></li><li><p><strong>Effect:</strong> Anything coated in the dust is rendered invisible for [[/r d10]] turns.</p></li><li><p><strong>Invisible creatures:</strong> Always surprise others and gain a +4 bonus to AC. (These benefits do not apply with enemies who can detect invisible.)</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430130772,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!tzPDUJBdQBz0uPnM"
+}

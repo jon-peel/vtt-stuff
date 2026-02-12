@@ -1,0 +1,19 @@
+{
+  "color": "#eab515",
+  "name": "Halfling",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "YKJf9naETJVm5WEO",
+  "_id": "uS6dUSjteSXkknkw",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!uS6dUSjteSXkknkw"
+}

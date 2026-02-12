@@ -1,0 +1,50 @@
+{
+  "_id": "rghAomwjhisfkuaO",
+  "name": "Cursed Plate Mail -2",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-cuirass-steel-grey.webp",
+  "effects": [],
+  "folder": "ejZi5RvRB8Wy0JgB",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 500,
+    "cost": 60,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 5
+    },
+    "aac": {
+      "value": 14
+    },
+    "type": "heavy",
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1687339326487,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!rghAomwjhisfkuaO"
+}

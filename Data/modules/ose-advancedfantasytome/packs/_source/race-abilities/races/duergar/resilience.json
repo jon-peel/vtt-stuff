@@ -1,0 +1,37 @@
+{
+  "name": "Resilience",
+  "type": "ability",
+  "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue-yellow.webp",
+  "effects": [],
+  "folder": "H5LyintcfH0JcQca",
+  "flags": {},
+  "system": {
+    "description": "<p>Duergars’ natural constitution and resistance to magic grants them a bonus to saving throws versus paralysis, poison, spells, and magic wands, rods, and staves. This bonus depends on a duergar’s CON score, as follows:</p><ul><li><p><strong>6 or lower:</strong> No bonus</p></li><li><p><strong>7–10:</strong> +2</p></li><li><p><strong>11–14:</strong> +3</p></li><li><p><strong>15–17:</strong> +4</p></li><li><p><strong>18:</strong> +5</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "duergar",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685795350867,
+    "modifiedTime": 1761459240768,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "9cSzTfczzOcrBYKj",
+  "sort": 0,
+  "_key": "!items!9cSzTfczzOcrBYKj"
+}

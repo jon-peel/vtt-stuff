@@ -1,0 +1,37 @@
+{
+  "name": "Cure Light Wounds",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "TDQzHoPtU6S9sSNc",
+  "sort": 0,
+  "flags": {},
+  "_id": "oVocergs4MJ0NECf",
+  "system": {
+    "description": "<p>This spell has two uses:</p><ol><li><p><strong>Healing a living subject:</strong> Restores [[/r 1d6+1]] hit points of damage. This cannot grant more hit points than the subject’s normal maximum.</p></li><li><p><strong>Curing paralysis:</strong> Paralysing effects are negated.</p></li></ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Druid",
+    "duration": "Instant",
+    "range": "Touch",
+    "roll": "1d6+1",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449737745,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!oVocergs4MJ0NECf"
+}

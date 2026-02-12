@@ -1,0 +1,59 @@
+{
+  "_id": "Icy8a08tX6gWzuea",
+  "name": "Holy water vial",
+  "type": "weapon",
+  "img": "icons/consumables/potions/potion-jar-capped-teal.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Missile (5&rsquo;&ndash;10&rsquo; / 11&rsquo;&ndash;30&rsquo; / 31&rsquo;&ndash;50&rsquo;), Splash weapon</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 25,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 30,
+      "long": 50
+    },
+    "pattern": "white",
+    "damage": "1d8",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Splash weapon",
+        "value": "Splash weapon"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686559220250,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Icy8a08tX6gWzuea"
+}

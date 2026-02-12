@@ -1,0 +1,22 @@
+{
+  "name": "Referee Reference",
+  "sorting": "a",
+  "folder": null,
+  "type": "JournalEntry",
+  "_id": "ZrsekR7d5VfKW4VT",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": "13.346",
+    "createdTime": null,
+    "modifiedTime": 1753076664480,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "_key": "!folders!ZrsekR7d5VfKW4VT"
+}

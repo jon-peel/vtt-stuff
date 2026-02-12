@@ -1,0 +1,37 @@
+{
+  "name": "Initiative Bonus (Optional Rule)",
+  "type": "ability",
+  "img": "icons/sundries/gaming/dice-runed-brown.webp",
+  "effects": [],
+  "folder": "UqH47T24iOHIUjM8",
+  "flags": {},
+  "system": {
+    "description": "<p>If using the optional rule for individual initiative (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.ouf3QNv4dWj0L1IW]{Combat}), halflings get a bonus of +1 to initiative rolls.</p><blockquote><img src=\"icons/vtt-512.png\" width=\"48\" style=\"float: left\"><p><em><strong>Foundry VTT Note</strong></em>: To implement the initiative bonus click on the \"&lt;/&gt; Tweaks \"button on the actor sheet and enter 1 into the Initiative Bonus field and save changes.</p></blockquote><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685802934803,
+    "modifiedTime": 1761459611859,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "TiCzKrKlWvbuxcyc",
+  "sort": 0,
+  "_key": "!items!TiCzKrKlWvbuxcyc"
+}

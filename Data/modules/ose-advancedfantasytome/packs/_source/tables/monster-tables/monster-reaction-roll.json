@@ -1,0 +1,158 @@
+{
+  "name": "Monster Reaction Roll",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "The referee determines monsters’ reaction to the party. Sometimes, circumstances make it obvious how a monster will react. Otherwise, the referee may roll on the table below to determine how a monster reacts to the party.\nCharisma: If one specific character attempts to speak with the monsters, that character’s CHA score is used to modify the monster reaction roll.",
+  "results": [
+    {
+      "_id": "ZKf4IQQNtzO8dpmx",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile, attacks",
+      "name": "",
+      "_key": "!tables.results!vlY1VbzE4DjwyTeq.ZKf4IQQNtzO8dpmx"
+    },
+    {
+      "_id": "q3WodAaJfDRc0VXz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unfriendly, may attack",
+      "name": "",
+      "_key": "!tables.results!vlY1VbzE4DjwyTeq.q3WodAaJfDRc0VXz"
+    },
+    {
+      "_id": "xsfstqRk6tLdLS4F",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neutral, uncertain",
+      "name": "",
+      "_key": "!tables.results!vlY1VbzE4DjwyTeq.xsfstqRk6tLdLS4F"
+    },
+    {
+      "_id": "WRuRqPONmku1Skcy",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Indifferent, uninterested",
+      "name": "",
+      "_key": "!tables.results!vlY1VbzE4DjwyTeq.WRuRqPONmku1Skcy"
+    },
+    {
+      "_id": "bqlilzyFew9GUPkj",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly, helpful",
+      "name": "",
+      "_key": "!tables.results!vlY1VbzE4DjwyTeq.bqlilzyFew9GUPkj"
+    }
+  ],
+  "formula": "2d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "BhhCKkR6rGGA5LAm",
+  "sort": 0,
+  "flags": {},
+  "_id": "vlY1VbzE4DjwyTeq",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159982331,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!vlY1VbzE4DjwyTeq"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Available Classes and Max Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "bHcbTbx1e4imyyb0",
+  "flags": {},
+  "system": {
+    "description": "<ul><li><p><strong>Acrobat:</strong> 10th</p></li><li><p><strong>Assassin:</strong> 10th</p></li><li><p><strong>Cleric*:</strong> 7th</p></li><li><p><strong>Druid*:</strong> 8th</p></li><li><p><strong>Fighter:</strong> 7th</p></li><li><p><strong>Knight:</strong> 11th</p></li><li><p><strong>Magic-user:</strong> 11th</p></li><li><p><strong>Ranger:</strong> 11th</p></li><li><p><strong>Thief:</strong> 10th</p></li></ul><p>* At the referee’s option, elven clerics and druids may only exist as NPCs.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "elf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685802139209,
+    "modifiedTime": 1761459357989,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "nt3bBD852JDrNaBT",
+  "sort": 0,
+  "_key": "!items!nt3bBD852JDrNaBT"
+}

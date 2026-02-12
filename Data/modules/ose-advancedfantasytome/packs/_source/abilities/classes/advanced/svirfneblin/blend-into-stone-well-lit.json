@@ -1,0 +1,37 @@
+{
+  "name": "Blend into Stone (Well-Lit)",
+  "type": "ability",
+  "img": "icons/environment/wilderness/terrain-rocks-brown.webp",
+  "effects": [],
+  "folder": "JRYdjkuuf2Ss7rAW",
+  "flags": {},
+  "system": {
+    "description": "<p>Svirfneblins have the uncanny ability to go unnoticed when in an environment of natural or carved stone so long as they remain silent and motionless. The chance of success is [[/br 1d6]]{2-in-6} in well-lit conditions.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true,
+    "tags": []
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761458367000,
+    "modifiedTime": 1761458373825,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "pzCHh1XfhQw6QPqC",
+  "sort": 0,
+  "_key": "!items!pzCHh1XfhQw6QPqC"
+}

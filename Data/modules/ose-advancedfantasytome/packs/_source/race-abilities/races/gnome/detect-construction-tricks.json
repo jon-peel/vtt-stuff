@@ -1,0 +1,37 @@
+{
+  "name": "Detect Construction Tricks",
+  "type": "ability",
+  "img": "icons/commodities/stone/paver-brick-blue.webp",
+  "effects": [],
+  "folder": "QflRm48M1NqflUIJ",
+  "flags": {},
+  "system": {
+    "description": "<p>As expert tunnellers, gnomes have a [[/br 1d6]]{2-in-6} chance of being able to detect new construction, sliding walls, or sloping passages when searching.</p><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685802578120,
+    "modifiedTime": 1761459396827,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "AohVXf6V3pMI2PER",
+  "sort": 0,
+  "_key": "!items!AohVXf6V3pMI2PER"
+}

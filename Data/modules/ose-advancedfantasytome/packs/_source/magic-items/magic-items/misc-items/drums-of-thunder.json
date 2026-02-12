@@ -1,0 +1,44 @@
+{
+  "_id": "SqCvD6MULZhGKV9J",
+  "name": "Drums of Thunder",
+  "type": "item",
+  "img": "icons/tools/instruments/drum-brown-red.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A pair of kettle drums which, when both struck together, unleash a deafening thunder.</p><ul><li><p><strong>All within 60’</strong>: Are permanently deafened by the noise. The deafness can only be cured by powerful magic (e.g. cure serious wounds cast expressly for the purpose).</p></li><li><p><strong>All within 10’</strong>: Are also stunned and unable to move or act for [[/r 2d4]] rounds.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430112073,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!SqCvD6MULZhGKV9J"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#862d88",
+  "name": "Rings",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "DMU4rSZaXdEgT8EQ",
+  "_id": "8O7HKjRKLOdzukOh",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!8O7HKjRKLOdzukOh"
+}

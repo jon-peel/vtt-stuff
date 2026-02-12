@@ -1,0 +1,37 @@
+{
+  "name": "Light Sensitivity",
+  "type": "ability",
+  "img": "icons/magic/light/beam-explosion-orange.webp",
+  "effects": [],
+  "folder": "H5LyintcfH0JcQca",
+  "flags": {},
+  "system": {
+    "description": "<p>When in bright light (daylight, <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.8H5VgKVGnbX0yngI]{continual light}</em>), duergars suffer a –2 penalty to attack rolls and a –1 penalty to AC.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "duergar",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685795295621,
+    "modifiedTime": 1761459219409,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "UhW3KYCpaMJHamOJ",
+  "sort": 0,
+  "_key": "!items!UhW3KYCpaMJHamOJ"
+}

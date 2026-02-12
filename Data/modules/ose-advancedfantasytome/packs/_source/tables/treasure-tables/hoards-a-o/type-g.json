@@ -1,0 +1,165 @@
+{
+  "name": "Type G",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "23,000gp average",
+  "results": [
+    {
+      "_id": "qOqe4DUcignlmnpa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4 * 10000]]gp",
+      "name": "",
+      "_key": "!tables.results!Sjb5WqrsXsRUv29l.qOqe4DUcignlmnpa"
+    },
+    {
+      "_id": "Ozwpr1sQBUYmIKH9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6 1000]]pp.",
+      "name": "",
+      "_key": "!tables.results!Sjb5WqrsXsRUv29l.Ozwpr1sQBUYmIKH9"
+    },
+    {
+      "_id": "GI0ekCS63EO5afDZ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[3d6]] gems.",
+      "name": "",
+      "_key": "!tables.results!Sjb5WqrsXsRUv29l.GI0ekCS63EO5afDZ"
+    },
+    {
+      "_id": "yiQx9pyp2dUNqqfC",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d10]] pieces of Jewellery.",
+      "name": "",
+      "_key": "!tables.results!Sjb5WqrsXsRUv29l.yiQx9pyp2dUNqqfC"
+    },
+    {
+      "_id": "jhF9TPpqmyK9gXhx",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 35,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4 magic items plus 1 scroll.",
+      "name": "",
+      "_key": "!tables.results!Sjb5WqrsXsRUv29l.jhF9TPpqmyK9gXhx"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "T0g4kT1b6Y6FcqNt",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    },
+    "ose-dev": {
+      "treasure": true
+    }
+  },
+  "_id": "Sjb5WqrsXsRUv29l",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159981240,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Sjb5WqrsXsRUv29l"
+}

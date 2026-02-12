@@ -1,0 +1,37 @@
+{
+  "name": "Continual Light",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "kpC4u6vrjJ1RnikN",
+  "system": {
+    "description": "<p>This spell has three usages:</p><ol><li><p><strong>Conjuring light:</strong> In a 30’ radius. The magical light is sufficient for reading, but is not as bright as daylight. The spell may be cast upon an object, in which case the light moves with the object.</p></li><li><p><strong>Blinding a creature:</strong> By casting the spell upon its eyes. If the target fails a <em><strong>saving throw versus spells</strong></em>, it is blinded. A blind creature cannot attack.</p></li><li><p><strong>Cancelling darkness:</strong> <em>Continual light</em> may cancel a <em>continual darkness</em> spell.</p></li></ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "permanent",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453002828,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kpC4u6vrjJ1RnikN"
+}

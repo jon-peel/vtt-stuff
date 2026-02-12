@@ -1,0 +1,37 @@
+{
+  "_id": "xQl6mCOSSrauornU",
+  "name": "Through the Looking Glass",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A finely wrought, full-length, silver mirror is enchanted to act as a scrying device, allowing the caster to view any place or object that is brought to mind:</p><ul><li><p><strong>The clarity of the vision:</strong> Depends on the scryer’s familiarity with the subject.</p></li><li><p><strong>Casting spells:</strong> Through the mirror into the viewed scene is not possible.</p></li><li><p><strong>Stepping into the mirror:</strong> The caster may step into the divined scene:</p><ul><li><p><strong>Portal:</strong> A faint, spatial distortion exists at the point at which the caster entered the scene. The portal is invisible, but may be perceived by the caster or by magic.</p></li><li><p><strong>Stepping back through:</strong> Anyone who perceives the portal may step out of the mirror and into the location whence the caster originated.</p></li></ul></li><li><p><strong>At the end of the spell’s duration:</strong> The portal disappears. Any creature (including the caster) that stepped through the portal/mirror and did not return must save versus death or becomes lost in another plane of reality.</p></li></ul><p><strong>Material cost:</strong> The mirror must be of at least 5,000gp value.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "1round per level",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452471890,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xQl6mCOSSrauornU"
+}

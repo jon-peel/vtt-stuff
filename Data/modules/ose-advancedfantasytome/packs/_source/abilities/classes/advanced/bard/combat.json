@@ -1,0 +1,36 @@
+{
+  "_id": "f88i1a59JvtLTNMB",
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "PJTniOTejoshi5Zk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Bards can use leather armour or chainmail but do not have the training required to use plate mail or shields. They can use all missile weapons and all one-handed melee weapons.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "bard",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159962252,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!f88i1a59JvtLTNMB"
+}

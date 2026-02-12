@@ -1,0 +1,37 @@
+{
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "QflRm48M1NqflUIJ",
+  "flags": {},
+  "system": {
+    "description": "<p>Gnomes can use leather armour and shields. Armour must be tailored to gnomes&rsquo; small size. Similarly, they can use any weapon appropriate to their stature (as determined by the referee).</p>\n<p>They cannot use longbows or two-handed swords.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685802571406,
+    "modifiedTime": 1685802571406,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "13CHjZxqHzN3laKk",
+  "sort": 0,
+  "_key": "!items!13CHjZxqHzN3laKk"
+}

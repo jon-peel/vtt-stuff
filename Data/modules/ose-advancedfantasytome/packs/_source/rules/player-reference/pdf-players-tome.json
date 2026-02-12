@@ -1,0 +1,93 @@
+{
+  "folder": "YjJ1oGW38oTZHO7n",
+  "name": "PDF - Player's Tome",
+  "_id": "VuqXcrOk2Okhgzt7",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "PDF",
+      "type": "pdf",
+      "_id": "5oVMid06cXbUqN0t",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/ose-advancedfantasytome/pdf/OldSchoolEssentials-AdvancedFantasy-PlayersTome_v1-3.pdf",
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!VuqXcrOk2Okhgzt7.5oVMid06cXbUqN0t"
+    },
+    {
+      "sort": 200000,
+      "name": "File Location",
+      "type": "text",
+      "_id": "yMqfbFHIaQbNmi7h",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>You can also find this PDF on your filesystem at:</p><p>modules/ose-advancedfantasytome/pdf/OldSchoolEssentials-AdvancedFantasy-PlayersTome_v1-3.pdf</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!VuqXcrOk2Okhgzt7.yMqfbFHIaQbNmi7h"
+    }
+  ],
+  "categories": [],
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753435079906,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!VuqXcrOk2Okhgzt7"
+}

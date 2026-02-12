@@ -1,0 +1,214 @@
+{
+  "name": "Type V",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>330gp average</p>",
+  "results": [
+    {
+      "_id": "DMmT1pzV2w2xaeF5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]]sp.",
+      "name": "",
+      "_key": "!tables.results!UHquFh2czH1mdYyb.DMmT1pzV2w2xaeF5"
+    },
+    {
+      "_id": "rNU2MzGPSt8Toyr3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]]ep.",
+      "name": "",
+      "_key": "!tables.results!UHquFh2czH1mdYyb.rNU2MzGPSt8Toyr3"
+    },
+    {
+      "_id": "QsAoAwz2UDlDXQAw",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]]gp.",
+      "name": "",
+      "_key": "!tables.results!UHquFh2czH1mdYyb.QsAoAwz2UDlDXQAw"
+    },
+    {
+      "_id": "RzGLibanmLmaCDxR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]]pp.",
+      "name": "",
+      "_key": "!tables.results!UHquFh2czH1mdYyb.RzGLibanmLmaCDxR"
+    },
+    {
+      "_id": "IdC04uLvVw7RAobD",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4]] gems.",
+      "name": "",
+      "_key": "!tables.results!UHquFh2czH1mdYyb.IdC04uLvVw7RAobD"
+    },
+    {
+      "_id": "TcUXsR1WBY8nH3HT",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4]] pieces of jewellery.",
+      "name": "",
+      "_key": "!tables.results!UHquFh2czH1mdYyb.TcUXsR1WBY8nH3HT"
+    },
+    {
+      "_id": "W1D5MDNhxTLzBsP2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 magic item.",
+      "name": "",
+      "_key": "!tables.results!UHquFh2czH1mdYyb.W1D5MDNhxTLzBsP2"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ttwf57fA2NhYzNph",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    }
+  },
+  "_id": "UHquFh2czH1mdYyb",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.4",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1700419759911,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!UHquFh2czH1mdYyb"
+}

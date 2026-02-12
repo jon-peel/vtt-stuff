@@ -1,0 +1,39 @@
+{
+  "_id": "czBSvdt8FU33Scd3",
+  "name": "Ring of Wishes",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-band-engraved-lines-bronze.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 1000000,
+  "flags": {},
+  "system": {
+    "description": "<p>Grants the wearer’s wishes.</p><ul><li><p><strong>Charges:</strong> The number of wishes granted is noted in the Rings table. Once all wishes have been used, the ring’s magic is spent. </p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443307738,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!czBSvdt8FU33Scd3"
+}

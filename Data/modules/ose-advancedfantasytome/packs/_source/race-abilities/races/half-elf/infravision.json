@@ -1,0 +1,37 @@
+{
+  "name": "Infravision",
+  "type": "ability",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
+  "effects": [],
+  "folder": "iy72xbZ34Yo8OeLG",
+  "flags": {},
+  "system": {
+    "description": "<p>Half-elves have infravision to 60’ (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.eh7GQsf8aWU7NcEP#darkness]{Darkness}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-elf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.2",
+    "coreVersion": "13.348",
+    "createdTime": 1685802861836,
+    "modifiedTime": 1757133434589,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "KSAi6tGgR4HKpwth",
+  "sort": 0,
+  "_key": "!items!KSAi6tGgR4HKpwth"
+}

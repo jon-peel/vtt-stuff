@@ -1,0 +1,36 @@
+{
+  "_id": "peW5zyXnIKQQ1euq",
+  "name": "Back-stab",
+  "type": "ability",
+  "img": "icons/skills/melee/strike-dagger-blood-red.webp",
+  "effects": [],
+  "folder": "e0OPI6yYuyHhLkKp",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">When attacking an unaware opponent from behind, a half-orc receives a +4 bonus to hit and doubles any damage dealt.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-orc",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159965206,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!peW5zyXnIKQQ1euq"
+}

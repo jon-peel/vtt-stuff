@@ -1,0 +1,44 @@
+{
+  "_id": "nOuGatZnMcB4z8J6",
+  "name": "Pearl of Wisdom",
+  "type": "item",
+  "img": "icons/commodities/gems/pearl-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 10500000,
+  "flags": {},
+  "system": {
+    "description": "<p>A normal-looking pearl which increases the Wisdom of a divine spell caster who keeps it on their person.</p><ul><li><p><strong>Effect:</strong> The character’s WIS increases by 1 (maximum of 18) as long as the pearl is on their person.</p></li><li><p><strong>Delayed onset:</strong> The character must keep the pearl on their person for 30 days in order for it to take effect.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440879519,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nOuGatZnMcB4z8J6"
+}

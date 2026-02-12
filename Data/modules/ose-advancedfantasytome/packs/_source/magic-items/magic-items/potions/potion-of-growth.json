@@ -1,0 +1,46 @@
+{
+  "_id": "uAnqNO5FSwhGwWRY",
+  "name": "Potion of Growth",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The character doubles in size.</p><ul><li><p><strong>Melee attacks</strong>: The character’s increased strength means that their melee attacks deal double damage.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442823701,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uAnqNO5FSwhGwWRY"
+}

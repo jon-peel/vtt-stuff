@@ -1,0 +1,54 @@
+{
+  "name": "Javelin of Seeking",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-flared-purple.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 3000000,
+  "flags": {},
+  "_id": "lPYe980qebS8eb1N",
+  "system": {
+    "description": "<p>A magical javelin which can launch itself at a target on command.</p><ul><li><p><strong>Command word:</strong> Speaking the correct command word causes the javelin to fly out of the character’s hands to seek the indicated target (up to 90’ distant).</p></li><li><p><strong>Seeking:</strong> The javelin can fly in any direction to reach its target, including around obstacles or corners. The character must make an attack roll with a +6 bonus to determine if the javelin hits.</p></li><li><p><strong>On a successful hit:</strong> The javelin inflicts [[/r 1d4+6]] damage.</p></li><li><p><strong>Once only:</strong> The javelin may only be commanded to launch itself once. Afterwards, it is a normal, non-magical javelin.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 20,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 30,
+      "medium": 60,
+      "long": 90
+    },
+    "pattern": "transparent",
+    "damage": "1d4+6",
+    "bonus": 6,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446026262,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!lPYe980qebS8eb1N"
+}

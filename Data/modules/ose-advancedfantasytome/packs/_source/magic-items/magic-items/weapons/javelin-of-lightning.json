@@ -1,0 +1,54 @@
+{
+  "name": "Javelin of Lightning",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-ice-crystal-blue.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 1100000,
+  "flags": {},
+  "_id": "EhQIMilGMtFHYNIz",
+  "system": {
+    "description": "<p>A magical javelin which explodes in a stroke of lightning when it hits.</p><ul><li><p><strong>On a successful hit:</strong> The javelin explodes in a stroke of lightning 5’ wide and 30’ long (leading from the target 30’ back towards the character who hurled the javelin). All within the area (including the target who was hit) suffer electrical damage.</p></li><li><p><strong>Electrical damage:</strong> 20 points (<strong>save versus spells</strong> for half). The target hit by the javelin may not make a saving throw.</p></li><li><p><strong>Javelin consumed:</strong> When it explodes into lightning, the javelin is destroyed.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 20,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 30,
+      "medium": 60,
+      "long": 90
+    },
+    "pattern": "transparent",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446007300,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!EhQIMilGMtFHYNIz"
+}

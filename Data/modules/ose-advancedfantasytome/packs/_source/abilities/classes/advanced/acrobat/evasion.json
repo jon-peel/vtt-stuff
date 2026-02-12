@@ -1,0 +1,36 @@
+{
+  "_id": "BmbYYUTu2QStPhw4",
+  "name": "Evasion",
+  "type": "ability",
+  "img": "icons/skills/movement/figure-running-gray.webp",
+  "effects": [],
+  "folder": "OiTN7aQLlw4Qe86Q",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">When retreating from melee, an acrobat’s ability to tumble negates the opponent’s usual +2 bonus to hit.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "acrobat",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159954556,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BmbYYUTu2QStPhw4"
+}

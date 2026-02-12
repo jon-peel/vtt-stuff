@@ -1,0 +1,41 @@
+{
+  "name": "Protection Scroll",
+  "type": "item",
+  "img": "icons/sundries/scrolls/scroll-bound-black-brown.webp",
+  "effects": [],
+  "folder": "LpqHwq13dfzc1CwS",
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Usage:</strong> All characters (unless noted). (Written in non-magical languages—usually Common.)</p><p><strong>Activation:</strong> Reading the script aloud conjures a circle of protection against a specific type of monster or energy.</p><p><strong>Area of protection:</strong> When used, conjures a 10’ radius circle of protection around the reader. If the reader moves, the circle of protection follows them.</p><p><strong>Moving</strong>: If the reader moves, the circle of protection follows them.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761372059095,
+    "modifiedTime": 1761372060773,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "liO8D8vEBfeMv3op",
+  "sort": 300000,
+  "_key": "!items!liO8D8vEBfeMv3op"
+}

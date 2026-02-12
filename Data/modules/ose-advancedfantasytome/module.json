@@ -1,0 +1,186 @@
+{
+    "id": "ose-advancedfantasytome",
+    "title": "Old-School Essentials: Advanced Fantasy for Foundry VTT",
+    "description": "An advanced game with a rich selection of character options, magic, monsters and treasures.",
+    "manifest": "https://r2.foundryvtt.com/packages-public/ose-advancedfantasytome/module.json",
+    "protected": true,
+    "authors": [
+        {
+            "name": "Necrotic Gnome",
+            "email": "summon@necroticgnome.com",
+            "url": "https://necroticgnome.com"
+        },
+        {
+            "name": "Blair McMillan",
+            "discord": "blair#9056"
+        },
+        {
+            "name": "VTT RED",
+            "email": "troubleshooting@vtt.red",
+            "url": "https://vtt.red"
+        }
+    ],
+    "version": "26.01.03",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "esmodules": [
+        "./scripts/init.js",
+        "./scripts/classData.js",
+        "./scripts/oseItemData.js",
+        "./scripts/encounterTables.js"
+    ],
+    "styles": [
+        "./styles/main.css"
+    ],
+    "packs": [
+        {
+            "name": "macros",
+            "label": "Advanced Fantasy Macros",
+            "path": "packs/oseMacros",
+            "type": "Macro"
+        },
+        {
+            "name": "rules",
+            "label": "Advanced Fantasy Player's Tome",
+            "path": "packs/ose-playersRef",
+            "type": "JournalEntry",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "advanced-fantasy-referees-rules",
+            "label": "Advanced Fantasy Referee's Tome",
+            "path": "packs/ose-refereesRef",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "equipment",
+            "label": "Advanced Fantasy Equipment",
+            "path": "packs/oseItems",
+            "type": "Item",
+            "system": "ose",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "magic-items",
+            "label": "Advanced Fantasy Magic Items",
+            "path": "packs/oseMagicItems",
+            "type": "Item",
+            "system": "ose",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "abilities",
+            "label": "Advanced Fantasy Class Abilities",
+            "path": "packs/oseAbilities",
+            "type": "Item",
+            "system": "ose",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "race-abilities",
+            "label": "Advanced Fantasy Race Abilities",
+            "path": "packs/oseRaceAbilities",
+            "type": "Item",
+            "system": "ose",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "spells",
+            "label": "Advanced Fantasy Spells",
+            "path": "packs/oseSpells",
+            "type": "Item",
+            "system": "ose",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "tables",
+            "label": "Advanced Fantasy Rollable Tables",
+            "path": "packs/oseTables",
+            "type": "RollTable"
+        },
+        {
+            "name": "animals",
+            "label": "Advanced Fantasy Animals",
+            "path": "packs/oseAnimals",
+            "type": "Actor",
+            "system": "ose"
+        },
+        {
+            "name": "monsters",
+            "label": "Advanced Fantasy Monsters",
+            "path": "packs/ose-monsters",
+            "type": "Actor",
+            "system": "ose"
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "Advanced Fantasy",
+            "sorting": "m",
+            "folders": [
+                {
+                    "name": "Rules",
+                    "sorting": "m",
+                    "packs": [
+                        "rules",
+                        "advanced-fantasy-referees-rules",
+                        "tables",
+                        "macros"
+                    ]
+                },
+                {
+                    "name": "Character Options",
+                    "sorting": "m",
+                    "packs": [
+                        "race-abilities",
+                        "abilities",
+                        "equipment",
+                        "magic-items",
+                        "spells"
+                    ]
+                },
+                {
+                    "name": "Creatures",
+                    "sorting": "m",
+                    "packs": [
+                        "animals",
+                        "monsters"
+                    ]
+                }
+            ]
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "ose",
+                "type": "system",
+                "manifest": "https://github.com/NecroticGnome/ose-foundry-core/releases/latest/download/system.json",
+                "compatibility": {
+                    "minimum": "2.1.0",
+                    "verified": "2.1.12"
+                }
+            }
+        ]
+    }
+}

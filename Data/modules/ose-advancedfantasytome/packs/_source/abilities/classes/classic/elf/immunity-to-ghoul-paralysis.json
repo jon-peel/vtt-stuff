@@ -1,0 +1,36 @@
+{
+  "_id": "3Dbx0dd02uRsiyo8",
+  "name": "Immunity to Ghoul Paralysis",
+  "type": "ability",
+  "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+  "effects": [],
+  "folder": "a044YMt1yO1mBHjM",
+  "sort": 200000,
+  "flags": {},
+  "system": {
+    "description": "<p>Elves are completely unaffected by the paralysis that ghouls can inflict.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "elf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1685802404793,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!3Dbx0dd02uRsiyo8"
+}

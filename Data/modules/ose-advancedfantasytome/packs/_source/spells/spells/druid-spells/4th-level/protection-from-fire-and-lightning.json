@@ -1,0 +1,37 @@
+{
+  "name": "Protection from Fire and Lightning",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "EF4o02b1CzjjmfJd",
+  "sort": 0,
+  "flags": {},
+  "_id": "xUumLZyh6OYGFVD6",
+  "system": {
+    "description": "<p>The subject is granted immunity to a certain amount of either electrical or fire damage.</p><ul><li><p><strong>Fire or lightning:</strong> Upon casting the spell, the caster must choose the type of energy the subject is protected from.</p></li><li><p><strong>Damage negation:</strong> The subject gains protection against 6 hit points of damage of the chosen type per level.</p></li><li><p><strong>Ending:</strong> When all of the hit points of protection are used up, the spell ends.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Druid",
+    "duration": "1 turn per level",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449980954,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xUumLZyh6OYGFVD6"
+}

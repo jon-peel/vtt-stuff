@@ -1,0 +1,37 @@
+{
+  "name": "Seeming",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "cLZYNR8r04RlwAVx",
+  "system": {
+    "description": "<p>This spell alters the outward appearance of one or more persons to that of another type of humanoid.</p><ul><li><p><strong>Number of subjects:</strong> Up to one subject per two levels of the caster may be affected.</p></li><li><p><strong>The illusionary appearance:</strong> All subjects take on the appearance of the same type of creature (e.g. human, elf, goblin, etc.), but each remains a recognisable individual—they do not look like clones.</p></li><li><p><strong>Size and weight:</strong> The illusionary appearance may be at most 1’ taller or shorter than the subject. Apparent weight may be altered in any way.</p></li><li><p><strong>Clothing or equipment:</strong> May be altered in any way.</p></li><li><p><strong>Cloning:</strong> The spell cannot be used to precisely copy another’s appearance.</p></li><li><p><strong>Saving throw:</strong> Unwilling subjects may <strong>save versus spells</strong> to avoid being affected.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "12 hours",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452080044,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!cLZYNR8r04RlwAVx"
+}

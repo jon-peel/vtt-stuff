@@ -1,0 +1,54 @@
+{
+  "_id": "yMs1hE0MlPqwMUqv",
+  "name": "Sword",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-embossed-green.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Melee</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 10,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d8",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159918758,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!yMs1hE0MlPqwMUqv"
+}

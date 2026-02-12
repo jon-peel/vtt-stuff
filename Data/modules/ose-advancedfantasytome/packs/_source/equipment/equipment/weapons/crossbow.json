@@ -1,0 +1,63 @@
+{
+  "_id": "zqvrIEJf5YJDejCq",
+  "name": "Crossbow",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-loaded-black.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Missile (5’–80’ / 81’–160’ / 161’–240’), Reload, Slow, Two-handed</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 50,
+    "cost": 30,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Reload",
+        "value": "Reload"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159919545,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zqvrIEJf5YJDejCq"
+}

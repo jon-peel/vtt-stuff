@@ -1,0 +1,38 @@
+{
+  "name": "Sack (small)",
+  "type": "container",
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "system": {
+    "description": "<p>Can hold up to 200 coins.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 1,
+    "containerId": "",
+    "itemIds": [],
+    "tags": []
+  },
+  "effects": [],
+  "folder": "FBxn2Zz0vNSqX0tk",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "13.342",
+    "createdTime": 1683941461750,
+    "modifiedTime": 1683941538723,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WYOpSdLXxwsFvOVY",
+  "sort": 0,
+  "_key": "!items!WYOpSdLXxwsFvOVY"
+}

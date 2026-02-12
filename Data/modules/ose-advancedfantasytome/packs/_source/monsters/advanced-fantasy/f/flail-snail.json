@@ -1,0 +1,546 @@
+{
+  "name": "Flail Snail",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/flail%20snail%20-%20jerry%20boucher%20-%20c%202020%20jerry%20boucher.webp",
+  "items": [
+    {
+      "_id": "fgJ4hckeIJo503tY",
+      "name": "Club tentacles",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>[[/r 1d3+3]] tentacles; each can attack once per round.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761271029256
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.fgJ4hckeIJo503tY"
+    },
+    {
+      "_id": "mLLt7wriPpYk5cvj",
+      "name": "Attacking the tentacles",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "AC 3 [16], 8hp (separate hp pool each). If reduced to 0hp, the tentacle can no longer attack.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.mLLt7wriPpYk5cvj"
+    },
+    {
+      "_id": "9J3GqrKEdw4foq8F",
+      "name": "If all tentacles are killed",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Snail dies.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.9J3GqrKEdw4foq8F"
+    },
+    {
+      "_id": "9cqlJIfhPHZfAgI5",
+      "name": "Upon death",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Withdraws into shell and shrieks for [[/br 1d3]] turns. [[/br 1d100]]{50%} chance per turn of attracting a wandering monster.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d100",
+        "rollType": "below",
+        "rollTarget": 50,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762126376267
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.9cqlJIfhPHZfAgI5"
+    },
+    {
+      "_id": "0k3VVWddsC0CNLwo",
+      "name": "Hate light",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "In bright light (daylight, continual light, etc.) morale reduced to 7.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.0k3VVWddsC0CNLwo"
+    },
+    {
+      "_id": "b0N4j1ShceJrTqDO",
+      "name": "Immunities",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Unharmed by poison and fire (including magical fire).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.b0N4j1ShceJrTqDO"
+    },
+    {
+      "_id": "U7MORvIOkhznZYKv",
+      "name": "Magic reflection",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Shell protects against magic. Each time snail is targeted by magic, roll [[/r 1d6]]: 1: reflected back at caster; 2–3: cancelled; 4–6: normal effect.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761271012493
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.U7MORvIOkhznZYKv"
+    },
+    {
+      "_id": "TZP08kgP9lPLbeZH",
+      "name": "Shell's properties",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Magic reflective properties remain for [[/br 1d6]] months after the snail’s death. Weighs 2,500 coins.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761270994395
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.TZP08kgP9lPLbeZH"
+    },
+    {
+      "_id": "kPjHbG8IQvcyjntI",
+      "name": "Club tentacle",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "1d8",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 4,
+          "max": 4
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DE1046XANzvpkmLJ.kPjHbG8IQvcyjntI"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "4d8",
+      "value": 18,
+      "max": 18
+    },
+    "ac": {
+      "value": 0,
+      "mod": 0
+    },
+    "aac": {
+      "value": 19,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 16,
+      "bba": 3,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 12
+      },
+      "wand": {
+        "value": 13
+      },
+      "paralysis": {
+        "value": 14
+      },
+      "breath": {
+        "value": 15
+      },
+      "spell": {
+        "value": 16
+      }
+    },
+    "movement": {
+      "base": 30,
+      "encounter": 10
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#flail-snail]{Flail Snail}</p><p>Huge (8’ tall) snails with a cluster of flailing, club-like tentacles and a swirling, multi-coloured shell. Dwell underground.</p>",
+      "alignment": "Neutral",
+      "xp": "125",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1",
+        "w": "0"
+      },
+      "morale": "10",
+      "movement": "30’ (10’)"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Flail Snail",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "color": "#ffb638",
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/flail_snail.Token.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925312523,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "folder": "a8jU0gv8Ev6TwOmI",
+  "_id": "DE1046XANzvpkmLJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!DE1046XANzvpkmLJ"
+}

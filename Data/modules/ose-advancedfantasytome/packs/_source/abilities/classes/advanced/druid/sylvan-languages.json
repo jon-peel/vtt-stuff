@@ -1,0 +1,36 @@
+{
+  "_id": "AxRrciRzzHRBB3hp",
+  "name": "Sylvan Languages",
+  "type": "ability",
+  "img": "icons/skills/social/diplomacy-peace-alliance.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>At each level above 2nd, a druid learns to speak a language used by creatures of Sylvan forests (e.g. dryads, green dragons, pixies, treants).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159954077,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!AxRrciRzzHRBB3hp"
+}

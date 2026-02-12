@@ -1,0 +1,37 @@
+{
+  "name": "Stealth",
+  "type": "ability",
+  "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+  "effects": [],
+  "folder": "H5LyintcfH0JcQca",
+  "flags": {},
+  "system": {
+    "description": "<p>Underground, duergars have a [[/br 1d6]]{3-in-6} chance of moving silently.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "duergar",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 3,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685795322854,
+    "modifiedTime": 1761459250852,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Lnqpoq8x6O0t6VJR",
+  "sort": 0,
+  "_key": "!items!Lnqpoq8x6O0t6VJR"
+}

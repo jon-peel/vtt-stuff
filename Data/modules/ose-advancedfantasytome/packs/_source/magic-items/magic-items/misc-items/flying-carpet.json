@@ -1,0 +1,44 @@
+{
+  "_id": "qZnRUGFPN6eFgR0o",
+  "name": "Flying Carpet",
+  "type": "item",
+  "img": "icons/commodities/cloth/cloth-bolt-embroidered-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11200000,
+  "flags": {},
+  "system": {
+    "description": "<p>An enchanted carpet that can fly through the air, carrying up to three passengers (and their gear). The movement rate depends on the number of passengers:</p><ul><li><p><strong>1 passenger:</strong> 300’ (100’).</p></li><li><p><strong>2 passengers:</strong> 240’ (80’).</p></li><li><p><strong>3 passengers:</strong> 180’ (60’).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431007013,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qZnRUGFPN6eFgR0o"
+}

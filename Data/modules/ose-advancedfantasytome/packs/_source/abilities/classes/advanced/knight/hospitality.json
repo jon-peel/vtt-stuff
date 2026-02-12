@@ -1,0 +1,36 @@
+{
+  "_id": "CHZQTx3er50fCocW",
+  "name": "Hospitality",
+  "type": "ability",
+  "img": "icons/environment/settlement/house-farmland-small.webp",
+  "effects": [],
+  "folder": "M8kCM9O2lnpAKqRe",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A knight of 3rd level or higher can expect hospitality and aid from nobles and other knights of the same alignment or social affiliation (e.g. order, religion, noble house, etc.). A knight is expected to extend such hospitality in kind.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "knight",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159954783,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CHZQTx3er50fCocW"
+}

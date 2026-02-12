@@ -1,0 +1,37 @@
+{
+  "name": "Fire Ball",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "BdLXnWDLUqFCG47T",
+  "sort": 0,
+  "flags": {},
+  "_id": "ZrYh8AabsTCnqRjb",
+  "system": {
+    "description": "<p>Flame streaks towards a point within range and detonates in a 20’ radius sphere.</p><ul><li><p><strong>Damage:</strong> Creatures caught in the fire ball suffer [[/r 1d6]] damage per level of the caster, with a successful <em><strong>save versus spells</strong></em> indicating half damage.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "240'",
+    "roll": "1d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453319322,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ZrYh8AabsTCnqRjb"
+}

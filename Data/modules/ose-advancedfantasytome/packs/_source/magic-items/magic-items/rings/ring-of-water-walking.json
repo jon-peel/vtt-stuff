@@ -1,0 +1,39 @@
+{
+  "_id": "KMW0YT4DMrSi0qvb",
+  "name": "Ring of Water Walking",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-band-rounded-gold.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 700000,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Grants the power to walk on the surface of water, without sinking.</span></p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761370355408,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!KMW0YT4DMrSi0qvb"
+}

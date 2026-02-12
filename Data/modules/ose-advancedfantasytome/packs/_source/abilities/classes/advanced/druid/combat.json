@@ -1,0 +1,36 @@
+{
+  "_id": "Xtai6pDkaCPQasqK",
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">The holy doctrine of the druids stipulates that they may not use metal armour or shields (wooden shields may be purchased at the normal price). Their choice of weapons is limited to clubs, daggers, slings, spears, and staves.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159961064,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Xtai6pDkaCPQasqK"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "swEQcUEBNInOWffk",
+  "name": "Speak with Plants",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "hQiAgT9TyM2uGpZ3",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell has two uses:</p><ol><li><p><strong>Normal plants:</strong> Communication with normal plants. The caster is able to ask questions and receive answers and may ask for simple favours. Plants may comply, if the request is within their ability to understand and perform. For example, densely overgrown plants may clear a passageway through which the caster and party may travel.</p></li><li><p><strong>Monstrous plants:</strong> Communication with plant-like or plant-based monsters.</p></li></ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "3 turns",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449438563,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!swEQcUEBNInOWffk"
+}

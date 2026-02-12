@@ -1,0 +1,37 @@
+{
+  "name": "Rainbow Pattern",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VKTYcU8UWQYpITJG",
+  "sort": 0,
+  "flags": {},
+  "_id": "8cqFlqAIg8rnL1gU",
+  "system": {
+    "description": "<p>A band of twisting, interweaving, rainbow colours fills the air in a 30’ × 30’ area centred on the caster.</p><ul><li><p><strong>Creatures that see the pattern:</strong> Must <strong>save versus spells</strong> or become hypnotised as long as they are able to watch the pattern.</p></li><li><p><strong>Number of creatures affected:</strong> A total of up to 24 Hit Dice of creatures may be hypnotised.</p></li><li><p><strong>Hypnotised creatures:</strong> Simply stand still, gazing at the pattern of colours.</p></li><li><p><strong>If a hypnotised creature is harmed:</strong> The pattern ceases to enthral it and it may act next round.</p></li><li><p><strong>Maintaining the pattern:</strong> The pattern can be maintained and directed as follows:</p><ul><li><p><strong>Concentration:</strong> The caster can maintain the pattern indefinitely, as long as they concentrate on the spell and remain stationary.</p></li><li><p><strong>Releasing:</strong> The caster may optionally end concentration and direct the pattern to drift away in a specified direction. The pattern drifts at a rate of 30’ per round and fades after [[/r 1d4]] rounds. Hypnotised creatures will do their best to follow the pattern, but if they are led into a dangerous area, another <strong>saving throw versus spells</strong> is allowed to snap out of the trance.</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 4,
+    "class": "Illusionist",
+    "duration": "Concentration",
+    "range": "30’ square around the caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451851238,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8cqFlqAIg8rnL1gU"
+}

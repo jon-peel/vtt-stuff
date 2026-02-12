@@ -1,0 +1,36 @@
+{
+  "_id": "3RwFOmsyf7cw5j9I",
+  "name": "Vow Of Humility",
+  "type": "ability",
+  "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+  "effects": [],
+  "folder": "AHz82IIt2Yr2Zxqi",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A paladin may keep only a total of one suit of magical armour, one magical shield, and one magical melee weapon. They must also donate 10% of all income to a Lawful religious institution.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "paladin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159953053,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!3RwFOmsyf7cw5j9I"
+}

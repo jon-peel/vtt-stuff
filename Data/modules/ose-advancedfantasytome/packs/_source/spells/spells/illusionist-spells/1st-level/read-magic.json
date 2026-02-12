@@ -1,0 +1,37 @@
+{
+  "name": "Read Magic",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "7oG7TQonStGKOL0F",
+  "system": {
+    "description": "<p>By means of read magic, the caster can decipher magical inscriptions or runes as follows:</p><ul><li><p><strong>Scrolls:</strong> The magical script of a scroll of arcane spells can be understood. The caster is then able to activate the scroll at any time in the future.</p></li><li><p><strong>Spell books:</strong> A spell book written by another arcane spell caster can be deciphered.</p></li><li><p><strong>Inscriptions:</strong> Runes or magical words inscribed on an object or surface can be understood.</p></li><li><p><strong>Reading again:</strong> Once the caster has read a magical inscription using read magic, they are thereafter able to read that particular writing without recourse to the use of this spell.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "1 turn",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450512263,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7oG7TQonStGKOL0F"
+}

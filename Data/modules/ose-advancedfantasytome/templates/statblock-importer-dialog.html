@@ -1,0 +1,108 @@
+<section class="statblock-importer-form importer-grid">
+  <fieldset class="panel">
+    <legend>Statblock Text</legend>
+    <textarea name="statblock" spellcheck="false">{{statblockText}}</textarea>
+    <div class="toolbar">
+      <div class="hint">
+        <span>
+          Paste one OSE Monster Statblock. Not everything is supported. Double-check the created actor details.
+          This tool is to help save you time, not replace you.
+        </span>
+      </div>
+      <button type="submit" data-action="import"><i class="fas fa-file-import"></i> Import Monster</button>
+    </div>
+  </fieldset>
+
+  {{#if parsedData}}
+  <fieldset class="panel parsed-preview">
+    <legend>Parsed Preview</legend>
+    <header class="preview-header">
+      <h3 class="name">{{parsedData.name}}</h3>
+    </header>
+
+    <div class="stats-grid">
+      <div class="stat" data-tooltip="Armour Class"><span class="l">AC</span><span class="v">{{parsedData.system.ac.value}}</span></div>
+      <div class="stat" data-tooltip="Ascending Armour Class"><span class="l">AAC</span><span class="v">[{{parsedData.system.aac.value}}]</span></div>
+      <div class="stat" data-tooltip="Hit Dice"><span class="l">HD</span><span class="v">{{parsedData.system.hp.hd}}</span></div>
+      <div class="stat" data-tooltip="Hit Points"><span class="l">HP</span><span class="v">{{parsedData.system.hp.max}}</span></div>
+      <div class="stat" data-tooltip="To Hit Armour Class 0"><span class="l">THAC0</span><span class="v">{{#thac0String parsedData.system.thac0.value}}{{/thac0String}}</span></div>
+      <div class="stat"><span class="l">Alignment</span><span class="v">{{parsedData.system.details.alignment}}</span>
+      </div>
+      <div class="stat" data-tooltip="Movement Rate: {{parsedData.system.details.movement}}">
+        <span class="l">MV</span>
+        <span class="v">{{parsedData.system.movement.base}}</span>
+      </div>
+      <div class="stat"><span class="l">Morale</span><span class="v">{{parsedData.system.details.morale}}</span></div>
+      <div class="stat"><span class="l">XP</span><span class="v">{{parsedData.system.details.xp}}</span></div>
+      <div class="stat saves wide">
+        <span class="l">Saves</span>
+        <span class="v saves-line">
+          <span data-tooltip="Death/poison">D {{parsedData.system.saves.death.value}}</span>
+          <span data-tooltip="Wands">W {{parsedData.system.saves.wand.value}}</span>
+          <span data-tooltip="Paralysis/petrification">P {{parsedData.system.saves.paralysis.value}}</span>
+          <span data-tooltip="Breath attacks">B {{parsedData.system.saves.breath.value}}</span>
+          <span data-tooltip="Spells/rods/staves">S {{parsedData.system.saves.spell.value}}</span>
+        </span>
+      </div>
+      <div class="stat wide"><span class="l">Special Abilities</span><span class="v">{{parsedData.system.details.specialAbilities}}</span>
+      </div>
+      <div class="stat wide">
+        <span class="l">Number Appearing</span>
+        <span class="v">
+          <span data-tooltip="Dungeons">D: {{parsedData.system.details.appearing.d}}</span> |
+          <span data-tooltip="Wilderness">W: {{parsedData.system.details.appearing.w}}</span>
+        </span>
+      </div>
+      <div class="stat wide">
+        <span class="l">Treasure</span>
+        <span class="v">
+          {{#if treasureLink}}
+          {{{treasureLink}}}
+          {{else}}
+          {{parsedData.system.details.treasure.type}}
+          {{/if}}
+        </span>
+      </div>
+    </div>
+
+    {{#if parsedData.attacks.length}}
+    <section class="section attacks">
+      <h4>Attacks</h4>
+      <ul>
+        {{#each parsedData.attacks}}
+        <li>
+          {{#if this.system.counter.value}}<span class="count">{{this.system.counter.value}}×</span>{{/if}}
+          <span class="n">{{this.name}}</span>
+          {{#if this.system.damage}}<span class="dmg">{{this.system.damage}}</span>{{/if}}
+          {{#if this.system.description}}<span class="desc">— {{this.system.description}}</span>{{/if}}
+          {{#if this.system.pattern}}<span class="pattern"
+                                           data-tooltip="Attack Pattern">({{this.system.pattern}})</span>{{/if}}
+        </li>
+        {{/each}}
+      </ul>
+    </section>
+    {{/if}}
+
+    {{#if parsedData.abilities.length}}
+    <section class="section abilities">
+      <h4>Abilities</h4>
+      <ul>
+        {{#each parsedData.abilities}}
+        <li>
+          <span class="n">{{this.name}}</span>
+          {{#if this.system.description}}<span class="desc">— {{this.system.description}}</span>{{/if}}
+        </li>
+        {{/each}}
+      </ul>
+    </section>
+    {{/if}}
+
+    {{#if parsedData.system.details.biography}}
+    <section class="section bio">
+      <h4>Biography</h4>
+      <div class="bio-text">{{parsedData.system.details.biography}}</div>
+    </section>
+    {{/if}}
+  </fieldset>
+  {{/if}}
+</section>

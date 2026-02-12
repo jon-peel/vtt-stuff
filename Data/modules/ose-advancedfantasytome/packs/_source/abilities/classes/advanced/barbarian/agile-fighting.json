@@ -1,0 +1,36 @@
+{
+  "_id": "vd7nwY52IN9GZQlC",
+  "name": "Agile Fighting",
+  "type": "ability",
+  "img": "icons/skills/melee/unarmed-punch-fist-white.webp",
+  "effects": [],
+  "folder": "cOt7bmTx1Q2WSYbw",
+  "sort": 900000,
+  "flags": {},
+  "system": {
+    "description": "<p>Upon reaching 4th level, a barbarian gains a +1 AC bonus. This increases to +2 at 6th level, +3 at 8th level, and +4 at 10th level.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "barbarian",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456948172,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!vd7nwY52IN9GZQlC"
+}

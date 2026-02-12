@@ -1,0 +1,44 @@
+{
+  "_id": "Dsh8Xmo8pwFbeojH",
+  "name": "Chime of Opening",
+  "type": "item",
+  "img": "icons/tools/instruments/chimes-wood-brown.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3500000,
+  "flags": {},
+  "system": {
+    "description": "<p>A 1’ long, hollow metal tube which has the power to open bonds, locks, portals, etc. when sounded.</p><ul><li><p><strong>Opening:</strong> Each time the chime is sounded and left to ring for one minute, one portal, lock, lid, bar, etc. (as selected by the user), is caused to open.</p></li><li><p><strong>Noise:</strong> There is a [[/br 1d6]]{1-in-6} chance of wandering monsters being attracted each time the chime is sounded.</p></li><li><p><strong>Magical locks:</strong> Hold portal and wizard lock spells are negated (the latter only if cast by a character below 9th level).</p></li><li><p><strong>Charges:</strong> After being sounded [[/r 4d20]] times, the chime shatters.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427382100,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Dsh8Xmo8pwFbeojH"
+}

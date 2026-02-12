@@ -1,0 +1,44 @@
+{
+  "_id": "zfyRmAwWaS89VRP9",
+  "name": "Dust of Sneezing and Choking",
+  "type": "item",
+  "img": "icons/commodities/materials/bowl-powder-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 13000000,
+  "flags": {},
+  "system": {
+    "description": "<p>Silk-wrapped parcels of ultra-fine, metallic dust which acts as a deadly poison when cast into the air. Usually [[/r 5d10]] parcels are found together.</p><ul><li><p><strong>Throwing into the air:</strong> The dust fills a 20’ radius.</p></li><li><p><strong>Blowing through a tube:</strong> The dust fills a 20’ long cone, 15’ wide at the end.</p></li><li><p><strong>Effect:</strong> Any creatures in the area of the dust are overcome with fits of coughing and sneezing and must <strong>save versus poison</strong> or die. Those that make the save are unable to act or move for [[/r 5d4]] rounds.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430166751,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zfyRmAwWaS89VRP9"
+}

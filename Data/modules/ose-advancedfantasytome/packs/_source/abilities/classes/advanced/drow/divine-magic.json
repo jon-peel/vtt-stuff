@@ -1,0 +1,36 @@
+{
+  "_id": "FR1af6CgxqWTDioA",
+  "name": "Divine Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "38vVmd3n5L1csToW",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on divine magic.</p><p><strong>Holy symbol</strong>: A drow must carry a holy symbol (@UUID[Compendium.ose-advancedfantasytome.equipment.MuTpsMkDpyl7bFFc]{Holy Symbol}).</p><p><strong>Deity disfavour</strong>: Drow must be faithful to the tenets of their alignment, clergy, and religion. Drow who fall from favour with their deity may incur penalties.</p><p><strong>Magical research</strong>: A drow of any level may spend time and money on magical research. This allows them to create new spells or other magical effects associated with their deity. On reaching 9th level, drow are also able to create magic items.</p><p><strong>Spell casting</strong>: A drow may pray to receive spells from their deity. The power and number of spells available to a drow are determined by the character’s experience level. Drow cast spells from the standard cleric spell list (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.iW0YUQNIRaYo5ecH]{Cleric Spell List} and @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.5bcXC9ougUPEBFoY]{Magic-User Spell List}). At 1st level, a drow may only pray for the light (darkness) spell, but from 2nd level, the character may pray for any spell on the spell list. Drow are also able to pray for the magic-user web spell, from 3rd level.</p><p><strong>Using magic items</strong>: As spell casters, drow can use magic scrolls of spells on their spell list. They can also use items that may only be used by divine spell casters (e.g. some staves).</p><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "drow",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.0",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1750641716028,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!FR1af6CgxqWTDioA"
+}

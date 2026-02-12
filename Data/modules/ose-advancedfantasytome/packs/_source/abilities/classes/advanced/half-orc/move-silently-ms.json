@@ -1,0 +1,36 @@
+{
+  "_id": "oAL25S5pVi4xtyjy",
+  "name": "Move Silently (MS)",
+  "type": "ability",
+  "img": "icons/equipment/feet/shoes-leather-simple-brown.webp",
+  "effects": [],
+  "folder": "e0OPI6yYuyHhLkKp",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A half-orc may attempt to sneak past enemies unnoticed.</p><hr><table><thead><tr><th>Level</th><th>MS</th></tr></thead><tbody><tr><td>1</td><td>20</td></tr><tr><td>2</td><td>25</td></tr><tr><td>3</td><td>30</td></tr><tr><td>4</td><td>35</td></tr><tr><td>5</td><td>40</td></tr><tr><td>6</td><td>45</td></tr><tr><td>7</td><td>55</td></tr><tr><td>8</td><td>65</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-orc",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 20,
+    "blindroll": true
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457941283,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!oAL25S5pVi4xtyjy"
+}

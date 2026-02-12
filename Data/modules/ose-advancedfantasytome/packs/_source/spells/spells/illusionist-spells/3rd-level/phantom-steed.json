@@ -1,0 +1,37 @@
+{
+  "name": "Phantom Steed",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "DR4kgfopk5KT5jIX",
+  "system": {
+    "description": "<p>A quasi-real, shadowy, horse-like creature is conjured by this spell to carry the caster (or another, designated person) upon its back.</p><ul><li><p><strong>Appearance:</strong> The steed is deep black in colour and has ghostly hooves that make no sound as it runs.</p></li><li><p><strong>Loads:</strong> The steed refuses to carry any load beyond that of the rider and their possessions.</p></li><li><p><strong>Stats:</strong> The steed has 12 hit points, AC 8 [11], and a movement rate of 30’ (10’) per level of the caster.</p></li><li><p><strong>If the steed is killed:</strong> It evaporates into smoke.</p></li></ul><p><strong>Special abilities:</strong> The phantom steed gains additional abilities, depending on the level of the caster:</p><ul><li><p><strong>8th level:</strong> The steed is unhindered by unstable ground (e.g. mud or bog).</p></li><li><p><strong>10th level:</strong> The steed may walk across water.</p></li><li><p><strong>12th level:</strong> The steed may walk upon air and is thus able to cross chasms and pits.</p></li><li><p><strong>14th level:</strong> The steed can fly.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": "6 turns per level",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451583363,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!DR4kgfopk5KT5jIX"
+}

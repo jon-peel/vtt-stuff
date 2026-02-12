@@ -1,0 +1,696 @@
+{
+  "name": "Deep One Leader",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/deep%20one%20-%20chris%20malec%20-%20c%202020%20chris%20malec.webp",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "5d8",
+      "value": 22,
+      "max": 22
+    },
+    "ac": {
+      "value": 5,
+      "mod": 0
+    },
+    "aac": {
+      "value": 14,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 15,
+      "bba": 4,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 10
+      },
+      "wand": {
+        "value": 11
+      },
+      "paralysis": {
+        "value": 12
+      },
+      "breath": {
+        "value": 13
+      },
+      "spell": {
+        "value": 14
+      }
+    },
+    "movement": {
+      "base": 90,
+      "encounter": 30
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#deep-one]{Deep One}</p><p>Scaly, fish-headed, amphibious humanoids with long, webbed fingers and toes. Once dwelt in coastal regions and warred with humans. Now only encountered in the Underworld, in deep caverns and around subterranean seas.</p>",
+      "alignment": "Chaotic",
+      "xp": "175",
+      "specialAbilities": "0",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "2d12",
+        "w": "4d10 * 10"
+      },
+      "morale": "8",
+      "movement": "90’ (30’) /180’ (60’) swimming"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "name": "Deep One",
+    "displayName": 30,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "assets/Classic%20Tokens/Foes/Fish%20Man.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 30,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.1,
+      "angle": 360,
+      "bright": 0,
+      "color": "#ffb638",
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": "torch",
+        "speed": 3,
+        "intensity": 4,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "_id": "DEAGbdRg2EXmtti2",
+      "name": "Infravision",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "90’.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.DEAGbdRg2EXmtti2"
+    },
+    {
+      "_id": "U36qJEP7hzw9jvlE",
+      "name": "Hate the sun",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "–1 to hit in full daylight.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.U36qJEP7hzw9jvlE"
+    },
+    {
+      "_id": "A99vsCCbNEJ3x79Q",
+      "name": "Poison immunity",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Unharmed by any form of poison.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.A99vsCCbNEJ3x79Q"
+    },
+    {
+      "_id": "4nXwm3CAuCdgf0Oo",
+      "name": "Magic resistance",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Unaffected by illusions, sleep, charm, and hold spells.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.4nXwm3CAuCdgf0Oo"
+    },
+    {
+      "_id": "ev39F8w1qhkxUiHP",
+      "name": "Leader",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Groups are led by a 5 HD deep one (with 22hp).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.ev39F8w1qhkxUiHP"
+    },
+    {
+      "_id": "eRPiD1L9RFuGX7FN",
+      "name": "Clerics",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "A 4 HD sea priest(ess) is present for every 25 deep ones encountered. This creature has the abilities of a 4th level chaotic cleric.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.eRPiD1L9RFuGX7FN"
+    },
+    {
+      "_id": "yg3N83WPAKCAkG3a",
+      "name": "Priest-king",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "A deep one community with over 200 individuals will be led by a priest-king with 8 HD and the abilities of a 10th level chaotic cleric.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.yg3N83WPAKCAkG3a"
+    },
+    {
+      "_id": "wdHrb2Ig7m8IL3IE",
+      "name": "Hate mind lashers",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Attack on sight.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.wdHrb2Ig7m8IL3IE"
+    },
+    {
+      "_id": "6iDx8yhG8txn0vNZ",
+      "name": "Slaves and sacrifices",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Enslave other humanoids (especially humans) and sacrifice them to alien gods.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.6iDx8yhG8txn0vNZ"
+    },
+    {
+      "_id": "r1Rgw3SJQYLHfTSt",
+      "name": "Trade",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Will occasionally come to the surface on moonlit nights to trade with coastal settlements. They offer rare metals and gems, but demand human sacrifices or deep one/human unions.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.r1Rgw3SJQYLHfTSt"
+    },
+    {
+      "_id": "mh66UZT6XbfL6ud8",
+      "name": "Claw",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "1d4+1",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d4+1",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 2,
+          "max": 2
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.mh66UZT6XbfL6ud8"
+    },
+    {
+      "_id": "A1wlI1D4MJMeng4U",
+      "name": "Weapon",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "1d6, by weapon",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "yellow",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.A1wlI1D4MJMeng4U"
+    },
+    {
+      "_id": "0UVwthrL7sNs8hzm",
+      "name": "Treasure Table",
+      "type": "ability",
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>M, S</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pcSpvd5cAw4oUMxl.0UVwthrL7sNs8hzm"
+    }
+  ],
+  "effects": [],
+  "folder": "s2VAbgN44rK4NKeV",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1762120964516,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "pcSpvd5cAw4oUMxl",
+  "sort": 1000000,
+  "_key": "!actors!pcSpvd5cAw4oUMxl"
+}

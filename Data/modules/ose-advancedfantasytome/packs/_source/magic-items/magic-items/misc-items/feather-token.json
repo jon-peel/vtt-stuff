@@ -1,0 +1,44 @@
+{
+  "_id": "40O5lcTVUwYUJxH6",
+  "name": "Feather Token",
+  "type": "item",
+  "img": "icons/commodities/materials/feather-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 1600000,
+  "flags": {},
+  "system": {
+    "description": "<p>A small feather which produces a magical effect when thrown.</p><ul><li><strong>Type of token:</strong> When found, roll [[/r 1d20]] on the table below to determine the token’s power.</li><li><strong>Once only:</strong> A feather token disappears after use.</li></ul><p><strong>Feather Token: Type</strong></p><table><thead><tr><th>[[/r d20]]</th><th>Token Type</th></tr></thead><tbody><tr><td>1–4</td><td>Anchor</td></tr><tr><td>5–7</td><td>Bird</td></tr><tr><td>8–10</td><td>Fan</td></tr><tr><td>11–13</td><td>Swan boat</td></tr><tr><td>14–18</td><td>Tree</td></tr><tr><td>19–20</td><td>Whip</td></tr></tbody></table><hr><p><strong>Anchor Token</strong>: Causes a water vessel to remain moored in the location where the token is used for one day (or until released).</p><hr><p><strong>Bird Token: </strong>Summons a gargantuan bird for 24 hours. The bird can be commanded to chase aggressive avian creatures away or to transport the character.</p><ul><li><p><strong>Movement rate</strong>: 480’ (160’) flying.</p></li><li><p><strong>Carrying</strong>: The bird is powerful enough to carry a huge animal (e.g. a mammoth) or a combination of smaller creatures.</p></li><li><p><strong>Attacking</strong>: The bird cannot be commanded to attack.</p></li></ul><hr><p><strong>Fan Token: </strong>At sea, conjures a huge flapping fan which can be commanded to do one of the following for up to 8 hours:</p><ol><li><p><strong>Propel:</strong> A single sailing vessel is propelled by high winds, increasing its sailing speed by one half.</p></li><li><p><strong>Calm:</strong> In a storm, gale, or near gale, can create an area of calm or lighter winds. (This does not affect wave size in a storm, however.)</p></li></ol><p>(@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.9Pu7DvFdpiwXR2D8]{See Waterborne Adventuring} for details on sailing and wind.)</p><hr><p><strong>Swan Boat Token: </strong>Conjures a swan-like boat for 24 hours. It can swim without crew or wind, moving at 240’ (80’). The boat can hold up to 32 people and has AC 7 [12] and [[/r (1d6+3)*10]] hull points.</p><hr><p><strong>Tree Token: </strong>Causes a great oak to spring into being (6’ diameter trunk, 60’ high, 40’ top diameter).</p><hr><p><strong>Whip Token: </strong>Conjures a huge leather whip which attacks on its own for up to 6 turns, at the character’s command.</p><ul><li><p><strong>Attacks</strong>: THAC0 13 [+6]. Can hit opponents that can only be harmed by magic.</p></li><li><p><strong>Damage</strong>: [[/r 1d6+1]]. <em><strong>Save versus spells</strong></em> or be entangled (unable to move or act) for [[/r 1d6+1]] rounds.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430839009,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!40O5lcTVUwYUJxH6"
+}

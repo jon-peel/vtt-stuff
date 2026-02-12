@@ -1,0 +1,44 @@
+{
+  "_id": "cjz5fjpxuIJ4p6Ld",
+  "name": "Gloves of Dexterity",
+  "type": "item",
+  "img": "icons/equipment/hand/glove-cuffed-leather-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 7900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A pair of soft leather gloves which bestow remarkable manual dexterity.</p><ul><li><p><strong>DEX increase</strong>: The wearer’s DEX increases by a number of points, depending on their normal DEX:</p><ul><li><p><strong>6 or less:</strong> +4</p></li><li><p><strong>7–13:</strong> +2</p></li><li><p><strong>14–17:</strong> +1.</p></li></ul></li><li><p><strong>Pick pockets</strong>: The wearer may pick pockets, with a [[/r 1d100]]{35%} chance of success (or a +10% bonus if already able to pick pockets). If the victim is above 5th level, the roll is penalised by 5% for every level above 5th. There is always at least a 1% chance of failure. A roll of more than twice the percentage required for success means that the attempted theft is noticed. The referee should determine the reaction of the victim (possibly using the reaction table under @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.SAZiydZewI4XOlsU#monster-reaction-roll]{Encounters}).</p></li><li><p><strong>Open locks</strong>: The wearer may pick locks, with a [[/r 1d100]]{30%} chance of success (or a +10% bonus if already able to open locks). This requires thieves’ tools. The character can only try this skill once per lock. If the roll fails, the character may not try the same lock again before gaining an experience level.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431309991,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!cjz5fjpxuIJ4p6Ld"
+}

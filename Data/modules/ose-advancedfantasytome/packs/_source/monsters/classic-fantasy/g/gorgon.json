@@ -1,0 +1,338 @@
+{
+  "folder": "yaWfMzG83B5enoDJ",
+  "name": "Gorgon",
+  "type": "monster",
+  "_id": "06bhF5q65gjLGpKT",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/gorgon%20-%20mark%20lyons%20-%20c%202020%20mark%20lyons.webp",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": null,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "8d8",
+      "value": 36,
+      "max": 36
+    },
+    "ac": {
+      "value": 2,
+      "mod": 0
+    },
+    "aac": {
+      "value": 17,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 12,
+      "bba": 7,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 8
+      },
+      "wand": {
+        "value": 9
+      },
+      "paralysis": {
+        "value": 10
+      },
+      "breath": {
+        "value": 10
+      },
+      "spell": {
+        "value": 12
+      }
+    },
+    "movement": {
+      "base": 120
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#gorgon]{Gorgon}</p><p>Magical monsters that resemble ironscaled bulls. Dwell in plains or foothills.</p>",
+      "alignment": "Chaotic",
+      "xp": "1200",
+      "specialAbilities": "2",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.cJtpLShpjN9xQ7Ab]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1d2",
+        "w": "1d4"
+      },
+      "morale": "8",
+      "movement": "120' (40')"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "name": "Gorgon",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/gorgon.Token.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "MTnXbvJ0upTG9RHs",
+      "name": "Gore",
+      "type": "weapon",
+      "sort": 350000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "2d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!06bhF5q65gjLGpKT.MTnXbvJ0upTG9RHs"
+    },
+    {
+      "_id": "0aLVrhD6QjQOB7iO",
+      "name": "Petrifying Breath",
+      "type": "ability",
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Cloud 60’ long, 10’ wide.</p><p>All in the cloud are turned to stone (<strong>save versus petrify</strong> to avoid).</p><p>Unharmed by own breath.</p>",
+        "save": "paralysis",
+        "pattern": "red",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762128411843
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!06bhF5q65gjLGpKT.0aLVrhD6QjQOB7iO"
+    },
+    {
+      "_id": "gRMafmfjy9wIYj4k",
+      "name": "Charge",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>When not in melee. Requires&nbsp;a clear run of at least 20 yards.</p>\n<p>Gore&nbsp;inflicts double damage.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!06bhF5q65gjLGpKT.gRMafmfjy9wIYj4k"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925299445,
+    "modifiedTime": 1763375111579,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!06bhF5q65gjLGpKT"
+}

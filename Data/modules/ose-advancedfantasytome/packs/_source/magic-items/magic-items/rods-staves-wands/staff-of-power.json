@@ -1,0 +1,63 @@
+{
+  "name": "Staff of Power",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-ornate-red.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 300000,
+  "flags": {},
+  "_id": "1rTJIOgRat9W2i5d",
+  "system": {
+    "description": "<p>An item of great wizardly power, this staff may be used as a weapon in melee, and may evoke five different magical effects.</p><ul><li><p><strong>Arcane magic</strong>: Usable by arcane spell casters only.</p></li><li><p><strong>Melee</strong>: Expending one charge, inflicts 2d6 damage on a successful hit.</p></li><li><p><strong>Cone of cold</strong>: Conjures a cone of freezing energy, 60’ long and 30’ wide at the far end. Creatures caught in the cone suffer [[/r 8d6]] damage (<strong>save versus spells</strong> for half damage).</p></li><li><p><strong>Spells</strong>: Can cast: <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.kpC4u6vrjJ1RnikN]{continual light}</em>, <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.ZrYh8AabsTCnqRjb]{fire ball}</em> ([[/r 8d6]] damage), <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.anWBslOOlZtV47ut]{lightning bolt}</em> ([[/r 8d6]] damage), <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.g7CsvZa6bNbXiCAJ]{telekinesis}</em> (up to 2,400 coins of weight). </p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 40,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761444572327,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1rTJIOgRat9W2i5d"
+}

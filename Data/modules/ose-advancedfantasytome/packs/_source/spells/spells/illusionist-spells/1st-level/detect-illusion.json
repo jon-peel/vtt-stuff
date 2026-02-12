@@ -1,0 +1,37 @@
+{
+  "name": "Detect Illusion",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "SKgV0rrtsF6agaCo",
+  "system": {
+    "description": "<p>The subject can see through illusions within 10&rsquo; per level of the caster. Invisible creatures or objects in the same range are also revealed.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "3 turns",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160019840,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!SKgV0rrtsF6agaCo"
+}

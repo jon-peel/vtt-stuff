@@ -1,0 +1,37 @@
+{
+  "name": "Immunity to Ghoul Paralysis",
+  "type": "ability",
+  "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+  "effects": [],
+  "folder": "L8Wif2V6qv06MZYL",
+  "flags": {},
+  "system": {
+    "description": "<p>Drow are completely unaffected by the paralysis ghouls can inflict.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "drow",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685460625999,
+    "modifiedTime": 1685794922860,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2mDLp8yac6jKYXG1",
+  "sort": 400000,
+  "_key": "!items!2mDLp8yac6jKYXG1"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "dAPsskb53n33FmiN",
+  "name": "Horsemanship",
+  "type": "ability",
+  "img": "icons/tools/smithing/horseshoe-steel-blue.webp",
+  "effects": [],
+  "folder": "M8kCM9O2lnpAKqRe",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Assessing steeds</strong>: Knights are expert riders and can assess the worth of any steed. This allows a knight to determine whether an animal has low, average, or high hit points for its type.</p>\n<p><strong>Urging great speed</strong>: From 5th level, a knight can urge their steed to great speed, increasing its movement rate by 30’ (10’) for up to 6 turns, once per day.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "knight",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159961726,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!dAPsskb53n33FmiN"
+}

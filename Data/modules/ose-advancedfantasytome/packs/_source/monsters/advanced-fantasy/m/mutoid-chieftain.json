@@ -1,0 +1,474 @@
+{
+  "name": "Mutoid Chieftain",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/mutoid%20-%20chris%20malec%20-%20c%202021%20chris%20malec.webp",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "4d8+1",
+      "value": 18,
+      "max": 18
+    },
+    "ac": {
+      "value": 6,
+      "mod": 0
+    },
+    "aac": {
+      "value": 13,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 15,
+      "bba": 4,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 10
+      },
+      "wand": {
+        "value": 11
+      },
+      "paralysis": {
+        "value": 12
+      },
+      "breath": {
+        "value": 13
+      },
+      "spell": {
+        "value": 14
+      }
+    },
+    "movement": {
+      "base": 90,
+      "encounter": 30
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.old-school-essentials-compendiums.Advanced-Fantasy-Referees-Tome.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#mutoid]{Mutoid}</p><p>Humanoids with mismatched body parts of many different creatures (e.g. reptiles, crustaceans, birds, mammals, etc.). Each individual has a unique appearance. Shunned by other species, they live in hiding within large settlements or band together and dwell in ruins.</p>",
+      "alignment": "Neutral",
+      "xp": "75",
+      "specialAbilities": "0",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.6hRwPJuYNRW5lf94]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1d8",
+        "w": "1d100"
+      },
+      "morale": "7",
+      "movement": "90’ (30’)"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "name": "Mutoid",
+    "displayName": 30,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/mutoid.Token.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 30,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.1,
+      "angle": 360,
+      "bright": 0,
+      "color": "#ffb638",
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": "torch",
+        "speed": 3,
+        "intensity": 4,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "_id": "XwzWMAFM0sgC4SRJ",
+      "name": "Surprise",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>[[/r 1d6]]{3-in-6}, due to great skill at hiding and camouflage. Requires 1 turn of preparation.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d6",
+        "rollType": "below",
+        "rollTarget": 3,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DjcrnkfAYSNjJyAD.XwzWMAFM0sgC4SRJ"
+    },
+    {
+      "_id": "41rbZxau2EWJWdsW",
+      "name": "Mimicry",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Can mimic the sound of any monster or animal.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DjcrnkfAYSNjJyAD.41rbZxau2EWJWdsW"
+    },
+    {
+      "_id": "Y2Wm7WGmXib7DPmT",
+      "name": "Pick pockets",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>[[/br 1d100]]{70%} chance of success, penalised by 5% for every level of the victim above 5th. A roll of more than twice the percentage required for success means that the attempted theft is noticed.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d100",
+        "rollType": "below",
+        "rollTarget": 70,
+        "blindroll": true,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DjcrnkfAYSNjJyAD.Y2Wm7WGmXib7DPmT"
+    },
+    {
+      "_id": "CdZYS5JF8byhEUI6",
+      "name": "Leader",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Groups of 10+ are led by an individual with 2 HD (with 9hp).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DjcrnkfAYSNjJyAD.CdZYS5JF8byhEUI6"
+    },
+    {
+      "_id": "0DYMbRtdiMpEHp3e",
+      "name": "Chieftain",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "A 4 HD chieftain (with 18hp) rules groups of 40+.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DjcrnkfAYSNjJyAD.0DYMbRtdiMpEHp3e"
+    },
+    {
+      "_id": "X6Ktq4wcF4JYJ0B9",
+      "name": "Origin",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Rumoured to have been created by magic (possibly an accident).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DjcrnkfAYSNjJyAD.X6Ktq4wcF4JYJ0B9"
+    },
+    {
+      "_id": "9QRt0AMQCpIiov8e",
+      "name": "Weapon",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "1d6, by weapon",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!DjcrnkfAYSNjJyAD.9QRt0AMQCpIiov8e"
+    }
+  ],
+  "effects": [],
+  "folder": "RYuE8fndaOLpsmUA",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1762134388192,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "DjcrnkfAYSNjJyAD",
+  "sort": 0,
+  "_key": "!actors!DjcrnkfAYSNjJyAD"
+}

@@ -1,0 +1,282 @@
+:root {
+  --border-bar: rgba(53, 14, 14, .2);
+  --glow-a: #55ff55;
+  --glow-b: #1b4e1b;
+}
+
+.osrcb {
+  --cb-form-glow: rgb(66, 170, 189);
+  --cb-button: rgb(9, 93, 126);
+  --cb-header: rgba(8, 59, 80, 0.836);
+  --cb-bg: #d1e4e0;
+  --cb-trans-bg: rgba(16, 160, 185, 0.13);
+  --cb-dark-text: #121213;
+  --cb-light-text: #eee8da;
+}
+
+@keyframes flash {
+  0% {
+    color: #1b4e1b;
+  }
+  50% {
+    color: #55ff55;
+  }
+  100% {
+    color: #1b4e1b;
+  }
+}
+.osr-choose-class {
+  color: #55ff55;
+  animation-delay: 1s;
+  animation: flash 1.6s infinite;
+  padding: 0 3px;
+}
+
+#osr-character-builder.osrcb input {
+  padding: 0;
+  text-align: center;
+}
+#osr-character-builder.osrcb input[type=checkbox]::before {
+  color: var(--cb-button);
+  font-weight: initial;
+}
+#osr-character-builder.osrcb header {
+  background-color: var(--cb-header);
+  overflow: hidden;
+}
+#osr-character-builder.osrcb .window-content {
+  padding: 0;
+  background: var(--cb-trans-bg);
+}
+#osr-character-builder.osrcb #char-builder-form {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: 75px 1fr 40px 40px;
+  background: url("../assets/img/owlbear_watermark_a.webp") center/65% no-repeat;
+}
+#osr-character-builder.osrcb #char-builder-form i {
+  color: var(--cb-button);
+}
+#osr-character-builder.osrcb #char-builder-form a:hover {
+  text-shadow: 0 0 8px var(--glow-a);
+}
+#osr-character-builder.osrcb .stat-input-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 30px;
+}
+#osr-character-builder.osrcb .stat-input-col label {
+  font-weight: 700;
+  font-size: 12px;
+}
+#osr-character-builder.osrcb .stat-input-col .stat-inp {
+  overflow: hidden;
+}
+#osr-character-builder.osrcb .stat-roll-cont {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+}
+#osr-character-builder.osrcb .random-name-btn {
+  position: absolute;
+  top: 0.5rem;
+  left: 0;
+  display: grid;
+  place-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: 2px solid rgb(39, 39, 39);
+  overflow: hidden;
+}
+#osr-character-builder.osrcb .random-name-btn a {
+  width: 100%;
+  height: 100%;
+  color: var(--cb-button);
+}
+#osr-character-builder.osrcb .random-name-btn i {
+  font-size: 1rem;
+}
+#osr-character-builder.osrcb .top {
+  display: flex;
+}
+#osr-character-builder.osrcb .top .stat-cont {
+  display: flex;
+  width: 300px;
+  justify-content: space-around;
+}
+#osr-character-builder.osrcb .top .name-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 200px;
+  padding: 0.2em;
+}
+#osr-character-builder.osrcb .top .name-cont label {
+  display: flex;
+  align-items: center;
+  margin-right: 0.3em;
+  /* width: 100%; */
+  font-weight: 600;
+}
+#osr-character-builder.osrcb .top .name-cont #name-inp {
+  margin-bottom: 0.2rem;
+}
+#osr-character-builder.osrcb .top .name-cont .lvl-cont {
+  display: flex;
+  padding: 0 0.3;
+}
+#osr-character-builder.osrcb .top .name-cont .lvl-cont input {
+  width: 1.5em;
+  margin-right: 0.2em;
+}
+#osr-character-builder.osrcb .top .name-cont .alignment-cont {
+  display: flex;
+}
+#osr-character-builder.osrcb .top .name-cont .lvl-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+#osr-character-builder.osrcb .middle {
+  display: grid;
+  grid-template-rows: 2.5em 1fr;
+  overflow: hidden;
+}
+#osr-character-builder.osrcb .middle .class-select-cont {
+  display: flex;
+  padding: 0 0.2em 0.2em 0.2em;
+  justify-content: space-evenly;
+}
+#osr-character-builder.osrcb .middle .class-select-cont select {
+  width: 45%;
+}
+#osr-character-builder.osrcb .middle .info-cont {
+  display: flex;
+  padding: 0.2em;
+}
+#osr-character-builder.osrcb .middle::-webkit-scrollbar {
+  display: none;
+}
+#osr-character-builder.osrcb #bio::-webkit-scrollbar,
+#osr-character-builder.osrcb #description::-webkit-scrollbar {
+  display: none;
+}
+#osr-character-builder.osrcb #bio,
+#osr-character-builder.osrcb #description {
+  max-height: 280px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  width: 50%;
+  padding-bottom: 1em;
+}
+#osr-character-builder.osrcb .bottom {
+  display: grid;
+  place-items: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+#osr-character-builder.osrcb .bottom .gp-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+#osr-character-builder.osrcb .bottom input {
+  width: 2.5em;
+}
+#osr-character-builder.osrcb .footer {
+  display: flex;
+  justify-content: space-evenly;
+}
+#osr-character-builder.osrcb .footer button {
+  width: 45%;
+  background-color: var(--cb-button);
+  color: beige;
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 35px;
+  margin-bottom: 0.3em;
+}
+#osr-character-builder.osrcb .footer button:hover {
+  box-shadow: 0 0 5px var(--cb-form-glow);
+}
+#osr-character-builder.osrcb #bio .bio-abilities {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 40px;
+}
+#osr-character-builder.osrcb #bio .bio-abilities .ability-btn {
+  height: 30px;
+  width: 30px;
+  border-radius: 5px;
+  border: 2px solid rgb(39, 39, 39);
+  margin: 0 0 0.2em 0.2em;
+  overflow: hidden;
+}
+
+#osrcb-random-name header {
+  background-color: var(--cb-header);
+}
+#osrcb-random-name .window-content {
+  background-color: var(--cb-trans-bg);
+}
+
+#retainer-builder .window-content {
+  padding: 0;
+  background: var(--cb-trans-bg);
+}
+#retainer-builder .main {
+  height: 100%;
+}
+#retainer-builder header {
+  background-color: var(--cb-header);
+}
+
+#retainer-generator {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 0.5rem;
+}
+#retainer-generator h3 {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#retainer-generator .fxsb {
+  display: flex;
+  justify-content: space-between;
+}
+#retainer-generator .fxjcc {
+  display: flex;
+  justify-content: center;
+}
+#retainer-generator .padh10 {
+  padding: 0 10px;
+}
+#retainer-generator .mt10 {
+  margin-top: 10px;
+}
+#retainer-generator .level-select {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#retainer-generator input[type=number] {
+  width: 25px;
+}
+#retainer-generator input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#crawlerSelect {
+  display: none;
+}
+
+/*# sourceMappingURL=main.css.map */

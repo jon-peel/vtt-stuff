@@ -1,0 +1,37 @@
+{
+  "name": "Infravision",
+  "type": "ability",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
+  "effects": [],
+  "folder": "AaNPJ9NLLC9ESktE",
+  "flags": {},
+  "system": {
+    "description": "<p>Half-orcs have infravision to 60&rsquo; (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.eh7GQsf8aWU7NcEP#darkness]{Darkness}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-orc",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685803036318,
+    "modifiedTime": 1685803036318,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uASbVULnm7R2XEJW",
+  "sort": 0,
+  "_key": "!items!uASbVULnm7R2XEJW"
+}

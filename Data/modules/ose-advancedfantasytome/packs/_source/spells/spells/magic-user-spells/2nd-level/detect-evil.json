@@ -1,0 +1,42 @@
+{
+  "_id": "vMivw9KUzkd8fwzL",
+  "name": "Detect Evil",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {
+    "scene-packer": {
+      "hash": "69802e99afa03248f63a0dde8d3d512b9dcde9b6",
+      "sourceId": "Item.PeczKBlGdSruCWdI"
+    }
+  },
+  "system": {
+    "description": "<p>Objects enchanted for evil purposes or living beings with evil intentions are caused to magically glow.</p><ul><li><p><strong>Intent only:</strong> This spell does not grant the ability to read minds, but only grants a general sense of evil intent.</p></li><li><p><strong>Definition of evil:</strong> The referee must decide what is “evil”. Some things that are potentially harmful, like traps, are not “evil.”</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453014469,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!vMivw9KUzkd8fwzL"
+}

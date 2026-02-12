@@ -1,0 +1,36 @@
+{
+  "_id": "wm7DxLCYJMEvSaM5",
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "fG3WgjGwlYRbKIMZ",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Illusionists can only use daggers and are unable to use shields or wear any kind of armour. This makes them very vulnerable in combat.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "illusionist",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159966347,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!wm7DxLCYJMEvSaM5"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": "exruKHbWQ5EqFcz6",
+  "name": "Dog armour",
+  "type": "item",
+  "img": "icons/sundries/misc/pet-collar-spiked-brown.webp",
+  "_id": "pwjeydUev0hqHXn5",
+  "system": {
+    "description": "<p>Light leather armour with a spiked collar. Provides the animal with an AC of 6 [13].</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 25,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.3",
+    "coreVersion": "13.342",
+    "createdTime": 1689078769834,
+    "modifiedTime": 1689079796474,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!pwjeydUev0hqHXn5"
+}

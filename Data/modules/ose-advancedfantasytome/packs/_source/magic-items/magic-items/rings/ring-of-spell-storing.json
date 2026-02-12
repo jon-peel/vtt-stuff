@@ -1,0 +1,39 @@
+{
+  "_id": "uSQSl7vmzfJFWmSW",
+  "name": "Ring of Spell Storing",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-ouroboros-copper.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 1500000,
+  "flags": {},
+  "system": {
+    "description": "<p>Stores a number of magical spells that the wearer can release on command.</p><ul><li><p><strong>Capacity:</strong> The ring contains [[/r 1d6]] spells. (The spells can be triggered and recharged, but cannot be changed.)</p></li><li><p><strong>Type of magic:</strong> There is a [[/r 1d100]]{20%} chance of divine spells, otherwise they are arcane spells.</p></li><li><p><strong>Knowledge:</strong> The wearer of the ring knows which spells it contains.</p></li><li><p><strong>Triggering:</strong> The wearer of the ring can trigger the spells at will (up to one spell per round).</p></li><li><p><strong>Caster level:</strong> For spells whose effects vary by the level of the caster, the wearer of the ring is treated as a caster of the lowest level required to cast the spell.</p></li><li><p><strong>Recharging:</strong> Once a spell is triggered, it may not be reused until it is recharged—the expired spell must be cast directly onto the ring.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443253234,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uSQSl7vmzfJFWmSW"
+}

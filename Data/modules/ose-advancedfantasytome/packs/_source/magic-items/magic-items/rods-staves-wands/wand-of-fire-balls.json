@@ -1,0 +1,41 @@
+{
+  "name": "Wand of Fire Balls",
+  "type": "item",
+  "img": "icons/weapons/wands/wand-carved-fire.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "flags": {},
+  "system": {
+    "description": "<p>Conjures <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.ZrYh8AabsTCnqRjb]{fire balls}</em>:</p><ul><li><p><strong>Range</strong>: A streak of flame shoots towards an area up to 240’ distant.</p></li><li><p><strong>Area</strong>: The flame detonates in a 40’ diameter sphere of fire.</p></li><li><p><strong>Creatures caught in the fire ball</strong>: Suffer [[/r 6d6]] damage, with a successful <strong>save versus wands</strong> indicating half damage.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 20,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761370875188,
+    "modifiedTime": 1761444952096,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "TxzTJsYrhvyu5Ne5",
+  "sort": 0,
+  "_key": "!items!TxzTJsYrhvyu5Ne5"
+}

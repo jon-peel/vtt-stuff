@@ -1,0 +1,37 @@
+{
+  "_id": "8P1RPgPUEJNgUOxn",
+  "name": "Commune",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RmvVdtYAmuQub8Ch",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The caster calls upon divine powers in order to seek knowledge.</p><ul><li><p><strong>Questions:</strong> The caster may ask three questions per casting. Once per year, the caster may instead ask six questions.</p></li><li><p><strong>Answers:</strong> Each question receives a simple “yes” or “no” answer.</p></li><li><p><strong>Usage limit:</strong> <em>Commune </em>may only be cast once per week. If the referee feels this spell is being overused, its usage may be limited to once per month.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "3 turns",
+    "range": "self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449508487,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8P1RPgPUEJNgUOxn"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "MgqWT0OHgYI6NKCt",
+  "name": "Garlic",
+  "type": "item",
+  "img": "icons/consumables/vegetable/garlic-white.webp",
+  "effects": [],
+  "folder": "FBxn2Zz0vNSqX0tk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": null,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159899928,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!MgqWT0OHgYI6NKCt"
+}

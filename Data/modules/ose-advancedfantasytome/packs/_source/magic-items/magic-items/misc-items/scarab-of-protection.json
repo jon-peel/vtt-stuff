@@ -1,0 +1,44 @@
+{
+  "_id": "tAjdXx2hrt7ntJOL",
+  "name": "Scarab of Protection",
+  "type": "item",
+  "img": "icons/equipment/neck/necklace-animal-scarab.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11800000,
+  "flags": {},
+  "system": {
+    "description": "<p>Protects the bearer from baleful magic.</p><ul><li><p><strong>Curses:</strong> Of all kinds are nullified.</p></li><li><p><em><strong>@UUID[Compendium.ose-advancedfantasytome.spells.Item.CFg2bNUZ0p4uYayT]{Finger of death}</strong></em><strong>:</strong> is nullified.</p></li><li><p><strong>Charges:</strong> The scarab’s enchantment works [[/r 2d6]] times before it is spent.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442047419,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!tAjdXx2hrt7ntJOL"
+}

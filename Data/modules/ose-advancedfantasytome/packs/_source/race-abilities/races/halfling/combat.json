@@ -1,0 +1,37 @@
+{
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "UqH47T24iOHIUjM8",
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Halflings can use all types of armour, but it must be tailored to their small size. Similarly, they can use any weapon appropriate to their stature (as determined by the referee). They cannot use long-bows or two-handed swords.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685802913906,
+    "modifiedTime": 1685802913906,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "bO2rReAgpWER5Zdq",
+  "sort": 0,
+  "_key": "!items!bO2rReAgpWER5Zdq"
+}

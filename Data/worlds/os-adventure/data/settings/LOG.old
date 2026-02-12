@@ -1,0 +1,25 @@
+2026/02/12-12:53:47.463 4520 Recovering log #41
+2026/02/12-12:53:47.463 4520 Level-0 table #43: started
+2026/02/12-12:53:47.474 4520 Level-0 table #43: 117236 bytes OK
+2026/02/12-12:53:47.478 4520 Delete type=0 #41
+2026/02/12-12:53:47.479 4520 Delete type=3 #39
+2026/02/12-12:53:47.479 5adc Compacting 4@0 + 1@1 files
+2026/02/12-12:53:47.485 5adc Generated table #45@0: 49 keys, 46796 bytes
+2026/02/12-12:53:47.485 5adc Compacted 4@0 + 1@1 files => 46796 bytes
+2026/02/12-12:53:47.488 5adc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/12-12:53:47.488 5adc Delete type=2 #30
+2026/02/12-12:53:47.490 5adc Delete type=2 #34
+2026/02/12-12:53:47.490 5adc Delete type=2 #37
+2026/02/12-12:53:47.490 5adc Delete type=2 #40
+2026/02/12-12:53:47.490 5adc Delete type=2 #43
+2026/02/12-13:41:42.083 5adc Level-0 table #47: started
+2026/02/12-13:41:42.113 5adc Level-0 table #47: 235379 bytes OK
+2026/02/12-13:41:42.116 5adc Delete type=0 #44
+2026/02/12-13:41:42.132 5adc Manual compaction at level-0 from '!settings!05Az7ztfZX5hsrO2' @ 72057594037927935 : 1 .. '!settings!yy5StgK3T9blZ4bk' @ 0 : 0; will stop at '!settings!yy5StgK3T9blZ4bk' @ 320 : 1
+2026/02/12-13:41:42.132 5adc Compacting 1@0 + 1@1 files
+2026/02/12-13:41:42.140 5adc Generated table #48@0: 131 keys, 62017 bytes
+2026/02/12-13:41:42.140 5adc Compacted 1@0 + 1@1 files => 62017 bytes
+2026/02/12-13:41:42.140 5adc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/12-13:41:42.141 5adc Delete type=2 #45
+2026/02/12-13:41:42.141 5adc Delete type=2 #47
+2026/02/12-13:41:42.240 5adc Manual compaction at level-0 from '!settings!yy5StgK3T9blZ4bk' @ 320 : 1 .. '!settings!yy5StgK3T9blZ4bk' @ 0 : 0; will stop at (end)

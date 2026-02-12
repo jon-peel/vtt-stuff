@@ -1,0 +1,44 @@
+{
+  "_id": "S64Po09DyQOQLLCR",
+  "name": "Apparatus of the Crab",
+  "type": "item",
+  "img": "icons/commodities/tech/metal-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A large (6’ tall, 4’ around) iron barrel which acts as a mechanical aquatic vehicle. Appears like a giant crab when in use.</p><ul><li><p><strong>Secret entry hatch:</strong> A secret entry hatch in one side allows entry to the apparatus.</p></li><li><p><strong>Levers:</strong> Inside the apparatus are a series of levers with the following effects:</p><ol type=\"a\"><li><strong>Extend/retract legs and tail:</strong> With legs and tail extended, the apparatus can move at a rate of 60’ (20’) on land or in water.</li><li><strong>Uncover/cover forward porthole</strong></li><li><strong>Uncover/cover side portholes</strong></li><li><strong>Extend/retract pincers:</strong> When extended, the apparatus can attack.</li><li><strong>Snap pincers:</strong> Two attacks per round, THAC0 19 [0], [[/r 2d6]] damage.</li><li><strong>Move forward/backward</strong></li><li><strong>Turn left/right</strong></li><li><strong>Rise/sink in water</strong></li><li><strong>Open/close eyes:</strong> Project light in a 30’ radius around the apparatus.</li><li><strong>Open/close secret hatch:</strong> When closed, the apparatus is watertight.</li></ol></li><li><p><strong>Combat stats:</strong> The apparatus is treated as a vehicle (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.LbHe6XO6WBsfDseJ.JournalEntryPage.QzjcHbKWy2QPveNh]{Vehicles}) with AC 0 [19] and 40 hull points.</p></li><li><p><strong>Crew:</strong> Up to 2 human-sized people can fit inside the apparatus.</p></li><li><p><strong>Air:</strong> Once sealed, there is air sufficient for [[/r 1d4+1]] hours (twice that if only a single person is inside).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761426810869,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!S64Po09DyQOQLLCR"
+}

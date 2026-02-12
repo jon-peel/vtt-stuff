@@ -1,0 +1,37 @@
+{
+  "name": "Remove Geas",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "8aNAQlwb6L2cOboX",
+  "system": {
+    "description": "<p>Can dispel an active geas spell and any incurred penalties. If the caster of the geas to be nullified is higher level than the character casting remove geas, there is a chance of the spell having no effect. The probability of spell failure is 5% per level the caster is below the caster of geas.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160006005,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8aNAQlwb6L2cOboX"
+}

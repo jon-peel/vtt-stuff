@@ -1,0 +1,44 @@
+{
+  "_id": "7klq5ts3dgNDxkpW",
+  "name": "Arrow of Location",
+  "type": "item",
+  "img": "icons/weapons/ammunition/arrow-broadhead.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 2800000,
+  "flags": {},
+  "system": {
+    "description": "<p>A normal-looking arrow with the power to point the way to certain dungeon features.</p><ul><li><p><strong>Activating:</strong> The arrow must be thrown into the air and the type of feature to be located stated out loud. The arrow falls onto the ground pointing in the direction of the nearest feature of the named type.</p></li><li><p><strong>Types of features:</strong> Dungeon entrance/exit, stairway up, stairway down.</p></li><li><p><strong>Usage frequency:</strong> The direction to a dungeon feature may be requested only once per day. Once the nearest feature has been indicated, the arrow may be thrown up to 7 additional times (at 1 turn intervals) and will indicate the direction to the previously located feature.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761426842505,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7klq5ts3dgNDxkpW"
+}

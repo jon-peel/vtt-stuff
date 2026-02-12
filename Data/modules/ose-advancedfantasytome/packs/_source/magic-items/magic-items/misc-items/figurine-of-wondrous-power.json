@@ -1,0 +1,44 @@
+{
+  "_id": "fXjgsH99tnYAGcmE",
+  "name": "Figurine of Wondrous Power",
+  "type": "item",
+  "img": "icons/commodities/treasure/figurine-owl.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 8700000,
+  "flags": {},
+  "system": {
+    "description": "<p>A miniature (around 1” tall) statuette carved in the form of an animal. Speaking the correct command word and casting the figurine onto the ground causes it to transform into a living animal which obeys the character’s commands.</p><ul><li><p><strong>Returning to figurine:</strong> Repeating the command word returns the animal to its figurine form.</p></li><li><p><strong>If an animal is slain:</strong> It returns to its figurine form.</p></li><li><p><strong>If a figurine is destroyed:</strong> Its magical power is lost irrevocably.</p></li><li><p><strong>Type</strong>: When a figurine is found, determine its type at random using the following table</p></li></ul><table><thead><tr><th>[[/r d20]]</th><th>Type of Figurine</th></tr></thead><tbody><tr><td>1–3</td><td>@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.cgufAY0wODNCuRGY]{Ebony fly}</td></tr><tr><td>4–6</td><td>@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.7LMXJ32K9fmiqWtR]{Pair of golden lions}</td></tr><tr><td>7–8</td><td>Trio of ivory goats (@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.mUDaS8WQyDiBsG02]{travelling}, @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.TZr82u4r9vTMvAyH]{travail}, and @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.e9abFmtP3zxBZGk6]{terror})</td></tr><tr><td>9–11</td><td>@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.VK5j1jMIAUEX8Ots]{Marble elephant}</td></tr><tr><td>12–13</td><td>@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.16EYWliEZozTg98C]{Obsidian steed}</td></tr><tr><td>14–17</td><td>@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.JVvRDddnePumaZKG]{Onyx dog}</td></tr><tr><td>18–20</td><td>@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.lg40TGGq77jw3kHP]{Serpentine owl}</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430962392,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fXjgsH99tnYAGcmE"
+}

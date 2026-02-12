@@ -1,0 +1,44 @@
+{
+  "_id": "WR0hZOF3m2blIj7M",
+  "name": "Horn of Valhalla",
+  "type": "item",
+  "img": "icons/tools/instruments/horn-white-gray.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6700000,
+  "flags": {},
+  "system": {
+    "description": "<p>An engraved metal hunting horn which summons berserkers to fight for the character.</p><ul><li><p><strong>Usage frequency:</strong> Once per week.</p></li><li><p><strong>Type of horn:</strong> When found, roll [[/r 1d100]]{d%} on the table below to determine the exact powers of the horn.</p></li><li><p><strong>Berserkers:</strong> The number of berserkers summoned and their Hit Dice are shown in the table below.</p></li><li><p><strong>Duration:</strong> The berserkers remain until they are slain, have slain their opponents, or 1 hour has passed.</p></li><li><p><strong>Class limitations:</strong> Any character can use the silver horn, but only clerics, fighters, and thieves can use the other types, as indicated in the table below.</p></li><li><p><strong>Characters of other classes:</strong> If a character of a restricted class blows the horn, the summoned berserkers attack them.</p></li></ul><h4><strong>Horn of Valhalla: Type</strong></h4><table><thead><tr><th>[[/r 1d100]]</th><th>Type</th><th>Berserkers Number</th><th>HD</th><th>Classes</th></tr></thead><tbody><tr><td>01–40</td><td>Silver</td><td>[[/r 2d4+2]]</td><td>2</td><td>Any</td></tr><tr><td>41–75</td><td>Brass</td><td>[[/r 2d4+1]]</td><td>3</td><td>C, F, T</td></tr><tr><td>76–90</td><td>Bronze</td><td>[[/r 2d4]]</td><td>4</td><td>C, F</td></tr><tr><td>91–00</td><td>Iron</td><td>[[/r 1d4+1]]</td><td>5</td><td>F</td></tr></tbody></table><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p><strong>Berserker</strong></p><hr><p><strong>AC </strong>4 [15],<strong> HD </strong>2 to 5 (6hp per HD), <strong>Att </strong>1 × weapon ([[/r 1d6]] or by weapon)<strong>, THAC0 </strong>19 [0] (HD 1–3) or 18 [+1] (HD 4–5),<strong> MV </strong>120’ (40’), <strong>SV </strong>D12 W13 P14 B15 S16 (HD 1–3) or D10 W11 P12 B13 S14 (HD 4–5), <strong>ML </strong>12,<strong> AL </strong>Neutral,<strong> XP </strong>10/20/35/75/175</p><ul><li><p><strong>Weapon</strong>: 50% have sword and spear, 50% have battle axe and spear.</p></li></ul></td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "coreVersion": "13.351",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1763365363308,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!WR0hZOF3m2blIj7M"
+}

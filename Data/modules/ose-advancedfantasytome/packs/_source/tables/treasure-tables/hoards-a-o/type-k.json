@@ -1,0 +1,87 @@
+{
+  "name": "Type K",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "180gp average",
+  "results": [
+    {
+      "_id": "2HgAhWkM1jb8PwEM",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 30,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6 * 1000]]sp.",
+      "name": "",
+      "_key": "!tables.results!GUyFLNVqCHqI0xBU.2HgAhWkM1jb8PwEM"
+    },
+    {
+      "_id": "CmL7Y3FYB9kZWQFV",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d2 * 1000]]ep.",
+      "name": "",
+      "_key": "!tables.results!GUyFLNVqCHqI0xBU.CmL7Y3FYB9kZWQFV"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "T0g4kT1b6Y6FcqNt",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    },
+    "ose-dev": {
+      "treasure": true
+    }
+  },
+  "_id": "GUyFLNVqCHqI0xBU",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159980963,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!GUyFLNVqCHqI0xBU"
+}

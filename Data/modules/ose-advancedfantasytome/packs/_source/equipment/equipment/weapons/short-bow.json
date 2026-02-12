@@ -1,0 +1,59 @@
+{
+  "_id": "bhdhASmTAFZ8nwAb",
+  "name": "Short bow",
+  "type": "weapon",
+  "img": "icons/weapons/bows/shortbow-recurve-bone.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Missile (5’–50’ / 51’–100’ / 101’–150’), Two-handed</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 25,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 50,
+      "medium": 100,
+      "long": 150
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686559239637,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bhdhASmTAFZ8nwAb"
+}

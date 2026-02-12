@@ -1,0 +1,46 @@
+{
+  "_id": "5m3hoL6hXUhTuJYX",
+  "name": "Potion of Gaseous Form",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-round-flask-fumes-purple.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The character’s body becomes a cloud of vapour. This has the following effects:</p><ul><li><p><strong>Equipment</strong> <strong>and clothing:</strong> Drops to the floor.</p></li><li><p><strong>Movement:</strong> The character may move, as a cloud of gas, through small cracks in stone walls, wooden objects, etc.</p></li><li><p><strong>Attacking:</strong> Is not possible, while in gaseous form.</p></li><li><p><strong>Invulnerability:</strong> The character’s AC is –2 [21]. Non-magical weapons cannot harm the character.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442566161,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5m3hoL6hXUhTuJYX"
+}

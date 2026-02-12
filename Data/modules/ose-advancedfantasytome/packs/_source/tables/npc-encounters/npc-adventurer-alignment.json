@@ -1,0 +1,106 @@
+{
+  "folder": "JMg9yCBTjqtgSNlB",
+  "name": "NPC Adventurer Alignment",
+  "_id": "88OPAe18VZ176oXF",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "uQEhPBUiVzlAesMY",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lawful",
+      "name": "",
+      "_key": "!tables.results!88OPAe18VZ176oXF.uQEhPBUiVzlAesMY"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_id": "RlGDvDacfQFRvYXJ",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neutral",
+      "name": "",
+      "_key": "!tables.results!88OPAe18VZ176oXF.RlGDvDacfQFRvYXJ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_id": "pkX1zOM8M3y0KY0M",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotic",
+      "name": "",
+      "_key": "!tables.results!88OPAe18VZ176oXF.pkX1zOM8M3y0KY0M"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1686557291622,
+    "modifiedTime": 1686557792631,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "",
+  "_key": "!tables!88OPAe18VZ176oXF"
+}

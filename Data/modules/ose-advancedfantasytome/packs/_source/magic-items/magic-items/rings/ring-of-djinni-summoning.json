@@ -1,0 +1,39 @@
+{
+  "_id": "7qlxg1H3VRCiiCuO",
+  "name": "Ring of Djinni Summoning",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-band-notched-gold.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 400000,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">This ring grants the power to summon a @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.IlVAuyZIpu9XQOyT]{lesser djinni}.</p><ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Duration of service</strong><strong>:</strong> The djinni will serve the character who summoned it for up to 24 hours.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Commands</strong><strong>:</strong> The djinni only obeys the one who summoned it—another character who takes the ring has no power over the djinni.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Usage frequency</strong><strong>:</strong> The ring may be used up to once per day.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443191201,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7qlxg1H3VRCiiCuO"
+}

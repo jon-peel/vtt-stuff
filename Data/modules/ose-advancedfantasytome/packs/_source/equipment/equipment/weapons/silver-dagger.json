@@ -1,0 +1,54 @@
+{
+  "_id": "mRkl492QaMl0FXVW",
+  "name": "Silver dagger",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-double-engraved-black.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Melee, Missile (5’–10’ / 11’–20’ / 21’–30’)</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 10,
+    "cost": 30,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686559248583,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!mRkl492QaMl0FXVW"
+}

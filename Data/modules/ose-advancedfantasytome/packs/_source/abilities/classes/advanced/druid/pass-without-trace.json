@@ -1,0 +1,36 @@
+{
+  "_id": "ELqhfbABPZac9XWP",
+  "name": "Pass Without Trace",
+  "type": "ability",
+  "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>At 3rd level, a druid gains the ability to pass through natural environments without leaving any tracks. The character is also able to move through overgrown areas at normal speed and without impediment.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159955280,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ELqhfbABPZac9XWP"
+}

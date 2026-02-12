@@ -1,0 +1,44 @@
+{
+  "_id": "Arw9tBCDuLj3jX4T",
+  "name": "Gem of Seeing",
+  "type": "item",
+  "img": "icons/commodities/gems/gem-faceted-round-white.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A finely cut, clear gem. Gazing through the gem reveals hidden, enchanted, and invisible things.</p><ul><li><p><strong>Secret doors and traps:</strong> Are revealed.</p></li><li><p><strong>Invisibility:</strong> Invisible objects and creatures are perceived.</p></li><li><p><strong>Illusions:</strong> Are seen through.</p></li><li><p><strong>Enchantments: </strong>Enchanted objects and creatures are made apparent.</p></li><li><p><strong>Range:</strong> Up to 30’.</p></li><li><p><strong>Scanning speed:</strong> An area of 100 square feet (e.g. ten × 10’ squares) can be scanned in one round.</p></li><li><p><strong>Chance of error:</strong> Per usage, there is a [[/br 1d100]]{5%} chance that the gem will provide false information—a hallucination of something which is not really there.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431216750,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Arw9tBCDuLj3jX4T"
+}

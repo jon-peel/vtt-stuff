@@ -1,0 +1,37 @@
+{
+  "_id": "FK0PGM6uiuK9Cnyy",
+  "name": "Protection from Plants and Animals",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "OKlmc2RHuvz6vil1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>An invisible barrier is conjured around the caster’s person, preventing contact by either plants or animals.</p><ul><li><p><strong>Plants or animals:</strong> When this spell is cast, the caster must choose whether the barrier is effective against plants (including plant-like monsters) or animals (normal and giant-sized but excluding fantastic creatures or those of greater than animal intelligence).</p></li><li><p><strong>Range:</strong> The magical barrier extends merely an inch from the caster’s body.</p></li><li><p><strong>Life-forms of the selected type:</strong> Cannot touch or physically attack the caster.</p></li><li><p><strong>Caster’s attacks:</strong> The caster cannot touch or attack affected life-forms except by using spells.</p></li><li><p><strong>A barrier of protection from plants:</strong> May be used to clear a path through dense undergrowth. The path may then be used by others.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Druid",
+    "duration": "1 turn per level",
+    "range": "Se;f",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450098872,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!FK0PGM6uiuK9Cnyy"
+}

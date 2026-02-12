@@ -1,0 +1,36 @@
+{
+  "_id": "SdIh0KNTkUJbwltv",
+  "name": "Climb sheer surfaces (CS)",
+  "type": "ability",
+  "img": "icons/commodities/stone/paver-brick-brown.webp",
+  "effects": [],
+  "folder": "fDczuWe9c6QgC3MN",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A roll is required for each 100’ to be climbed. If the roll fails, the assassin falls at the halfway point, suffering falling damage.</p><hr><table><thead><tr><th>Level</th><th>CS</th></tr></thead><tbody><tr><td>1</td><td>87</td></tr><tr><td>2</td><td>88</td></tr><tr><td>3</td><td>89</td></tr><tr><td>4</td><td>90</td></tr><tr><td>5</td><td>91</td></tr><tr><td>6</td><td>92</td></tr><tr><td>7</td><td>93</td></tr><tr><td>8</td><td>94</td></tr><tr><td>9</td><td>95</td></tr><tr><td>10</td><td>96</td></tr><tr><td>11</td><td>97</td></tr><tr><td>12</td><td>98</td></tr><tr><td>13</td><td>99</td></tr><tr><td>14</td><td>99</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "assassin",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 87,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456804390,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!SdIh0KNTkUJbwltv"
+}

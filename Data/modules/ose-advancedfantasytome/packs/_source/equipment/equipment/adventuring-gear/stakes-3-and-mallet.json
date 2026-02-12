@@ -1,0 +1,39 @@
+{
+  "_id": "a7vJivTZYG1878zP",
+  "name": "Stakes (3) and Mallet",
+  "type": "item",
+  "img": "icons/tools/hand/hammer-and-nail.webp",
+  "effects": [],
+  "folder": "FBxn2Zz0vNSqX0tk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A wooden mallet and three 18” long stakes. Valuable when confronting vampires.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 3,
+      "max": 3
+    },
+    "weight": null,
+    "cost": 3,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "itemslots": 0.66
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.4",
+    "coreVersion": "13.348",
+    "createdTime": null,
+    "modifiedTime": 1758064558747,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!a7vJivTZYG1878zP"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "JD2wM3mm8rHT8ueO",
+  "name": "Languages",
+  "type": "ability",
+  "img": "icons/sundries/books/book-simple-brown.webp",
+  "effects": [],
+  "folder": "PJTniOTejoshi5Zk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Bards learn new languages as they advance in level. At every even numbered level above 3rd (i.e. 4th, 6th, 8th, etc.), the player may choose an additional language. Bards may learn the secret tongue of druids in this way (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.pKRzPpWFHma1Xfnx.JournalEntryPage.29Xp9cn1bBvXf3j1]{Druid}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "bard",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159956788,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!JD2wM3mm8rHT8ueO"
+}

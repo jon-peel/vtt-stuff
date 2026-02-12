@@ -1,0 +1,129 @@
+{
+  "name": "P05. Advancement",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Experience",
+      "type": "text",
+      "_id": "iWvWmewx2x6jNbFt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>All characters who make it through an adventure alive receive experience points (XP), awarded by the referee. XP is gained from two sources: treasure recovered and monsters defeated.</p><h2>Prime Requisite Modifiers</h2><p>Characters receive an XP bonus or penalty based on their score in their class’ prime requisites (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.ZnnIy2UP16cSbkGk#ability-scores]{see Ability Scores}). This modifier is applied to the grand total XP a particular character receives at the end of an adventure.</p><h2>Levelling Up</h2><p>When a character gains enough XP to reach the next experience level, the player should consult the description of the character’s class and note any improvements in saving throws, attack probabilities, spells per day, and other class abilities. If the character’s Hit Dice increase, a new Hit Die of the specified type should be rolled and the result added to the character’s maximum hit point total.</p><h2>Maximum XP in One Session</h2><p>Characters cannot advance more than one level in one session. Any additional XP that would take a character two or more levels above their current level are lost, leaving the character at 1 XP below the total for the next level.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!7N4x3fUq18XFncMM.iWvWmewx2x6jNbFt"
+    },
+    {
+      "sort": 200000,
+      "name": "Level Titles",
+      "type": "text",
+      "_id": "fk56a2g31MQjXPrI",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>In some campaigns, characters gain the right to bear certain titles as they advance in level. Such titles may be granted by the guilds, colleges, or temples that PCs are associates of. Level titles often vary greatly between campaign worlds, but the following lists may be used as inspiration:</p><h2>Acrobat</h2><ul><li><p>Apprentice</p></li><li><p>Tumbler</p></li><li><p>Jumper</p></li><li><p>Gymnast</p></li><li><p>Vaulter</p></li><li><p>Leaper</p></li><li><p>Aerialist</p></li><li><p>Acrobat</p></li><li><p>Master Acrobat</p></li></ul><h2>Assassin</h2><ul><li><p>Bravo</p></li><li><p>Rutterkin</p></li><li><p>Waghalter</p></li><li><p>Murderer</p></li><li><p>Thug</p></li><li><p>Killer</p></li><li><p>Cutthroat</p></li><li><p>Executioner</p></li><li><p>Assassin</p></li></ul><h2>Barbarian</h2><ul><li><p>Hunter</p></li><li><p>Huntsmaster (Huntsmistress)</p></li><li><p>Barbarian Warrior</p></li><li><p>Barbarian Hero</p></li><li><p>Berserker</p></li><li><p>Barbarian Champion</p></li><li><p>Horde Master (Mistress)</p></li><li><p>Conqueror</p></li><li><p>Barbarian Lord (Lady)</p></li></ul><h2>Bard</h2><ul><li><p>Rhymer</p></li><li><p>Lyricist</p></li><li><p>Sonnateer</p></li><li><p>Skald</p></li><li><p>Troubadour</p></li><li><p>Minstrel</p></li><li><p>Muse</p></li><li><p>Lorist</p></li><li><p>Bard</p></li></ul><h2>Cleric</h2><ul><li><p>Acolyte</p></li><li><p>Adept</p></li><li><p>Priest(ess)</p></li><li><p>Vicar</p></li><li><p>Curate</p></li><li><p>Elder</p></li><li><p>Bishop</p></li><li><p>Lama</p></li><li><p>Patriarch (Matriarch)</p></li></ul><h2>Drow</h2><ul><li><p>Acolyte/Veteran</p></li><li><p>Adept/Warrior</p></li><li><p>Priest(ess)/Swordmaster</p></li><li><p>Vicar/Hero</p></li><li><p>Curate/Swashbuckler</p></li><li><p>Elder/Myrmidon</p></li><li><p>Bishop/Champion</p></li><li><p>Lama/Superhero</p></li><li><p>Patriarch (Matriarch)/Lord (Lady)</p></li></ul><h2>Druid</h2><ul><li><p>Aspirant</p></li><li><p>Ovate</p></li><li><p>Initiate of the 1st Circle</p></li><li><p>Initiate of the 2nd Circle</p></li><li><p>Initiate of the 3rd Circle</p></li><li><p>Initiate of the 4th Circle</p></li><li><p>Initiate of the 5th Circle</p></li><li><p>Initiate of the 6th Circle</p></li><li><p>Druid</p></li></ul><h2>Duergar</h2><ul><li><p>Skulk</p></li><li><p>Prowler</p></li><li><p>Scavenger</p></li><li><p>Warden</p></li><li><p>Mentalist</p></li><li><p>Kineticist</p></li><li><p>Vanisher</p></li><li><p>Duergar Champion</p></li><li><p>Duergar Lord (Lady)</p></li></ul><h2>Dwarf</h2><ul><li><p>Dwarven Veteran</p></li><li><p>Dwarven Warrior</p></li><li><p>Dwarven Swordmaster</p></li><li><p>Dwarven Hero</p></li><li><p>Dwarven Swashbuckler</p></li><li><p>Dwarven Myrmidon</p></li><li><p>Dwarven Champion</p></li><li><p>Dwarven Superhero</p></li><li><p>Dwarven Lord (Lady)</p></li></ul><h2>Elf</h2><ul><li><p>Medium/Veteran</p></li><li><p>Seer/Warrior</p></li><li><p>Conjurer/Swordmaster</p></li><li><p>Magician/Hero</p></li><li><p>Enchanter (Enchantress)/Swashbuckler</p></li><li><p>Warlock (Witch)/Myrmidon</p></li><li><p>Sorcerer (Sorceress)/Champion</p></li><li><p>Necromancer/Superhero</p></li><li><p>Wizard/Lord (Lady)</p></li></ul><h2>Fighter</h2><ul><li><p>Veteran</p></li><li><p>Warrior</p></li><li><p>Swordmaster</p></li><li><p>Hero</p></li><li><p>Swashbuckler</p></li><li><p>Myrmidon</p></li><li><p>Champion</p></li><li><p>Superhero</p></li><li><p>Lord (Lady).</p></li></ul><h2>Gnome</h2><ul><li><p>Gnome Prestidigitator</p></li><li><p>Minor Gnome Trickster</p></li><li><p>Gnome Trickster</p></li><li><p>Master Gnome Trickster</p></li><li><p>Gnome Cabalist</p></li><li><p>Gnome Visionist</p></li><li><p>Gnome Phantasmist</p></li><li><p>Gnome Apparitionist</p></li><li><p>Gnome Spellbinder</p></li><li><p>Gnome Illusionist</p></li></ul><h2>Half-Elf</h2><ul><li><p>Veteran</p></li><li><p>Warrior/Medium</p></li><li><p>Swordmaster/Seer</p></li><li><p>Hero/Seer</p></li><li><p>Swashbuckler/Conjurer</p></li><li><p>Myrmidon/Magician</p></li><li><p>Champion/Magician</p></li><li><p>Superhero/Enchanter (Enchantress)</p></li><li><p>Lord (Lady)/Warlock (Witch)</p></li></ul><h2>Halfling</h2><ul><li><p>Halfling Veteran</p></li><li><p>Halfling Warrior</p></li><li><p>Halfling Swordmaster</p></li><li><p>Halfling Hero</p></li><li><p>Halfling Swashbuckler</p></li><li><p>Halfling Myrmidon</p></li><li><p>Halfling Champion</p></li><li><p>Sheriff</p></li></ul><h2>Half-Orc</h2><ul><li><p>Outlaw</p></li><li><p>Pickpocket</p></li><li><p>Brigand</p></li><li><p>Bandit</p></li><li><p>Raider</p></li><li><p>Pillager</p></li><li><p>Marauder</p></li><li><p>Plunderer</p></li><li><p>Bandit Lord (Lady)</p></li></ul><h2>Illusionist</h2><ul><li><p>Prestidigitator</p></li><li><p>Minor Trickster</p></li><li><p>Trickster</p></li><li><p>Master Trickster</p></li><li><p>Cabalist</p></li><li><p>Visionist</p></li><li><p>Phantasmist</p></li><li><p>Apparitionist</p></li><li><p>Spellbinder</p></li><li><p>Illusionist</p></li></ul><h2>Knight</h2><ul><li><p>Rider</p></li><li><p>Lancer</p></li><li><p>Armiger</p></li><li><p>Scutifer</p></li><li><p>Esquire</p></li><li><p>Knight Errant</p></li><li><p>Knight Bachelor</p></li><li><p>Knight</p></li><li><p>Knightly Lord (Lady)</p></li></ul><h2>Magic-User</h2><ul><li><p>Medium</p></li><li><p>Seer</p></li><li><p>Conjurer</p></li><li><p>Magician</p></li><li><p>Enchanter (Enchantress)</p></li><li><p>Warlock (Witch)</p></li><li><p>Sorcerer (Sorceress)</p></li><li><p>Necromancer</p></li><li><p>Wizard</p></li></ul><h2>Paladin</h2><ul><li><p>Gallant</p></li><li><p>Keeper</p></li><li><p>Protector</p></li><li><p>Defender</p></li><li><p>Warder</p></li><li><p>Guardian</p></li><li><p>Chevalier</p></li><li><p>Justiciar</p></li><li><p>Paladin</p></li></ul><h2>Ranger</h2><ul><li><p>Runner</p></li><li><p>Strider</p></li><li><p>Scout</p></li><li><p>Courser</p></li><li><p>Tracker</p></li><li><p>Guide</p></li><li><p>Pathfinder</p></li><li><p>Ranger</p></li><li><p>Ranger Knight</p></li></ul><h2>Svirfneblin</h2><ul><li><p>Miner</p></li><li><p>Tunneller</p></li><li><p>Delver</p></li><li><p>Prospector</p></li><li><p>Excavator</p></li><li><p>Seeker</p></li><li><p>Gem Hunter</p></li><li><p>Stonespeaker</p></li><li><p>Svirfneblin Lord (Lady)</p></li></ul><h2>Thief</h2><ul><li><p>Apprentice</p></li><li><p>Footpad</p></li><li><p>Robber</p></li><li><p>Burglar</p></li><li><p>Cutpurse</p></li><li><p>Sharper</p></li><li><p>Pilferer</p></li><li><p>Thief</p></li><li><p>Master Thief</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!7N4x3fUq18XFncMM.fk56a2g31MQjXPrI"
+    },
+    {
+      "sort": 300000,
+      "name": "Wealth",
+      "type": "text",
+      "_id": "Cwhky2oVbK58aCxd",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Successful characters accumulate wealth from the spoils of their adventures. Treasure may take many forms, but often the most useful form of treasure is money.</p><h2>Money</h2><p>The most common coin is the gold piece (gp). Coins made of other metals—platinum (pp), electrum (ep), silver (sp), and copper (cp)—are also used. The conversion rates of coins are shown above.</p><h2>Starting Money</h2><p>PCs begin play with [[/r 3d6*10]] gold pieces.</p><h2>Inheritance</h2><p>Faced with the possibility of character death, players may wish to create a will for their characters, to leave wealth behind for an heir. If the referee allows this, the following stipulations apply:</p><ul><li><p><strong>Tax</strong>: Any treasure left as an inheritance will be taxed at 10%.</p></li><li><p><strong>Heir</strong>: A character’s heir must be a new 1st level character.</p></li><li><p><strong>Once only</strong>: A player may only leave a character inheritance once.</p></li></ul><h2>Domains</h2><p>When characters have amassed sufficient wealth, they will often wish to construct a base or stronghold and possibly found a domain.</p><p>@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.9vgvFXRsnlP9wHP7]{See Strongholds} for full rules on building a stronghold and founding a domain.</p><h3><strong>Coin Conversion Rates</strong></h3><table style=\"height:102px\" border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:186px\"><p> </p></td><td style=\"height:17px;width:100px\"><p><strong>1 pp</strong></p></td><td style=\"height:17px;width:100px\"><p><strong>1 gp</strong></p></td><td style=\"height:17px;width:97px\"><p><strong>1 ep</strong></p></td><td style=\"height:17px;width:98px\"><p><strong>1 sp</strong></p></td><td style=\"height:17px;width:98px\"><p><strong>1 cp</strong></p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:186px\"><p><strong>Value In pp</strong></p></td><td style=\"height:17px;width:100px\"><p>1</p></td><td style=\"height:17px;width:100px\"><p>1/5</p></td><td style=\"height:17px;width:97px\"><p>1/10</p></td><td style=\"height:17px;width:98px\"><p>1/50</p></td><td style=\"height:17px;width:98px\"><p>1/500</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:186px\"><p><strong>Value In gp</strong></p></td><td style=\"height:17px;width:100px\"><p>5</p></td><td style=\"height:17px;width:100px\"><p>1</p></td><td style=\"height:17px;width:97px\"><p>1/2</p></td><td style=\"height:17px;width:98px\"><p>1/10</p></td><td style=\"height:17px;width:98px\"><p>1/100</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:186px\"><p><strong>Value In ep </strong></p></td><td style=\"height:17px;width:100px\"><p>10</p></td><td style=\"height:17px;width:100px\"><p>2</p></td><td style=\"height:17px;width:97px\"><p>1</p></td><td style=\"height:17px;width:98px\"><p>1/5</p></td><td style=\"height:17px;width:98px\"><p>1/50</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:186px\"><p><strong>Value In sp</strong></p></td><td style=\"height:17px;width:100px\"><p>50</p></td><td style=\"height:17px;width:100px\"><p>10</p></td><td style=\"height:17px;width:97px\"><p>5</p></td><td style=\"height:17px;width:98px\"><p>1</p></td><td style=\"height:17px;width:98px\"><p>1/10</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:186px\"><p><strong>Value In cp</strong></p></td><td style=\"height:17px;width:100px\"><p>500</p></td><td style=\"height:17px;width:100px\"><p>100</p></td><td style=\"height:17px;width:97px\"><p>50</p></td><td style=\"height:17px;width:98px\"><p>10</p></td><td style=\"height:17px;width:98px\"><p>1</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!7N4x3fUq18XFncMM.Cwhky2oVbK58aCxd"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "7N4x3fUq18XFncMM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!7N4x3fUq18XFncMM"
+}

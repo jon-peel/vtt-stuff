@@ -1,0 +1,37 @@
+{
+  "name": "Lightning Bolt",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "BdLXnWDLUqFCG47T",
+  "sort": 0,
+  "flags": {},
+  "_id": "anWBslOOlZtV47ut",
+  "system": {
+    "description": "<p>A powerful stroke of electrical energy, 60’ long and 5’ wide, is conjured.</p><ul><li><p><strong>Damage:</strong> Creatures caught in the lightning bolt suffer [[/r 1d6]] damage per level of the caster, with a <strong>successful save versus spells</strong> indicating half damage.</p></li><li><p><strong>Bouncing:</strong> If the lightning bolt hits a solid barrier before its full length is reached, it is reflected and travels for any remaining distance of its full length in the direction of the caster.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "180'",
+    "roll": "1d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453608870,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!anWBslOOlZtV47ut"
+}

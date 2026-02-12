@@ -1,0 +1,184 @@
+{
+  "name": "Reincarnation: Lawful Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Reincarnation: Lawful Monsters",
+  "results": [
+    {
+      "_id": "2pxmyvo20TWS67YH",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gnome",
+      "name": "",
+      "_key": "!tables.results!mPB3PpcVdqhHykSc.2pxmyvo20TWS67YH"
+    },
+    {
+      "_id": "EqJqptnpfSVzN6X7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neanderthal",
+      "name": "",
+      "_key": "!tables.results!mPB3PpcVdqhHykSc.EqJqptnpfSVzN6X7"
+    },
+    {
+      "_id": "zdjgiFJq8frsCfPu",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pegasus",
+      "name": "",
+      "_key": "!tables.results!mPB3PpcVdqhHykSc.zdjgiFJq8frsCfPu"
+    },
+    {
+      "_id": "M5wbyKbKX00f9XKs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blink Dog",
+      "name": "",
+      "_key": "!tables.results!mPB3PpcVdqhHykSc.M5wbyKbKX00f9XKs"
+    },
+    {
+      "_id": "wYa0xVi8zE5YUB4B",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unicorn",
+      "name": "",
+      "_key": "!tables.results!mPB3PpcVdqhHykSc.wYa0xVi8zE5YUB4B"
+    },
+    {
+      "_id": "kFKUm4p1cevcWwCz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roc, small",
+      "name": "",
+      "_key": "!tables.results!mPB3PpcVdqhHykSc.kFKUm4p1cevcWwCz"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "bQ0spjafhnW3IDHf",
+  "sort": 400000,
+  "flags": {},
+  "_id": "mPB3PpcVdqhHykSc",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686550622068,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!mPB3PpcVdqhHykSc"
+}

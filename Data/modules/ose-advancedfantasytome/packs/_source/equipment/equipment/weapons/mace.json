@@ -1,0 +1,59 @@
+{
+  "_id": "GbDkJZ6wQW4O08ut",
+  "name": "Mace",
+  "type": "weapon",
+  "img": "icons/weapons/maces/mace-flanged-steel.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Blunt, Melee</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 5,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686554545995,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GbDkJZ6wQW4O08ut"
+}

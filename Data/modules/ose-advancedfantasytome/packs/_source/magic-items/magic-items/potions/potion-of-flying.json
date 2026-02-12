@@ -1,0 +1,46 @@
+{
+  "_id": "UgoHHhJ8SH53kGBh",
+  "name": "Potion of Flying",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Grants the ability to fly through the air.</p><ul><li><p><strong>Movement rate:</strong> Up to 360’ (120’).</p></li><li><p><strong>Free movement:</strong> Is possible in any direction, including the ability to levitate and to hover in mid-air.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442557008,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UgoHHhJ8SH53kGBh"
+}

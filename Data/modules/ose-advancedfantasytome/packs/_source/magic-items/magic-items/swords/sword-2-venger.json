@@ -1,0 +1,54 @@
+{
+  "name": "Sword +2, Venger",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-guard-split-eyes.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 3300000,
+  "flags": {},
+  "_id": "ycm5rKxkrA9I1l8b",
+  "system": {
+    "description": "<p>Magically attacks any opponent that attacked the wielder.</p><ul><li><p><strong>Initiative:</strong> When wielding this sword in combat, the character always attacks last in the round, as if they had lost initiative.</p></li><li><p><strong>Revenge attacks:</strong> In addition to the character’s normal attack, they may make an extra attack with the sword against any opponent who attacked them in melee this round. Each revenge attack requires an attack roll and, if it hits, inflicts normal damage.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 2,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445850130,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ycm5rKxkrA9I1l8b"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Speak with Burrowing Mammals",
+  "type": "ability",
+  "img": "icons/creatures/mammals/rabbit-movement-glowing-green.webp",
+  "effects": [],
+  "folder": "QflRm48M1NqflUIJ",
+  "flags": {},
+  "system": {
+    "description": "<p>Gnomes often keep burrowing mammals such as badgers and moles as pets. They know the secret language of such creatures.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685802665340,
+    "modifiedTime": 1685802665340,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "NhjjmPTa0wXIgtMu",
+  "sort": 0,
+  "_key": "!items!NhjjmPTa0wXIgtMu"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Charm Person",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "F0F0H7j4BhA5Y1bW",
+  "sort": 0,
+  "flags": {},
+  "_id": "6lObpwj8PggapAQ8",
+  "system": {
+    "description": "<div title=\"Page 192\"><div><div><div><p>A single human, demihuman, or human-like monster (see @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.qKCtpqyJ3bLM4QhB#persons]{Persons}) must <strong>save versus spells</strong> or be charmed, as follows:</p><ul><li><strong>Friendship:</strong> The subject regards the caster as its trusted friend and ally and will come to the caster’s defence.</li><li><strong>Commands:</strong> If they share a language, the caster may give the charmed creature commands, which it will obey.</li><li><strong>Subject’s nature:</strong> Commands that contradict the charmed creature’s habits or alignment may be ignored.</li><li><strong>Suicidal commands:</strong> An affected creature never obeys suicidal or obviously harmful orders.</li></ul><p><strong>Restrictions:</strong> Human-like monsters of greater than 4+1 HD (see @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.9J6NYLwxAZd4yWBj#hit-dice-(hd)]{Hit point modifiers}) and undead are not affected.</p><p><strong>Duration: </strong>The charm lasts indefinitely, but the subject is allowed to make further <strong>saves versus spells</strong> at intervals, depending on its INT score. If one of these saves succeeds, the spell ends<strong>.</strong></p><ul><li><strong>INT 3–8:</strong> New save once every month.</li><li><strong>INT 9–12:</strong> New save each week.</li><li><strong>INT 13–18:</strong> New save once every day.</li></ul></div></div></div></div>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "1+ day",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452772534,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6lObpwj8PggapAQ8"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "5cUqR0wagelqIDIN",
+  "name": "Commune with Nature",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "OKlmc2RHuvz6vil1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The caster enters into a trance of communion with the natural world.</p><ul><li><p><strong>During the trance:</strong> Over 1 turn, one fact about the surrounding land is revealed to the caster per experience level.</p></li><li><p><strong>Facts:</strong> Knowledge of one of the following, in a certain direction: the terrain, bodies of water, plants, animals, minerals, or resident intelligent creatures.</p></li><li><p><strong>Restrictions:</strong> The spell has no effect if cast underground or in a non-natural environment.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Druid",
+    "duration": "1 turn",
+    "range": "Half a mile per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450045221,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5cUqR0wagelqIDIN"
+}

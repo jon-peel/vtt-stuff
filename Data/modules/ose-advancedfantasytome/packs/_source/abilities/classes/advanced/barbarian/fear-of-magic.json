@@ -1,0 +1,36 @@
+{
+  "_id": "UajAB2ZFOcz5ui7W",
+  "name": "Fear of Magic",
+  "type": "ability",
+  "img": "icons/magic/perception/orb-eye-scrying.webp",
+  "effects": [],
+  "folder": "cOt7bmTx1Q2WSYbw",
+  "sort": 600000,
+  "flags": {},
+  "system": {
+    "description": "<p>Barbarians are mistrustful of magic and will refuse to knowingly use or come under the influence of spells or magic items. Barbarians will accept divine magic associated with their tribal religion.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "barbarian",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456948172,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UajAB2ZFOcz5ui7W"
+}

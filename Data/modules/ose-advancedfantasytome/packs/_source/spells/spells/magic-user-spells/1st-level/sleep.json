@@ -1,0 +1,37 @@
+{
+  "name": "Sleep",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "F0F0H7j4BhA5Y1bW",
+  "sort": 0,
+  "flags": {},
+  "_id": "dveLSy07phQ7Ncxg",
+  "system": {
+    "description": "<p>A <em>sleep</em> spell causes a magical slumber to come upon creatures, excluding the undead. The spell may target either:</p><ol><li>A single creature with 4+1 Hit Dice.</li><li>A total of [[/r 2d8]] Hit Dice of creatures of 4 HD or lower each.</li></ol><p>When targeting creatures of 4 HD or less, the following rules apply:</p><ul><li><strong>Weakest first:</strong> Targets with the least HD are affected first.</li><li><strong>HD:</strong> Treat monsters with less than 1 HD as having 1 HD and monsters with a fixed hit point bonus as having the flat HD. (For example, a 3+2 HD monster would be treated as having 3 HD.)</li><li><strong>Excess:</strong> Rolled Hit Dice that are not sufficient to affect a creature are wasted.</li><li><strong>Killing:</strong> Creatures enchanted by this spell are helpless and can be killed instantly with a bladed weapon.</li><li><strong>Awakening:</strong> Slapping or wounding awakens an affected creature.</li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "4d4 turns",
+    "range": "240'",
+    "roll": "4d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452966689,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!dveLSy07phQ7Ncxg"
+}

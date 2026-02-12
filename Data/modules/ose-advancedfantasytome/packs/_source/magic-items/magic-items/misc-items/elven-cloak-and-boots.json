@@ -1,0 +1,44 @@
+{
+  "_id": "qScDhRQJp8nlgU2r",
+  "name": "Elven Cloak and Boots",
+  "type": "item",
+  "img": "icons/equipment/back/cloak-layered-green-brown.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A set of enchanted boots and a matching cloak, of elven origin.</p><ul><li><p><strong>Stealth:</strong> The wearer of the boots is able to move silently.</p></li><li><p><strong>Near invisibility:</strong> The wearer of the cloak is rendered almost invisible: there is only a [[/br 1d6]]{1-in-6} chance of them being spotted.</p></li><li><p><strong>Attacking:</strong> The cloak’s power of invisibility is nullified for one turn, if the wearer attacks.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430348690,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qScDhRQJp8nlgU2r"
+}

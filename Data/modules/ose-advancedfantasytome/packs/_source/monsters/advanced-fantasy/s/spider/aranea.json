@@ -1,0 +1,377 @@
+{
+  "name": "Aranea",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/spider%2C%20giant%2C%20aranea%20-%20juan%20brass%20-%20c%202025%20ng.webp",
+  "items": [
+    {
+      "_id": "i2o6h84mtlhhl489",
+      "flags": {},
+      "name": "Poison",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "sort": 100000,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Causes death in 1 turn (<strong>save versus poison with a –2 penalty</strong>).</p>",
+        "save": "death",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762141092857
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!aZfwib5wulc1VFmn.i2o6h84mtlhhl489"
+    },
+    {
+      "_id": "u01456glmkd2zci9",
+      "flags": {},
+      "name": "Arcane spells",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "sort": 100000,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Can cast spells as a 3rd level magic-user. Avoid using fire-based magic.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!aZfwib5wulc1VFmn.u01456glmkd2zci9"
+    },
+    {
+      "_id": "y0ylss0uvned3djw",
+      "flags": {},
+      "name": "Webs",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "sort": 100000,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Creatures caught in webs become entangled and unable to move. Breaking free depends on Strength: [[/r 2d4]] turns for strength in the normal human range; 4 rounds for strength above 18; 2 rounds for creatures with giant strength. The webs can be destroyed by fire in two rounds. All creatures in a flaming web suffer [[/r 1d6]] points of damage</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762141122671
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!aZfwib5wulc1VFmn.y0ylss0uvned3djw"
+    },
+    {
+      "_id": "0pc95liahd3fn5sm",
+      "flags": {},
+      "name": "Bite",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "sort": 0,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "1d6 + poison",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "death",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!aZfwib5wulc1VFmn.0pc95liahd3fn5sm"
+    }
+  ],
+  "effects": [],
+  "folder": "esOToFHzTlJM1XUR",
+  "flags": {},
+  "_id": "aZfwib5wulc1VFmn",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "3d8",
+      "value": 13,
+      "max": 13
+    },
+    "ac": {
+      "value": 7,
+      "mod": 0
+    },
+    "aac": {
+      "value": 12,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 17,
+      "bba": 2,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 13
+      },
+      "wand": {
+        "value": 14
+      },
+      "paralysis": {
+        "value": 13
+      },
+      "breath": {
+        "value": 16
+      },
+      "spell": {
+        "value": 15
+      }
+    },
+    "movement": {
+      "base": 180,
+      "encounter": "60"
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": true
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#spider,-aranea]{Spider, Aranea}</p><p>6’ long, intelligent, magical spiders of greenish-black colouration. Have an odd lump on the back, housing the large brain. Two front legs have digits, allowing an aranea to grasp tools. Dwell in webfilled lairs where they conduct magical research.</p>",
+      "alignment": "Neutral",
+      "xp": "65",
+      "specialAbilities": "2",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.8TKXVQrjVzO23wCT]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1d3",
+        "w": "1d6"
+      },
+      "morale": "7",
+      "movement": "180’ (60’) / 150’ (50’) in webs"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {
+      "ignoreBonusDamage": false,
+      "enableInventory": false
+    }
+  },
+  "prototypeToken": {
+    "name": "Aranea",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 0.25,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "color": null,
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/aranea.Token.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925312523,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!aZfwib5wulc1VFmn"
+}

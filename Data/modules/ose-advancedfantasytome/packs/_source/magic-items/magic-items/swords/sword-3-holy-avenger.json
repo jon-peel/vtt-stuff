@@ -1,0 +1,54 @@
+{
+  "name": "Sword +3, Holy Avenger",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-gold-holy.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 2300000,
+  "flags": {},
+  "_id": "emGrNgQbIe9F5u4P",
+  "system": {
+    "description": "<p>A holy sword which grants special bonuses to lawful characters of classes which can cast clerical spells.</p><ul><li><p><strong>Save bonus:</strong> The wielder gains a +4 bonus to saves against magic.</p></li><li><p><strong>Used against chaotic creatures:</strong> Inflicts double damage.</p></li><li><p><strong>Used by other lawful characters:</strong> The sword functions as a +1 sword, without the other advantages described above.</p></li><li><p><strong>Touched by a non-lawful character:</strong> The sword inflicts [[/r 1d6]] damage per round to neutral characters and [[/r 2d6]] per round to chaotic characters.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 3,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445883722,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!emGrNgQbIe9F5u4P"
+}

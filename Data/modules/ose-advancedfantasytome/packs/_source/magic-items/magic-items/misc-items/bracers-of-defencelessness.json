@@ -1,0 +1,44 @@
+{
+  "_id": "bzkMeX8YxFjUiX6Z",
+  "name": "Bracers of Defencelessness",
+  "type": "item",
+  "img": "icons/equipment/wrist/bracer-straight-steel-black.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 7700000,
+  "flags": {},
+  "system": {
+    "description": "<p>Cursed wrist-guards which seem to grant the wearer protection as if they were wearing armour, but actually render them defenceless.</p><ul><li><p><strong>When initially worn:</strong> The bracers grant an AC of 5 [14], as long as the character wears no armour.</p></li><li><p><strong>Dangerous combat:</strong> Once the wearer is in a dangerous combat situation, the bracers’ curse activates.</p></li><li><p><strong>Curse of defencelessness:</strong> Once the curse is activated, the wearer’s AC is 9 [10]. Any bonuses due to DEX or other magical protections are negated.</p></li><li><p><strong>Removing:</strong> Once the curse is active, the character cannot remove the bracers. The curse can only be removed by magic (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.zXFADd6L1nzS6uzq]{remove curse}</em>).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427314895,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bzkMeX8YxFjUiX6Z"
+}

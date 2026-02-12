@@ -1,0 +1,217 @@
+{
+  "id": "osr-character-builder",
+  "title": "OSR Character Builder",
+  "description": "A character builder for OSE",
+  "authors": [
+    {
+      "name": "Rabid Owlbear",
+      "url": "https://github.com/RabidOwlbear",
+      "flags": {}
+    }
+  ],
+  "version": "0.4.2",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "styles": [
+    "styles/main.css"
+  ],
+  "socket": true,
+  "esmodules": [
+    "scripts/init.mjs"
+  ],
+  "packs": [
+    {
+      "name": "osr-srd-class-options-en",
+      "label": "OSE SRD Class Options (en)",
+      "path": "packs/osr-srd-class-options.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-class-options-cn",
+      "label": "OSE SRD Class Options (cn)",
+      "path": "packs/osr-srd-class-options-cn.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-class-options-es",
+      "label": "OSE SRD Class Options (es)",
+      "path": "packs/osr-srd-class-options-es.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-items-en",
+      "label": "OSE SRD items (en)",
+      "path": "packs/osr-srd-items.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-items-cn",
+      "label": "OSE SRD items (cn)",
+      "path": "packs/osr-srd-items-cn.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-items-es",
+      "label": "OSE SRD items (es)",
+      "path": "packs/osr-srd-items-es.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-spells-en",
+      "label": "OSE SRD Spells (en)",
+      "path": "packs/osr-srd-spells.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+     {
+      "name": "osr-srd-spells-cn",
+      "label": "OSE SRD Spells (cn)",
+      "path": "packs/osr-srd-spells-cn.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-spells-es",
+      "label": "OSE SRD Spells (es)",
+      "path": "packs/osr-srd-spells-es.db",
+      "type": "Item",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-classes-en",
+      "label": "OSE SRD Classes (en)",
+      "path": "packs/osr-srd-classes.db",
+      "type": "JournalEntry",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-classes-cn",
+      "label": "OSE SRD Classes (cn)",
+      "path": "packs/osr-srd-classes-cn.db",
+      "type": "JournalEntry",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-srd-classes-es",
+      "label": "OSE SRD Classes (es)",
+      "path": "packs/osr-srd-classes-es.db",
+      "type": "JournalEntry",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "osr-character-builder-macros-en",
+      "label": "OSR Character Builder Macros",
+      "path": "packs/macros.db",
+      "type": "Macro",
+      "system": "ose",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+  {
+    "name": "OSRCB Compendiums",
+    "color": "#732f92",
+    "sorting": "m",
+    "packs": ["osr-character-builder-macros-en"],
+    "folders": [
+      {
+        "name": "en",
+        "color": "#542868",
+        "sorting": "a",
+        "packs": ["osr-srd-class-options-en", "osr-srd-items-en", "osr-srd-spells-en", "osr-srd-classes-en"]
+      },
+      {
+        "name": "es",
+        "color": "#542868",
+        "sorting": "a",
+        "packs": ["osr-srd-class-options-es", "osr-srd-items-es", "osr-srd-spells-es", "osr-srd-classes-es"]
+      },
+      {
+        "name": "cn",
+        "color": "#542868",
+        "sorting": "a",
+        "packs": ["osr-srd-class-options-cn", "osr-srd-items-cn", "osr-srd-spells-cn", "osr-srd-classes-cn"]
+      }
+    ]
+  }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "path": "lang/es.json",
+      "flags": {}
+    },
+    {
+      "lang": "cn",
+      "name": "中文",
+      "path": "lang/cn.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "ose-dev",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "bfs",
+        "type": "system",
+        "compatibility": {}
+      }
+
+    ],
+    "requires": []
+  },
+  "url": "https://github.com/RabidOwlbear/osr-character-builder",
+  "manifest": "https://raw.githubusercontent.com/RabidOwlbear/osr-character-builder/refs/heads/v0.4.2/module.json",
+  "download": "https://github.com/RabidOwlbear/osr-character-builder/archive/refs/heads/v0.4.2.zip",
+  "readme": "README.md"
+}

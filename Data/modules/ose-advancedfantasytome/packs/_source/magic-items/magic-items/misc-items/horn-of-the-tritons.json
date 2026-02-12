@@ -1,0 +1,44 @@
+{
+  "_id": "jNSa4pB4wyjYkv9D",
+  "name": "Horn of the Tritons",
+  "type": "item",
+  "img": "icons/tools/instruments/horn-white-gray.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9600000,
+  "flags": {},
+  "system": {
+    "description": "<div><p>A large conch shell which has power over marine animals and the seas. Each time it is sounded, one of the following effects may be invoked.</p><ul><li><p><strong>Calm rough seas</strong>: In a 1-mile radius.</p></li><li><p><strong>Summon mounts</strong>: [[/r 6d6]] @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.02MphjbF8SwuWPJW]{hippocampi} or @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.Xj5wCK3TcyoEEduD]{giant sea horses} arrive to obey the character’s commands. (Only functions in waters where such animals live.)</p></li><li><p><strong>Panic</strong>: Causes marine animals within 240’ to flee for [[/r 3d6]] turns (<strong>save versus spells</strong>).</p></li><li><p><strong>Usage frequency</strong>: Once per day. (Tritons may blow the horn up to 3 times per day.)</p></li><li><p><strong>Tritons alerted</strong>: All tritons within 3 miles hear the sounding of the horn.</p></li></ul></div>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431574267,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!jNSa4pB4wyjYkv9D"
+}

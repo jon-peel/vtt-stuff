@@ -1,0 +1,19 @@
+{
+  "name": "Human",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "otP6QZG33uYp97El",
+  "sort": 0,
+  "color": "#00de14",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460525827,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!otP6QZG33uYp97El"
+}

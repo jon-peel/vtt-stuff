@@ -1,0 +1,37 @@
+{
+  "name": "False Aura",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "6myl9UJvzNcU8Vjy",
+  "sort": 0,
+  "flags": {},
+  "_id": "a6zLSeH8d0K03hIs",
+  "system": {
+    "description": "<p>The aura of a creature or object is veiled.</p>\n<p>▶ <strong>Detection spells</strong>: (e.g. detect magic, detect evil) are deflected, revealing another creature or object nearby.</p>\n<p>▶ <strong>Divination spells</strong>: (e.g. know alignment) cast upon the subject reveal the opposite to the truth.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Illusionist",
+    "duration": "1 turn",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160025510,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!a6zLSeH8d0K03hIs"
+}

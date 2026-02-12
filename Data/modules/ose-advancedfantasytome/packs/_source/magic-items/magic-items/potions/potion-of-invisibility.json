@@ -1,0 +1,46 @@
+{
+  "_id": "kY4z98WhfIV8N7pT",
+  "name": "Potion of Invisibility",
+  "type": "item",
+  "img": "icons/consumables/potions/potion-vial-corked-purple.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Drinking this potion, the character becomes invisible. This works the same as the magic-user spell <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.1YF6jV01OkoNViec]{Invisibility}</em>. The standard potion duration applies.</p><ul><li><p><strong>Small doses:</strong> At the referee’s discretion, a potion of invisibility may be consumed in six smaller doses, each with a reduced duration.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442874706,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kY4z98WhfIV8N7pT"
+}

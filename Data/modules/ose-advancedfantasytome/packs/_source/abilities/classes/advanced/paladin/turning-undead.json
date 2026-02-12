@@ -1,0 +1,36 @@
+{
+  "_id": "bbdaxw4xo1YoGTwv",
+  "name": "Turning Undead",
+  "type": "ability",
+  "img": "icons/magic/death/undead-skeleton-worn-blue.webp",
+  "effects": [],
+  "folder": "AHz82IIt2Yr2Zxqi",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Paladins of 3rd level and higher can invoke the power of their deity to repel undead monsters encountered. To turn the undead, the player rolls [[/r 2d6]]. The referee then consults the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.pKRzPpWFHma1Xfnx.JournalEntryPage.8W40tfLhZIGHwoF8#turning-the-undead-table]{Turning the Undead table} comparing the roll against the Hit Dice of the undead monsters targeted.</p>\n<p><strong>Successful Turning</strong></p>\n<p>If the turning attempt succeeds, the player must roll [[/r 2d6]] to determine the number of HD affected (turned or destroyed).</p>\n<p><strong>Turned undead</strong>: Will leave the area, if possible, and will not harm or make contact with the paladin.</p>\n<p><strong>Destroyed undead</strong>: Are instantly and permanently annihilated.</p>\n<p><strong>Excess</strong>: Rolled Hit Dice that are not sufficient to affect a creature are wasted. However, at least one undead creature will always be affected on a successful turning.</p>\n<p><strong>Mixed groups</strong>: If turn undead is used against a mixed group of undead monsters of different types, those with the lowest HD are affected first.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "paladin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458029692,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bbdaxw4xo1YoGTwv"
+}

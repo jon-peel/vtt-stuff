@@ -1,0 +1,54 @@
+{
+  "name": "Sword +2, Charm Person",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-blue.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 800000,
+  "flags": {},
+  "_id": "ESSOV1n0dzqJY3ls",
+  "system": {
+    "description": "<p>Grants the wielder the ability to charm other people.</p><ul><li><p><strong>Effect:</strong> This works in the same way as the magic-user spell <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.6lObpwj8PggapAQ8]{charm person}</em>.</p></li><li><p><strong>Usage frequency:</strong> The power may be used up to three times a week.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 2,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445809843,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ESSOV1n0dzqJY3ls"
+}

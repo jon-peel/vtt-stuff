@@ -1,0 +1,22 @@
+{
+  "color": "#9f209f",
+  "name": "Triton",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "3yGYlNWLCnPqHWcS",
+  "_id": "fPddTGEl8btn6yLA",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752925312335,
+    "modifiedTime": 1763375337227,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!fPddTGEl8btn6yLA"
+}

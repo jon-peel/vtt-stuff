@@ -1,0 +1,37 @@
+{
+  "name": "Detect Construction Tricks",
+  "type": "ability",
+  "img": "icons/commodities/stone/paver-brick-brown.webp",
+  "effects": [],
+  "folder": "2VikIAHy5XOpvp8R",
+  "flags": {},
+  "system": {
+    "description": "<p>As expert tunnellers, svirfneblins have a [[/br 1d6]]{2-in-6} chance of being able to detect new construction, sliding walls, or sloping passages when searching.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685803252524,
+    "modifiedTime": 1761459711312,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "LURlbndsqvZgvApG",
+  "sort": 200000,
+  "_key": "!items!LURlbndsqvZgvApG"
+}

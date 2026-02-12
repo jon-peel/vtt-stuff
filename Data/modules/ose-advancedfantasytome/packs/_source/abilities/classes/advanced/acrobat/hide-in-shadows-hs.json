@@ -1,0 +1,36 @@
+{
+  "_id": "EomhUBnak9ZtOxde",
+  "name": "Hide in shadows (HS)",
+  "type": "ability",
+  "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+  "effects": [],
+  "folder": "OiTN7aQLlw4Qe86Q",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Requires the acrobat to be motionless—attacking or moving while hiding is not possible.</p><hr><table><thead><tr><th>Level</th><th>HS</th></tr></thead><tbody><tr><td>1</td><td>10</td></tr><tr><td>2</td><td>15</td></tr><tr><td>3</td><td>20</td></tr><tr><td>4</td><td>25</td></tr><tr><td>5</td><td>30</td></tr><tr><td>6</td><td>33</td></tr><tr><td>7</td><td>36</td></tr><tr><td>8</td><td>40</td></tr><tr><td>9</td><td>43</td></tr><tr><td>10</td><td>46</td></tr><tr><td>11</td><td>50</td></tr><tr><td>12</td><td>53</td></tr><tr><td>13</td><td>56</td></tr><tr><td>14</td><td>60</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "acrobat",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 10,
+    "blindroll": true
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456698327,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!EomhUBnak9ZtOxde"
+}

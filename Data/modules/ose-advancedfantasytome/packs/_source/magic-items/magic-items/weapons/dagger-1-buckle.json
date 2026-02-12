@@ -1,0 +1,54 @@
+{
+  "name": "Dagger +1, Buckle",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-double-black.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 100000,
+  "flags": {},
+  "_id": "07zo7T4DNRbOnOf6",
+  "system": {
+    "description": "<p>An ornamental belt buckle which can transform into a magical dagger.</p><ul><li><p><strong>Activating:</strong> The owner must simply grasp the buckle and will it to become a dagger.</p></li><li><p><strong>Returning:</strong> After use, the blade may be returned to its buckle form by touching it to the belt and willing it to transform.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "pattern": "transparent",
+    "damage": "1d4",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445945098,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!07zo7T4DNRbOnOf6"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "RHy2VV5MODYIb1HP",
+  "name": "Potion of Control",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.</p><ul><li><p><strong>Concentration:</strong> Exercising control requires concentration.</p></li><li><p><strong>Visual range:</strong> The character can only control creatures that they can see.</p></li><li><p><strong>Suicidal commands:</strong> Controlled creatures will resist commands that are deadly to themselves.</p></li></ul><hr><p><strong>Control Animal</strong></p><ul><li><p><strong>Affects</strong>: Up to [[/r 3d6]] Hit Dice of normal or giant (but not magical) animals.</p></li><li><p><strong>When the potion’s effect ends</strong>: Affected animals will move away.</p></li></ul><hr><p><strong>Control Dragon</strong></p><ul><li><p><strong>Affects</strong>: [[/r 1d3]]{1–3} dragons of a specific type. (The referee should determine which type of dragon the potion affects.)</p></li><li><p><strong>Spell casting</strong>: It is not possible to command a dragon to cast spells.</p></li><li><p><strong>When the potion’s effect ends</strong>: Affected dragons have a hostile reaction. </p></li></ul><hr><p><strong>Control Giant</strong></p><ul><li><p><strong>Affects</strong>: [[/r 1d4]]{1–4} giants of a specific type. (The referee should determine which type of giant the potion affects.)</p></li></ul><hr><p><strong>Control Human</strong></p><ul><li><p><strong>Usage</strong>: A charm may be placed upon a human within 60’. One target may be charmed per round.</p></li><li><p><strong>Resisting</strong>: The subject may save versus spells to resist the charm.</p></li><li><p><strong>Maximum subjects</strong>: Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.</p></li><li><p><strong>Charmed individuals</strong>: Regard the character as a trusted friend, and will come to their defence. Subjects will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.</p></li></ul><hr><p><strong>Control Plant</strong></p><ul><li><p><strong>Affects</strong>: All plants (including plant monsters) in a 30’ square area up to 60’ distant.</p></li><li><p><strong>Commands</strong>: Affected plants may be commanded to move around as the character wishes, and may be used to entangle creatures in the area.</p></li></ul><hr><p><strong>Control Undead</strong></p><ul><li><p><strong>Affects</strong>: Up to [[/r 3d6]] Hit Dice of undead.</p></li><li><p><strong>When the potion’s effect ends</strong>: Affected undead have a hostile reaction.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442342170,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!RHy2VV5MODYIb1HP"
+}

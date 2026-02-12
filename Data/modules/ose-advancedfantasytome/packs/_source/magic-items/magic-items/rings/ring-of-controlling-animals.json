@@ -1,0 +1,39 @@
+{
+  "_id": "w9BUD7lg8r90UeKt",
+  "name": "Ring of Controlling Animals",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 1600000,
+  "flags": {},
+  "system": {
+    "description": "<p>Grants the power to control the actions of animals.</p><ul><li><p><strong>Affects:</strong> [[/r 1d6]] normal animals or 1 giant animal (not magical or intelligent animals).</p></li><li><p><strong>Resisting:</strong> No saving throw is allowed.</p></li><li><p><strong>Visual range:</strong> The character can only control animals that they can see.</p></li><li><p><strong>Concentration:</strong> Control is broken if the user of the ring moves or attacks.</p></li><li><p><strong>When concentration ends:</strong> The referee should make a reaction roll with a –1 penalty (see @UUID[Compendium.ose-advancedfantasytome.tables.RollTable.vlY1VbzE4DjwyTeq]{Monster Reaction Roll}) to determine the animals’ behaviour.</p></li><li><p><strong>Usage frequency:</strong> May be used up to once per turn.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443034852,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!w9BUD7lg8r90UeKt"
+}

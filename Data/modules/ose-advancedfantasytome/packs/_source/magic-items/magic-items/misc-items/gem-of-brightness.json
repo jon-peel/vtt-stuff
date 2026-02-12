@@ -1,0 +1,44 @@
+{
+  "_id": "NrbOtim1zrOWu1Sy",
+  "name": "Gem of Brightness",
+  "type": "item",
+  "img": "icons/commodities/gems/gem-faceted-tapered-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5100000,
+  "flags": {},
+  "system": {
+    "description": "<p>A crystal in the shape of a long, rough prism. Three command words cause the crystal to emit three different types of light.</p><ul><li><p><strong>Charges:</strong> The gem has 50 charges.</p></li><li><p><strong>Beam:</strong> A beam of pale light, 10’ long and 2’ wide. Consumes no charges.</p></li><li><p><strong>Ray:</strong> A momentary ray of bright light, 50’ long and 1’ wide to be directed at the eyes of a creature. The target must <strong>save versus spells</strong> or be blinded for [[/r 1d4]] rounds. Expends 1 charge.</p></li><li><p><strong>Flash:</strong> A momentary cone of blinding light, 30’ long and 5’ wide at the end. All creatures in the cone must save versus spells or be blinded for [[/r 1d4]] rounds and suffer a permanent penalty to attack rolls equal to the number of rounds of blindness. The attack penalty can only be cured by powerful magic (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.eLs98lY26KQujnE4]{cure serious wounds}</em> cast expressly for the purpose). Expends 5 charges.</p></li><li><p><strong>Magical darkness:</strong> Negates the effects of the gem.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431168688,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!NrbOtim1zrOWu1Sy"
+}

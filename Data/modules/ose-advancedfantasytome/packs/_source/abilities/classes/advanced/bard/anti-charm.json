@@ -1,0 +1,36 @@
+{
+  "_id": "O9ytbBHLFWdz1WX0",
+  "name": "Anti-Charm",
+  "type": "ability",
+  "img": "icons/magic/life/heart-cross-purple-orange.webp",
+  "effects": [],
+  "folder": "PJTniOTejoshi5Zk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">While the bard plays music and sings, allies within 30&rsquo; are immune to song-based magical effects and the beguiling powers of sylvan creatures or fairies. Allies already under the effect of such magic may make another saving throw with a +4 bonus.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "bard",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159958169,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!O9ytbBHLFWdz1WX0"
+}

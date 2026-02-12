@@ -1,0 +1,37 @@
+{
+  "_id": "RGdX1rY4MNScNE1R",
+  "name": "Cloudkill",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "GbNTKS9IfubrrhPn",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A poisonous fog streams from the caster’s fingertips, filling a 30’ diameter area.</p><ul><li><p><strong>Movement:</strong> The fog moves at 60’ per turn (20’ per round), driven by the wind (or away from the caster, in still conditions).</p></li><li><p><strong>Sinking:</strong> Because the fog is heavier than air, it sinks to the lowest level of the land, even pouring down den or sinkhole openings.</p></li><li><p><strong>Damage:</strong> All creatures in contact with the vapours suffer 1 hit point of damage per round of contact.</p></li><li><p><strong>Creatures with less than 5 Hit Dice:</strong> Must also <strong>save versus death</strong> (once per round of contact) or die.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "death",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "6 turns",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453892044,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!RGdX1rY4MNScNE1R"
+}

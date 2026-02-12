@@ -1,0 +1,44 @@
+{
+  "_id": "3F2sT2JFk0HOoS7k",
+  "name": "Necklace of Adaptation",
+  "type": "item",
+  "img": "icons/equipment/neck/amulet-carved-stone-purple.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 1200000,
+  "flags": {},
+  "system": {
+    "description": "<p>A heavy chain with a medallion, which grants the wearer the ability to survive without breathing.</p><ul><li><p><strong>Gases:</strong> Do not affect the wearer.</p></li><li><p><strong>Water</strong> <strong>or vacuum:</strong> The wearer can survive underwater, in a vacuum, or any other airless environment.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440624169,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!3F2sT2JFk0HOoS7k"
+}

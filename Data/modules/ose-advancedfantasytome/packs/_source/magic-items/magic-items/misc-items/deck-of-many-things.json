@@ -1,0 +1,44 @@
+{
+  "_id": "CoEg0Ka6lbOgJX2S",
+  "name": "Deck of Many Things",
+  "type": "item",
+  "img": "icons/sundries/gaming/playing-cards-grey.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A deck of 22 ivory or vellum cards stored in a box or leather pouch. Each card is inscribed with an image and a set of magical glyphs.</p><ul><li><p><strong>Cards in the deck:</strong> The deck of many things may be simulated with 22 normal playing cards (indicated alongside the name of each card, below).</p></li><li><p><strong>Drawing cards:</strong> A character may elect to draw up to 4 cards from the deck, being affected by the magical effects of each card (see below). Drawn cards magically return to the deck.</p></li><li><p><strong>Once only:</strong> Each character may only draw once (1–4 cards) from a deck of many things.</p></li></ul><hr><p><strong>Sun (King of Diamonds)</strong></p><p>Gain 50,000 XP and one beneficial miscellaneous magic item. (Roll for the magic item until something beneficial to the character comes up.)</p><hr><p><strong>Moon (Queen of Diamonds)</strong></p><p>[[/r 1d4]] wishes, which must be used within 1 turn per wish received.</p><hr><p><strong>Star (Jack of Diamonds)</strong></p><p>Prime requisite increases by 2 points. If this would raise the score above 18, the points are instead allocated to random ability scores.</p><hr><p><strong>Vizier (Ace of Diamonds)</strong></p><p>Grants the true and thorough answer to one question or problem. The question may be posed immediately or at any time in the future.</p><hr><p><strong>Comet (2 of Diamonds)</strong></p><p>Single-handedly defeat the next hostile monster(s) encountered to gain a level.</p><hr><p><strong>Throne (King of Hearts)</strong></p><p>CHA increases to 18 and the character gains possession of a small keep.</p><hr><p><strong>Key (Queen of Hearts)</strong></p><p>Gain a random treasure map plus a random magic weapon, staff, or wand (as appropriate to the character).</p><hr><p><strong>Knight (Jack of Hearts)</strong></p><p>Gain the loyal service of a 4th level fighter.</p><hr><p><strong>Fates (Ace of Hearts)</strong></p><p>Allows the character to avoid one situation or the effects of one event, usable at any point in the future. The character’s companions do not gain the same benefit.</p><hr><p><strong>Gem (2 of Hearts)</strong></p><p>Gain 20 random gems or 20 random pieces of jewellery.</p><hr><p><strong>The Void (King of Clubs)</strong></p><p>The character becomes a mindless automaton, their soul trapped in a prison on another world or plane of existence. The soul can only be retrieved by questing (even a wish cannot retrieve it). When this card is drawn, the deck of many things disappears —no further cards can be drawn.</p><hr><p><strong>Flames (Queen of Clubs)</strong></p><p>A powerful chaotic monster from another plane of existence becomes aware of the character and schemes to destroy them.</p><hr><p><strong>Skull (Jack of Clubs)</strong></p><p>A @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.S9dqBqpiXbtm5fds]{lesser grim reaper} appears and attacks the character, who must defeat it alone. If the character is slain, they can never be returned to life. If other characters help in the battle, lesser grim reapers appear to fight them as well.</p><hr><p><strong>Idiot (Ace of Clubs)</strong></p><p>Lose [[/r 1d4]] points of INT. The character may choose to draw another card.</p><hr><p><strong>Talons (2 of Clubs)</strong></p><p>All magic items owned by the character vanish instantly and permanently.</p><hr><p><strong>Ruin (King of Spades)</strong></p><p>All money, valuables, and property owned by the character vanish instantly and permanently.</p><hr><p><strong>Medusa (Queen of Spades)</strong></p><p>Suffer a permanent –3 penalty to <strong>saves vs petrification</strong>.</p><hr><p><strong>Rogue (Jack of Spades)</strong></p><p>A friendly NPC (a retainer, if the character has any) becomes utterly and permanently hostile toward the character. The hatred is initially secret and will only be revealed at a devastating moment.</p><hr><p><strong>Donjon (Ace of Spades)</strong></p><p>The character is stripped of all equipment and spells and is imprisoned, either magically or physically. When this card is drawn, the deck of many things disappears—no further cards can be drawn.</p><hr><p><strong>Balance (2 of Spades)</strong></p><p>Change alignment (lawful becomes chaotic, chaotic becomes lawful, neutral becomes lawful or chaotic). If the character fails to behave according to their new alignment, they will be judged by higher powers and risk annihilation.</p><hr><p><strong>Jester (Jester without Trademark)</strong></p><p>Gain 10,000 XP or draw two more cards. After being drawn, the Jester card disappears forever.</p><hr><p><strong>Fool (Jester with Trademark)</strong></p><p>Lose 10,000 XP (to a minimum of 0 XP) and draw another card. After being drawn, the Fool card disappears forever.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761429976834,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CoEg0Ka6lbOgJX2S"
+}

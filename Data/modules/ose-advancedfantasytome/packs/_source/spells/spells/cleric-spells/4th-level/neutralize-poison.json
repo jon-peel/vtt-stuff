@@ -1,0 +1,37 @@
+{
+  "_id": "nUbbPkQtsyWeXYwV",
+  "name": "Neutralize Poison",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "hQiAgT9TyM2uGpZ3",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell has two uses:</p><ol><li><p><strong>Characters:</strong> Neutralize the effects of poison on a character. A character who has died from poisoning can be revived, if <em>neutralize poison</em> is cast within ten rounds.</p></li><li><p><strong>Items:</strong> Remove poison from an item.</p></li></ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "instant",
+    "range": "touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449408620,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nUbbPkQtsyWeXYwV"
+}

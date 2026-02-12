@@ -1,0 +1,44 @@
+{
+  "_id": "3uqD609VCczJCHa6",
+  "name": "Boots of Speed",
+  "type": "item",
+  "img": "icons/equipment/feet/boots-layered-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 1500000,
+  "flags": {},
+  "system": {
+    "description": "<p>The wearer is able to move at up to 240’ (80’)—the speed of a riding horse.</p><ul><li><p><strong>Duration:</strong> This can be maintained for up to 12 hours.</p></li><li><p><strong>Rest:</strong> Afterwards, the wearer must rest for 1 day.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427228986,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!3uqD609VCczJCHa6"
+}

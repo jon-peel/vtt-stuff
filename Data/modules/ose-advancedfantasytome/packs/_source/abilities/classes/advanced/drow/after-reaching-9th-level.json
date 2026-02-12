@@ -1,0 +1,36 @@
+{
+  "_id": "6lL7jYfA5LpYJrN5",
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "38vVmd3n5L1csToW",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A drow may establish a subterranean stronghold or temple. If the drow is in favour with their deity, the complex may be bought or built at half the normal price due to the direct intervention of the deity.</p>\n<p>Once a stronghold or temple is established, the drow will attract followers ([[/r 5d6 * 10]] non-spell casting drow of 1st or 2nd level). These troops are completely devoted to the drow (never checking morale). The referee decides how many of the followers are 1st and 2nd level, and which are archers, infantry, etc</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "drow",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159953417,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6lL7jYfA5LpYJrN5"
+}

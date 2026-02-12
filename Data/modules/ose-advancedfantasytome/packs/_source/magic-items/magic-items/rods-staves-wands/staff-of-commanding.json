@@ -1,0 +1,63 @@
+{
+  "name": "Staff of Commanding",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-nature-spiral.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 2800000,
+  "flags": {},
+  "_id": "qqLT0F28saODTWpb",
+  "system": {
+    "description": "<p>Grants the power to control animals, humans, and plants.</p><hr><p><strong>Commanding Animals</strong></p><ul><li><p><strong>Affects:</strong> [[/r 1d6]] normal animals or 1 giant animal (but not magical or intelligent animals).</p></li><li><p><strong>Resisting:</strong> No saving throw is allowed.</p></li><li><p><strong>Visual range:</strong> The character can only control animals that they can see.</p></li><li><p><strong>Concentration:</strong> Control is broken if the user of the staff moves or attacks.</p></li><li><p><strong>When concentration ends:</strong> The referee should make a reaction roll with a –1 penalty (see @UUID[Compendium.ose-advancedfantasytome.tables.RollTable.vlY1VbzE4DjwyTeq]{Monster Reactions}) to determine the animals’ behaviour.</p></li><li><p><strong>Usage frequency:</strong> This power of the staff may be used up to once per turn.</p></li></ul><hr><p><strong>Commanding Humans</strong></p><ul><li><p><strong>Usage:</strong> A charm may be placed upon a human within 60’. One target may be charmed per round.</p></li><li><p><strong>Resisting:</strong> The subject may <strong>save versus spells</strong> (<strong>with a –2 penalty</strong>) to resist.</p></li><li><p><strong>Maximum subjects:</strong> Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.</p></li><li><p><strong>Charmed individuals:</strong> Regard the character as a trusted friend, and will come to their defence. Subjects will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.</p></li><li><p><strong>Duration:</strong> The charm lasts indefinitely, but ends if cancelled by the wielder of the staff, or when dispelled. Commanding Plants</p></li></ul><hr><p><strong>Commanding Plants</strong></p><ul><li><p><strong>Affects:</strong> All plants (including plant monsters) in a 10’ square area.</p></li><li><p><strong>Range:</strong> The area may be up to 60’ distant.</p></li><li><p><strong>Commands:</strong> Affected plants may be commanded to move around as the character wishes.</p></li><li><p><strong>Concentration:</strong> The effect lasts as long as the wielder of the staff concentrates.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 40,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443578456,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qqLT0F28saODTWpb"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "i6Cnmxuzew3gd3z7",
+  "name": "After Reaching 11th Level",
+  "type": "ability",
+  "img": "icons/environment/settlement/wizard-castle.webp",
+  "effects": [],
+  "folder": "dDBykdzsnJ9HeIw8",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A magic-user may build a stronghold, often a great tower. [[/r 1d6]] apprentices of levels 1–3 will then arrive to study under the magic-user.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "magic-user",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458825852,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!i6Cnmxuzew3gd3z7"
+}

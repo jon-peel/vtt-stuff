@@ -1,0 +1,37 @@
+{
+  "_id": "RoVOqCiy0ko2tYAk",
+  "name": "Cause Fear",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M8wSNIwAlVFexHGd",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Will cause a target within 120’ to flee for the duration unless it saves versus spells.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Cleric",
+    "duration": "2 turns",
+    "range": "touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160018800,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!RoVOqCiy0ko2tYAk"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "t2AmDd73UqmhCAhe",
+  "name": "Medallion of ESP 30'",
+  "type": "item",
+  "img": "icons/equipment/neck/amulet-round-engraved-spiral-gold.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11700000,
+  "flags": {},
+  "system": {
+    "description": "<p>A medallion on a chain, enchanted with the power of reading thoughts.</p><ul><li><p><strong>Focus:</strong> By concentrating for 1 round, the wearer may target a creature within 30’.</p></li><li><p><strong>Resisting:</strong> At the referee’s option, the target may <strong>save versus spells</strong> to resist.</p></li><li><p><strong>Concentration:</strong> While reading thoughts, the wearer may move, but cannot cast spells or attack.</p></li><li><p><strong>Misfires:</strong> The medallion is not entirely reliable. Per usage, there is a [[/r 1d6]]{1-in-6} chance of it misfiring, instead sending the wearer’s thoughts to all within 30’.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440360873,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!t2AmDd73UqmhCAhe"
+}

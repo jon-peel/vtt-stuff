@@ -1,0 +1,36 @@
+{
+  "_id": "oMvkxtU7626AaYzU",
+  "name": "Tumbling Attack",
+  "type": "ability",
+  "img": "icons/skills/melee/unarmed-punch-fist-blue.webp",
+  "effects": [],
+  "folder": "OiTN7aQLlw4Qe86Q",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Using the falling or jumping abilities, an acrobat can make a tumbling leap culminating in a melee attack. The attack inflicts double damage if successful. Against an unaware opponent, the acrobat also gains a +4 bonus to hit.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "acrobat",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159964605,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!oMvkxtU7626AaYzU"
+}

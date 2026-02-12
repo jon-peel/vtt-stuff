@@ -1,0 +1,37 @@
+{
+  "_id": "rK5Q3WYQqv6CHqO4",
+  "name": "Hold Monster",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "GbNTKS9IfubrrhPn",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell causes one or more creatures to be paralysed if they fail a <strong>saving throw versus spells</strong>. It may be cast in two ways:</p><ol><li><p><strong>Against an individual:</strong> The target’s saving throw is penalised by –2.</p></li><li><p><strong>Against a group:</strong> [[/r 1d4]] individuals in the group are targeted.</p></li></ol><p><strong>Restrictions:</strong> Undead are not affected.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "6 turns +1 per level",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454166486,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!rK5Q3WYQqv6CHqO4"
+}

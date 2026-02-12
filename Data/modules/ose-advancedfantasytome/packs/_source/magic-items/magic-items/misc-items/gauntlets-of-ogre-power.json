@@ -1,0 +1,44 @@
+{
+  "_id": "3bvIAD3ZAA0Iqdi3",
+  "name": "Gauntlets of Ogre Power",
+  "type": "item",
+  "img": "icons/equipment/hand/glove-cuffed-leather-grey.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 1400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A character who wears these gauntlets has a Strength score of 18. This grants all the usual bonuses, including:</p><ul><li><p><strong>Melee attacks</strong>: +3 bonus to attack and damage rolls, in melee.</p></li><li><p><strong>Unarmed attacks</strong>: Deal [[/r 1d2+3]] damage.</p></li></ul><p><strong>Encumbrance</strong>: If using the optional rules for @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.nRk895vQvT8AuWZ5#option-2:-detailed-encumbrance]{detailed encumbrance}.</p><ul><li><p><strong>Extra weight</strong>: The character’s ability to carry weight is increased by 1,000 coins. (i.e. the character can carry 1,400 coins without becoming encumbered.)</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431128900,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!3bvIAD3ZAA0Iqdi3"
+}

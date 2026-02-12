@@ -1,0 +1,37 @@
+{
+  "_id": "NghVLCC5tYmkmpmA",
+  "name": "Raise Dead",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RmvVdtYAmuQub8Ch",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell has two uses:</p><ol><li><p><strong>Restore life:</strong> To a recently deceased human or demihuman. See below.</p></li><li><p><strong>Destroy undead:</strong> A single undead monster is destroyed, if it fails a <strong>saving throw versus spells</strong>.</p></li></ol><p><strong>Restoring life:</strong> When used to restore life, the following stipulations apply:</p><ul><li><p><strong>Time limit:</strong> The caster can raise a person that has been dead for no longer than four days per level of the caster above 7th. For example, a 10th level caster can revive a character that has been dead for twelve days (three levels above 7th × four days).</p></li><li><p><strong>Weakness:</strong> Returning from death is an ordeal. Until the subject gets two full weeks of bed rest, they have 1 hit point, move at half the normal rate, cannot carry heavy items, and cannot attack, cast spells, or use other class abilities. This period of weakness may not be shortened by any magical healing.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "instant",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449583852,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!NghVLCC5tYmkmpmA"
+}

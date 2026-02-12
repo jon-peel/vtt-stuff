@@ -1,0 +1,37 @@
+{
+  "_id": "VlpTqLhWgh3KgTI6",
+  "name": "Contact Higher Plane",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "GbNTKS9IfubrrhPn",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A channel of communication is opened to a higher plane of existence, allowing the caster to ask powerful, otherworldly beings for advice and knowledge on any subject.</p><ul><li><p><strong>Plane:</strong> The caster must choose which plane of existence to contact: communion with beings of the 3rd to 12th planes is possible via this spell. Higher numbered planes are home to more powerful and knowledgeable beings.</p></li><li><p><strong>Questions:</strong> The caster may then ask a number of simple yes/no questions equal to the number of the plane contacted. The referee plays the role of the contacted being, responding to the caster’s questions.</p></li><li><p><strong>Answers:</strong> For each question asked, there is a chance of the contacted being not knowing the answer or of answering untruthfully: see the table below. It is impossible to detect whether the entity is lying.</p></li></ul><p><strong>Restrictions:</strong> Casting contact higher plane is a great and perilous deed.</p><ul><li><p><strong>Usage limit:</strong> It may be cast at most once per week. (The referee may limit the spell’s usage to even less frequently, if desired.)</p></li><li><p><strong>Insanity:</strong> Communion with otherworldly beings of great power can shatter the caster’s sanity. The basic chance is shown in the table below. For every level of the caster above 11, this chance is reduced by 5%. If the caster is driven insane as a result of the communion, the recovery time is a number of weeks equal to the number of the plane contacted.</p></li></ul><table style=\"width:100%; font-size: .95em; border-collapse: collapse; table-layout: fixed;\"><thead><tr><th style=\"width:15%; text-align:left; white-space: nowrap;\">P</th><th style=\"width:10%; white-space: nowrap;\">#Q</th><th style=\"width:25%;\">Don’t Know</th><th style=\"width:25%;\">Truth</th><th style=\"width:25%;\">Ins.</th></tr></thead><tbody><tr><td style=\"white-space: nowrap;\">3rd</td><td style=\"white-space: nowrap;\">3</td><td>75%</td><td>50%</td><td>5%</td></tr><tr><td style=\"white-space: nowrap;\">4th</td><td style=\"white-space: nowrap;\">4</td><td>70%</td><td>55%</td><td>10%</td></tr><tr><td style=\"white-space: nowrap;\">5th</td><td style=\"white-space: nowrap;\">5</td><td>65%</td><td>60%</td><td>15%</td></tr><tr><td style=\"white-space: nowrap;\">6th</td><td style=\"white-space: nowrap;\">6</td><td>60%</td><td>65%</td><td>20%</td></tr><tr><td style=\"white-space: nowrap;\">7th</td><td style=\"white-space: nowrap;\">7</td><td>50%</td><td>70%</td><td>25%</td></tr><tr><td style=\"white-space: nowrap;\">8th</td><td style=\"white-space: nowrap;\">8</td><td>40%</td><td>75%</td><td>30%</td></tr><tr><td style=\"white-space: nowrap;\">9th</td><td style=\"white-space: nowrap;\">9</td><td>30%</td><td>80%</td><td>35%</td></tr><tr><td style=\"white-space: nowrap;\">10th</td><td style=\"white-space: nowrap;\">10</td><td>20%</td><td>85%</td><td>40%</td></tr><tr><td style=\"white-space: nowrap;\">11th</td><td style=\"white-space: nowrap;\">11</td><td>10%</td><td>90%</td><td>45%</td></tr><tr><td style=\"white-space: nowrap;\">12th</td><td style=\"white-space: nowrap;\">12</td><td>5%</td><td>95%</td><td>50%</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "One Conversation",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454119052,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!VlpTqLhWgh3KgTI6"
+}

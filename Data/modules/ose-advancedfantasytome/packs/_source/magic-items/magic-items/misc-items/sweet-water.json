@@ -1,0 +1,44 @@
+{
+  "_id": "MuycmVBBFtezqxj6",
+  "name": "Sweet Water",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 4600000,
+  "flags": {},
+  "system": {
+    "description": "<p>A vial of scintillating liquid with the power to transmute liquids into pure, drinkable water.</p><ul><li><p><strong>Usage:</strong> The vial of sweet water must be poured into the liquid to be purified. The volume transmuted depends on the type of the other liquid.</p></li><li><p><strong>Salt or impure water:</strong> Up to 100,000 cubic feet.</p></li><li><p><strong>Acid:</strong> Up to 1,000 cubic feet.</p></li><li><p><strong>Potions:</strong> One potion. (Rendered non-magical.)</p></li><li><p><strong>Poisoned liquid:</strong> Up to 6 quarts.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442103382,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!MuycmVBBFtezqxj6"
+}

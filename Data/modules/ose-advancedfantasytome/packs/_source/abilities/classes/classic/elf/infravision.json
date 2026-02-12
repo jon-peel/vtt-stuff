@@ -1,0 +1,36 @@
+{
+  "_id": "OtRts20i486kF0Vc",
+  "name": "Infravision",
+  "type": "ability",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
+  "effects": [],
+  "folder": "a044YMt1yO1mBHjM",
+  "sort": 500000,
+  "flags": {},
+  "system": {
+    "description": "<p>Elves have infravision to 60&rsquo; (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.eh7GQsf8aWU7NcEP#darkness]{Darkness}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "elf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1685802404793,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!OtRts20i486kF0Vc"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "sZKTEc2y7Ee2gyhd",
+  "name": "Stealth",
+  "type": "ability",
+  "img": "icons/skills/targeting/target-strike-triple-blue.webp",
+  "effects": [],
+  "folder": "VeevuJykXLRx7ycw",
+  "sort": 900000,
+  "flags": {},
+  "system": {
+    "description": "<div title=\"Page 72\"><div><div><div><p>In the wilderness, a ranger has a [[/br 1d6]]{3-in-6} chance of hiding and a [[/br 1d6]]{3-in-6} chance of moving silently.</p></div></div></div></div><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "ranger",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 3,
+    "blindroll": true
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458163989,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!sZKTEc2y7Ee2gyhd"
+}

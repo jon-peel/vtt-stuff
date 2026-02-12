@@ -1,0 +1,63 @@
+{
+  "name": "Staff of Withering",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-simple-spiral-brown.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1800000,
+  "flags": {},
+  "_id": "OFXrFeprkTrL5QuS",
+  "system": {
+    "description": "<p>Creatures hit by the staff are magically aged:</p><ul><li><p><strong>Divine magic:</strong> Usable by divine spell casters only.</p></li><li><p><strong>Effect:</strong> The target is aged 10 years. Living creatures die upon reaching their natural life span.</p></li><li><p><strong>Especially long-lived species:</strong> Ignore the effects of a certain amount of ageing. (For example, elves may ignore up to 200 years of ageing, dwarves ignore up to 50 years, and so on.)</p></li><li><p><strong>Undead creatures:</strong> Are unaffected by the power of this staff.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 40,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761444770803,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!OFXrFeprkTrL5QuS"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "J5m9X6qHs8rhrbRc",
+  "name": "Rope of Climbing",
+  "type": "item",
+  "img": "icons/sundries/survival/rope-coiled-tan.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 4000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A coil of thin, strong rope, 50’ in length.</p><ul><li><p><strong>Commanding</strong>: The owner may command it to climb in any direction.</p></li><li><p><strong>Attaching</strong>: The rope can also be commanded to attach to a surface.</p></li><li><p><strong>Load</strong>: Up to 10,000 coins of weight can be suspended from the rope.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441810387,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!J5m9X6qHs8rhrbRc"
+}

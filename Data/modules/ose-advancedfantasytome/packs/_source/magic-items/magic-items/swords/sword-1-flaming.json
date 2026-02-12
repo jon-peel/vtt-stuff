@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Flaming",
+  "type": "weapon",
+  "img": "icons/skills/melee/strike-sword-steel-yellow.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 2100000,
+  "flags": {},
+  "_id": "cqamZTBxY1nZA9mu",
+  "system": {
+    "description": "<p>Bursts into flames, on command. When flaming:</p><ul><li><p><strong>Casts light:</strong> In 30’ radius.</p></li><li><p><strong>Can set things alight:</strong> Treated as a torch, for purposes of setting things on fire (e.g. a <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.xGExmmZW6E9yuXmI]{web}</em> spell).</p></li><li><p><strong>Inflicts fire damage:</strong> Which may have special effects on certain creatures.</p></li><li><p><strong>Grants an attack bonus:</strong> Against certain types of creatures:</p><ol type=\"a\"><li>+2 vs trolls (or other creatures that cannot regenerate fire damage).</li><li>+2 vs pegasi, hippogriffs, and rocs (or other bird-like creatures).</li><li>+3 vs treants (or other plant-based creatures).</li><li>+3 vs undead.</li></ol></li><li><p><strong>Duration:</strong> The sword blazes until commanded to cease.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445515745,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!cqamZTBxY1nZA9mu"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "zkeU94vH2ydpvSBo",
+  "name": "Necklace of Strangulation",
+  "type": "item",
+  "img": "icons/equipment/neck/amulet-round-silver-teal.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 13100000,
+  "flags": {},
+  "system": {
+    "description": "<p>A fabulous jewelled necklace which is cursed to strangle anyone who wears it.</p><ul><li><p><strong>Wearing:</strong> The necklace constricts around the character’s neck, inflicting 6 points of damage per round.</p></li><li><p><strong>Removing:</strong> The necklace can only be removed by magic (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.LvD3XbuvgBpJ5eEL]{remove curse}</em>).</p></li><li><p><strong>If the character dies:</strong> The necklace remains constricted in place until the corpse has rotted away (about 1 month). It then loosens, ready for another victim.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440786050,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zkeU94vH2ydpvSBo"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Encounter By Terrain Type (fixed)",
+  "type": "script",
+  "author": "NT17Yev2GH6B5ZtS",
+  "img": "icons/environment/wilderness/carved-standing-stone.webp",
+  "scope": "global",
+  "command": "OSE.util.wildEncResult('Terrain Type Here')\n/* replace \"Terrain Type Here\" with one of the options below:\n\nterrain types:\n'Barren, Hills, Mountains'\n'City'\n'Clear, Grasslands'\n'Desert'\n'Forest'\n'Jungle'\n'Lake, River'\n'Ocean, Sea'\n'Settled'\n'Swamp'\n*/",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "Nmy2s2xgPqdh198p",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752024203348,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!macros!Nmy2s2xgPqdh198p"
+}

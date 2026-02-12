@@ -1,0 +1,37 @@
+{
+  "name": "Innate Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "L8Wif2V6qv06MZYL",
+  "flags": {},
+  "system": {
+    "description": "<p>At 2nd level, a drow is able to cast the <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.jaSob2YvtAI7KTjR]{darkness}</em> spell (the reverse of <em>light</em>) once per day and, at 4th level, <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.vRtoWnlxiF0x74cK]{detect magic}</em> once per day (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.iW0YUQNIRaYo5ecH]{Cleric Spell List}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "drow",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685460625999,
+    "modifiedTime": 1761459164942,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Sie4u4UVmmVPrGPu",
+  "sort": 0,
+  "_key": "!items!Sie4u4UVmmVPrGPu"
+}

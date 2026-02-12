@@ -1,0 +1,37 @@
+{
+  "folder": "otP6QZG33uYp97El",
+  "name": "Racial Abilities (Optional Rule)",
+  "type": "ability",
+  "img": "icons/environment/people/group.webp",
+  "_id": "3fQiLAjCSGwr5F2i",
+  "system": {
+    "description": "<p>If the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.CBg9vMhkLa1XpOok.JournalEntryPage.0Cnubc95r7lOGWbT#lifting-class-and-level-restrictions-(optional-rule)]{optional rule} for lifting demihuman class and level restrictions is used, it is recommended that the loss of human characters’ main advantage (i.e. unlimited advancement in any class) be compensated by the following abilities.</p><h3>Ability Modifiers</h3><p>+1 CHA, +1 CON.</p><h3>Blessed</h3><p>When rolling hit points (including at 1st level), the player of a human PC may roll twice and take the best result.</p><h3>Decisiveness</h3><p>When an initiative roll is tied, humans act first, as if they had won initiative. If using the optional rule for individual initiative (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.ouf3QNv4dWj0L1IW]{Combat}) humans get a bonus of +1 to initiative rolls.</p><blockquote><img src=\"icons/vtt-512.png\" width=\"48\" style=\"float: left\"><p><em><strong>Foundry VTT Note</strong></em>: To implement the initiative bonus click on the \"&lt;/&gt; Tweaks \"button on the actor sheet and enter 1 into the Initiative Bonus field and save changes.</p></blockquote><h3>Leadership</h3><p>All of a human’s retainers and mercenaries gain a +1 bonus to loyalty and morale.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "transparent",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": null,
+    "blindroll": false,
+    "tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685803656742,
+    "modifiedTime": 1761460028973,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!3fQiLAjCSGwr5F2i"
+}

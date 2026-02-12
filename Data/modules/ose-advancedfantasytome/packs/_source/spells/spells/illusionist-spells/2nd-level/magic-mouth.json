@@ -1,0 +1,37 @@
+{
+  "name": "Magic Mouth",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "6myl9UJvzNcU8Vjy",
+  "sort": 0,
+  "flags": {},
+  "_id": "JZc1LiMtbi7Gl9sB",
+  "system": {
+    "description": "<p>The caster imbues an inanimate object with a message that is to be spoken out loud by a magical mouth when a certain trigger condition occurs.</p><ul><li><p><strong>The message:</strong> Must be in a language the caster speaks and may consist of up to 25 words.</p></li><li><p><strong>The trigger condition:</strong> May be as broad or as specific as the caster wishes. It may include conditions on the enchanted object being touched or on the presence of creatures within 30’ of the object. The trigger condition may only take visual appearances into account (e.g. it cannot discern the alignment, class, level, etc. of creatures who pass by).</p></li><li><p><strong>Once triggered:</strong> The mouth appears, animates, and speaks the predetermined message. The enchantment then ends.</p></li><li><p><strong>Casting spells:</strong> The triggered message cannot cast spells.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Illusionist",
+    "duration": "Permanent until triggered.",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451296178,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!JZc1LiMtbi7Gl9sB"
+}

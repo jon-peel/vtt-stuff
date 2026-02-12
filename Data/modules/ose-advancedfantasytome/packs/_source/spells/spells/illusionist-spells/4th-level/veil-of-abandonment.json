@@ -1,0 +1,37 @@
+{
+  "name": "Veil of Abandonment",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VKTYcU8UWQYpITJG",
+  "sort": 0,
+  "flags": {},
+  "_id": "91mb8T9JF23IlGNP",
+  "system": {
+    "description": "<p>An area is cloaked with a combination of invisibility and illusion, making it seem vacant and neglected—covered in dust, cobwebs, and dirt, as if long abandoned.</p><ul><li><p><strong>Creatures:</strong> In the affected area when the spell is cast are not cloaked.</p></li><li><p><strong>Inanimate objects:</strong> In the affected area are cloaked with invisibility and are veiled such that only direct contact will reveal their presence. Even then, an observer must make a <strong>saving throw versus spells</strong> to realise that the whole area is under the effects of an illusion: if the save fails, the observer believes that the detected object is merely invisible.</p></li><li><p><strong>Creatures passing through the area:</strong> Believe that their passing makes footprints in the dust, breaks through cobwebs, etc.</p></li><li><p><strong>Detection:</strong> Creatures that can detect invisible cannot see through this illusion.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 4,
+    "class": "Illusionist",
+    "duration": "1 turn per level",
+    "range": "10' per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451930418,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!91mb8T9JF23IlGNP"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Darkness",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "F0F0H7j4BhA5Y1bW",
+  "sort": 0,
+  "flags": {},
+  "_id": "O2glPJ8NSKJMD33K",
+  "system": {
+    "description": "<p>Creates a 15&rsquo; radius area of magical blackness, preventing normal sight (but not infravision). Like <em>light</em>, it may alternatively be used to blind creatures or to dispel a <em>light </em>spell.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "6T +1 per LVL",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160015091,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!O2glPJ8NSKJMD33K"
+}

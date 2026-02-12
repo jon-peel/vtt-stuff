@@ -1,0 +1,59 @@
+{
+  "_id": "LzIBy6GvDrep5J1z",
+  "name": "Spear",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-flared-steel.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Brace, Melee, Missile (5’–20’ / 21’–40’ / 41’–60’)</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 3,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 20,
+      "medium": 40,
+      "long": 60
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Brace",
+        "value": "Brace"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1683315238678,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!LzIBy6GvDrep5J1z"
+}

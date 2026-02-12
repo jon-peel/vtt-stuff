@@ -1,0 +1,46 @@
+{
+  "_id": "93cLEODsqoviz9dg",
+  "name": "Potion of Heroism",
+  "type": "item",
+  "img": "icons/consumables/potions/potion-bottle-corked-fancy-blue.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Normal humans and characters of a combat-focused, non-magic using class (e.g. dwarf, fighter, halfling) who drink a potion of heroism temporarily gain additional levels. The number of levels gained depends on the character’s normal experience level:</p><ul><li><p><strong>Normal human:</strong> Gain the abilities of a 4th level fighter.</p></li><li><p><strong>1st–3rd level:</strong> Gain 3 levels.</p></li><li><p><strong>4th–7th level:</strong> Gain 2 levels.</p></li><li><p><strong>8th–10th level:</strong> Gain 1 level.</p></li><li><p><strong>11th level+:</strong> No effect.</p></li></ul><p><strong>Effects:</strong> All abilities of the additional levels are gained, including extra hit points.</p><p><strong>Damage:</strong> Damage suffered while under the effects of this potion is first deducted from the pool of additional hit points granted.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442844632,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!93cLEODsqoviz9dg"
+}

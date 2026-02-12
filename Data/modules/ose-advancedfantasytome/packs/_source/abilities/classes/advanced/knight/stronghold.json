@@ -1,0 +1,36 @@
+{
+  "_id": "rCDQjus55ou8MioT",
+  "name": "Stronghold",
+  "type": "ability",
+  "img": "icons/environment/settlement/castle.webp",
+  "effects": [],
+  "folder": "M8kCM9O2lnpAKqRe",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Any time a knight of 3rd level or higher wishes (and has sufficient money), they can build a castle or stronghold and control the surrounding lands. The permission of the knight’s liege is always required.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "knight",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159965391,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!rCDQjus55ou8MioT"
+}

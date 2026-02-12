@@ -1,0 +1,37 @@
+{
+  "name": "Growth of Plants",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M6Syp5PYARwNUKsf",
+  "sort": 0,
+  "flags": {},
+  "_id": "OTfYsr4sEPHMIVMW",
+  "system": {
+    "description": "<p>This spell causes vigorous growth of normal vegetation in an area within range. Plants in the affected area become thick and overgrown, entwining to form a thorny jungle.</p><ul><li><p><strong>Area:</strong> An area of up to 3,000 square feet—selected by the caster—is affected (e.g. 150’ × 20’, 100’ × 30’, etc).</p></li><li><p><strong>Passage:</strong> Only very large creatures can force their way through.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453755380,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!OTfYsr4sEPHMIVMW"
+}

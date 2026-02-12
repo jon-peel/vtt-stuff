@@ -1,0 +1,36 @@
+{
+  "_id": "is4XQZ8EmUENC7vE",
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "8Q5b3KQTmdR156wI",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A duergar has the option of creating an underground stronghold that will attract duergars from far and wide. Duergars usually live in clans, so duergars of the character’s clan will be attracted to live under their roof. Duergars from other clans will generally be friendly and may collaborate in times of war or disaster.</p>\n<p>A duergar ruler may only hire duergar mercenaries. Specialists and retainers of any race may be hired.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "duergar",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159963409,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!is4XQZ8EmUENC7vE"
+}

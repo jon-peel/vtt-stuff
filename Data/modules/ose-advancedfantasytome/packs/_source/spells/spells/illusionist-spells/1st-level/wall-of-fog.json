@@ -1,0 +1,37 @@
+{
+  "name": "Wall of Fog",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "kQ8yu2v4FO5vJQes",
+  "system": {
+    "description": "<p>A wall of roiling vapour is conjured at a location of the caster’s choosing within range.</p><ul><li><p><strong>Area:</strong> The fog fills a 10’ cube area per level of the caster.</p></li><li><p><strong>Vision:</strong> The fog blocks normal vision and infravision.</p></li><li><p><strong>Strong winds:</strong> Can clear the fog before the spell’s duration has expired.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "1 turn",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450534677,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kQ8yu2v4FO5vJQes"
+}

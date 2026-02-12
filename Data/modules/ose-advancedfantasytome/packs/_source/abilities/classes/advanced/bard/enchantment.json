@@ -1,0 +1,36 @@
+{
+  "_id": "AUyf9PQcWKwSYiFq",
+  "name": "Enchantment",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-magenta.webp",
+  "effects": [],
+  "folder": "PJTniOTejoshi5Zk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>By playing music and singing, the bard can fascinate subjects in a 30’ radius. This ability does not function in combat.</p><p><strong>Number of subjects:</strong> Up to 2HD of creatures per level of the bard are affected. The bard may choose to target a specific individual or a group (in which case, the affected individuals are determined randomly).</p><p><strong>Types of subjects:</strong> At 1st level, the bard can fascinate persons. At 4th level, animals may also be affected. At 7th level, monsters may be affected.</p><ul><li><p><strong>Effect:</strong> Each subject must save versus spells or be fascinated, as follows:</p></li><li><p><strong>Rapt:</strong> Fascinated subjects’ attention is fully bent on the bard’s performance, as long as it continues.</p></li><li><p><strong>Follow:</strong> The bard may walk while playing. Fascinated subjects will follow.</p></li><li><p><strong>Interruptions:</strong> If the performance is interrupted (e.g. by loud noise or violence), the fascination ends immediately.</p></li></ul><p><strong>Charming Fascinated Subjects</strong></p><p>If the bard performs for at least one turn and the performance ends without interruption, fascinated subjects may be placed under a deeper charm. Each subject must make another save versus spells (with a +2 bonus) or be charmed for one turn per level of the bard:</p><ul><li><p><strong>Friendship:</strong> Charmed subjects regard the bard as a trusted friend and ally and will come to the bard’s defence.</p></li><li><p><strong>Commands:</strong> If they share a language, charmed subjects will obey the bard’s commands.</p></li><li><p><strong>Alignment:</strong> Commands that contradict the charmed creature’s nature or alignment may be ignored.</p></li><li><p><strong>Suicidal commands:</strong> Charmed subjects never obey suicidal or obviously harmful orders.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "bard",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457179081,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!AUyf9PQcWKwSYiFq"
+}

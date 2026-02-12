@@ -1,0 +1,54 @@
+{
+  "name": "Rod of Lordly Might",
+  "type": "weapon",
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1400000,
+  "flags": {},
+  "_id": "Isfjj7pMJdSs1ULR",
+  "system": {
+    "description": "<p>A thick metal rod with a spherical head and a set of 8 studs along the shaft. Pressing the studs activates a variety of magical and mundane effects.</p><ul><li><p><strong>Usage restriction:</strong> Only usable by non-spell casting martial characters (e.g. fighters).</p></li><li><p><strong>In combat:</strong> The rod may be wielded as a mace +2. If the wielder has a STR of less than 16, they suffer a –2 penalty to attack rolls, due to the rod’s weight.</p></li><li><p><strong>Studs:</strong> Have the following effects:</p><ol type=\"a\"><li><strong>Paralysis:</strong> A creature touched must <em><strong>save vs spells</strong></em> or be paralysed for 6 turns. This consumes one charge.</li><li><strong>Fear:</strong> Creatures within a 60’ cone (30’ wide at the end) must <em><strong>save versus spells</strong></em> or flee in terror for 10 rounds. This consumes one charge.</li><li><strong>Life drain:</strong> A creature hit with the rod in melee (requiring an attack roll) suffers [[/r 2d4]] damage. The wielder gains the same number of hit points (up to their normal maximum). This consumes one charge.</li><li><strong>Flaming sword +1:</strong> A flaming sword blade springs from the sphere, while the rod shortens to become the hilt. The sword casts light in a 30’ radius and may be used to set things on fire (treat as a torch). Against fire-unfavorable foes, its attack bonuses increases: +2 vs bird-like creatures and creatures which cannot regenerate fire damage; +3 vs plant-creatures and undead.</li><li><strong>Battle axe +3:</strong> An axe blade springs from the sphere, while the rod lengthens to become the handle.</li><li><strong>Spear +2:</strong> A blade springs from the sphere, while the rod lengthens into a 6’ long shaft.</li><li><strong>Ladder:</strong> The rod lengthens to up to 50’ long, with horizontal climbing bars along both sides and spikes at either end. Attached to a solid surface at each end, the rod can support up to 40,000 coins of weight.</li><li><strong>Orientation:</strong> The wielder gains immediate knowledge of their elevation above/below ground and which direction is north.</li></ol></li><li><p><strong>When all charges are expended:</strong> Studs a, b, c, d, and e no longer function.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 2,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443461412,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Isfjj7pMJdSs1ULR"
+}

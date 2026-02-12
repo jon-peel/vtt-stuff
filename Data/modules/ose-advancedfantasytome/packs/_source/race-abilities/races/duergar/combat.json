@@ -1,0 +1,37 @@
+{
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "H5LyintcfH0JcQca",
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Due to their short height, duergars can only use small or normal sized weapons. They cannot use longbows or two-handed swords.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "duergar",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685795278682,
+    "modifiedTime": 1685795534241,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "0kK4pqLFpb4ZugXi",
+  "sort": 0,
+  "_key": "!items!0kK4pqLFpb4ZugXi"
+}

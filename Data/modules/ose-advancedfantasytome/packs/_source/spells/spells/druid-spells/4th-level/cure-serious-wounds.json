@@ -1,0 +1,37 @@
+{
+  "name": "Cure Serious Wounds",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "EF4o02b1CzjjmfJd",
+  "sort": 0,
+  "flags": {},
+  "_id": "C8L55TL46fapKi7o",
+  "system": {
+    "description": "<p>The caster’s touch heals [[/r 2d6+2]] hit points of damage in one living subject. This cannot grant more hit points than the subject’s normal maximum.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Druid",
+    "duration": "Instant",
+    "range": "Touch",
+    "roll": "2d6+2",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160007946,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!C8L55TL46fapKi7o"
+}

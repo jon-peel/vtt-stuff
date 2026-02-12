@@ -1,0 +1,41 @@
+{
+  "name": "Treasure Map",
+  "type": "item",
+  "img": "icons/tools/navigation/map-marked-gold.webp",
+  "effects": [],
+  "folder": "LpqHwq13dfzc1CwS",
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Usage</strong>: All characters (unless noted). A map that indicates the route to a valuable treasure, located in a dungeon or wilderness.</p><p><strong>Interpreting</strong>: Treasure maps may not always be easy to interpret: a map may be incomplete, worded in riddles, or written in an obscure language.</p><p><strong>Preparing in advance</strong>: The referee should prepare treasure maps in advance.</p><hr><h4><strong>Treasures</strong></h4><p>The following list of treasure map types may be used to determine the nature of the treasure that a map leads to.</p><ul><li><p><strong>I</strong>: 1 magic item.</p></li><li><p><strong>II</strong>: [[/r 1d6*10]]{1d6 x 10} gems and [[/r 2d10]] pieces of jewellery.</p></li><li><p><strong>III</strong>: 2 magic items.</p></li><li><p><strong>IV</strong>: 3 magic items (no swords).</p></li><li><p><strong>V</strong>: 3 magic items and 1 potion.</p></li><li><p><strong>VI</strong>: 3 magic items, 1 scroll, 1 potion.</p></li><li><p><strong>VII</strong>: [[/r 5d6]] gems and 2 magic items.</p></li><li><p><strong>VIII</strong>: Hoard worth [[/r 1d4*1000]]{1d4 x 1,000}gp.</p></li><li><p><strong>IX</strong>: Hoard worth [[/r 5d6*1000]]{5d6 x 1,000}gp.</p></li><li><p><strong>X:</strong> Hoard worth [[/r 5d6*1000]]{5d6 x 1,000}gp and 1 magic item.</p></li><li><p><strong>XI</strong>: Hoard worth [[/r 5d6*1000]]{5d6 x 1,000}gp and [[/r 5d6]] gems.</p></li><li><p><strong>XII</strong>: Hoard worth [[/r 6d6*1000]]{6d6 x 1,000}gp.</p></li></ul><p><strong>Hoard Value</strong></p><p>For treasure hoards with a listed gold piece value, the referee may choose what type of treasure is in the hoard. (For example, it may be coins, but could also consist of valuable art objects or jewels.)</p><p><strong>Guardians</strong></p><p>The treasure is normally guarded by enchantments, traps, or monsters (e.g. a monster from the Dungeons encounter tables of levels 5–6, or higher).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1761372065154,
+    "modifiedTime": 1763365571295,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "ZqssDFeYDjeag518",
+  "sort": 0,
+  "_key": "!items!ZqssDFeYDjeag518"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Nondetection",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "nSybdnLZdYhvSQUK",
+  "system": {
+    "description": "<p>While this spell lasts, the caster is invisible to all forms of magical location, scrying, and divination, including effects such as clairvoyance, clairaudience, and ESP.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": "1 turn per level",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160038162,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nSybdnLZdYhvSQUK"
+}

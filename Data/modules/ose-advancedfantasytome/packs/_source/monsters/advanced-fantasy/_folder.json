@@ -1,0 +1,22 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "Advanced Fantasy",
+  "color": "#236ab1",
+  "sorting": "a",
+  "_id": "9IHSvcO72s7S5DjT",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752925281402,
+    "modifiedTime": 1752925281402,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!9IHSvcO72s7S5DjT"
+}

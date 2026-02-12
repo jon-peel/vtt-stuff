@@ -1,0 +1,44 @@
+{
+  "name": "Shield (Steel)",
+  "type": "armor",
+  "img": "icons/equipment/shield/heater-steel-sword-yellow-black.webp",
+  "effects": [],
+  "folder": "T0iQvXpPKeJGwEfH",
+  "sort": 0,
+  "flags": {},
+  "_id": "qQSJZySTHLed9SZs",
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 100,
+    "cost": 10,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 1
+    },
+    "aac": {
+      "value": 1
+    },
+    "type": "shield"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159914337,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qQSJZySTHLed9SZs"
+}

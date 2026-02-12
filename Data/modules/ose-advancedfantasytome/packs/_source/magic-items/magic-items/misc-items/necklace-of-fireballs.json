@@ -1,0 +1,39 @@
+{
+  "name": "Necklace of Fireballs",
+  "type": "item",
+  "img": "icons/equipment/neck/amulet-round-brown.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 4700000,
+  "flags": {},
+  "_id": "N3HyOXyGxiOwWOAw",
+  "system": {
+    "description": "<p>A cheap-looking medallion which allows one who wears it to throw fireballs.</p><ul><li><p><strong>Type of Necklace:</strong> When found, roll [[/r 1d20]] on the table below to determine the powers of the necklace.</p></li><li><p><strong>Wearing: </strong>One who wears the necklace can perceive its true form: a golden chain hung with small golden spheres.</p></li><li><p><strong>Throwing spheres: </strong>The golden spheres can be detached and thrown up to 70’, exploding in a fireball.</p></li><li><p><strong>Size of spheres: </strong>Golden spheres which explode into higher damage fireballs are larger.</p></li><li><p><strong>Fireballs: </strong>Inflict the listed damage on all in a 20’ radius (<em><strong>save versus spells</strong></em> for half damage).</p></li><li><p><strong>If wearer is harmed by magical fire: </strong>They must save versus spells. If the save fails, all remaining golden spheres explode immediately.</p></li></ul><p><strong>Necklace of Fireballs: Type</strong></p><table><thead><tr><th>[[/r 1d20]]</th><th>Fireballs and Damage</th></tr></thead><tbody><tr><td>1–4</td><td>1 × [[/r 5d6]], 2 × [[/r 3d6]]</td></tr><tr><td>5–8</td><td>1 × [[/r 6d6]], 2 × [[/r 4d6]], 2 × [[/r 2d6]]</td></tr><tr><td>9–12</td><td>1 × [[/r 7d6]], 2 × [[/r 5d6]], 4 × [[/r 3d6]]</td></tr><tr><td>13–16</td><td>1 × [[/r 8d6]], 2 × [[/r 6d6]], 2 × [[/r 4d6]], 4 × [[/r 2d6]]</td></tr><tr><td>17–18</td><td>1 × [[/r 9d6]], 2 × [[/r 8d6]], 2 × [[/r 5d6]], 2 × [[/r 3d6]]</td></tr><tr><td>19</td><td>1 × [[/r 10d6]], 2 × [[/r 8d6]], 2 × [[/r 6d6]], 4 × [[/r 4d6]]</td></tr><tr><td>20</td><td>1 × [[/r 11d6]], 2 × [[/r 9d6]], 2 × [[/r 7d6]], 2 × [[/r 5d6]], 2 × [[/r 3d6]]</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440761382,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!N3HyOXyGxiOwWOAw"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Fascinate",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "6myl9UJvzNcU8Vjy",
+  "sort": 0,
+  "flags": {},
+  "_id": "uzBrGAyMfMu5uARX",
+  "system": {
+    "description": "<p>This glamour causes a single creature to perceive the caster—whatever their normal appearance—as utterly captivating.</p><ul><li><p><strong>Restrictions:</strong> Creatures of less than animal intelligence are not affected.</p></li><li><p><strong>Saving throw:</strong> The subject may <strong>save versus spells</strong> to avoid the effect.</p></li></ul><p><strong>Affected subjects behave as follows:</strong></p><ul><li><p><strong>Besotted:</strong> The subject follows the caster wherever they go, as if besotted, unless doing so would present a serious danger.</p></li><li><p><strong>Obedience:</strong> If the caster can communicate with the subject (even if only by gestures), it may obey requests. Each time a request is made of the subject, the caster must make a CHA check (possibly penalised, if the request is against the nature or best interests of the subject). If the check fails, the spell is broken and the target’s perception of the caster becomes one of horror, rage, and hate.</p></li><li><p><strong>Animals:</strong> An animal remains fascinated for [[/r 1d4]] days, after which it may either attack the caster (if it has been mistreated) or simply leave. If the caster treated the animal well, there is a percentage chance equal to the caster’s CHA that the animal will henceforth remain by the character’s side of its own free will.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Illusionist",
+    "duration": "see description",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451009056,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uzBrGAyMfMu5uARX"
+}

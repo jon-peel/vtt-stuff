@@ -1,0 +1,37 @@
+{
+  "name": "ESP",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "6hazyvvcq46M63wY",
+  "system": {
+    "description": "<p>This spell grants the caster the ability to perceive and understand the thoughts of other living creatures.</p><ul><li><p><strong>Focus for 1 turn:</strong> To pick up thoughts, the caster must focus their concentration in one direction for one turn.</p></li><li><p><strong>After this turn:</strong> The thoughts of all creatures within range in that direction can be perceived.</p></li><li><p><strong>Multiple creatures:</strong> If multiple creatures are within the range in the direction being focused on, their thoughts mingle into a confusing jumble. The caster must spend an additional turn to sort out one creature’s thoughts.</p></li><li><p><strong>Meaning:</strong> The caster understands the meaning of all thoughts even if they do not share the creature’s language.</p></li><li><p><strong>Obstructions:</strong> The ability to perceive thoughts is obstructed by a thin layer of lead or by rock of 2’ thick or greater.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453026863,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6hazyvvcq46M63wY"
+}

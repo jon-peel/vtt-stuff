@@ -1,0 +1,36 @@
+{
+  "_id": "UgIfrzOO2bRgEALl",
+  "name": "After Reaching 8th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "y17DHMGsT2ud1wkD",
+  "sort": 400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A gnome has the option of creating an underground stronghold that will attract gnomes from far and wide. Because of gnomes&rsquo; connection with burrowing mammals, all such creatures within 5 miles of the stronghold will become friends with the gnomes. They may warn of intruders, carry messages and news, and so on. In exchange for this friendship, the gnome must protect the animals from harm.</p>\n<p>Gnome rulers can hire members of other races in the capacity of retainers or specialists, but only soldiers of gnomish stock may be hired.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457803240,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UgIfrzOO2bRgEALl"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "OjhJMYGvv5twd8FH",
+  "name": "Robe of the Archmagi",
+  "type": "item",
+  "img": "icons/equipment/chest/robe-layered-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5500000,
+  "flags": {},
+  "system": {
+    "description": "<p>A normal-looking robe which grants a variety of magical boons to an arcane spell caster of suitable alignment.</p><ul><li><p><strong>Robe’s alignment:</strong> When found, roll [[/r 1d20]] to determine the robe’s alignment:</p><ul><li><p><strong>1–9:</strong> lawful</p></li><li><p><strong>10–15:</strong> neutral</p></li><li><p><strong>16–20:</strong> chaotic</p></li></ul></li><li><p><strong>Character’s alignmen</strong>t<strong>:</strong> Upon donning the robe, an arcane spell caster whose alignment differs from that of the robe suffers [[/r 6d4]] damage and changes alignment to that of the robe.</p></li><li><p><strong>Arcane casters:</strong> Donning a robe grants the following powers:</p><ol type=\"a\"><li><strong>Protection:</strong> AC 5 [14].</li><li><strong>Saves:</strong> +1 bonus to all saves.</li><li><strong>Spell empowerment:</strong> When the character casts <em>charm</em>, <em>hold</em>, or <em>polymorph</em> spells, the target suffers a –4 saving throw penalty.</li></ol></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441247448,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!OjhJMYGvv5twd8FH"
+}

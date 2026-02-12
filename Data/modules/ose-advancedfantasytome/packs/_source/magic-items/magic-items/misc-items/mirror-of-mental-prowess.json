@@ -1,0 +1,44 @@
+{
+  "_id": "NYTmqholyyl9VY7h",
+  "name": "Mirror of Mental Prowess",
+  "type": "item",
+  "img": "icons/sundries/survival/mirror-plain.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A large looking glass, 5’ tall and 2’ wide, which bestows several magical powers on the character who possesses it.</p><ul><li><p><strong>Thought reading:</strong> The character can read the thoughts of anyone whose reflection is viewed in the mirror, even if the thoughts are in an unknown language.</p></li><li><p><strong>Scrying:</strong> Up to 3 times per day, gain a vision (accompanied with sound) of a place or object that is brought to mind. The clarity of the vision is dependant on the scryer’s familiarity with the subject. It is not possible to cast spells through the mirror into the viewed scene.</p></li><li><p><strong>Dimensional travel:</strong> When scrying, the character may choose to step into the mirror, appearing in the observed location. This works the same as the 6th level illusionist spell <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.xQl6mCOSSrauornU]{through the looking glass}</em>.</p></li><li><p><strong>Questions:</strong> Once per week, a short question about a creature whose reflection is viewed in the mirror. The answer will be true but brief.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440595107,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!NYTmqholyyl9VY7h"
+}

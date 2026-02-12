@@ -1,0 +1,37 @@
+{
+  "name": "Knock",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "uKUacU4IChMAx9Jo",
+  "system": {
+    "description": "<p>The knock spell opens stuck, barred, or locked doors, gates, chests, and so forth.</p><ul><li><p><strong>Magically held doors:</strong> Are affected (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.tT8UpDyql4hLraCF]{hold portal}</em>, <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.To5RLzNSZTEXtZk6]{wizard lock}</em>).</p></li><li><p><strong>Secret doors:</strong> May be opened, but they must be known to the caster.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "1 round",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453176510,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uKUacU4IChMAx9Jo"
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Reincarnation: Monster Alignment",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Reincarnation: Monster Alignment</p>",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-grey.svg",
+      "_id": "JQHVDtn8OXPN3cXg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Reincarnation: Lawful Monsters",
+      "documentUuid": "Compendium.ose-advancedfantasytome.tables.RollTable.mPB3PpcVdqhHykSc",
+      "description": "",
+      "_key": "!tables.results!ftAahcet8ZBtuwSW.JQHVDtn8OXPN3cXg"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-grey.svg",
+      "_id": "829YbzHlynvghImy",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Reincarnation: Neutral Monsters",
+      "documentUuid": "Compendium.ose-advancedfantasytome.tables.RollTable.q88rKYYoPdV4K8Y7",
+      "description": "",
+      "_key": "!tables.results!ftAahcet8ZBtuwSW.829YbzHlynvghImy"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-grey.svg",
+      "_id": "kxcb09OYrmaAymcK",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Reincarnation: Chaotic Monsters",
+      "documentUuid": "Compendium.ose-advancedfantasytome.tables.RollTable.ElXhB8ujqeFco2qx",
+      "description": "",
+      "_key": "!tables.results!ftAahcet8ZBtuwSW.kxcb09OYrmaAymcK"
+    }
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "bQ0spjafhnW3IDHf",
+  "sort": 200000,
+  "flags": {},
+  "_id": "ftAahcet8ZBtuwSW",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1686550782493,
+    "modifiedTime": 1686550799386,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ftAahcet8ZBtuwSW"
+}

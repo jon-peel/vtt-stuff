@@ -1,0 +1,37 @@
+{
+  "_id": "CnYKb6Rhlka09bfa",
+  "name": "Stone to Flesh",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell transforms stone into living flesh. It is especially useful for restoring life to a petrified creature and its equipment to its normal state.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160008513,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CnYKb6Rhlka09bfa"
+}

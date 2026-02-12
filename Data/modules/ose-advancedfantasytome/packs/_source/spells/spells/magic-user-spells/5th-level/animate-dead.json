@@ -1,0 +1,37 @@
+{
+  "name": "Animate Dead",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "GbNTKS9IfubrrhPn",
+  "sort": 0,
+  "flags": {},
+  "_id": "6l8aPSXFL2Vn0XXC",
+  "system": {
+    "description": "<p>This spell turns the bones or bodies of dead creatures into undead skeletons or zombies:</p><ul><li><p><strong>Obedient:</strong> They obey the caster’s commands.</p></li><li><p><strong>Special abilities:</strong> They are unable to use any special abilities (including spell casting) that they possessed in life.</p></li><li><p><strong>Duration:</strong> They remain animated until they are destroyed or until a dispel magic spell is cast upon them.</p></li></ul><p><strong>Number:</strong> The spell animates a number of Hit Dice of zombies or skeletons equal to the caster’s level:</p><ul><li><p><strong>Skeletons:</strong> Have AC 7 [12] and HD equal to those the creature had in life.</p></li><li><p><strong>Zombies:</strong> Have AC 8 [11] and HD one greater than the creature had in life.</p></li><li><p><strong>Classed characters:</strong> If a PC or NPC with levels in a class is reanimated by this spell, the levels are not counted as HD. For example, the reanimated corpse of a 5th level fighter would have 2 HD (1 HD as a normal human, +1 for being reanimated as a zombie).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453877193,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6l8aPSXFL2Vn0XXC"
+}

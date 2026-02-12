@@ -1,0 +1,44 @@
+{
+  "_id": "Vhq2nY2PoS3EJCtv",
+  "name": "Scarab of Chaos",
+  "type": "item",
+  "img": "icons/equipment/neck/necklace-animal-scarab.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A small, scarab-shaped amulet with the power to drive those who see it temporarily insane.</p><ul><li><p><strong>Charges:</strong> [[/r 1d8+8]] charges.</p></li><li><p><strong>Command word:</strong> The owner must present the scarab and utter a command word to activate its magic.</p></li><li><p><strong>When activated:</strong> Creatures within 20’ must <strong>save versus spells</strong> (with a –2 penalty) or become temporarily insane.</p></li><li><p><strong>Insanity:</strong> Affected creatures cannot cast spells and act completely irrationally. Each round, roll for the behaviour of each subject on the table below.</p></li><li><p><strong>Duration:</strong> [[/r 1d4+8]] rounds.</p></li></ul><table style=\"width: 98.5646%;\"><thead><tr><td style=\"width: 99.5146%;\" colspan=\"2\">Scarab of Chaos: Subject Behaviour</td></tr></thead><tbody><tr><td style=\"width: 15.7767%;\"><strong>[[/r 2d6]]</strong></td><td style=\"width: 83.7379%;\"><strong>Behaviour</strong></td></tr><tr><td style=\"width: 15.7767%;\">2–5</td><td style=\"width: 83.7379%;\">Attack scarab owner’s group</td></tr><tr><td style=\"width: 15.7767%;\">6–8</td><td style=\"width: 83.7379%;\">No action</td></tr><tr><td style=\"width: 15.7767%;\">9–12</td><td style=\"width: 83.7379%;\">Attack subject’s group</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442017229,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Vhq2nY2PoS3EJCtv"
+}

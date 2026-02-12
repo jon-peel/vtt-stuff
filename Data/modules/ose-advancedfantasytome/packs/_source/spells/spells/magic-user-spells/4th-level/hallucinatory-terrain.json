@@ -1,0 +1,37 @@
+{
+  "name": "Hallucinatory Terrain",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M6Syp5PYARwNUKsf",
+  "sort": 0,
+  "flags": {},
+  "_id": "u44ULUd2heQHXsOb",
+  "system": {
+    "description": "<p>Hallucinatory terrain either conjures an illusory terrain feature (e.g. a hill, wood, marsh, etc.) or hides an existing terrain feature.</p><ul><li><p><strong>Area:</strong> The illusion must fit completely within the spell’s range.</p></li><li><p><strong>Touching:</strong> If the illusion is touched by an intelligent being, the spell is negated.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Until touched",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453765645,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!u44ULUd2heQHXsOb"
+}

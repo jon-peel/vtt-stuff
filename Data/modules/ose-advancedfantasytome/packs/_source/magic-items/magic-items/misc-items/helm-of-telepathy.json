@@ -1,0 +1,44 @@
+{
+  "_id": "W6fNKGL00G2Jdj22",
+  "name": "Helm of Telepathy",
+  "type": "item",
+  "img": "icons/equipment/head/greathelm-reticulated-steel.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6600000,
+  "flags": {},
+  "system": {
+    "description": "<p>A beautifully crafted helmet that grants the magical ability of telepathy: reading and sending thoughts.</p><ul><li><p><strong>Range</strong>: The range of the power is 90’.</p></li><li><p><strong>Concentration</strong>: To read a creature’s thoughts, the wearer must remain still and concentrate on that creature.</p></li><li><p><strong>Comprehension</strong>: The creature’s thoughts are made comprehensible to the wearer of the helm.</p></li><li><p><strong>Bidirectional communication</strong>: The wearer may initiate bidirectional, telepathic communication, though the creature is not compelled to respond.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431443425,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!W6fNKGL00G2Jdj22"
+}

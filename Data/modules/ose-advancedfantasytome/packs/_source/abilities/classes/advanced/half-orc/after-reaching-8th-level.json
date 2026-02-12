@@ -1,0 +1,36 @@
+{
+  "_id": "P4rBxMFgeii2QkVL",
+  "name": "After Reaching 8th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "e0OPI6yYuyHhLkKp",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A half-orc can establish a bandit strong hold, attracting [[/r 2d6]] apprentices—1st level fighters, thieves, or half-orcs. These apprentices will serve the character with some reliability; however, should any be arrested or killed, the PC will not be able to attract apprentices to replace them. A successful half-orc might use these followers to start a Thieves’ Guild.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-orc",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457909454,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!P4rBxMFgeii2QkVL"
+}

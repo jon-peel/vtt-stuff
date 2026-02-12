@@ -1,0 +1,36 @@
+{
+  "_id": "bqkbmis8rtwscTUV",
+  "name": "Divine Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on divine magic.</p>\n<p><strong>Holy symbol</strong>: A druid must carry a holy symbol: a sprig of mistletoe which the character must harvest.</p>\n<p><strong>Deity disfavour</strong>: Druids must be faithful to the tenets of their alignment and religion. Druids who fall from favour with their deity may incur penalties.</p>\n<p><strong>Magical research</strong>: A druid of any level may spend time and money on magical research. This allows them to create new spells or other magical effects associated with their deity. When a druid reaches 9th level, they are also able to create magic items.</p>\n<p><strong>Spell casting</strong>: A druid may pray to receive spells from nature. The power and number of spells available to a druid are determined by the character&rsquo;s experience level. The list of spells available to druids is found in Druid and Illusionist Spells.</p>\n<p><strong>Using magic items</strong>: As spell casters, druids can use magic scrolls of spells on their spell list. They can also use items that may only be used by divine spell casters (e.g. some staves). Druids may not use magical books or tomes.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1685796358025,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bqkbmis8rtwscTUV"
+}

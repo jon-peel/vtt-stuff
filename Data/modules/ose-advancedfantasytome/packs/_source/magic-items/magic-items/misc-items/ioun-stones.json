@@ -1,0 +1,44 @@
+{
+  "_id": "gyOga7fElScE4EDF",
+  "name": "Ioun Stones",
+  "type": "item",
+  "img": "icons/commodities/gems/gem-fragmented-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9000000,
+  "flags": {},
+  "system": {
+    "description": "<p>Small, floating stones of different forms and hues. [[/r 1d10]] are usually found together.</p><ul><li><p><strong>Type of stone:</strong> When found, roll [[/r 1d20]] on the table below to determine the type of each stone. Duplicate rolls in a single cache of stones indicate a burned out, dull grey stone.</p></li><li><p><strong>Activating:</strong> A stone’s power is activated when held then released beside the character’s head, whereupon it takes up a circling orbit [[/r 1d3]] feet around the head.</p></li><li><p><strong>Stealing:</strong> Stones may be grasped or netted to separate them from their owner.</p></li><li><p><strong>Attacking stones:</strong> AC 0 [19] and 10hp.</p></li><li><p><strong>Storing:</strong> The character may grasp an orbiting stone to store it, deactivating its power temporarily.</p></li></ul><p><strong>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.0VOYCVFQCqpJfXcH#ioun-stones]{Ioun Stones: Type}</strong></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761439995279,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gyOga7fElScE4EDF"
+}

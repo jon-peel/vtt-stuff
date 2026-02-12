@@ -1,0 +1,36 @@
+{
+  "_id": "TOkiH9ldu6ZfJfYY",
+  "name": "Divine Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "PJTniOTejoshi5Zk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Divine Magic</strong></p>\n<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on divine magic.</p>\n<p><strong>Deity disfavour</strong>: Bards must be faithful to the tenets of their alignment and religion. Bards who fall from favour with their deity may incur penalties.</p>\n<p><strong>Spell casting</strong>: Once a bard has proven their faith (from 2nd level), the character may pray to receive spells. The power and number of spells available to a bard are determined by experience level. The list of spells available to bards is found in Druid and Illusionist Spells (bards have the same spell selection as druids).</p>\n<p><strong>Using magic items</strong>: As spell casters, bards can use magic scrolls of spells on their spell list. They may also use any items that only druids can use.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "bard",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1685796321561,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TOkiH9ldu6ZfJfYY"
+}

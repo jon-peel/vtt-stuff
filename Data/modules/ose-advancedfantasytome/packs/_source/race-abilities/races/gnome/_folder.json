@@ -1,0 +1,19 @@
+{
+  "name": "Gnome",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "QflRm48M1NqflUIJ",
+  "sort": 0,
+  "color": "#00bb2f",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460467446,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!QflRm48M1NqflUIJ"
+}

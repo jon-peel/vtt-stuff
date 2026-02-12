@@ -1,0 +1,44 @@
+{
+  "_id": "ePTbHs03LdegAAUm",
+  "name": "Horn of Cave-Ins",
+  "type": "item",
+  "img": "icons/commodities/treasure/horn-carved-banded.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 8400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A bugle or hunting horn with the power to cause cave-ins when sounded.</p><ul><li><p><strong>Without command word:</strong> A cave-in occurs directly above the character.</p></li><li><p><strong>With command word:</strong> The character may aim at a section of roof within 60’. There is a [[/r 1d100]]{90%} chance that a cave-in occurs in the desired area and a [[/r 1d100]]{10%} chance that it occurs directly above the character.</p></li><li><p><strong>Outdoors:</strong> Only if blown without speaking the command word: a hail of [[/r 2d6]] stones cascades onto the character. Each causes [[/r 1d6]] damage.</p></li><li><p><strong>Indoors</strong> / <strong>underground:</strong> The ceiling collapses, causing [[/r 6d6]] damage to all in a 10’ radius. (<strong>Save vs paralysis</strong> for half.)</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431513765,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ePTbHs03LdegAAUm"
+}

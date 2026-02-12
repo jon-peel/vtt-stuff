@@ -1,0 +1,19 @@
+{
+  "name": "Dogs",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "0gYDQ3iZTlsZdGoC",
+  "sort": 0,
+  "color": "#7980ff",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.3",
+    "coreVersion": "11.304",
+    "createdTime": null,
+    "modifiedTime": 1689078008566,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!0gYDQ3iZTlsZdGoC"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Available Classes and Max Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "UqH47T24iOHIUjM8",
+  "flags": {},
+  "system": {
+    "description": "<ul><li><p><span style=\"color: #191813;\"><strong>Druid*:</strong> 6th</span></p></li><li><p><span style=\"color: #191813;\"><strong>Fighter:</strong> 6th</span></p></li><li><p><span style=\"color: #191813;\"><strong>Thief:</strong> 8th</span></p></li></ul><p><span style=\"color: #191813;\">* At the referee’s option, halfling druids may only exist as NPCs.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685803130637,
+    "modifiedTime": 1761459471476,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "TNc1nmSKw5pkoDYC",
+  "sort": 0,
+  "_key": "!items!TNc1nmSKw5pkoDYC"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Reincarnation",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "ehOx7tiPFQ6lYO6O",
+  "system": {
+    "description": "<p>A dead character is returned to life in a new physical form that manifests in the presence of the caster. The character’s new body is not necessarily the same as the original; it is determined by rolling on the <strong>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.1mr20NyiofKbzCkQ]{Reincarnated Class}</strong> table below.</p><p>The roll indicates either a character class or a monster:</p><ul><li><strong>Character class:</strong> The character is of experience level [[/r 1d6]] (or at most the same level as the character achieved before death). The reincarnated character can continue to gain experience and advance as normal, in the new class.</li><li><strong>Monster:</strong> The type should be determined by the referee. The monster should be at least partially intelligent, have no greater Hit Dice than the level of the character being reincarnated (at most 6 HD), and be of the same alignment. The tables opposite may be used, or the referee may create their own tables. Monsters cannot gain experience or advance in level.</li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "Appears in the caster’s presence",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454812264,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ehOx7tiPFQ6lYO6O"
+}

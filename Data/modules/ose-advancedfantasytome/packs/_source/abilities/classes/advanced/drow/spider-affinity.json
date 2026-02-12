@@ -1,0 +1,36 @@
+{
+  "_id": "ar46nJiGvqsiHJMK",
+  "name": "Spider Affinity",
+  "type": "ability",
+  "img": "icons/creatures/invertebrates/spider-dotted-green.webp",
+  "effects": [],
+  "folder": "38vVmd3n5L1csToW",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Drow live alongside many different species of spiders, including giant spiders. They can speak the secret language of spiders and gain a +1 bonus to reaction rolls when encountering spiders (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.SAZiydZewI4XOlsU]{Encounters}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "drow",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1689076544950,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ar46nJiGvqsiHJMK"
+}

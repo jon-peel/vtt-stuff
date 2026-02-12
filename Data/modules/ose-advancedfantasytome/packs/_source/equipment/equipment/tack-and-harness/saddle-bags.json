@@ -1,0 +1,39 @@
+{
+  "folder": "exruKHbWQ5EqFcz6",
+  "name": "Saddle bags",
+  "type": "item",
+  "img": "icons/containers/bags/pack-leather-brown.webp",
+  "_id": "BCsqWrQc2jplWYQn",
+  "system": {
+    "description": "<p>Hold up to 300 coins weight.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.3",
+    "coreVersion": "13.342",
+    "createdTime": 1689078849952,
+    "modifiedTime": 1689079165763,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BCsqWrQc2jplWYQn"
+}

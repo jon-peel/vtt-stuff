@@ -1,0 +1,37 @@
+{
+  "_id": "mSgmimBzP2XdC30B",
+  "name": "Magic Jar",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "GbNTKS9IfubrrhPn",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The caster’s body enters a comatose trance as their life-force is transferred into a receptacle (any inanimate object within 30’), known as a magic jar. From there, the caster may attempt to possess the bodies of other creatures.</p><p><strong>When the caster’s life-force is in the magic jar:</strong></p><ul><li><strong>Possession:</strong> The caster may attempt to possess the body of another creature within 120’. The victim may <strong>save versus spells</strong> to resist possession. If the save is successful, the caster may not make another attempt to possess that victim for one turn. If the save fails, the caster’s life-force leaves the magic jar and enters the victim, possessing it.</li><li><strong>Returning:</strong> The caster may choose to return to their own body at any time, ending the spell.</li><li><strong>If the magic jar is destroyed:</strong> The caster dies.</li><li><strong>If the caster’s own body is destroyed:</strong> Their life-force is stranded in the magic jar.</li></ul><p><strong>When the caster’s life-force is possessing a victim:</strong></p><ul><li><strong>Control:</strong> The caster gains full control over the victim’s body, but is not able to make the victim cast spells.</li><li><strong>If the magic jar is destroyed:</strong> The spell ends and the caster’s life-force is trapped in the possessed body.</li><li><strong>If the possessed victim is killed:</strong> The caster’s life-force returns to the magic jar.</li><li><strong>Dispelling:</strong> <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.j8XBcJ64Kh8hiLz0]{Dispel evil}</em> forces the caster’s life-force back into the magic jar.</li><li><strong>If the caster’s own body is destroyed:</strong> Their life-force is stranded in the body of the creature being possessed.</li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Special",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454195841,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!mSgmimBzP2XdC30B"
+}

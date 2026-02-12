@@ -1,0 +1,19 @@
+{
+  "name": "Drow",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "L8Wif2V6qv06MZYL",
+  "sort": 0,
+  "color": "#00984a",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460372643,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!L8Wif2V6qv06MZYL"
+}

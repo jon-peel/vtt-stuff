@@ -1,0 +1,37 @@
+{
+  "_id": "GJs5NeuAPhjHm3tJ",
+  "name": "Pass Plant",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "OKlmc2RHuvz6vil1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The caster steps into a tree, then instantly steps out of a tree of the same species in another location. The trunks of both trees must be large enough for the caster to fit inside.</p><ul><li><p><strong>Distance:</strong> The maximum distance between the two trees depends on their type:</p><ul><li><p><strong>Oak:</strong> 600 yards</p></li><li><p><strong>Ash, elm, linden, yew:</strong> 360 yards</p></li><li><p><strong>Other deciduous trees:</strong> 300 yards</p></li><li><p><strong>All other trees:</strong> 240 yards</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Druid",
+    "duration": "Instant",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450088116,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GJs5NeuAPhjHm3tJ"
+}

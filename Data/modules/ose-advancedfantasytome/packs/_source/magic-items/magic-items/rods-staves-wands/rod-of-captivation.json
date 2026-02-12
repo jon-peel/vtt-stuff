@@ -1,0 +1,39 @@
+{
+  "name": "Rod of Captivation",
+  "type": "item",
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 3300000,
+  "flags": {},
+  "_id": "y9aIg10KZvBpctv6",
+  "system": {
+    "description": "<p>Beguiles creatures of all kinds.</p><ul><li><p><strong>Effect:</strong> All intelligent creatures (including those of animal intelligence) within 20’ are charmed.</p></li><li><p><strong>Resisting:</strong> Creatures of human-level intelligence may <strong>save versus spells</strong> (<strong>with a –2 penalty</strong>) to resist.</p></li><li><p><strong>Charmed creatures:</strong> Regard the character as their trusted friend and ally and will come to the character’s defence.</p></li><li><p><strong>Commands:</strong> If they share a language, the character may give the charmed creatures commands, which they will obey.</p></li><li><p><strong>Subject’s nature:</strong> Commands that contradict a charmed creature’s nature or alignment may be ignored.</p></li><li><p><strong>Suicidal commands</strong>: An affected creature never obeys suicidal or obviously harmful orders.</p></li><li><p><strong>Duration:</strong> 1 turn.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443428993,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!y9aIg10KZvBpctv6"
+}

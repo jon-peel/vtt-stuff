@@ -1,0 +1,37 @@
+{
+  "name": "Remove Curse",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M6Syp5PYARwNUKsf",
+  "sort": 0,
+  "flags": {},
+  "_id": "zXFADd6L1nzS6uzq",
+  "system": {
+    "description": "<p>Remove curse instantaneously removes one curse from a creature. It may allow a character to discard a cursed magic item</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160052900,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zXFADd6L1nzS6uzq"
+}

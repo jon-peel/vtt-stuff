@@ -1,0 +1,36 @@
+{
+  "_id": "LlSWBCO6ZO9ysjdL",
+  "name": "Jumping",
+  "type": "ability",
+  "img": "icons/skills/movement/arrows-up-trio-red.webp",
+  "effects": [],
+  "folder": "OiTN7aQLlw4Qe86Q",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">With a 20&rsquo; run-up, an acrobat can jump across a 10&rsquo; wide pit or chasm (or 20&rsquo; wide when aided by the use of a pole). Also when using a pole, an acrobat can jump over a 10&rsquo; high wall or onto a 10&rsquo; high ledge. Suitable poles for jumping include: 10&rsquo; poles, polearms, spears, staves.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "acrobat",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159957647,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!LlSWBCO6ZO9ysjdL"
+}

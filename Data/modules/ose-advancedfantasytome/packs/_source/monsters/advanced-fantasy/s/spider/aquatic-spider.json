@@ -1,0 +1,374 @@
+{
+  "name": "Aquatic Spider",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/spider%2C%20giant%2C%20aquatic%20-%20juan%20brass%20-%20c%202025%20ng.webp",
+  "items": [
+    {
+      "_id": "r61ttn6dafpmx6io",
+      "flags": {},
+      "name": "Bite",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "sort": 100000,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>1d4 + poison</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "death",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d4",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!PXlz4hQlitlWpZmn.r61ttn6dafpmx6io"
+    },
+    {
+      "_id": "25tgu1dkrhxk3kba",
+      "flags": {},
+      "name": "Surprise",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "sort": 100000,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>On a [[/r 1d6]]{1–3}, lurking just below the water’s surface.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762141065871
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!PXlz4hQlitlWpZmn.25tgu1dkrhxk3kba"
+    },
+    {
+      "_id": "ckchs09scwuxw1c6",
+      "flags": {},
+      "name": "Poison",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "sort": 100000,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Causes paralysis followed by death in [[/br 1d4]] turns (<strong>save versus poison</strong>).</p>",
+        "save": "death",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761286568244
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!PXlz4hQlitlWpZmn.ckchs09scwuxw1c6"
+    },
+    {
+      "_id": "c9b49t7f26ntxt7c",
+      "flags": {},
+      "name": "Prey",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "sort": 100000,
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Drag paralysed victims back to lair to be devoured in peace.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!PXlz4hQlitlWpZmn.c9b49t7f26ntxt7c"
+    }
+  ],
+  "effects": [],
+  "folder": "esOToFHzTlJM1XUR",
+  "flags": {},
+  "_id": "PXlz4hQlitlWpZmn",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "3d8+3",
+      "value": 16,
+      "max": 16
+    },
+    "ac": {
+      "value": 5,
+      "mod": 0
+    },
+    "aac": {
+      "value": 14,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 16,
+      "bba": 3,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 12
+      },
+      "wand": {
+        "value": 13
+      },
+      "paralysis": {
+        "value": 14
+      },
+      "breath": {
+        "value": 15
+      },
+      "spell": {
+        "value": 16
+      }
+    },
+    "movement": {
+      "base": 150,
+      "encounter": "50"
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#spider,-aquatic]{Spider, Aquatic}</p><p>4’ long spiders that dwell in large bodies of fresh water. Build air-filled nests in aquatic vegetation.</p>",
+      "alignment": "Neutral",
+      "xp": "75",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.kSRviWhVbx8QCQXk]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "2d10"
+      },
+      "morale": "7",
+      "movement": "150’ (50’)"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "name": "blank monster",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 0.25,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "color": null,
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/aquatic_spider.Token.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925312523,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!PXlz4hQlitlWpZmn"
+}

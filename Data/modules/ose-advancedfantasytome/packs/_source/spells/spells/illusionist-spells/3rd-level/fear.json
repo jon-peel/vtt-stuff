@@ -1,0 +1,37 @@
+{
+  "name": "Fear",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "TFeWpHIzgbBlySe2",
+  "system": {
+    "description": "<p>Conjures a cone of magical energy that terrifies those within it.</p><ul><li><p><strong>Effect:</strong> Creatures in the cone are struck with terror and will flee from the caster at maximum speed for one round per level of the caster. (A <strong>save versus spells</strong> negates the effect).</p></li><li><p><strong>Dropping items:</strong> Affected creatures have a 60% chance of immediately dropping anything in their hands. The chance is decreased by 5% for each level or Hit Die above 1.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": "Instant",
+    "range": "Range: 60’ cone, 30’ wide at end",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451489031,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TFeWpHIzgbBlySe2"
+}

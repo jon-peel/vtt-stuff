@@ -1,0 +1,987 @@
+{
+  "fcb": {
+    "title": "Kampagnen-Builder",
+    "defaultRootFolderName": "Kampagnen-Builder",
+    "contentFolders": {
+      "campaigns": "Kampagnen",
+      "entries": "Einträge",
+      "sessions": "Sitzungen",
+      "fronts": "Fronten",
+      "arcs": "Bögen",
+      "storyWebs": "Story-Netze"
+    },
+    "settings": {
+      "startCollapsed": "Seitenleiste startet eingeklappt?",
+      "startCollapsedHelp": "Soll die Seitenleiste geschlossen starten, wenn das Fenster zum ersten Mal geöffnet wird?",
+      "displaySessionNotes": "Pop-up-Sitzungsnotizen anzeigen",
+      "displaySessionNotesHelp": "Wenn aktiviert, öffnet sich ein Fenster mit Sitzungsnotizen automatisch, wenn eine Spielsitzung beginnt",
+      "sessionDisplayMode": "Sitzungsanzeigeformat",
+      "sessionDisplayModeHelp": "Wählen Sie, wie Sitzungen im Kampagnenverzeichnis angezeigt werden",
+      "sessionDisplayModeOptions": {
+        "number": "Sitzungsnummer",
+        "date": "Sitzungsdatum",
+        "name": "Sitzungsname"
+      },
+      "autoRefreshRollTables": "Rolltabellen automatisch aktualisieren",
+      "autoRefreshRollTablesHelp": "Wenn aktiviert, werden Generator-Rolltabellen automatisch mit neuen Werten aktualisiert, wenn das Modul geladen wird",
+      "rollTableSettings": "Rolltabelleneinstellungen",
+      "rollTableSettingsLabel": "Rolltabelleneinstellungen",
+      "rollTableSettingsHelp": "Einstellungen für die Zufallsgeneratoren konfigurieren",
+      "rollTableConfig": {
+        "defaultTypeNPC": "Standard-NPC-Typ",
+        "defaultTypeNPCHelp": "Standardtyp, der beim Erstellen eines NPC-Charaktereintrags verwendet wird",
+        "defaultTypeTown": "Standard-Stadttyp",
+        "defaultTypeTownHelp": "Standardtyp, der beim Erstellen eines Stadteintrags verwendet wird",
+        "defaultTypeStore": "Standard-Ladentyp",
+        "defaultTypeStoreHelp": "Standardtyp, der beim Erstellen eines Ladeneintrags verwendet wird",
+        "defaultTypeTavern": "Standard-Gasthoftyp",
+        "defaultTypeTavernHelp": "Standardtyp, der beim Erstellen eines Gasthofeintrags verwendet wird"
+      },
+      "advanced": "Erweiterte Einstellungen",
+      "advancedLabel": "Erweiterte Einstellungen öffnen",
+      "advancedHelp": "Erweiterte Einstellungen konfigurieren (einschließlich KI)",
+      "speciesList": "Artenliste verwalten",
+      "speciesListLabel": "Artenliste",
+      "speciesListHelp": "Definieren Sie die verfügbaren Arten. Diese gelten für alle Einstellungen - melden Sie ein Problem, wenn Sie unterschiedliche Listen pro Einstellung benötigen.",
+      "hideBackendWarning": "Warnung über fehlendes Backend ausblenden?",
+      "hideBackendWarningHelp": "Wenn Sie das Backend nicht verwenden, können Sie die Benachrichtigung deaktivieren, dass es fehlt",
+      "defaultAddToSession": "Standardmäßig 'Zur aktuellen Sitzung hinzufügen'",
+      "defaultAddToSessionHelp": "Soll im Abspielmodus das Kontrollkästchen beim Erstellen eines Eintrags standardmäßig aktiviert oder deaktiviert sein?",
+      "enableToDoList": "ToDo-Liste aktivieren",
+      "enableToDoListHelp": "Wenn deaktiviert, wird die ToDo-Listen-Funktion ausgeschaltet.",
+      "autoRelationships": "Beziehungen automatisch vorschlagen",
+      "autoRelationshipsHelp": "Wenn aktiviert, wird das System automatisch Änderungen an Beziehungen zwischen Einträgen vorschlagen, basierend auf Änderungen, die an der Beschreibung vorgenommen wurden.",
+      "keybindings": {
+        "closeTab": "Tab schließen",
+        "closeTabHelp": "Den aktuellen Tab schließen",
+        "historyBack": "In der Tab-Historie zurückgehen",
+        "historyBackHelp": "In der Historie des aktuellen Tabs \"zurück\" gehen",
+        "historyForward": "In der Tab-Historie vorwärts gehen",
+        "historyForwardHelp": "In der Historie des aktuellen Tabs \"vorwärts\" gehen",
+        "toggleWindow": "Hauptfenster öffnen/schließen",
+        "toggleWindowHelp": "Fenster des Kampagnenbauers öffnen/schließen"
+      },
+      "showTypesInTree": "Typen im Einstellungsbaum anzeigen",
+      "showTypesInTreeHelp": "Wenn wahr, zeigt es den Typ jedes Eintrags im Baum an, wenn das Einstellungsverzeichnis nicht nach Typ gruppiert ist.",
+      "useFronts": "Fronten verwenden",
+      "useFrontsHelp": "Aktivieren Sie die Kampagnenfunktion \"Front\".",
+      "useWebs": "Story-Netze verwenden",
+      "useWebsHelp": "Aktivieren Sie die Funktionalität des Kampagnen-\"Story-Netzes\".",
+      "images": "Inhaltsbilder konfigurieren",
+      "imagesLabel": "Inhaltsbilder",
+      "imagesHelp": "Konfigurieren Sie die Sichtbarkeitseinstellungen für Bilder für verschiedene Inhaltstypen",
+      "subTabsSavePosition": "Unterregisterkarten speichern Position",
+      "subTabsSavePositionHelp": "Wenn aktiviert, merkt sich jede Registerkarte, welcher innere Unterregisterkarte geöffnet war, und kehrt zu dieser zurück, wenn Sie die Registerkarte erneut öffnen. Wenn deaktiviert, kehren die Registerkarten immer zur ersten zurück (normalerweise Beschreibung).",
+      "storyWebAutoArrange": "Automatisches Anordnen von Story-Webs",
+      "storyWebAutoArrangeHelp": "Wenn aktiviert, werden Story-Webs neu angeordnet, um ein sauberes Bild zu erhalten. Wenn deaktiviert, können Sie alles genau so positionieren, wie Sie es möchten.",
+      "customFields": "Benutzerdefinierte Felder",
+      "customFieldsLabel": "Benutzerdefinierte Felder konfigurieren",
+      "customFieldsHelp": "Zusätzliche Felder und KI-Anweisungen für jeden Inhaltstyp konfigurieren",
+      "storyWebSettings": "Story Web Settings",
+      "storyWebSettingsLabel": "Configure Settings",
+      "storyWebSettingsHelp": "Configure line colors/styles and element text for story webs",
+      "genericFoundryTab": "Zeige Foundry-Tab auf Einträgen",
+      "genericFoundryTabHelp": "Wenn aktiviert, haben Einträge einen Foundry-Tab, der jede Art von Foundry-Dokument (Szenen, Schauspieler, Gegenstände, etc.) enthalten kann. Dies ist nützlich, um Spielsitzungen vollständig von Einträgen aus zu steuern, ohne Kampagnen/Sitzungen zu verwenden.",
+      "sessionBookmark": "Sitzungs-Lesezeichen anzeigen",
+      "sessionBookmarkHelp": "Wenn aktiviert, wird ein Lesezeichen für die aktuelle Sitzung vorne in der Lesezeichenleiste angezeigt"
+    },
+    "applications": {
+      "sessionNotes": {
+        "title": "Sitzungsnotizen"
+      },
+      "speciesList": {
+        "title": "Artenliste konfigurieren",
+        "labels": {
+          "add": "Art hinzufügen",
+          "edit": "Art bearbeiten",
+          "delete": "Art löschen"
+        },
+        "defaultSpecies": {
+          "dwarf": {
+            "name": "Zwerg",
+            "description": "Stämmig und widerstandsfähig, sind Zwerge bekannt für ihr Handwerk, ihre Ausdauer und ihre starke Verbindung zu Bergen und Steinmetzarbeiten. Sie sind typischerweise klein und stämmig, mit dicken Bärten und robusten Körpern, die ihre Zähigkeit betonen."
+          },
+          "elf": {
+            "name": "Elf",
+            "description": "Anmutig und langlebig, besitzen Elfen scharfe Sinne, eine natürliche Affinität zur Magie und eine dauerhafte Verbindung zur Natur. Sie sind groß und schlank, mit spitzen Ohren, markanten Gesichtszügen und einer überirdischen Schönheit."
+          },
+          "halfling": {
+            "name": "Halbling",
+            "description": "Klein und wendig, sind Halblinge fröhlich und einfallsreich, bekannt für ihr Glück und ihre Fähigkeit, Gefahren zu vermeiden. Sie sind klein, etwa drei Fuß groß, mit runden Gesichtern, lockigem Haar und einem freundlichen Auftreten."
+          },
+          "human": {
+            "name": "Mensch",
+            "description": "Vielseitig und ehrgeizig, passen sich Menschen an jede Umgebung an und zeichnen sich in einer Vielzahl von Fähigkeiten und Berufen aus. Sie variieren stark in Größe, Statur, Hautfarbe und Gesichtszügen, was die Vielfalt ihrer Kulturen widerspiegelt."
+          },
+          "dragonborn": {
+            "name": "Drachenblütiger",
+            "description": "Stolz und mächtig, sind Drachenblütige humanoide Drachen mit einem starken Sinn für Ehre und einer angeborenen Atemwaffe. Sie sind groß und muskulös, bedeckt mit bunten Schuppen, mit reptilienartigen Köpfen, klauenartigen Händen und Schwänzen."
+          },
+          "gnome": {
+            "name": "Gnom",
+            "description": "Neugierig und erfinderisch, sind Gnome klein und wendig, bekannt für ihren scharfen Verstand und ihre Liebe zum Basteln. Sie sind klein, mit spitzen Ohren, einem schelmischen Auftreten und einem Talent, verborgene Schätze zu finden."
+          },
+          "half-elf": {
+            "name": "Halb-Elf",
+            "description": "Die menschliche Vielseitigkeit mit elfischer Anmut verbindend, sind Halb-Elfen charismatisch und anpassungsfähig, passen in beide Welten, gehören aber keiner vollständig an. Sie haben leicht spitze Ohren, markante Gesichtszüge und eine Mischung aus menschlichen und elfischen Merkmalen, die je nach Abstammung variieren."
+          },
+          "half-orc": {
+            "name": "Halb-Ork",
+            "description": "Stark und zäh, erben Halb-Orks die Ausdauer und den Kampfgeist ihrer orkischen Abstammung, während sie oft danach streben, sich darüber hinaus zu beweisen. Sie sind groß und kräftig gebaut, mit grüner oder grauer Haut, hervorstehenden unteren Hauern und dicken Brauen."
+          },
+          "tiefling": {
+            "name": "Tiefling",
+            "description": "Gezeichnet durch infernalisches Erbe, besitzen Tieflinge teuflische Merkmale, eine angeborene Feuerresistenz und ein Talent für Magie. Sie haben Hörner, Schwänze und ungewöhnliche Augen- und Hautfarben, die von tiefem Rot bis zu Violett und Blau reichen."
+          }
+        },
+        "newSpecies": "Neue Spezies",
+        "newDescription": "Beschreibung für neue Spezies"
+      },
+      "advancedSettings": {
+        "title": "Erweiterte Einstellungen konfigurieren",
+        "labels": {
+          "backendURL": "Backend-URL",
+          "backendURLHint": "Ausgabe des Skripts zum Bereitstellen des Backends.",
+          "APIToken": "API-Token",
+          "APITokenHint": "Ausgabe des Skripts zum Bereitstellen des Backends.",
+          "emailDefaultSetting": "Standardeinstellung für E-Mail",
+          "emailDefaultSettingHint": "Die Einstellung, die standardmäßig für E-Mail-Funktionen verwendet wird (z.B. E-Mail von Aufgaben)",
+          "emailDefaultCampaign": "Standardkampagne für E-Mail",
+          "emailDefaultCampaignHint": "Die Kampagne, die standardmäßig für E-Mail-Funktionen verwendet wird (z. B. Aufgaben per E-Mail senden)",
+          "selectSetting": "Wählen Sie eine Einstellung...",
+          "selectCampaign": "Wählen Sie eine Kampagne...",
+          "useGmailIdeas": "Gmail für Ideen verwenden",
+          "useGmailIdeasHint": "Wenn aktiviert, werden Ideenelemente aus dem Gmail-Posteingang erstellt",
+          "textModel": "Textgenerierungsmodell",
+          "textModelHint": "Wählen Sie das KI-Modell zur Textgenerierung aus",
+          "imageModel": "Bildgenerierungsmodell",
+          "imageModelHint": "Wählen Sie das KI-Modell zur Bildgenerierung aus",
+          "add": "Hinzufügen"
+        },
+        "tabs": {
+          "backend": "Backend",
+          "models": "KI-Modelle",
+          "content": "KI-Inhalt",
+          "email": "E-Mail"
+        }
+      },
+      "rollTableSettings": {
+        "title": "Rolltabelleneinstellungen konfigurieren",
+        "folderName": "Kampagnen-Builder Rolltabellen",
+        "tableDescription": "Generatortabelle für",
+        "labels": {
+          "refreshAll": "Alle Tabellen aktualisieren",
+          "refreshAllHelp": "Ersetze alle verwendeten Elemente durch neue"
+        },
+        "notifications": {
+          "refreshSuccess": "Wurftabellen erfolgreich aktualisiert",
+          "refreshError": "Aktualisierung der Wurftabellen fehlgeschlagen. Details in der Konsole prüfen.",
+          "refreshStarted": "Erstellen neuer Namen für Rollentabellen im Hintergrund"
+        }
+      },
+      "createEntry": {
+        "titles": {
+          "create": {
+            "character": "Charakter erstellen",
+            "location": "Ort erstellen",
+            "organization": "Organisation erstellen",
+            "pc": "PC erstellen"
+          },
+          "update": {
+            "character": "Charakter aktualisieren",
+            "location": "Ort aktualisieren",
+            "organization": "Organisation aktualisieren",
+            "pc": "PC aktualisieren"
+          }
+        },
+        "labels": {
+          "generateImage": "Bild generieren",
+          "generateImageTooltip": "Ein neues Bild im Hintergrund nach der Erstellung generieren",
+          "generatedName": "Generierter Name",
+          "generatedDescription": "Generierte Beschreibung"
+        }
+      },
+      "customFields": {
+        "title": "Benutzerdefinierte Felder konfigurieren",
+        "notifications": {
+          "missingLabel": "Jedes benutzerdefinierte Feld muss eine Bezeichnung haben",
+          "duplicateKey": "Zwei benutzerdefinierte Felder haben denselben Namen. Bitte benennen Sie eines um, damit die Schlüssel eindeutig sind."
+        },
+        "labels": {
+          "contentType": "Inhaltstyp",
+          "selectType": "Typ auswählen...",
+          "selectOptionsPlaceholder": "a;b;c",
+          "delete": "Löschen",
+          "aiTemplate": "KI-Vorlage"
+        },
+        "columns": {
+          "label": "Bezeichnung",
+          "fieldKey": "Schlüssel",
+          "selectOptions": "Optionen auswählen",
+          "helpText": "Hilfetext"
+        },
+        "fieldTypes": {
+          "select": "Auswählen",
+          "editor": "Editor",
+          "input": "Eingabe",
+          "checkbox": "Kontrollkästchen"
+        },
+        "aiDialog": {
+          "title": "KI-Vorlage",
+          "labels": {
+            "enabled": "Kann von KI generiert werden",
+            "fieldToken": "Feld-Token einfügen",
+            "selectField": "Wählen Sie ein Feld...",
+            "insert": "Einfügen",
+            "fieldTokenHint": "Verwenden Sie {FIELD}, um auf ein anderes Feld zu verweisen, wenn Sie die Eingabeaufforderung erstellen. Gültige Felder werden im Dropdown-Menü angezeigt.",
+            "promptTemplate": "Eingabeaufforderungsvorlage",
+            "descriptionField": "Beschreibungsfeld",
+            "descriptionFieldPlaceholder": "Wählen Sie ein Feld zur Verwendung als Beschreibung...",
+            "configuration": "Konfiguration",
+            "minWords": "Minimale Wörter",
+            "maxWords": "Maximale Wörter",
+            "writingStyle": "Schreibstil",
+            "tense": "Zeitform",
+            "pointOfView": "Erzählperspektive",
+            "allowLists": "Listen erlauben",
+            "avoidListsLongerThan": "Listen länger als vermeiden"
+          },
+          "errors": {
+            "invalidTokens": "Ungültige Vorlagen-Token:"
+          },
+          "presets": {
+            "custom": "Benutzerdefiniert",
+            "short": "Kurz",
+            "detailed": "Detailliert",
+            "bullets": "Aufzählungspunkte"
+          }
+        },
+        "tabs": {
+          "fields": "Felder",
+          "images": "Bilder"
+        },
+        "images": {
+          "labels": {
+            "prompt": "Bildaufforderung",
+            "promptTemplate": "Bildaufforderungsvorlage",
+            "selectField": "Wählen Sie ein Feld...",
+            "insert": "Einfügen",
+            "fieldToken": "Feldtoken einfügen",
+            "descriptionField": "Feld, das die Beschreibung für die Bilderzeugung enthält",
+            "negativePrompt": "Negative Aufforderung",
+            "imageConfiguration": "Bildeinstellungen",
+            "artStyle": "Kunststil",
+            "artStylePlaceholder": "z.B., Aquarell, Ölgemälde",
+            "medium": "Medium",
+            "mediumPlaceholder": "z.B., Tinte, Bleistiftskizze",
+            "modelStyle": "Modellstil",
+            "modelStylePlaceholder": "z.B., filmisch, Anime",
+            "contentRating": "Inhaltsbewertung",
+            "contentRatingPlaceholder": "z.B., PG, PG-13",
+            "composition": "Komposition",
+            "compositionPlaceholder": "z.B., Nahaufnahme, Weitwinkelaufnahme",
+            "lighting": "Beleuchtung",
+            "lightingPlaceholder": "z.B., goldene Stunde, stimmungsvolles Gegenlicht",
+            "colorPalette": "Farbpalette",
+            "colorPalettePlaceholder": "z.B., gedämpfte Erdtöne",
+            "camera": "Kamera",
+            "cameraPlaceholder": "z.B., 35mm, Teleobjektiv",
+            "mood": "Stimmung",
+            "moodPlaceholder": "z.B., bedrohlich, verspielt",
+            "negativePromptPlaceholder": "Zu vermeidende Dinge"
+          },
+          "promptHint": "Erstellen Sie eine Vorlage für die KI-Bilderzeugung. Verwenden Sie {FIELD}, um in Ihrer Aufforderung auf Feldwerte zu verweisen. Verfügbare Felder werden im Dropdown-Menü angezeigt. Alle Standardfelder werden automatisch übergeben, sodass Sie nur dann darauf verweisen müssen, wenn Sie eine spezifische Anweisung zu einem von ihnen geben möchten."
+        },
+        "aiImage": {
+          "errors": {
+            "invalidTokens": "Ungültige Vorlagen-Token:"
+          }
+        }
+      },
+      "customFieldsBlocks": {
+        "notifications": {
+          "saveFailed": "Speichern der benutzerdefinierten Felder fehlgeschlagen"
+        }
+      },
+      "storyWebSettings": {
+        "title": "Configure Story Web Settings",
+        "tabs": {
+          "colors": "Connection Colors",
+          "styles": "Connection Styles",
+          "fields": "Fields"
+        },
+        "columns": {
+          "name": "Name",
+          "color": "Color",
+          "style": "Style",
+          "fieldName": "Field Name",
+          "fieldKey": "Field Key"
+        },
+        "fieldsHint": "The fields in this list will be displayed in the tooltip when hovering over entities in a Story Web.",
+        "contentType": "Content Type",
+        "selectField": "Select Field",
+        "notifications": {
+          "noAvailableFields": "No available fields to add",
+          "duplicateColorIds": "Duplicate color IDs found. Please ensure all color IDs are unique.",
+          "duplicateStyleIds": "Duplicate style IDs found. Please ensure all style IDs are unique."
+        }
+      }
+    },
+    "help": {
+      "settingGenre": "z.B. \"Fantasy\" - Erforderlich für KI-Generierung",
+      "settingFeeling": "z.B. \"Rau und gefährlich mit niedrigem Magieniveau\" - Verbessert die KI-Generierung"
+    },
+    "labels": {
+      "newTab": "Neuer Tab",
+      "saveChanges": "Änderungen speichern",
+      "reset": "Zurücksetzen",
+      "cancel": "Abbrechen",
+      "generate": "Generieren",
+      "accept": "Akzeptieren",
+      "use": "Verwenden",
+      "useOnce": "Einmal verwenden",
+      "tryAgain": "Erneut versuchen",
+      "addToSetting": "Zur Einstellung hinzufügen",
+      "prep": "Vorbereiten",
+      "play": "Spielen",
+      "copyOf": "Kopie von {name}",
+      "fields": {
+        "type": "Typ",
+        "parent": "Übergeordnet",
+        "sessionNumber": "Nummer",
+        "sessionDate": "Sitzungsdatum",
+        "playerName": "Spielername",
+        "otherPlotPoints": "Andere Handlungspunkte",
+        "desiredMagicItems": "Gewünschte magische Gegenstände",
+        "species": "Art",
+        "settingGenre": "Genre",
+        "campaignDescription": "Kampagnenbeschreibung, Notizen, Ideen, etc...",
+        "name": "Name",
+        "generateImage": "Bild generieren",
+        "campaign": "Kampagne",
+        "houseRules": "Hausregeln",
+        "addToCurrentSession": "Zur aktuellen Sitzung hinzufügen",
+        "topic": "Thema",
+        "settingFeeling": "Einstellung Gefühl",
+        "startingDescription": "Anfangsbeschreibung",
+        "entryRolePlayingNotes": "Rollenspielnotizen",
+        "settingDescription": "Einstellung Beschreibung",
+        "background": "Hintergrund",
+        "strongStart": "Starker Start",
+        "aiDescription": "Detaillierte Beschreibung",
+        "strongStartHelpText": "Ein starker Start ist ein kurzes, wirkungsvolles Ereignis, das den Ton für die Sitzung angibt. Klicken Sie, um mehr von Lazy DM zu lesen.",
+        "notes": "Notizen",
+        "boxedText": "Gerahmter Text",
+        "gmNotes": "GM-Notizen"
+      },
+      "addTopic": {
+        "character": "Charakter hinzufügen",
+        "location": "Ort hinzufügen",
+        "organization": "Organisation hinzufügen",
+        "pc": "PC hinzufügen"
+      },
+      "addTopicDrag": {
+        "character": "(oder einen Charakter ziehen/ablegen)",
+        "location": "(oder einen Ort ziehen/ablegen)",
+        "organization": "(oder eine Organisation ziehen/ablegen)",
+        "pc": "(oder PC ziehen/ablegen)"
+      },
+      "entry": {
+        "topic": "Themenordner",
+        "type": "Typ",
+        "relationships": "Beziehungen",
+        "entry": "Eintrag"
+      },
+      "session": {
+        "session": "Sitzung",
+        "pc": "PC",
+        "addLocation": "Ort hinzufügen",
+        "addLocationDrag": "(oder einen Ort ziehen/ablegen)",
+        "addVignette": "Vignette hinzufügen",
+        "addLore": "Überlieferung hinzufügen",
+        "addNPC": "NPC hinzufügen",
+        "addNPCDrag": "(oder einen Charakter ziehen/ablegen)",
+        "addItem": "Gegenstand hinzufügen",
+        "addItemDrag": "(oder ein Element ziehen/ablegen)",
+        "addMonster": "Monster hinzufügen",
+        "addMonsterDrag": "(oder einen Schauspieler ziehen/ablegen)",
+        "addLoreDrag": "(oder ziehen/ablegen eines Journaleintrags)",
+        "addActor": "Schauspieler hinzufügen",
+        "addActorDrag": "(oder Schauspieler ziehen/ablegen)",
+        "addScene": "Szene hinzufügen",
+        "addSceneDrag": "(oder Szene ziehen/ablegen)",
+        "loreHelpText": "Tweet-große Stücke nützlicher und interessanter Informationen. Klicken Sie, um mehr von Lazy DM zu lesen.",
+        "itemHelpText": "Magische Gegenstände, die zu Ihren PCs und der Handlung passen. Klicken Sie, um mehr von Lazy DM zu lesen.",
+        "npcHelpText": "NSCs, die wahrscheinlich in der Sitzung angetroffen werden.",
+        "monsterHelpText": "Monster, die zur Situation und zum Ort passen. Klicken Sie, um mehr von Lazy DM zu lesen.",
+        "vignetteHelpText": "Szenen, die eine Lösung bringen, neue Wege öffnen, die Geschichte verändern. 1 pro 45 Minuten. Klicken Sie, um mehr von Lazy DM zu lesen.",
+        "locationHelpText": "Detaillierte, denkwürdige, fantastische Orte, die die Charaktere erkunden können. Klicken Sie, um mehr von Lazy DM zu lesen.",
+        "addJournal": "Journal hinzufügen",
+        "addJournalDrag": "(oder ziehen/ablegen eines Journals oder einer Journalseite)",
+        "addDocumentDrag": "(ziehen/ablegen eines beliebigen Foundry-Dokuments)"
+      },
+      "campaign": {
+        "addPC": "PC hinzufügen",
+        "addPCDrag": "(oder PC ziehen/ablegen)",
+        "pcs": "SCs",
+        "lore": "Überlieferung",
+        "todo": "Zu erledigen",
+        "addToDo": "Neues 'Zu erledigen' erstellen",
+        "loreHelpText": "Verfolgen Sie große kampagnenweite Geheimnisse und kleinere, die Sie noch nicht preisgeben möchten. Klicken Sie, um mehr von Lazy DM zu lesen.",
+        "ideas": "Ideen",
+        "addIdea": "Idee hinzufügen",
+        "campaign": "Kampagne"
+      },
+      "pc": {
+        "linkToNewActor": "Mit neuem Schauspieler verknüpfen",
+        "pc": "PC"
+      },
+      "groupTree": "Baum nach Typ gruppieren",
+      "tabs": {
+        "entry": {
+          "characters": "Charaktere",
+          "locations": "Orte",
+          "organizations": "Organisationen",
+          "pcs": "PCs",
+          "foundry": "Foundry"
+        },
+        "campaign": {
+          "pcs": "PCs",
+          "lore": "Überlieferung",
+          "toDo": "Zu erledigen",
+          "ideas": "Ideen"
+        },
+        "session": {
+          "notes": "Notizen",
+          "pcs": "PCs",
+          "start": "Start",
+          "lore": "Überlieferung",
+          "vignettes": "Vignetten",
+          "locations": "Orte",
+          "npcs": "NPCs",
+          "monsters": "Monster",
+          "magic": "Magische Gegenstände",
+          "todo": "Zu erledigen",
+          "noteBox": "Notizbox"
+        },
+        "front": {
+          "createNewDanger": "Neue Gefahr erstellen"
+        },
+        "arc": {
+          "pcs": "SCs",
+          "lore": "Überlieferung",
+          "locations": "Orte",
+          "participants": "Teilnehmer",
+          "monsters": "Monster",
+          "ideas": "Ideen",
+          "vignettes": "Vignetten"
+        }
+      },
+      "noResults": "Nichts hier",
+      "loading": "Laden",
+      "homePage": {
+        "createSetting": "Einstellung erstellen",
+        "createCampaign": "Kampagne erstellen",
+        "createCharacter": "Charakter erstellen",
+        "createLocation": "Ort erstellen",
+        "createOrganization": "Organisation erstellen",
+        "createPC": "PC erstellen"
+      },
+      "save": "Speichern",
+      "ok": "OK",
+      "yes": "Ja",
+      "no": "Nein",
+      "close": "Schließen",
+      "update": "Aktualisieren",
+      "noToAll": "Nein zu allem",
+      "tableHeaders": {
+        "actions": "Aktionen",
+        "name": "Name",
+        "location": "Ort",
+        "journalName": "Journal",
+        "pageName": "Journalseite",
+        "type": "Typ",
+        "role": "Rolle",
+        "description": "Beschreibung"
+      },
+      "locations": {
+        "compendium": "Kompendium",
+        "world": "Welt"
+      },
+      "add": "Hinzufügen",
+      "description": "Beschreibung",
+      "addParticipant": "Teilnehmer hinzufügen",
+      "addParticipantDrag": "(oder einen Eintrag per Drag & Drop hinzufügen)",
+      "front": {
+        "motivation": "Motivation",
+        "grimPortents": "Düstere Vorzeichen",
+        "participants": "Teilnehmer",
+        "impendingDoom": "Drohendem Untergang",
+        "addPortent": "Düsteres Vorzeichen hinzufügen",
+        "portentHelpText": "Düstere Vorzeichen sind die Ereignisse, die eintreten werden, wenn die Gefahr nicht beseitigt wird. Sie können eine Lösung bringen, neue Wege eröffnen, die Geschichte verändern.",
+        "front": "Vorderseite"
+      },
+      "actors": "Schauspieler",
+      "sessions": "Sitzungen",
+      "scenes": "Szenen",
+      "journals": "Journal",
+      "arc": {
+        "addParticipant": "Teilnehmer hinzufügen",
+        "addParticipantDrag": "(oder ziehen/ablegen eines Charakters/Organisation)",
+        "participantHelpText": "Charaktere und Organisationen, die wahrscheinlich während des Bogens auftauchen",
+        "arc": "Bogen"
+      },
+      "complete": "Vollständig",
+      "danger": {
+        "addParticipant": "Teilnehmer hinzufügen",
+        "addParticipantDrag": "(oder ziehen/ablegen eines Charakters/Organisation)"
+      },
+      "searching": "Suche",
+      "storyWeb": {
+        "addText": "Text hinzufügen",
+        "enterText": "Neuen Text eingeben",
+        "editText": "Text bearbeiten",
+        "editRelationship": "Beziehung bearbeiten",
+        "removeRelationship": "Beziehung entfernen",
+        "removeRelationshipConfirm": "Sind Sie sicher, dass Sie diese Beziehung löschen möchten? Dies wird die Beziehung bei den Einträgen entfernen, nicht nur im Diagramm.",
+        "addConnection": "Verbindung hinzufügen",
+        "newConnectionLabel": "Neues Beziehungslabel (kann leer sein)",
+        "createConnection": "Verbindung erstellen",
+        "createConnectionPrompt": "Sie haben einen Eintrag auf einen bestehenden Knoten gezogen. Möchten Sie eine Verbindung zwischen ihnen erstellen?",
+        "zoomIn": "Vergrößern",
+        "zoomOut": "Verkleinern",
+        "fitToWindow": "An Fenster anpassen",
+        "addStoryWebDrag": "(oder ein Story-Web ziehen/ablegen)"
+      },
+      "character": {
+        "character": "Charakter"
+      },
+      "organization": {
+        "organization": "Organisation"
+      },
+      "location": {
+        "location": "Ort"
+      },
+      "setting": {
+        "setting": "Einstellung"
+      }
+    },
+    "placeholders": {
+      "search": "Suche",
+      "filter": "Filter",
+      "characterName": "Charaktername",
+      "locationName": "Ortsname",
+      "organizationName": "Organisationsname",
+      "pcName": "PC-Name",
+      "arcName": "Bogenname",
+      "allSessions": "Alle Sitzungen",
+      "campaignName": "Kampagnenname",
+      "settingName": "Name der Einstellung",
+      "sessionName": "Sitzungsname",
+      "frontName": "Frontname",
+      "dangerName": "Gefahrenname",
+      "sessionDate": "Datum",
+      "sessionNumber": "Sitzungsnummer",
+      "linkToActor": "Mit Schauspieler verknüpfen",
+      "storyWebName": "Story-Netz-Name"
+    },
+    "topics": {
+      "character": "Charakter",
+      "location": "Ort",
+      "organization": "Organisation",
+      "characters": "Charaktere",
+      "locations": "Orte",
+      "organizations": "Organisationen",
+      "pc": "PC",
+      "pcs": "PCs"
+    },
+    "dialogs": {
+      "generateNameDialog": {
+        "title": "Option auswählen",
+        "errorMessage": "Es gab einen Fehler:",
+        "emptyTable": "Es sind keine ungezogenen Namen mehr in der RollTable vorhanden. Sie können sie öffnen und neue hinzufügen oder 'Ergebnisse zurücksetzen' verwenden, um alte Namen wiederzuverwenden."
+      },
+      "confirmDeleteRelationship": {
+        "title": "Aus Beziehung entfernen?",
+        "message": "Sind Sie sicher, dass Sie diese Beziehung löschen möchten?"
+      },
+      "confirmDeletePC": {
+        "title": "PC entfernen?",
+        "message": "Sind Sie sicher, dass Sie diesen PC aus der Kampagne entfernen möchten? Dies wirkt sich nicht auf den PC-Eintrag selbst aus."
+      },
+      "createPC": {
+        "title": "PC erstellen",
+        "playerName": "Spielername"
+      },
+      "createCampaign": {
+        "title": "Kampagne erstellen",
+        "campaignName": "Kampagnenname"
+      },
+      "createSession": {
+        "title": "Sitzung erstellen",
+        "sessionName": "Sitzungsname"
+      },
+      "createSetting": {
+        "title": "Einstellung erstellen",
+        "settingName": "Name der Einstellung"
+      },
+      "createEntry": {
+        "generatedName": "Generierter Name",
+        "generatedDescription": "Generierte Beschreibung",
+        "generatePrompt": "Drücken Sie auf generieren, um Ergebnisse zu erhalten",
+        "generatePrompt2": "Andernfalls wird \"Kurze Beschreibung\" als neue Eintragsbeschreibung verwendet."
+      },
+      "addToDo": {
+        "title": "Aufgabe hinzufügen",
+        "text": "Geben Sie den Aufgabentext ein:"
+      },
+      "configureNames": {
+        "title": "Namensstile konfigurieren",
+        "description": "Wählen Sie die Namensstile aus, die Sie für von KI generierte Namen in dieser Einstellung verwenden möchten. Sie können unten Beispiele für jeden Stil basierend auf Genre und Stimmung dieser Einstellung anzeigen.",
+        "errorMessage": "Es gab einen Fehler:"
+      },
+      "relatedEntries": {
+        "additionalInformation": "Zusätzliche Informationen",
+        "allItemsConnected": "Alle möglichen verwandten Elemente sind bereits verbunden.",
+        "character": {
+          "title": "Einen Charakter hinzufügen",
+          "createButtonTitle": "Charakter erstellen",
+          "buttonTitle": "Beziehung hinzufügen"
+        },
+        "location": {
+          "title": "Einen Ort hinzufügen",
+          "createButtonTitle": "Ort erstellen",
+          "buttonTitle": "Beziehung hinzufügen"
+        },
+        "organization": {
+          "title": "Eine Organisation hinzufügen",
+          "createButtonTitle": "Organisation erstellen",
+          "buttonTitle": "Beziehung hinzufügen"
+        },
+        "addToSession": "Zur Sitzung hinzufügen",
+        "pc": {
+          "title": "Einen PC hinzufügen",
+          "createButtonTitle": "PC erstellen",
+          "buttonTitle": "Beziehung hinzufügen"
+        },
+        "entry": {
+          "title": "Einen Eintrag hinzufügen",
+          "buttonTitle": "Eintrag hinzufügen"
+        }
+      },
+      "relatedDocuments": {
+        "addActor": "Akteur hinzufügen",
+        "addItem": "Element hinzufügen",
+        "addJournal": "Journal/Seite hinzufügen",
+        "addScene": "Szene hinzufügen"
+      },
+      "relatedEntriesManagement": {
+        "title": "Verwandte Einträge verwalten",
+        "addedItems": "Neue Verweise gefunden",
+        "removedItems": "Verweise entfernt",
+        "entryDescription": "Wählen Sie Einträge aus, die basierend auf Ihren Änderungen mit diesem Eintrag verknüpft oder von diesem Eintrag getrennt werden sollen.",
+        "sessionDescription": "Wählen Sie Einträge aus, die basierend auf Ihren Änderungen mit der Sitzung verknüpft oder von der Sitzung getrennt werden sollen.",
+        "pcDescription": "Wählen Sie Einträge aus, die basierend auf Ihren Änderungen mit diesem PC verknüpft oder von diesem PC getrennt werden sollen.",
+        "dangerDescription": "Wählen Sie Teilnehmer aus, die basierend auf Ihren Änderungen zu dieser Gefahr hinzugefügt oder von dieser Gefahr entfernt werden sollen.",
+        "arcDescription": "Wählen Sie Einträge aus, die basierend auf Ihren Änderungen mit diesem Bogen verknüpft oder nicht verknüpft werden sollen."
+      },
+      "saveSessionNotes": {
+        "title": "Änderungen speichern?",
+        "message": "Möchten Sie die aktuellen Sitzungsnotizen vor dem Schließen speichern?"
+      },
+      "deleteEntry": {
+        "title": "Eintrag löschen?",
+        "message": "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten? Er wird aus allen Beziehungen und Sitzungen entfernt. Alle Verweise darauf in Editoren werden ungültig."
+      },
+      "saveChanges": {
+        "title": "Ungespeicherte Änderungen",
+        "message": "Sie haben ungespeicherte Änderungen in einem oder mehreren offenen Editoren. Was möchten Sie tun?",
+        "save": "Änderungen speichern",
+        "discard": "Änderungen verwerfen",
+        "cancel": "Abbrechen",
+        "uuidChangesMessage": "Sie haben Verweise auf andere Einträge hinzugefügt oder entfernt. Möchten Sie die zugehörigen Einträge aktualisieren?"
+      },
+      "confirmDeleteParticipant": {
+        "title": "Diesen Teilnehmer entfernen?",
+        "message": "Sind Sie sicher, dass Sie diesen Teilnehmer aus der Gefahr entfernen möchten?"
+      },
+      "createFront": {
+        "title": "Front erstellen",
+        "frontName": "Frontname"
+      },
+      "createArc": {
+        "title": "Bogen erstellen",
+        "arcName": "Bogenname"
+      },
+      "arcManager": {
+        "title": "Bögen verwalten",
+        "labels": {
+          "edit": "Bogen bearbeiten",
+          "delete": "Bogen löschen",
+          "addArc": "Bogen hinzufügen"
+        },
+        "missingSession": "Fehlende Sitzung",
+        "warning": {
+          "mustBeBlank": "Es gibt keine Sitzungen in der Kampagne, daher müssen Anfang und Ende leer sein",
+          "invalidSessionNumber": "Ungültige Sitzungsnummer",
+          "startTooHigh": "Die Anfangssitzung muss kleiner als die Endesitzung sein",
+          "bothBlank": "Anfangs- und Endesitzungsnummern müssen entweder beide leer oder beide nicht leer sein",
+          "allSessionsCovered": "Alle Sitzungen müssen von einem Bogen abgedeckt sein"
+        }
+      },
+      "createStoryWeb": {
+        "title": "Story-Netz erstellen",
+        "webName": "Story-Netz-Name"
+      },
+      "imageSettings": {
+        "title": "Einstellungen zur Bildsichtbarkeit",
+        "description": "Wählen Sie, welche Inhaltstypen Bilder auf ihren Beschreibungsseiten anzeigen sollen.",
+        "settings": "Einstellungen",
+        "entries": "Einträge",
+        "campaigns": "Kampagnen",
+        "arcs": "Bögen",
+        "sessions": "Sitzungen",
+        "fronts": "Fronten"
+      },
+      "migrationProgress": {
+        "title": "Kampagnen-Builder auf neue Version migrieren",
+        "message": "Ihre Kampagnendaten auf die neueste Version migrieren...",
+        "warnings": {
+          "noMigrationsNeeded": "Keine Migrationen erforderlich"
+        },
+        "status": {
+          "initializing": "Initialisierung...",
+          "runningMigrationForVersion": "Migration für Version {version} wird ausgeführt...",
+          "completedMigrationForVersion": "Migration für Version {version} abgeschlossen",
+          "failedMigrationForVersion": "Migration für Version {version} fehlgeschlagen",
+          "completedMigrationsProgress": "Abgeschlossene {completed}/{total} Migrationen",
+          "processedSetting": "Verarbeitetes Einstellung: {name}",
+          "migratedDocumentsProgress": "Migrierte Dokumente ({migrated}/{total})"
+        },
+        "progress": {
+          "percent": "{percent}%"
+        },
+        "errors": {
+          "migrationFailedForVersion": "Migration für Version {version} fehlgeschlagen: {error}"
+        },
+        "completion": {
+          "completeTitle": "Migration abgeschlossen",
+          "failedTitle": "Migration fehlgeschlagen",
+          "successMigratedItems": "{count} Elemente erfolgreich migriert.",
+          "noMigrationNeeded": "Keine Migration war erforderlich.",
+          "failureSummary": "Migration fehlgeschlagen. {migrated} Elemente migriert, {failed} fehlgeschlagen.",
+          "errorDetails": "Fehlerdetails",
+          "warnings": "Warnungen"
+        }
+      }
+    },
+    "contextMenus": {
+      "bookmarks": {
+        "openNewTab": "In neuem Tab öffnen",
+        "delete": "Lesezeichen löschen"
+      },
+      "campaignsHeader": {
+        "createCampaign": "Kampagne erstellen"
+      },
+      "campaignFolder": {
+        "createSession": "Sitzung erstellen",
+        "delete": "Kampagne löschen",
+        "markComplete": "Kampagne als abgeschlossen markieren",
+        "markActive": "Kampagne als aktiv markieren",
+        "createFront": "Eine Front erstellen",
+        "createArc": "Einen Bogen erstellen",
+        "manageArcs": "Bögen verwalten",
+        "createStoryWeb": "Ein Story-Netz erstellen"
+      },
+      "session": {
+        "delete": "Sitzung löschen"
+      },
+      "image": {
+        "viewImage": "Bild anzeigen",
+        "changeImage": "Bild ändern",
+        "removeImage": "Bild entfernen",
+        "postToChat": "Im Chat posten",
+        "createScene": "Szene erstellen",
+        "addImage": "Bild hinzufügen",
+        "generateImage": "Bild generieren",
+        "copyToClipboard": "In die Zwischenablage kopieren",
+        "copyLinkToClipboard": "Link in die Zwischenablage kopieren",
+        "showToPlayers": "Spielern zeigen"
+      },
+      "topicFolder": {
+        "create": {
+          "1": "Neuen Charakter erstellen",
+          "2": "Neuen Ort erstellen",
+          "3": "Neue Organisation erstellen",
+          "4": "Neuen PC erstellen"
+        }
+      },
+      "directoryEntry": {
+        "delete": "Eintrag löschen"
+      },
+      "typeFolder": {
+        "create": "Neu erstellen"
+      },
+      "generate": {
+        "image": "Bild generieren",
+        "inProgress": "in Bearbeitung",
+        "configureNames": "Namen konfigurieren",
+        "nameAndDescription": "Name oder Beschreibung generieren"
+      },
+      "tabs": {
+        "closeAll": "Alle Tabs schließen",
+        "closeOther": "Andere Tabs schließen"
+      },
+      "settingFolder": {
+        "delete": "Einstellung löschen",
+        "createCampaign": "Kampagne erstellen"
+      },
+      "arcFolder": {
+        "createSession": "Eine Sitzung erstellen",
+        "delete": "Bogen löschen"
+      },
+      "dialogs": {
+        "cannotActivateFromCompendium": "Kann nicht aus dem Kompendium aktiviert werden",
+        "cannotToggleNavigationFromCompendium": "Kann die Navigation von einer Szene im Kompendium nicht umschalten",
+        "cannotToggleNavigationWhileActive": "Kann die Navigation nicht umschalten, während die Szene aktiv ist"
+      },
+      "front": {
+        "delete": "Vorderseite löschen"
+      },
+      "storyWeb": {
+        "duplicate": "Web duplizieren",
+        "delete": "Story-Netz löschen"
+      },
+      "storyWebGraph": {
+        "delete": "Löschen",
+        "removeFromDiagram": "Aus dem Diagramm entfernen",
+        "addText": "Text hinzufügen",
+        "addEntry": "Eintrag hinzufügen",
+        "editText": "Text bearbeiten",
+        "editRelationship": "Beziehung bearbeiten",
+        "addConnection": "Verbindung hinzufügen",
+        "addEntryWithRelationships": "Eintrag mit Beziehungen hinzufügen",
+        "addDanger": "Gefahr hinzufügen",
+        "addDangerWithRelationships": "Gefahr mit Beziehungen hinzufügen",
+        "addTextPrompt": "Text eingeben, der dem Diagramm hinzugefügt werden soll",
+        "openEntryInNewTab": "Eintrag in neuem Tab öffnen",
+        "openDangerInNewTab": "Gefahr in neuem Tab öffnen",
+        "setColor": "Set Color",
+        "setStyle": "Set Style"
+      },
+      "addToStoryWeb": "Zum aktuellen Story-Web hinzufügen",
+      "addWithRelationships": "Mit Beziehungen hinzufügen",
+      "danger": {
+        "delete": "Gefahr löschen"
+      }
+    },
+    "tooltips": {
+      "mainButton": "Kampagnen-Builder starten",
+      "createSetting": "Einstellung erstellen",
+      "expandDirectory": "Verzeichnis erweitern",
+      "collapseDirectory": "Verzeichnis einklappen",
+      "collapseAllTopics": "Alle einklappen",
+      "addBookmark": "Lesezeichen hinzufügen",
+      "historyBack": "Zurück",
+      "historyForward": "Vorwärts",
+      "editRelationship": "Beziehung bearbeiten",
+      "deleteRelationship": "Beziehung löschen",
+      "deleteLocation": "Ort löschen",
+      "deleteNPC": "NPC löschen",
+      "deleteItem": "Gegenstand löschen",
+      "deleteMonster": "Monster löschen",
+      "deleteScene": "Szene löschen",
+      "deleteVignette": "Vignette löschen",
+      "deleteLore": "Überlieferung löschen",
+      "markAsDelivered": "Als geliefert markieren",
+      "unmarkAsDelivered": "Lieferstatus aufheben",
+      "moveToNextSession": "Zur nächsten Sitzung verschieben",
+      "generateContent": "Inhalt generieren",
+      "backendNotAvailable": "Backend nicht verfügbar",
+      "playModeNoCampaigns": "Sie müssen mindestens eine Kampagne mit einer Sitzung haben, um den Spielmodus zu verwenden",
+      "dragMonsterFromSession": "In Szene ziehen",
+      "dragItemFromSession": "Zu Schauspieler ziehen, etc.",
+      "contentLinks": {
+        "1": {
+          "1": "Charakter",
+          "2": "Ort",
+          "3": "Organisation",
+          "4": "PC"
+        },
+        "2": "Kampagne",
+        "3": "Sitzung",
+        "4": "Einstellung"
+      },
+      "dragActorFromEntry": "In Szene ziehen",
+      "addToASession": "Zu einer Sitzung hinzufügen",
+      "sessionUnavailable": "Keine Kampagnen mit einer aktiven Sitzung oder dieser Eintrag ist bereits an alle angehängt",
+      "createEntry": {
+        "name": "Wenn leer gelassen, wird automatisch ein Name generiert",
+        "type": "Wenn Sie einen neuen Typ erstellen, wird er zur Hauptliste hinzugefügt",
+        "description": "Optional. Verwenden Sie dies, um physische Merkmale oder Persönlichkeitseigenschaften anzugeben, die Sie einbeziehen möchten. Kann sehr kurz sein.",
+        "parent": "Kann in einigen Fällen den generierten Text beeinflussen",
+        "species": "Wenn leer, wird eine zufällige Art aus Ihrer Einstellung für die KI-Generierung verwendet. Benutzerdefinierte Einträge werden an die KI übergeben, aber nicht zu Ihrer Artenliste hinzugefügt",
+        "longDescriptions": "Detaillierte Beschreibung oder kurze Zusammenfassung generieren?",
+        "generateImage": "Nach der Erstellung ein neues Bild im Hintergrund generieren",
+        "addToCurrentSession": "Zur aktuellen Sitzung hinzufügen"
+      },
+      "moveToCampaign": "In die Kampagne für spätere Verwendung verschieben",
+      "addToCampaign": "Zur Kampagne hinzufügen",
+      "deleteToDo": "Aufgabe abschließen",
+      "editRow": "Dieses Element bearbeiten. Drücken Sie die Eingabetaste, um Änderungen zu speichern.",
+      "deleteIdea": "Idee löschen",
+      "settingGenerateContent": "Verwaltung der Generierungskonfiguration für Einstellungen",
+      "moreBookmarks": "Weitere Lesezeichen",
+      "moveToToDo": "Zur Aufgabenliste verschieben",
+      "moveToIdeas": "Zur Ideenliste verschieben",
+      "cannotChangeSettingInPlayMode": "Einstellung kann im Spielmodus nicht geändert werden",
+      "campaignComplete": "Kampagne abgeschlossen",
+      "arcComplete": "Bogen abgeschlossen",
+      "editParticipant": "Teilnehmer bearbeiten",
+      "editPortent": "Düsteres Vorzeichen bearbeiten",
+      "deletePortent": "Düsteres Vorzeichen löschen",
+      "deleteParticipant": "Teilnehmer löschen",
+      "editNotes": "Notizen bearbeiten",
+      "copyToNextSession": "In die nächste Sitzung kopieren",
+      "moveToArc": "Zum späteren Gebrauch in den Bogen verschieben",
+      "movetoLatestArc": "Zum neuesten Bogen verschieben",
+      "editSession": "Sitzung bearbeiten",
+      "generateAIContent": "KI-Inhalt generieren",
+      "maximizeWindow": "Fenster maximieren",
+      "restoreWindow": "Fenster wiederherstellen",
+      "currentSession": "aktuelle Sitzung"
+    },
+    "errors": {
+      "duplicateBookmark": "Bereits als Lesezeichen gespeichert",
+      "nameRequired": "Name darf nicht leer sein",
+      "failedToRepairIndexes": "Fehler beim Reparieren der Indizes. Überprüfen Sie die Konsole für Details."
+    },
+    "notifications": {
+      "backend": {
+        "successfulConnection": "Erfolgreich mit dem Campaign Builder-Backend verbunden.",
+        "failedConnection": "Verbindung zum Backend fehlgeschlagen - überprüfen Sie Ihre \"erweiterten\" Einstellungen, um sicherzustellen, dass sie korrekt mit dem bereitgestellten Backend-Server übereinstimmen. Sie können in der Zwischenzeit keine erweiterten Funktionen verwenden.",
+        "versionMismatch": "Die Version Ihres World & Campaign Builder-Backends ($1) stimmt nicht mit der von der installierten Modulversion benötigten Version ($2) überein. Bitte aktualisieren Sie eines von beiden (oder beide). Sie können in der Zwischenzeit keine erweiterten Funktionen verwenden.",
+        "emailSettingsNotSet": "Sie haben die E-Mail-Aufgabenlistenfunktion aktiviert, aber Sie haben keine Standard-Einstellung oder Kampagne festgelegt. Bitte legen Sie diese in den erweiterten Einstellungen fest.",
+        "rollTablesNotAvailable": "Backend ist nicht verfügbar. Automatische Rollentabellen werden nicht aktualisiert. Konfigurieren Sie das Backend in den erweiterten Einstellungen, um von der KI generierte Namen zu aktivieren, die zum Thema Ihrer Welt passen."
+      },
+      "addedToSession": "zur Sitzung hinzugefügt",
+      "changesSaved": "Änderungen gespeichert",
+      "todoReferenceNotFound": "Die verknüpfte Referenz für dieses To-Do-Element existiert nicht mehr.",
+      "changesDiscarded": "Änderungen verworfen",
+      "migration": {
+        "minimumVersionRequired": "Campign Builder kann nicht von Version {0} migrieren. Sie müssen zuerst auf Version {1} oder höher aktualisieren, bevor Sie auf {2} upgraden.",
+        "cannotOpen": "Campaign Builder kann nicht geöffnet werden, da die Migration fehlgeschlagen ist. Bitte überprüfen Sie die Konsole auf Details und beheben Sie das Migrationsproblem."
+      },
+      "participantCopiedToNextSession": "Teilnehmer in die nächste Sitzung kopiert",
+      "locationCopiedToNextSession": "Ort in die nächste Sitzung kopiert",
+      "monsterCopiedToNextSession": "Monster in die nächste Sitzung kopiert",
+      "documentIndexesRepaired": "Alle Dokumentindizes wurden erfolgreich repariert!"
+    },
+    "tags": {
+      "tag": "Tag",
+      "resultsFor": "Tag-Ergebnisse für",
+      "entryFound": "Eintrag gefunden",
+      "entriesFound": "Einträge gefunden"
+    }
+  }
+}

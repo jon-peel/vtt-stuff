@@ -1,0 +1,37 @@
+{
+  "name": "Heat Metal",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "TDQzHoPtU6S9sSNc",
+  "sort": 0,
+  "flags": {},
+  "_id": "epz5zSP2NzCh7Wwy",
+  "system": {
+    "description": "<p>All metal in the possession of a number of human-sized subjects is heated to extreme temperatures.</p><ul><li><strong>Number of subjects:</strong> One per two experience levels of the caster.</li><li><strong>The heat produced:</strong> Increases for four rounds, then fades (see table below).</li><li><strong>Effects:</strong> A subject whose flesh is in contact with the affected metal may be damaged (see below).</li><li><strong>Dropping items:</strong> A subject who drops all heated objects suffers no further harm.</li><li><strong>Water or snow:</strong> Immersing heated metal negates the harmful effects.</li><li><strong>Immunities:</strong> Creatures that are immune to fire are not harmed by this spell.</li></ul><p>Heat Metal Effects Per Round</p><table><thead><tr><th>Round</th><th>Level of Heat</th></tr></thead><tbody><tr><td>1</td><td>Very hot</td></tr><tr><td>2</td><td>Blistering</td></tr><tr><td>3</td><td>Searing</td></tr><tr><td>4</td><td>White hot</td></tr><tr><td>5</td><td>Searing</td></tr><tr><td>6</td><td>Blistering</td></tr><tr><td>7</td><td>Very hot</td></tr></tbody></table><ul><li><strong>Very hot:</strong> Uncomfortable to the touch.</li><li><strong>Blistering:</strong> [[/r 1d3]] damage.</li><li><strong>Searing:</strong> [[/r 1d6]] damage. Flammable materials touching the object are set alight.</li><li><strong>White hot:</strong> [[/r 1d6]] damage. Flammable materials touching the object are set alight. <em><strong>Save versus spells</strong></em> or suffer a disability, depending on the affected area(s) of the body.</li><li><p><strong>White hot:</strong> [[/r 1d6]] damage. Flammable materials touching the object are set alight. <em><strong>Save versus spells</strong></em> or suffer a disability, depending on the affected area(s) of the body.</p><ul><li><p><strong>Hand or foot:</strong> unusable for [[/r 2d4]] days.</p></li><li><p><strong>Body:</strong> severely weakened for [[/r 1d4]] days (movement rate halved, unable to fight, cast spells, or perform any strenuous activity).</p></li><li><p><strong>Head:</strong> unconscious for [[/r 1d4]] turns.</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Druid",
+    "duration": "7 rounds",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449760487,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!epz5zSP2NzCh7Wwy"
+}

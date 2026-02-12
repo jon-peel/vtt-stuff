@@ -1,0 +1,36 @@
+{
+  "_id": "PeQK27r65sYMY1Nj",
+  "name": "Tracking",
+  "type": "ability",
+  "img": "icons/magic/nature/wolf-paw-glow-orange.webp",
+  "effects": [],
+  "folder": "VeevuJykXLRx7ycw",
+  "sort": 600000,
+  "flags": {},
+  "system": {
+    "description": "<p>Rangers can identify and follow tracks. This skill improves as the character gains levels. Success may be modified by the following factors:</p><ul><li><p><strong>Soft/hard ground:</strong> +20% to –50%.</p></li><li><p><strong>Size of group being tracked:</strong> +2% per creature beyond the first.</p></li><li><p><strong>Passing through an area where other tracks mingle:</strong> –50%.</p></li><li><p><strong>Age of tracks:</strong> –5% per 12 hours.</p></li><li><p><strong>Rainfall:</strong> –25% per hour.</p></li><li><p><strong>Efforts made to hide tracks:</strong> –25%.</p></li></ul><hr><table><thead><tr><th>Level</th><th>Tracking</th></tr></thead><tbody><tr><td>1</td><td>20%</td></tr><tr><td>2</td><td>30%</td></tr><tr><td>3</td><td>40%</td></tr><tr><td>4</td><td>50%</td></tr><tr><td>5</td><td>60%</td></tr><tr><td>6</td><td>70%</td></tr><tr><td>7</td><td>80%</td></tr><tr><td>8</td><td>90%</td></tr><tr><td>9</td><td>100%</td></tr><tr><td>10+</td><td>110%</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "ranger",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 20,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458319239,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!PeQK27r65sYMY1Nj"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "WtL4WHV0wBwVmlpT",
+  "name": "Random Wilderness Encounter",
+  "type": "script",
+  "author": "LWUjWFEmslEaL9Zd",
+  "img": "icons/environment/wilderness/carved-standing-stone.webp",
+  "scope": "global",
+  "command": "OSE.util.wildEncounter(true)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!macros!WtL4WHV0wBwVmlpT"
+}

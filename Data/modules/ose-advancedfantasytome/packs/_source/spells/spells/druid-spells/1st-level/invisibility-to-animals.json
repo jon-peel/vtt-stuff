@@ -1,0 +1,37 @@
+{
+  "name": "Invisibility to Animals",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "98H5alZjT4gFD44w",
+  "sort": 0,
+  "flags": {},
+  "_id": "T974eS4p9iyEeA2R",
+  "system": {
+    "description": "<p>This spell renders the subject undetectable to all senses (smell, sight, hearing) of non-magical animals and able to wander among them completely unnoticed.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Druid",
+    "duration": "1 turn",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160020723,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!T974eS4p9iyEeA2R"
+}

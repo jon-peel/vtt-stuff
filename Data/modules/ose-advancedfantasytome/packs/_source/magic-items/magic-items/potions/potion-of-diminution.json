@@ -1,0 +1,46 @@
+{
+  "_id": "A4JbzBPYbOUZ4ldD",
+  "name": "Potion of Diminution",
+  "type": "item",
+  "img": "icons/consumables/potions/potion-bottle-corked-labeled-red.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The character shrinks to 6” high.</p><ul><li><p><strong>Combat effectiveness</strong>: While shrunk, the character is unable to harm creatures larger than 1’ tall.</p></li><li><p><strong>Narrow spaces</strong>: The character can slip through narrow spaces.</p></li><li><p><strong>Remaining motionless</strong>: The character only has a [[/br 1d100]]{10%} chance of being spotted.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442402511,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!A4JbzBPYbOUZ4ldD"
+}

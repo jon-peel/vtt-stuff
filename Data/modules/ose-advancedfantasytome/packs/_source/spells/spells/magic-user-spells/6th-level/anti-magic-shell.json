@@ -1,0 +1,37 @@
+{
+  "name": "Anti-Magic Shell",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "kCPIGWWfM6v5v4C5",
+  "system": {
+    "description": "<p>An anti-magic barrier is created around the caster.</p><ul><li><p><strong>Blocks magic:</strong> No spells or spell effects can pass through this barrier, whether from inside or outside.</p></li><li><p><strong>Dismissing:</strong> The caster may end this spell at any time before the duration has expired.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454608363,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kCPIGWWfM6v5v4C5"
+}

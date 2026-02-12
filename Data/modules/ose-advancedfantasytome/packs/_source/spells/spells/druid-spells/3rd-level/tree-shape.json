@@ -1,0 +1,37 @@
+{
+  "name": "Tree Shape",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VZ2bxyQHtpoVt8qa",
+  "sort": 0,
+  "flags": {},
+  "_id": "Lba5QzgZE1L61a6u",
+  "system": {
+    "description": "<p>The caster takes on the form of a living or dead tree.</p><ul><li><p><strong>Appearance:</strong> The tree form is completely realistic, even to very close inspection.</p></li><li><p><strong>Gear:</strong> All of the caster’s clothing and equipment is also transformed.</p></li><li><p><strong>Perception:</strong> While in this form, the caster can perceive the surroundings with their normal senses.</p></li><li><p><strong>Cancelling:</strong> The caster may end the spell at will, returning to their normal form.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Druid",
+    "duration": "6 turns +1 per level",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449940098,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Lba5QzgZE1L61a6u"
+}

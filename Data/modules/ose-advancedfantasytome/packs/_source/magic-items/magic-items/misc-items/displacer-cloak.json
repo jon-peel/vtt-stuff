@@ -1,0 +1,44 @@
+{
+  "_id": "AQaNag8DolMwL3Dv",
+  "name": "Displacer Cloak",
+  "type": "item",
+  "img": "icons/equipment/back/cloak-collared-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 2900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A cloak that bends light, making one who wears it appear to be 5’ away from their true location.</p><ul><li><p><strong>Save bonus</strong>: The wearer gains a +2 bonus to saving throws against petrification, rods, spells, staves, and wands.</p></li><li><p><strong>Melee attacks</strong>: Against the wearer are penalised by –2.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761429992022,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!AQaNag8DolMwL3Dv"
+}

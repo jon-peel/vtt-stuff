@@ -1,0 +1,36 @@
+{
+  "_id": "HgIt9qzXjhGxoeOW",
+  "name": "Strike Invulerable Monsters",
+  "type": "ability",
+  "img": "icons/skills/melee/shield-damaged-broken-gold.webp",
+  "effects": [],
+  "folder": "cOt7bmTx1Q2WSYbw",
+  "sort": 500000,
+  "flags": {},
+  "system": {
+    "description": "<p>A barbarian of 4th level or higher is able to hit monsters that can normally only be harmed by magic.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "barbarian",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456948172,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!HgIt9qzXjhGxoeOW"
+}

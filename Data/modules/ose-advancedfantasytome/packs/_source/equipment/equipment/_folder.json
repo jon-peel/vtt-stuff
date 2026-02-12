@@ -1,0 +1,19 @@
+{
+  "color": "#1d506d",
+  "name": "Equipment",
+  "sorting": "a",
+  "type": "Item",
+  "folder": null,
+  "_id": "yvMZJme1bnhee0JM",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "11.300",
+    "createdTime": null,
+    "modifiedTime": 1686554686754,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!yvMZJme1bnhee0JM"
+}

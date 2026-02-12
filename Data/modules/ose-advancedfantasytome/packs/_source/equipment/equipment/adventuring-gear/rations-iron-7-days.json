@@ -1,0 +1,39 @@
+{
+  "_id": "VxMq5PUMvOr7NhxU",
+  "name": "Rations (iron, 7 days)",
+  "type": "item",
+  "img": "icons/consumables/meat/steak-alien-orange.webp",
+  "effects": [],
+  "folder": "FBxn2Zz0vNSqX0tk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Dried and preserved food to be carried on long voyages when se</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 7,
+      "max": 7
+    },
+    "weight": null,
+    "cost": 15,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "itemslots": 0.33
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.4",
+    "coreVersion": "13.348",
+    "createdTime": null,
+    "modifiedTime": 1758064521897,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!VxMq5PUMvOr7NhxU"
+}

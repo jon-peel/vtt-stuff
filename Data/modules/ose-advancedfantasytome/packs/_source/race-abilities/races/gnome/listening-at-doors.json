@@ -1,0 +1,37 @@
+{
+  "name": "Listening at Doors",
+  "type": "ability",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "effects": [],
+  "folder": "QflRm48M1NqflUIJ",
+  "flags": {},
+  "system": {
+    "description": "<p>Gnomes have a [[/br 1d6]]{2-in-6} chance of hearing noises (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.DpsGa6pHQRkwiQR8]{Dungeon Adventuring}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685802607056,
+    "modifiedTime": 1761459403441,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "btNidRs9Z6rI9DYW",
+  "sort": 0,
+  "_key": "!items!btNidRs9Z6rI9DYW"
+}

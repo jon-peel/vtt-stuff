@@ -1,0 +1,70 @@
+<form>
+  <div class='sheet-tabs' data-group='primary'>
+    <a class='nav-tab' data-tab='party'>{{localize 'OSRH.partySheet.party'}} </a>
+    <a class='nav-tab' data-tab='formation'>{{localize 'OSRH.partySheet.formation'}} </a>
+    <a class='nav-tab' data-tab='config' id="config-tab" title ="{{localize "OSRH.item.config.config"}}"><i class="fa-solid fa-gear"></i></a>
+  </div>
+  <div class='tab-content' id='tab-content'>
+    <div class='tab party' data-group='primary' data-tab='party'>
+      <ol class='items' id='party-list'>
+        {{#each party as |actor idx|}}
+          <li class='fx party-actor item' data-type='Actor' data-uuid='{{actor.uuid}}'>
+            <img src='{{actor.img}}' class='portrait round-shadow item' data-uuid='{{actor.uuid}}' />
+            <div class='party-row' data-uuid='{{actor.uuid}}'>
+              <div class='name' title="{{actor.name}}">
+                {{actor.name}}
+              </div>
+              <div class='hp fx'>
+                <i class='fa-solid fa-heart icon'></i>
+                <p class='wide-val'>{{actor.hp}}</p>
+                <p>/</p>
+                <p class='wide-val'>{{actor.hpMax}}</p>
+              </div>
+              <div class='ac fx'>
+                <i class='fa-solid fa-shield icon'></i>
+                <p>{{actor.ac}}</p>
+              </div>
+              <div class='delete'>
+                <i class='fa-solid fa-delete-left delete-btn'></i>
+              </div>
+            </div>
+          </li>
+        {{/each}}
+      </ol>
+    </div>
+
+    <div class='tab formation' data-group='primary' data-tab='formation'>
+      <div class='formation-cont'>
+        <div class='formation-header'>
+          <div class='party-picker formation-drop'>
+            <div class="marker-list">
+              {{#each pool as |marker idx|}}
+                <div class='marker  marker-portrait marker-sm' data-uuid='{{marker.uuid}}'>
+                  <img src='{{marker.img}}' class='marker-sm' data-uuid='{{marker.uuid}}' title="{{marker.name}}" />
+                </div>
+              {{/each}}
+            </div>
+          </div>
+          <div class='drag-party-btn party-drag' title="Drag Party To Table">
+            <i class='fa-solid fa-people-group'></i>
+          </div>
+        </div>
+        <div class='formation-grid'>
+          {{{formationGrid}}}
+        </div>
+      </div>
+    </div>
+    <div class="tab config" data-group='primary' data-tab='config'>
+      <div class="config-cont">
+        <label for="grid-size"><b>{{localize "OSRH.config.gridSize"}}</b></label>
+        <select name="gridsize" id="grid-size">
+          <option value="5">5</option>
+          <option value="7">7</option>
+          <option value="9">9</option>
+          <option value="11">11</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+</form>

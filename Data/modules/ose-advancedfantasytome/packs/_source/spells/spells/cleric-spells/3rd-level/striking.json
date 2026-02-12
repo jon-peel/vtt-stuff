@@ -1,0 +1,37 @@
+{
+  "_id": "CnzjOkZ3iHaJttON",
+  "name": "Striking",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "a8U83GTRvuz41jM1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A single weapon is enchanted:</p><ul><li><p><strong>Damage:</strong> It deals an additional [[/r 1d6]] damage.</p></li><li><p><strong>Treated as magical</strong>:<strong> </strong>It is able to harm monsters which are normally only harmed by magical weapons.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Cleric",
+    "duration": "1 turn",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449365164,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CnzjOkZ3iHaJttON"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Foraging",
+  "type": "ability",
+  "img": "icons/magic/nature/mushroom-glow-red.webp",
+  "effects": [],
+  "folder": "cOt7bmTx1Q2WSYbw",
+  "flags": {},
+  "system": {
+    "description": "<p>A party with a barbarian succeeds at foraging with a [[/r 1d6]]{2-in-6} chance (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.MZcvVTyQEgxgSXic]{Wilderness Adventuring}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "barbarian",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761456948123,
+    "modifiedTime": 1761457098102,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "Lh27mU3opxabeVVv",
+  "sort": 300000,
+  "_key": "!items!Lh27mU3opxabeVVv"
+}

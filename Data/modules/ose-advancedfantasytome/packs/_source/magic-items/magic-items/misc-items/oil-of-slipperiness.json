@@ -1,0 +1,44 @@
+{
+  "_id": "YRf1fWjLi2KD7FPG",
+  "name": "Oil of Slipperiness",
+  "type": "item",
+  "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 7000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A flask of thin oil which can make characters or objects impossible to grasp.</p><ul><li><p><strong>Applying:</strong> The oil must be rubbed onto the character or object to be affected. A flask is sufficient for one human-sized character and their gear.</p></li><li><p><strong>Slipperiness:</strong> The subject becomes impossible to grasp or restrain, making them immune to constriction attacks and able to instantly slip out of webs, rope bonds, chains, and so forth.</p></li><li><p><strong>Applying to a floor:</strong> A flask can cover a 10’ square area. Creatures walking through the area have a [[/r 1d100]]{95%} chance per round of slipping over.</p></li><li><p><strong>Duration:</strong> 8 hours.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440844289,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!YRf1fWjLi2KD7FPG"
+}

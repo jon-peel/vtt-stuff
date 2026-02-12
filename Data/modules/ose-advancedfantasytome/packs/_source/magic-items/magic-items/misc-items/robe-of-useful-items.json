@@ -1,0 +1,44 @@
+{
+  "_id": "6jmUGA3evWpEIplM",
+  "name": "Robe of Useful Items",
+  "type": "item",
+  "img": "icons/equipment/chest/robe-collared-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 2400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A plain-looking robe with the power to conjure objects out of thin air.</p><ul><li><p><strong>Arcane spell casters</strong>: After donning the robe, they notice a series of cloth patches sewn into it, shaped like items.</p></li><li><p><strong>Other characters</strong>: Cannot perceive or use the powers of this robe.</p></li><li><p><strong>Removing a patch</strong>: Takes 1 round. The patch permanently turns into the corresponding item.</p></li><li><p><strong>Types of patches</strong>: The robe has the following patches when found:</p><ol type=\"a\"><li>Two daggers.</li><li>Two 10’ poles.</li><li>Two lanterns, lit and filled with oil.</li><li>Two large sacks.</li><li>Two steel, hand-sized mirrors.</li><li>Two 50’ ropes.</li><li>[[/r 4d4]] items rolled on the table below.</li></ol></li></ul><table style=\"width: 98.5646%;\"><thead><tr><td style=\"width: 99.5145%;\" colspan=\"2\">Robe of Useful Items: Item Type</td></tr></thead><tbody><tr><td style=\"width: 13.175%;\"><strong>[[/r 1d100]]</strong></td><td style=\"width: 86.3396%;\"><strong>Item</strong></td></tr><tr><td style=\"width: 13.175%;\">01–08</td><td style=\"width: 86.3396%;\">Bag of 100gp</td></tr><tr><td style=\"width: 13.175%;\">09–15</td><td style=\"width: 86.3396%;\">Small silver box (worth 500gp)</td></tr><tr><td style=\"width: 13.175%;\">16–22</td><td style=\"width: 86.3396%;\">Iron door with a bar on one side; may be attached to a wall</td></tr><tr><td style=\"width: 13.175%;\">23–30</td><td style=\"width: 86.3396%;\">10 gems (worth 100gp each)</td></tr><tr><td style=\"width: 13.175%;\">31–44</td><td style=\"width: 86.3396%;\">Wooden ladder, 24’ long</td></tr><tr><td style=\"width: 13.175%;\">45–51</td><td style=\"width: 86.3396%;\">Mule with saddle bags</td></tr><tr><td style=\"width: 13.175%;\">52–59</td><td style=\"width: 86.3396%;\">10’ deep pit</td></tr><tr><td style=\"width: 13.175%;\">60–68</td><td style=\"width: 86.3396%;\">Potion that heals [[/r 2d6+2]] hp</td></tr><tr><td style=\"width: 13.175%;\">69–75</td><td style=\"width: 86.3396%;\">Rowing boat (12’ long, movement rate 30’ (10’), AC 9 [10], 10 hull points)</td></tr><tr><td style=\"width: 13.175%;\">76–83</td><td style=\"width: 86.3396%;\">Scroll of a random arcane spell</td></tr><tr><td style=\"width: 13.175%;\">84–90</td><td style=\"width: 86.3396%;\">Two @UUID[Compendium.ose-advancedfantasytome.animals.Actor.vcwJSOSuz48zgTM0]{war dogs}</td></tr><tr><td style=\"width: 13.175%;\">91–00</td><td style=\"width: 86.3396%;\">Window (2’ × 4’, 2’ deep)</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441754549,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6jmUGA3evWpEIplM"
+}

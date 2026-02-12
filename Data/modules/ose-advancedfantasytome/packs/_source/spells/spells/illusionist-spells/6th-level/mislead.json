@@ -1,0 +1,37 @@
+{
+  "_id": "xk5wweRgawaYSwL3",
+  "name": "Mislead",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell causes an illusory double of the caster to appear while the real caster is rendered invisible.</p><ul><li><p><strong>Appearance:</strong> The illusion of the double includes visual, sonic, olfactory, and tactile elements. It is an entirely convincing double of the caster.</p></li><li><p><strong>Action:</strong> The double may act completely independently, including moving, speaking, attacking, and casting spells (that the caster has memorized).</p></li><li><p><strong>Combat:</strong> The double has the same combat capabilities as the caster and has a separate pool of hit points, equal to those of the caster when the spell is cast.</p></li><li><p><strong>The caster:</strong> Is rendered invisible as follows:</p><ul><li><p><strong>Attacking:</strong> The caster may attack while invisible.</p></li><li><p><strong>Being attacked:</strong> Opponents who are aware of the caster’s presence (but who cannot see invisible) may detect a faint shimmering, allowing them to locate the caster. The caster gains a +4 bonus to AC and saving throws against such attacks.</p></li><li><p><strong>Equipment:</strong> Any gear the caster is carrying is also rendered invisible (this includes clothing and armour). Items dropped or put down become visible.</p></li><li><p><strong>Light sources:</strong> If a light source is made invisible (as part of the caster’s gear), the light it casts is unaffected.</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "1 round per level",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452433113,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xk5wweRgawaYSwL3"
+}

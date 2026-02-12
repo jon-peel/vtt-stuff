@@ -1,0 +1,36 @@
+{
+  "_id": "0SyCaryRf8TO0Hap",
+  "name": "Shape Change",
+  "type": "ability",
+  "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>At 7th level, a druid gains the power to change into the form of a reptile, bird, and mammal (once per day each). The animal may be of any size up to around twice the bulk of the druid’s normal form. If a druid has lost hit points, they regain [[/r 1d4]] hit points per level upon changing into an animal. All equipment carried by the druid is absorbed into the animal form and reappears when the druid changes back.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "1d4",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159952563,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!0SyCaryRf8TO0Hap"
+}

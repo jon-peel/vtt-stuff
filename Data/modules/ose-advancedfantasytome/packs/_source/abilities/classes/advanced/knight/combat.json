@@ -1,0 +1,36 @@
+{
+  "_id": "j7mYvarQ3v1nsezn",
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "M8kCM9O2lnpAKqRe",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Knights can use all melee weapons but cannot use missile weapons (they regard these as dishonourable). They can wear any metal armour but scorn non-metal armour as only suitable for peasants and villains.</p>\n<p><strong>Prowess of arms</strong>: Knights regard armour as a symbol of prowess and status, always favouring the most impressive and impervious-looking armour available.</p>\n<p><strong>Single combat</strong>: In a battle, a knight must attack the most powerful or worthy foe in single combat.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "knight",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159963462,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!j7mYvarQ3v1nsezn"
+}

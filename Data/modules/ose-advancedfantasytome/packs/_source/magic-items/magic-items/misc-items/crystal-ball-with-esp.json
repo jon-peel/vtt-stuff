@@ -1,0 +1,46 @@
+{
+  "name": "Crystal Ball with ESP",
+  "type": "item",
+  "img": "icons/tools/laboratory/alembic-glass-ball-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "flags": {},
+  "system": {
+    "description": "<p>Allows an arcane spell caster to view any place or object that is brought to mind:</p><ul><li><p><strong>Duration</strong>: The vision lasts for one turn.</p></li><li><p><strong>Clarity</strong>: The clarity of the vision is dependant on the scryer’s familiarity with the subject.</p></li><li><p><strong>Usage frequency</strong>: A crystal ball may be used at most 3 times a day.</p></li><li><p><strong>Casting spells</strong>: It is not possible to cast spells through a crystal ball into the viewed scene.</p></li></ul><h4><strong>Crystal Ball With Clairaudience</strong></h4><p>The scryer can hear, as well as see, the desired scene.</p><h4><strong>Crystal Ball With ESP</strong></h4><p>Allows the scryer to spy on the thoughts of creatures viewed in the crystal ball:</p><ul><li><p><strong>Reading</strong> thoughts: The thoughts of a single creature viewed through the crystal ball may be read.</p></li><li><p><strong>Meaning</strong>: The scryer understands the meaning of all thoughts even if they do not share the creature’s language.</p></li><li><p><strong>Obstructions</strong>: The ability to perceive thoughts is obstructed by a thin layer of lead or by rock of 2’ thick or greater.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761351263564,
+    "modifiedTime": 1761351554299,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "XbXfzoO8KSELUc55",
+  "sort": 200000,
+  "_key": "!items!XbXfzoO8KSELUc55"
+}

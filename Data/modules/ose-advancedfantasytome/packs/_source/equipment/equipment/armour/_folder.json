@@ -1,0 +1,19 @@
+{
+  "color": "#20638a",
+  "name": "Armour",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "yvMZJme1bnhee0JM",
+  "_id": "T0iQvXpPKeJGwEfH",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "11.296",
+    "createdTime": null,
+    "modifiedTime": 1683938424735,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!T0iQvXpPKeJGwEfH"
+}

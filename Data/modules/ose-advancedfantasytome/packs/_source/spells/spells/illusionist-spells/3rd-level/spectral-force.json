@@ -1,0 +1,37 @@
+{
+  "name": "Spectral Force",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "J7wJpGJlFseMf27S",
+  "system": {
+    "description": "<p>An illusion of the caster’s choosing— including sounds, smells, and thermal elements—manifests in a 20’ cube area. Three types of illusions may be created<strong>:</strong></p><ol><li><p><strong>An illusionary monster:</strong> That can be directed to attack. The monster has AC 5 [14] and vanishes if hit in combat.</p></li><li><p><strong>An illusionary attack:</strong> For example, an avalanche, a falling ceiling, a magic missile, etc. Targets who <strong>save versus spells</strong> are unaffected.</p></li><li><p><strong>A scene:</strong> Either changing the appearance of the affected area or creating the appearance of something new. The scene disappears if touched.</p></li></ol><p><strong>Stipulations:</strong> The following apply:</p><ul><li><p><strong>Concentration:</strong> Is required to maintain the illusion. If the caster moves at faster than half speed or loses concentration, the spell ends.</p></li><li><p><strong>Persistence:</strong> Even when the caster stops concentrating on the spell, the illusion persists for three further rounds.</p></li><li><p><strong>Illusionary monsters or attacks:</strong> May appear to be harmful but never inflict real damage. A character who appears to die actually falls unconscious, a character turned to stone will actually be paralysed, and so on. Such effects last for [[/r 1d4]] turns.</p></li><li><p><strong>Illusions from imagination:</strong> If the illusion is of something the caster has not personally seen, the referee should grant targets a bonus to any applicable saving throws.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": "Concentration",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451614412,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!J7wJpGJlFseMf27S"
+}

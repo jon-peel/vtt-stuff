@@ -1,0 +1,36 @@
+{
+  "_id": "hSqkJyUbCtz0Dp4C",
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "B8U954IiHaUyYaB3",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Clerics can use all types of armour. Strict holy doctrine prevents clerics’ use of weapons that have a sharp, cutting edge or stabbing point. They may use the following weapons: club, mace, sling, staff, warhammer.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "cleric",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159962880,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hSqkJyUbCtz0Dp4C"
+}

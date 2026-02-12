@@ -1,0 +1,37 @@
+{
+  "_id": "to8QoDIxhmRoeTko",
+  "name": "Find Traps",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Uomj8iwM0LC6tcoG",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Trapped objects or areas within range of the caster glow with a magical blue light.</p><ul><li><p><strong>Magical and mechanical traps:</strong> Are both detected.</p></li><li><p><strong>No knowledge:</strong> About the nature of he trap or how to deactivate it is granted.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "2 turns",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761446386792,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!to8QoDIxhmRoeTko"
+}

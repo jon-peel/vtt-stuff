@@ -1,0 +1,39 @@
+{
+  "_id": "BoBifwnvDWTKHHCd",
+  "name": "Ring of Delusion",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-band-studded.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 600000,
+  "flags": {},
+  "system": {
+    "description": "<p>The wearer believes they are under the effects of another type of magic ring.</p><ul><li><p><strong>Type:</strong> The other type of ring should be determined by the referee (e.g. a @UUID[Compendium.ose-advancedfantasytome.magic-items.Item.WQ2t6zG2NIbnbMYd]{ring of protection} or a @UUID[Item.At6h12ony9NAYFjG]{ring of spell turning}).</p></li><li><p><strong>Describing:</strong> The referee should try to trick the player into believing that the character is under the effects of the other ring, only revealing the truth at some vital juncture.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443138887,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BoBifwnvDWTKHHCd"
+}

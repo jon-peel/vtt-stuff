@@ -1,0 +1,37 @@
+{
+  "name": "Illusory Stamina",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VKTYcU8UWQYpITJG",
+  "sort": 0,
+  "flags": {},
+  "_id": "gAArmKcnXI86utzP",
+  "system": {
+    "description": "<p>Up to four persons touched by the caster are refreshed, some of their lost hit points being temporarily restored.</p><ul><li><p><strong>Bonus hit points:</strong> Each subject gains a number of bonus hit points equal to 50% of the number of hit points he or she is currently below maximum. For example, if the subject has a maximum of 30 hit points and a current total of 12 hit points, he or she gains 9 bonus hit points (50% of 18).</p></li><li><p><strong>Any damage suffered:</strong> Is subtracted first from the bonus hit points.</p></li><li><p><strong>When the duration ends:</strong> If any of the bonus hit points remain, they disappear.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Illusionist",
+    "duration": "3 turns per level",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451748900,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gAArmKcnXI86utzP"
+}

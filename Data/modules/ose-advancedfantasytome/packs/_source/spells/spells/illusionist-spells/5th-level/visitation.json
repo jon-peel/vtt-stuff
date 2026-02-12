@@ -1,0 +1,37 @@
+{
+  "name": "Visitation",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "npVNC6o4RmbOB3bb",
+  "system": {
+    "description": "<p>This spell sends an apparition to deliver a message to a named subject.</p><ul><li><p><strong>The apparition:</strong> Takes the form of a ghostly figure of sinister or beguiling aspect, as the caster wishes.</p></li><li><p><strong>The message delivered:</strong> May be up to 5 minutes long.</p></li><li><p><strong>Sympathetic item:</strong> The caster requires an item of close personal connection to the subject (e.g. a ring, commonly worn garment, lock of hair, etc.).</p></li><li><p><strong>Saving throw:</strong> If the subject is unwilling, they may <strong>save versus spells</strong> to prevent the visitation.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "5 minutes",
+    "range": "Unlimited",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452273381,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!npVNC6o4RmbOB3bb"
+}

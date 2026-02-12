@@ -1,0 +1,37 @@
+{
+  "name": "Maze of Mirrors",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "fyiW5ZmXbhzEln9t",
+  "system": {
+    "description": "<p>A single subject within range is transported into a shifting, extra-dimensional mirror maze.</p><ul><li><strong>Duration:</strong> The subject is trapped in the maze for a duration depending on its intelligence. See the table below.</li><li><strong>Escaping the maze:</strong> Once the subject has found its way out of the maze, it reappears in the location it was transported from.</li></ul><table><thead><tr><th>Subject’s INT</th><th>Duration</th></tr></thead><tbody><tr><td>Less than 3</td><td>[[/r 2d4]] turns</td></tr><tr><td>3–5</td><td>[[/r 1d4]] turns</td></tr><tr><td>6–8</td><td>[[/r 5d4]] rounds</td></tr><tr><td>9–11</td><td>[[/r 4d4]] rounds</td></tr><tr><td>12–14</td><td>[[/r 3d4]] rounds</td></tr><tr><td>15–17</td><td>[[/r 2d4]] rounds</td></tr><tr><td>18 or higher</td><td>[[/r 1d4]] rounds</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "Varies by subject’s INT",
+    "range": "5' per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452050837,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fyiW5ZmXbhzEln9t"
+}

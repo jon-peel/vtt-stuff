@@ -1,0 +1,44 @@
+{
+  "_id": "gqYjB3cntSOkEwly",
+  "name": "Sphere of Annihilation",
+  "type": "item",
+  "img": "icons/commodities/gems/pearl-purple-dark.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 8800000,
+  "flags": {},
+  "system": {
+    "description": "<p>A rift in the fabric of the multiverse which manifests as a static 2’ globe of absolute blackness. Anything it touches is utterly destroyed.</p><ul><li><p><strong>Touching:</strong> Any matter which touches the sphere is instantly and permanently annihilated. Restoration is impossible, even with a wish.</p></li><li><p><strong>Moving:</strong> An arcane spell caster may try to move the sphere with their mind. The character must be at most 10’ per level away from the sphere. Any attempt to move the sphere sets it in motion.</p></li><li><p><strong>Control check:</strong> A control check is required each round. The chance of success depends on the character’s level, as shown in the table below.</p></li><li><p><strong>If a check succeeds:</strong> The character can move the sphere in any direction for 1 round, at the rate shown in the table.</p></li><li><p><strong>If a check fails:</strong> The sphere slides towards the character at a rate of 10’ for [[/r 1d4]] rounds. Control cannot be reattempted during this time.</p></li><li><p><strong>Vying for control:</strong> If multiple arcane spell casters vie for control of the sphere, each must make a control check per round, with the highest level character rolling first. If all characters fail to control the sphere, it slides towards the highest level character as per if a check fails, above.</p></li></ul><table><thead><tr><td colspan=\"3\">Sphere of Annihilation: Control</td></tr></thead><tbody><tr><td><strong>Level</strong></td><td><strong>Move/Round</strong></td><td><strong>Control Chance</strong></td></tr><tr><td>1–5</td><td>8’</td><td>15%</td></tr><tr><td>6–7</td><td>10’</td><td>30%</td></tr><tr><td>8–9</td><td>12’</td><td>50%</td></tr><tr><td>10–11</td><td>14’</td><td>60%</td></tr><tr><td>12–13</td><td>16’</td><td>70%</td></tr><tr><td>14</td><td>18’</td><td>80%</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442091452,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gqYjB3cntSOkEwly"
+}

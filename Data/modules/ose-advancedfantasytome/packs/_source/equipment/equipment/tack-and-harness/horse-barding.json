@@ -1,0 +1,39 @@
+{
+  "folder": "exruKHbWQ5EqFcz6",
+  "name": "Horse barding",
+  "type": "item",
+  "img": "icons/commodities/leather/leather-leaf-tan.webp",
+  "_id": "6bHeIqe72Y1BGRIJ",
+  "system": {
+    "description": "<p>Armour made of leather and plates of metal. Provides the animal with an AC of 5 [14] and weighs 600 coins.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.3",
+    "coreVersion": "13.342",
+    "createdTime": 1689078779540,
+    "modifiedTime": 1689079730428,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6bHeIqe72Y1BGRIJ"
+}

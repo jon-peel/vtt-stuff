@@ -1,0 +1,37 @@
+{
+  "name": "Shadowy Transformation",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "zq5Z7sK5WoT6fvxn",
+  "system": {
+    "description": "<p>  An object or creature touched becomes shadowy and semi ethereal.</p><ul><li><p><strong>If an object is touched:</strong></p><ul><li><p><strong>Insubstantial:</strong> The object becomes utterly insubstantial. It cannot be touched and provides no physical resistance. For example, a door transformed by this spell could be freely passed through.</p></li><li><p><strong>Size:</strong> The object may be no larger than one cubic foot per level of the caster.</p></li><li><p><strong>Magical objects:</strong> Magic items and objects created by spells (e.g. a <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.DPhgRjhm9WnF5XRD]{wall of stone}</em>) cannot be targeted.</p></li></ul></li><li><p><strong>If a creature is touched:</strong></p><ul><li><p><strong>Insubstantial:</strong> The subject and everything it carries becomes insubstantial.</p></li><li><p><strong>Movement:</strong> The subject is able to pass through small holes and cracks.</p></li><li><p><strong>Invulnerability:</strong> Only ethereal creatures or magic may harm the subject.</p></li><li><p><strong>Pass undead:</strong> Undead will ignore the subject, believing them to be a phantom of some kind. Undead of 10 or more HD may save versus spells (at a –4 penalty) to notice the illusion.</p></li><li><p><strong>Saving throw:</strong> An unwilling subject may <strong>save versus spells</strong> to avoid the transformation.</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "1d4 rounds +1 per level",
+    "range": "Touch",
+    "roll": "1d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452247318,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zq5Z7sK5WoT6fvxn"
+}

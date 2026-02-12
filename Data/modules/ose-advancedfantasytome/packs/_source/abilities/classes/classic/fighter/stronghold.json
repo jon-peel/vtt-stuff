@@ -1,0 +1,36 @@
+{
+  "_id": "1fLMKqP2CK9hP7FY",
+  "name": "Stronghold",
+  "type": "ability",
+  "img": "icons/environment/settlement/castle.webp",
+  "effects": [],
+  "folder": "PMw9OrHVskcBA7An",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Any time a fighter wishes (and has sufficient money), they can build a castle or stronghold and control the surrounding lands.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "fighter",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159952706,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1fLMKqP2CK9hP7FY"
+}

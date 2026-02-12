@@ -1,0 +1,58 @@
+{
+  "name": "Type Q",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "1gp average",
+  "results": [
+    {
+      "_id": "KD0nWA17ZzzbC6se",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 100,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[3d6]]sp.",
+      "name": "",
+      "_key": "!tables.results!9pga9eJLUeZbPo1Y.KD0nWA17ZzzbC6se"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "sak2z6mmTvVAMFi7",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    }
+  },
+  "_id": "9pga9eJLUeZbPo1Y",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159979728,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!9pga9eJLUeZbPo1Y"
+}

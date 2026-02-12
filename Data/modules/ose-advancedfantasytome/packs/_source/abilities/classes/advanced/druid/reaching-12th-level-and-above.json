@@ -1,0 +1,36 @@
+{
+  "_id": "SJpNwT6sozmN8vSh",
+  "name": "Reaching 12th Level and Above",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>There can only be nine druids of 12th level. When a druid has enough experience to reach 12th level, they must challenge an existing 12th level druid. The character only advances to 12th level if the other druid is defeated. Such challenges may take any form that is agreed by both parties, including combat (which need not be fatal). Likewise, there can only be three druids of 13th level and a single druid (known as the arch-druid) of 14th level.</p>\n<p>Druids who attain 12th level or above may build a stronghold integrated into a natural setting.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159959137,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!SJpNwT6sozmN8vSh"
+}

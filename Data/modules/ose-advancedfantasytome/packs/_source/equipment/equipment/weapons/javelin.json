@@ -1,0 +1,54 @@
+{
+  "_id": "8oFvUGnTXVDAlvsn",
+  "name": "Javelin",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/javelin.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Missile (5’–30’ / 31’–60’ / 61’–90’)</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 20,
+    "cost": 1,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 30,
+      "medium": 60,
+      "long": 90
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159895203,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8oFvUGnTXVDAlvsn"
+}

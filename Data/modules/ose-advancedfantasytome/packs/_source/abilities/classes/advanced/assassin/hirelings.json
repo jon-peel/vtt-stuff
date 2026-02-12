@@ -1,0 +1,36 @@
+{
+  "_id": "vbbWovoT6VGnsTMj",
+  "name": "Hirelings",
+  "type": "ability",
+  "img": "icons/environment/people/spearfighter.webp",
+  "effects": [],
+  "folder": "fDczuWe9c6QgC3MN",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Assassins of 1st–3rd level may not employ retainers or hirelings. From 4th level, an assassin may hire other assassins of lower level. From 8th level, an assassin may hire thieves, and from 12th level any type of character.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "assassin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159966177,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!vbbWovoT6VGnsTMj"
+}

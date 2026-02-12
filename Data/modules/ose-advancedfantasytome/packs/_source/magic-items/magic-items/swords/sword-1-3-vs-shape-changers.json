@@ -1,0 +1,55 @@
+{
+  "name": "Sword +1, +3 vs Shape Changers",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-flanged-purple.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Bonus: </strong>Enchanted weapons specify a bonus that is applied to both attack rolls and damage rolls made with the weapon.</p>\n<p><strong>Bonus vs creature type:</strong> Some weapons have a special bonus when used against a certain type of creature.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    },
+    "itemslots": 1
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761372588560,
+    "modifiedTime": 1761372588560,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "rnwh3tuxq4b0zKVH",
+  "sort": 0,
+  "_key": "!items!rnwh3tuxq4b0zKVH"
+}

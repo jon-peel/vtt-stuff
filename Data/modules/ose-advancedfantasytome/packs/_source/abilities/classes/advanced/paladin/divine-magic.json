@@ -1,0 +1,36 @@
+{
+  "_id": "g3rFjdLhEBbqGCeu",
+  "name": "Divine Magic",
+  "type": "ability",
+  "img": "icons/equipment/neck/amulet-carved-stone-hammer.webp",
+  "effects": [],
+  "folder": "AHz82IIt2Yr2Zxqi",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on divine magic.<br></p><p><strong>Holy symbol</strong>: A paladin must carry a holy symbol (see the equipment list).</p><p><strong>Deity disfavour</strong>: Paladins must be faithful to the tenets of their alignment and religion. Paladins who fall from favour with their deity may incur penalties.</p><p><strong>Spell casting</strong>: From 9th level, a paladin may pray to receive spells. The power and number of spells available to a paladin are determined by the character’s experience level. The list of spells available to paladins is found in @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.iW0YUQNIRaYo5ecH]{Cleric} and @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.5bcXC9ougUPEBFoY]{Magic-User} spells (paladins have the same spell selection as clerics)</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "paladin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.0",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1750641786379,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!g3rFjdLhEBbqGCeu"
+}

@@ -1,0 +1,244 @@
+{
+  "_id": "cJtpLShpjN9xQ7Ab",
+  "name": "Type E",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "2,300gp average",
+  "results": [
+    {
+      "_id": "al4PmgbUPEC33WeR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 5,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d10 * 1000]]cp.",
+      "name": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.al4PmgbUPEC33WeR"
+    },
+    {
+      "_id": "nk7FAQ6DKdu8nYNO",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 30,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d12 * 1000]]sp.",
+      "name": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.nk7FAQ6DKdu8nYNO"
+    },
+    {
+      "_id": "Ssby1LzS1kneHXAw",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4 *1000]]ep.",
+      "name": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.Ssby1LzS1kneHXAw"
+    },
+    {
+      "_id": "jEH6LOfPlgNbNVwL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d8 * 1000]]gp.",
+      "name": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.jEH6LOfPlgNbNVwL"
+    },
+    {
+      "_id": "gQb7BpXHehWBzSEb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d10]] gems.",
+      "name": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.gQb7BpXHehWBzSEb"
+    },
+    {
+      "_id": "xbwNW1nLIMQuMn1M",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d10]] pieces of jewellery.",
+      "name": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.xbwNW1nLIMQuMn1M"
+    },
+    {
+      "_id": "Z7oxpMolarCu2nmH",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3 magic items plus 1 scroll.",
+      "name": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.Z7oxpMolarCu2nmH"
+    },
+    {
+      "_id": "y1oYZXKr3TdiBhUs",
+      "type": "document",
+      "img": "icons/tools/hand/hammer-and-nail.webp",
+      "weight": 25,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Stakes (3) and Mallet",
+      "documentUuid": "Item.RcggzoSpaCqlDmwm",
+      "description": "",
+      "_key": "!tables.results!cJtpLShpjN9xQ7Ab.y1oYZXKr3TdiBhUs"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "T0g4kT1b6Y6FcqNt",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    },
+    "ose-dev": {
+      "treasure": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159981603,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!cJtpLShpjN9xQ7Ab"
+}

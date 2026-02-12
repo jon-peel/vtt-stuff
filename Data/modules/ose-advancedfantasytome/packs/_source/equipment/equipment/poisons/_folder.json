@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "yvMZJme1bnhee0JM",
+  "name": "Poisons",
+  "color": "#194f71",
+  "sorting": "a",
+  "_id": "I8Pdr5KVk8bGLKvN",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "lastModifiedBy": "osebuilder000000",
+    "modifiedTime": 1761105247527
+  },
+  "_key": "!folders!I8Pdr5KVk8bGLKvN"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Time Flow",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "sEDmjB18LVjFBNk4",
+  "system": {
+    "description": "<p>This powerful spell warps the flow of time in the location where it is cast.</p><ul><li><p><strong>Time acceleration:</strong> For those within the area of effect, each turn that passes has the subjective effect of a whole hour. Within the affected area, spell durations pass more quickly and characters must eat and sleep at the accelerated rate.</p></li><li><p><strong>Rest:</strong> If enough perceptual time is spent in the affected area, hit points may be recovered due to rest and spells may be re-memorized, subject to the normal rules.</p></li><li><p><strong>Interaction:</strong> Any interaction between characters within the enchanted area and those outside of it occur at the normal rate—characters inside the area of time distortion do not gain or lose actions in combat, for instance.</p></li><li><p><strong>Usage limit:</strong> Casting time flow more than once in the space of a week causes a permanent loss of one point of CON.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "",
+    "range": "",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452260364,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!sEDmjB18LVjFBNk4"
+}

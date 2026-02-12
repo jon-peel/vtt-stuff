@@ -1,0 +1,19 @@
+{
+  "color": "#5f1f61",
+  "name": "Armour and Shields",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "DMU4rSZaXdEgT8EQ",
+  "_id": "ejZi5RvRB8Wy0JgB",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "11.296",
+    "createdTime": null,
+    "modifiedTime": 1683938440146,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!ejZi5RvRB8Wy0JgB"
+}

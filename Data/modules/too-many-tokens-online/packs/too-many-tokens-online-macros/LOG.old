@@ -1,0 +1,17 @@
+2026/02/12-12:53:48.219 5b94 Recovering log #145
+2026/02/12-12:53:48.219 5b94 Level-0 table #147: started
+2026/02/12-12:53:48.222 5b94 Level-0 table #147: 12842 bytes OK
+2026/02/12-12:53:48.226 5b94 Delete type=0 #145
+2026/02/12-12:53:48.226 5b94 Delete type=3 #143
+2026/02/12-13:41:41.957 5adc Level-0 table #150: started
+2026/02/12-13:41:41.957 5adc Level-0 table #150: 0 bytes OK
+2026/02/12-13:41:41.958 5adc Delete type=0 #148
+2026/02/12-13:41:42.038 5adc Manual compaction at level-0 from '!macros!m7CEo2b4dHUT7ccd' @ 72057594037927935 : 1 .. '!macros!u0tHJ2KIH1juVZtx' @ 0 : 0; will stop at '!macros!u0tHJ2KIH1juVZtx' @ 35 : 1
+2026/02/12-13:41:42.038 5adc Compacting 2@0 + 1@1 files
+2026/02/12-13:41:42.058 5adc Generated table #151@0: 2 keys, 12842 bytes
+2026/02/12-13:41:42.060 5adc Compacted 2@0 + 1@1 files => 12842 bytes
+2026/02/12-13:41:42.064 5adc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/12-13:41:42.069 5adc Delete type=2 #134
+2026/02/12-13:41:42.075 5adc Delete type=2 #144
+2026/02/12-13:41:42.075 5adc Delete type=2 #147
+2026/02/12-13:41:42.077 5adc Manual compaction at level-0 from '!macros!u0tHJ2KIH1juVZtx' @ 35 : 1 .. '!macros!u0tHJ2KIH1juVZtx' @ 0 : 0; will stop at (end)

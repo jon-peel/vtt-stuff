@@ -1,0 +1,37 @@
+{
+  "_id": "9sZRuguXc1XIEVOK",
+  "name": "Sticks to Snakes",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "hQiAgT9TyM2uGpZ3",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>[[/r 2d8]] normal sticks are miraculously transformed into @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.K0J1gm9eeyr2vW8G]{snakes} that follow the caster’s orders.</p><ul><li><p><strong>Reversion:</strong> When killed or at the end of the spell’s duration, the snakes revert back into sticks.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "120'",
+    "roll": "2d8",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449480733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!9sZRuguXc1XIEVOK"
+}

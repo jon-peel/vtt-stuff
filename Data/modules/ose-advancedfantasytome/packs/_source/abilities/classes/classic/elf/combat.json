@@ -1,0 +1,36 @@
+{
+  "_id": "qG1O6pe8Fz3zkBAl",
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "a044YMt1yO1mBHjM",
+  "sort": 600000,
+  "flags": {},
+  "system": {
+    "description": "<p>Elves can use all types of weapons and armour.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "elf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1685802404793,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qG1O6pe8Fz3zkBAl"
+}

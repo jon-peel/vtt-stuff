@@ -1,0 +1,44 @@
+{
+  "_id": "hhZaR4fXn6Dhvfry",
+  "name": "Chime of Ravening",
+  "type": "item",
+  "img": "icons/tools/instruments/chimes-wood-white.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9300000,
+  "flags": {},
+  "system": {
+    "description": "<p>A 1’ long, hollow metal tube which brings about maddening hunger when sounded.</p><ul><li><p><strong>Affected creatures</strong>: All within 60’.</p></li><li><p><strong>Creatures with food</strong>: Will drop anything in their hands and immediately consume the available food for [[/r 1d6]] rounds.</p></li><li><p><strong>Creatures without food</strong>: Will move as fast as possible to the location where the chime was sounded. Once there, they will attempt to kill and eat anyone present.</p></li><li><p><strong>Sating hunger</strong>: Each round a creature eats, it may <strong>save versus spells</strong> to end the ravenous hunger.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427402139,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hhZaR4fXn6Dhvfry"
+}

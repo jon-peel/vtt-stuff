@@ -1,0 +1,130 @@
+{
+  "name": "R01. Introduction",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Advanced Fantasy",
+      "type": "text",
+      "_id": "awSUBHLRmRDPvwUb",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><em><strong>Old-School Essentials Advanced Fantasy</strong></em> consists of a heady mixture of the best of 1970s and 1980s fantasy gaming:</p><ul><li><p>Streamlined core rules, founded in the tradition of the 1980s Basic/Expert sets, beloved for their robustness, simplicity, and extensibility.</p></li><li><p>Extra classes, options, monsters, and magic inspired by the wondrous flavour of the 1970s Advanced 1st edition game.</p></li><li><p>The combination of these influences results in a fantasy gaming best of both worlds!</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!0bDw4EogBh6viQYM.awSUBHLRmRDPvwUb"
+    },
+    {
+      "sort": 200000,
+      "name": "In This Compendium",
+      "type": "text",
+      "_id": "jxnpqjZnsxAKl6Fe",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This compendium is a complete referee’s reference for running Old-School Essentials Advanced Fantasy games.</p><ul><li><p><strong>Referee’s guidelines:</strong> Advice on designing dungeons and wilderness areas, running adventures, handling PCs and NPCs, and awarding experience points.</p></li><li><p><strong>Over 300 monsters:</strong> Including the complete set of Basic/Expert monsters plus 120 monsters inspired by the Advanced 1st edition game.</p></li><li><p><strong>Over 300 magic items:</strong> Including the complete set of Basic/Expert magic items plus 150 items inspired by the Advanced 1st edition game.</p></li></ul><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>Thanks</p><p>To the fearless proofreaders who have helped make this book shine:</p><p>John Anthony, Chris Barnes, Adam Baulderstone, Kevin Brennan, Alistair Caunt, Caleb Collins, Ian Engleback, Ryan Frans, Cory Gahsman, Chuck Glisson, Noah Green, Keith Hann, Daniel Harkins, Ian Helmke, Michael Julius, John Allan Large, Robert Mackie, David Marsh, Dave McAlister, Matt Morrissette, Frederick Münch, Jordan Navarrette, Eric Nieudan, Ray Otus, Alexander Parker, Michael Ramoneda, Glenn Robinson, Stuart A. Roe, Tim Scott, Kordell Stewart, Thorin Thompson, Perttu Vedenoja, Shawn Witham.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1753079011341
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!0bDw4EogBh6viQYM.jxnpqjZnsxAKl6Fe"
+    },
+    {
+      "sort": 300000,
+      "name": "Required Compendia",
+      "type": "text",
+      "_id": "Sdm7tntMdU0UxHf3",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Advanced Fantasy Player’s Reference</strong></p><p>This compendium is a companion to the Advanced Fantasy Player’s Reference compendium, which describes the core rules of the game, as well as the full complement of character classes, equipment, and spells.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!0bDw4EogBh6viQYM.Sdm7tntMdU0UxHf3"
+    }
+  ],
+  "folder": "ZrsekR7d5VfKW4VT",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076664552,
+    "modifiedTime": 1754191713959,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "0bDw4EogBh6viQYM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!0bDw4EogBh6viQYM"
+}

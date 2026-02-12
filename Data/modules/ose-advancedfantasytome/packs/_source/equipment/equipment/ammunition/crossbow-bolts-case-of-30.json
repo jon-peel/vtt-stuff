@@ -1,0 +1,44 @@
+{
+  "_id": "4tOY8cqOqMGqijy2",
+  "name": "Crossbow bolts (case of 30)",
+  "type": "item",
+  "img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
+  "effects": [],
+  "folder": "4ZVdwuP2KQk1NzyF",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 30,
+      "max": 30
+    },
+    "weight": null,
+    "cost": 10,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Ammunition",
+        "value": "Ammunition"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159892844,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4tOY8cqOqMGqijy2"
+}

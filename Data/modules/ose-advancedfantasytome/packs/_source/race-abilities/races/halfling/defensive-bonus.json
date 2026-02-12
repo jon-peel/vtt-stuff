@@ -1,0 +1,37 @@
+{
+  "name": "Defensive Bonus",
+  "type": "ability",
+  "img": "icons/equipment/shield/heater-steel-sword-yellow-black.webp",
+  "effects": [],
+  "folder": "UqH47T24iOHIUjM8",
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Due to their small size, halflings gain a +2 bonus to Armour Class when attacked by large opponents (greater than human-sized).</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685802915969,
+    "modifiedTime": 1685802915969,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zOCtDyBWrqntTqiU",
+  "sort": 0,
+  "_key": "!items!zOCtDyBWrqntTqiU"
+}

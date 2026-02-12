@@ -1,0 +1,37 @@
+{
+  "name": "Produce Flame",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "TDQzHoPtU6S9sSNc",
+  "sort": 0,
+  "flags": {},
+  "_id": "MltevcHSgb8XmAC9",
+  "system": {
+    "description": "<p>A flame springs to life in the palm of the caster’s hand.</p><ul><li><p><strong>The caster:</strong> Is unharmed by the flame.</p></li><li><p><strong>Light:</strong> The flame casts light that clearly illuminates a 30’ radius.</p></li><li><p><strong>Touching objects:</strong> Flammable objects touched with the flame catch on fire.</p></li><li><p><strong>Control:</strong> During the spell’s duration, the caster can make the flame disappear and reappear at will.</p></li><li><p><strong>Throwing the flame:</strong> The caster may drop the flame or throw it up to 30’. This ends the spell (though fires started by the magical flame may persist).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Druid",
+    "duration": "2 turns/lvl",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449797711,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!MltevcHSgb8XmAC9"
+}

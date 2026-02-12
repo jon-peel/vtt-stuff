@@ -1,0 +1,37 @@
+{
+  "name": "Ventriloquism",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "F0F0H7j4BhA5Y1bW",
+  "sort": 0,
+  "flags": {},
+  "_id": "oqMr71sK8b54JCHR",
+  "system": {
+    "description": "<p>The caster may make their voice appear to come from any location or source (e.g. a statue or animal) within range.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160039762,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!oqMr71sK8b54JCHR"
+}

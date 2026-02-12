@@ -1,0 +1,130 @@
+{
+  "name": "P09. Strongholds",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Construction",
+      "type": "text",
+      "_id": "XhHeS4jkWd6PQ03s",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>When PCs wish to construct strongholds or any other type of building, the following procedure should be used:</p><ol><li><p><strong>Permission</strong>: It may be necessary to secure permission to build from an existing authority over the land. This may not be required if the land is uncharted wilderness.</p></li><li><p><strong>Clear land</strong>: If the construction site is in the wilderness, all monsters in a 6-mile area (i.e. one hex on a typical small-scale wilderness map) must be killed or driven off.</p></li><li><p><strong>Design</strong>: The player creates a plan for the stronghold and calculates the costs (see construction prices in Structures).</p></li><li><p><strong>Review</strong>: The referee should review and approve the player’s plans.</p></li><li><p><strong>Hire engineers</strong>: For every 100,000gp cost of the stronghold, the PC must hire one engineer (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.r9gEFXti3Vox9BTA.JournalEntryPage.RGMnG1aJJYCgjJWe#engineer]{see Specialists}).</p></li><li><p><strong>Construction</strong>: Once the land has been cleared and construction materials delivered, construction may commence. The time required depends entirely on the stronghold’s total price: one day of game time per 500gp.</p></li><li><p><strong>Prepare for settlers</strong>: If the PC wishes to found a dominion and attract settlers, a wider area around the stronghold should be cleared of dangers. </p></li></ol><h2>Building in Towns</h2><p><strong>Permission</strong>: While local rulers may allow PCs to build in a town, it is unlikely that they will grant permission for the construction of castles or fortifications.</p><p><strong>Costs</strong>: When building in an existing town or city, the proximity of materials and labour greatly reduce the costs.</p><ul><li><p>Stone buildings: Reduced by 60%.</p></li><li><p>Wooden buildings: Reduced by 80%.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!9vgvFXRsnlP9wHP7.XhHeS4jkWd6PQ03s"
+    },
+    {
+      "sort": 200000,
+      "name": "Domain Management",
+      "type": "text",
+      "_id": "nsOKPWpiORidgLIG",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>Maintaining Cleared Lands</h3><p>To prevent monsters from returning to cleared lands, mercenaries may be hired to conduct patrols. These patrols can cover a maximum radius of 18 miles around a stronghold (6 miles, in inhospitable terrain such as swamp, mountains, or thick jungle). If the area to be maintained is larger, additional garrisons must be stationed at intervals.</p><h3>Settlers</h3><p>The PC may wish to attract settlers into a cleared area. In addition to ensuring the safety of surrounding lands, the character will have to fund construction of other buildings (e.g. accommodation, commercial facilities, transport infrastructure, etc.) to attract settlers. Advertising may also be necessary. The referee will determine the costs involved and how many settlers are attracted. </p><h3>Taxation</h3><p>If settlers move into the PC’s domain, the character can expect to gain 10gp of taxes per year from each settler.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!9vgvFXRsnlP9wHP7.nsOKPWpiORidgLIG"
+    },
+    {
+      "sort": 300000,
+      "name": "Structures",
+      "type": "text",
+      "_id": "NpmQG6WQbV3DAQlJ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p><strong>Structure </strong></p></td><td style=\"height:17px;width:155px\"><p><strong>Prices</strong></p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Barbican </p></td><td style=\"height:17px;width:155px\"><p>37,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Bastion </p></td><td style=\"height:17px;width:155px\"><p>9,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Civilian building, stone</p></td><td style=\"height:17px;width:155px\"><p>3,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Civilian building, wood</p></td><td style=\"height:17px;width:155px\"><p>1,500gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Drawbridge </p></td><td style=\"height:17px;width:155px\"><p>500gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Gatehouse </p></td><td style=\"height:17px;width:155px\"><p>6,500gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Keep </p></td><td style=\"height:17px;width:155px\"><p>75,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Moat </p></td><td style=\"height:17px;width:155px\"><p>400gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Subterranean passage</p></td><td style=\"height:17px;width:155px\"><p>500gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Tower, large</p></td><td style=\"height:17px;width:155px\"><p>30,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Tower, small</p></td><td style=\"height:17px;width:155px\"><p>15,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:536px\"><p>Wall, castle</p></td><td style=\"height:17px;width:155px\"><p>5,000gp</p></td></tr></tbody></table><h2>Descriptions</h2><p><strong>Barbican</strong>: Heavily fortified entry/exit point in a castle wall: two small towers, a gatehouse, and a drawbridge.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Bastion</strong>: Semi-circular tower built against a castle wall. 30’ base, 30’ high, walls 5’ thick.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Civilian building, stone</strong>: Two levels; wooden stairs, doors, floors, and roof; attic. Outer wall 120’ long (e.g. 30’×30’), walls 1–2’ thick.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Civilian building, wood</strong>: Two levels; wooden stairs, doors, floors, and roof; attic. Outer wall 120’ long (e.g. 30’×30’).</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Drawbridge</strong>: Raisable wooden bridge crossing a moat. May be attached to a gatehouse. 10’ long.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Gatehouse</strong>: Fortified entry/exit point in a castle wall. Includes a portcullis. 30’×30’ base, 20’ high, walls 5’ thick.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Keep</strong>: Fortified, central building of a castle. 60’ square, 80’ high, walls 10’ thick.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Moat</strong>: Defensive ditch, often filled with water. 100’ long, 20’ wide, 10’ deep.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Subterranean passage</strong>: Typical 10’×10’×10’ dungeon passageway.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Tower, large</strong>: Round tower, either freestanding or built into a castle wall. 30’ base, 40’ high, walls 5’ thick.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Tower, small</strong>: Round tower, either freestanding or built into a castle wall. 20’ base, 30’ high, walls 5’ thick.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Wall, castle</strong>: Stone wall with battlements. 100’ long, 20’ high, 10’ thick.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h2>Non-Standard Dimensions</h2><h3>Bastions</h3><p>Bastions of dimensions other than those listed may be constructed. Use the guidelines for towers, below, and divide by two.</p><h3>Castle Walls</h3><p>Higher castle walls may be constructed at increased cost. A 100’ length of 30’ high wall costs 7,500gp. Every additional 10’ of height beyond this (up to a maximum of 60’ high) costs 5,000gp.</p><h3>Towers</h3><p>Towers of dimensions other than those listed may be constructed. The cost is determined by the height of the tower and the diameter of its base (in feet).</p><ul><li><p><strong>Maximum height</strong>: Twice the base diameter.</p></li><li><p><strong>Up to the base diameter</strong>: Each 10’ of height costs 200gp × the base diameter.</p></li><li><p><strong>Above the base diameter</strong>: Each 10’ of height costs 400gp × the base diameter.</p></li></ul><table border=\"1\"><tbody><tr><td style=\"width:490px\"><p><strong>Example Tower Cost Calculation</strong></p><p>A 60’ high tower with a 40’ diameter base is to be constructed.</p><p>The cost will be 8,000gp (40 × 200gp) per 10’ for the first 40’ of height and 16,000gp (40 × 400gp) per 10’ for the remainder of the height.</p><p>The total cost is thus (8,000gp × 4) + (16,000gp × 2) = 64,000gp. </p></td></tr></tbody></table><h2>Interior Features</h2><p>The common interior features of a stronghold are listed in the table below.</p><h3>Simple Approach</h3><p>For simplicity, the cost of a stronghold may be increased by 25% to account for interior details, including: reinforced doors, stone stairs, flagstone flooring, tile roofing, windows or arrow slits, bars and shutters on windows, and standard furnishings.</p><h3>Detailed Approach</h3><p>If the group wishes to perform more detailed calculations or if additional features are desired, the table below may be consulted.</p><p><strong>Structure Interior Features</strong></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p><strong>Detail </strong></p></td><td style=\"height:17px;width:171px\"><p><strong>Dimensions </strong></p></td><td style=\"width:130px;height:17px\"><p><strong>Cost (gp)</strong></p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Arrow slit</p></td><td style=\"height:17px;width:171px\"><p>-</p></td><td style=\"width:130px;height:17px\"><p>10</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Door, iron</p></td><td style=\"height:17px;width:171px\"><p> 3’ wide, 7’ tall</p></td><td style=\"width:130px;height:17px\"><p>50</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Door, reinforced wood</p></td><td style=\"height:17px;width:171px\"><p> 3’ wide, 7’ tall</p></td><td style=\"width:130px;height:17px\"><p>20</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Door, stone</p></td><td style=\"height:17px;width:171px\"><p> 3’ wide, 7’ tall</p></td><td style=\"width:130px;height:17px\"><p>50</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Door, wood</p></td><td style=\"height:17px;width:171px\"><p> 3’ wide, 7’ tall</p></td><td style=\"width:130px;height:17px\"><p>10</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Floor, flagstones or tiles </p></td><td style=\"height:17px;width:171px\"><p>10’×10’ section</p></td><td style=\"width:130px;height:17px\"><p>100</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Floor, wood</p></td><td style=\"height:17px;width:171px\"><p>10’×10’ section</p></td><td style=\"width:130px;height:17px\"><p>40</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Roof, tiled</p></td><td style=\"height:17px;width:171px\"><p>10’×10’ section</p></td><td style=\"width:130px;height:17px\"><p>100</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Roof, wood</p></td><td style=\"height:17px;width:171px\"><p>10’×10’ section </p></td><td style=\"width:130px;height:17px\"><p>40</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Secret door or trapdoor Normal</p></td><td style=\"height:17px;width:171px\"><p>normal</p></td><td style=\"width:130px;height:17px\"><p>5 x normal</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Shifting wall</p></td><td style=\"height:17px;width:171px\"><p>10’×10’ section </p></td><td style=\"width:130px;height:17px\"><p>1000</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Stairs, stone</p></td><td style=\"height:17px;width:171px\"><p>3’ wide, 10’ long section</p></td><td style=\"width:130px;height:17px\"><p>60</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Stairs, wooden</p></td><td style=\"height:17px;width:171px\"><p>3’ wide, 10’ long section</p></td><td style=\"width:130px;height:17px\"><p>20</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Trapdoor, iron</p></td><td style=\"height:17px;width:171px\"><p>4’×3’</p></td><td style=\"width:130px;height:17px\"><p>120</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Trapdoor, reinforced wood</p></td><td style=\"height:17px;width:171px\"><p>4’×3’</p></td><td style=\"width:130px;height:17px\"><p>40</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Trapdoor, stone</p></td><td style=\"height:17px;width:171px\"><p>4’×3'</p></td><td style=\"width:130px;height:17px\"><p>120</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Trapdoor, wood</p></td><td style=\"height:17px;width:171px\"><p>4’×3'</p></td><td style=\"width:130px;height:17px\"><p>20</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Window</p></td><td style=\"height:17px;width:171px\"><p>-</p></td><td style=\"width:130px;height:17px\"><p>10</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Window bars</p></td><td style=\"height:17px;width:171px\"><p>-</p></td><td style=\"width:130px;height:17px\"><p>10</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:234px\"><p>Window shutters</p></td><td style=\"height:17px;width:171px\"><p>-</p></td><td style=\"width:130px;height:17px\"><p>5</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762845222317
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!9vgvFXRsnlP9wHP7.NpmQG6WQbV3DAQlJ"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "9vgvFXRsnlP9wHP7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!9vgvFXRsnlP9wHP7"
+}

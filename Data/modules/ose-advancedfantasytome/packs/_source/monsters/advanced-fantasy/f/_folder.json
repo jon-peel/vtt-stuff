@@ -1,0 +1,21 @@
+{
+  "color": "#23b147",
+  "name": "F",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "9IHSvcO72s7S5DjT",
+  "_id": "a8jU0gv8Ev6TwOmI",
+  "sort": 600000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "lastModifiedBy": "osebuilder000000",
+    "modifiedTime": 1763375337227
+  },
+  "description": "",
+  "_key": "!folders!a8jU0gv8Ev6TwOmI"
+}

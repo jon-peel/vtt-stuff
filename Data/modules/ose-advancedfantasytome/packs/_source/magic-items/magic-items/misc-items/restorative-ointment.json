@@ -1,0 +1,44 @@
+{
+  "_id": "3OS8z2UFEPgFLWTh",
+  "name": "Restorative Ointment",
+  "type": "item",
+  "img": "icons/consumables/potions/potion-flask-stopped-labeled-yellow.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 1300000,
+  "flags": {},
+  "system": {
+    "description": "<p>A jar of magical unguent which can cure wounds, disease, and poisons. [[/r 1d3]] jars are usually found together. Each jar contains 5 doses.</p><ul><li><p><strong>Wounds:</strong> A dose cures [[/r 1d4 + 8]] hp.</p></li><li><p><strong>Disease:</strong> A dose cures any disease.</p></li><li><p><strong>Poison:</strong> A dose cures any poison.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441110108,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!3OS8z2UFEPgFLWTh"
+}

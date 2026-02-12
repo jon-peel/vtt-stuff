@@ -1,0 +1,37 @@
+{
+  "name": "Darkness",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "YfPC8G05pySN13Se",
+  "system": {
+    "description": "<p>Creates a 15&rsquo; radius area of magical blackness, preventing normal sight (but not infravision). Like light, it may alternatively be used to blind creatures or to dispel a light spell.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "6 turns +1 per level",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160023833,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!YfPC8G05pySN13Se"
+}

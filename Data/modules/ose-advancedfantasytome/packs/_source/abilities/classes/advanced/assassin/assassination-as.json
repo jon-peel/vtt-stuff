@@ -1,0 +1,36 @@
+{
+  "_id": "gD5xRVEheiQdPbcv",
+  "name": "Assassination (AS)",
+  "type": "ability",
+  "img": "icons/skills/melee/strike-dagger-skull-white.webp",
+  "effects": [],
+  "folder": "fDczuWe9c6QgC3MN",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>When attacking an unaware person (humans / demihumans of any level and humanoid monsters of up to 4+1 HD) an assassin gains a +4 bonus to hit. If the attack succeeds, the victim must <strong>save versus death</strong> with a penalty dependent on the assassin’s level. If the save fails, the victim is instantly killed, otherwise the assassin’s attack inflicts normal damage.</p><p>(Non-living creatures are immune.)</p><hr><table><thead><tr><th>Level</th><th>AS</th></tr></thead><tbody><tr><td>1</td><td>0</td></tr><tr><td>2</td><td>0</td></tr><tr><td>3</td><td>0</td></tr><tr><td>4</td><td>–1</td></tr><tr><td>5</td><td>–1</td></tr><tr><td>6</td><td>–2</td></tr><tr><td>7</td><td>–2</td></tr><tr><td>8</td><td>–3</td></tr><tr><td>9</td><td>–3</td></tr><tr><td>10</td><td>–4</td></tr><tr><td>11</td><td>–4</td></tr><tr><td>12</td><td>–5</td></tr><tr><td>13</td><td>–5</td></tr><tr><td>14</td><td>–6</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "death",
+    "pattern": "white",
+    "requirements": "assassin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456790793,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gD5xRVEheiQdPbcv"
+}

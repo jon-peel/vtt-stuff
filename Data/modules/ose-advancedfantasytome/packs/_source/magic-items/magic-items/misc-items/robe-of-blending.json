@@ -1,0 +1,44 @@
+{
+  "_id": "jVeyYRDtms3rTWMv",
+  "name": "Robe of Blending",
+  "type": "item",
+  "img": "icons/equipment/chest/robe-layered-teal.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9700000,
+  "flags": {},
+  "system": {
+    "description": "<p>A normal-looking robe with powers of disguise and camouflage.</p><ul><li><p><strong>Camouflage:</strong> The character can blend into natural environments (e.g. rock walls, undergrowth).</p></li><li><p><strong>Disguise:</strong> When among creatures of another type, the character can choose to appear as one of them. The other type of creature may not be larger than twice the character’s normal size or smaller than half their normal size.</p></li><li><p><strong>Spotting the character:</strong> Observers of high intelligence (e.g. INT 15 or more) or with 10 or more Hit Dice have a [[/br 1d6]]{1-in-6} chance per turn of spotting the character.</p></li><li><p><strong>Allies:</strong> Can see the character normally.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441123995,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!jVeyYRDtms3rTWMv"
+}

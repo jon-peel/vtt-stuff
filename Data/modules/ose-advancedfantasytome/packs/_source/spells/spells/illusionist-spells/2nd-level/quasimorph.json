@@ -1,0 +1,37 @@
+{
+  "name": "Quasimorph",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "6myl9UJvzNcU8Vjy",
+  "sort": 0,
+  "flags": {},
+  "_id": "wfSqgtrcVWFSMIBc",
+  "system": {
+    "description": "<p>The caster’s physical form undergoes a quasi-real transformation, taking on the appearance of another creature.</p><ul><li><p><strong>The new form: </strong>Is chosen by the caster. The form of any creature may be adopted.</p></li><li><p><strong>Size:</strong> The new form may be at most 50% larger or smaller than the caster’s normal size.</p></li><li><p><strong>The physical capabilities of the new form:</strong> Are granted to the caster to a limited degree:</p><ul><li><p><strong>Flight:</strong> If the new form can fly, the caster is able to fly at one-quarter of its flying movement rate.</p></li><li><p><strong>Breathing:</strong> If the new form can breathe underwater, the caster may also do so.</p></li><li><p><strong>Attacks:</strong> When attacking, the caster may appear to use the attacks of the new form but cannot make more attack rolls or inflict more damage than they are normally able to (using whatever weapon is carried).</p></li><li><p><strong>Special abilities:</strong> The caster does not gain any special or magical attacks possessed by the new form (e.g. breath weapons, poison, charm, etc.).</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Illusionist",
+    "duration": "3d4 rounds +2 per level",
+    "range": "Self",
+    "roll": "3d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451418449,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!wfSqgtrcVWFSMIBc"
+}

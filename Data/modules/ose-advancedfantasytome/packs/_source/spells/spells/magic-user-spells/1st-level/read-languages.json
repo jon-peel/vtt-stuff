@@ -1,0 +1,37 @@
+{
+  "name": "Read Languages",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "F0F0H7j4BhA5Y1bW",
+  "sort": 0,
+  "flags": {},
+  "_id": "T0B22TUNXzQ3uw8f",
+  "system": {
+    "description": "<p>For the duration of this spell, the caster may read any language, coded message, map, or other set of written instructions. This spell does not grant any ability to speak unknown languages.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160020545,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!T0B22TUNXzQ3uw8f"
+}

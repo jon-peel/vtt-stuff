@@ -1,0 +1,39 @@
+{
+  "_id": "TaJctAqKWM96gQmT",
+  "name": "Ring of Controlling Plants",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-crown-crystal.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 800000,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">Grants the power to control plants.</p><ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Affects</strong><strong>:</strong> All plants (including plant monsters) in a 10’ square area.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Range</strong><strong>:</strong> The area may be up to 60’ distant.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Commands</strong><strong>:</strong> Affected plants may be commanded to move around as the character wishes.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Concentration</strong><strong>:</strong> The effect lasts as long as the wearer of the ring concentrates.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443071724,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TaJctAqKWM96gQmT"
+}

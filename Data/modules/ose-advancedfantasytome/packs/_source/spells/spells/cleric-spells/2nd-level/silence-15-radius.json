@@ -1,0 +1,37 @@
+{
+  "_id": "CXNRgVaAfZuYW3u8",
+  "name": "Silence 15' Radius",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Uomj8iwM0LC6tcoG",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A 15’ radius area is rendered utterly silent.</p><ul><li><p><strong>Within the area:</strong> All sound is stopped. Conversation and spell casting are impossible.</p></li><li><p><strong>Noise from outside the area:</strong> Can be heard by those within it.</p></li><li><p><strong>Casting upon a creature:</strong> Silence may be cast upon a creature, which must <strong>save versus spells</strong>. If the save fails, the 15’ radius area of silence moves with the creature. If the save succeeds, the spell’s effect remains stationary—the targeted creature may move out of it.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "12 turns",
+    "range": "180'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761446523170,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CXNRgVaAfZuYW3u8"
+}

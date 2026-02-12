@@ -1,0 +1,46 @@
+{
+  "name": "Potion of Control Human",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "flags": {},
+  "system": {
+    "description": "<p>A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.</p><ul><li><p><strong>Concentration</strong>: Exercising control requires concentration.</p></li><li><p><strong>Visual range</strong>: The character can only control creatures that they can see.</p></li><li><p><strong>Suicidal commands</strong>: Controlled creatures will resist commands that are deadly to themselves.</p></li><li><p><strong>Usage</strong>: A charm may be placed upon a human within 60’. One target may be charmed per round.</p></li><li><p><strong>Resisting</strong>: The subject may save versus spells to resist the charm.</p></li><li><p><strong>Maximum subjects</strong>: Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.</p></li><li><p><strong>Charmed individuals</strong>: Regard the character as a trusted friend, and will come to their defence. Subjects will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.8",
+    "createdTime": 1760225297931,
+    "modifiedTime": 1760225297931,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "6JtmhpoaEQm6xKWR",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!6JtmhpoaEQm6xKWR"
+}

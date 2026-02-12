@@ -1,0 +1,37 @@
+{
+  "name": "Illusion Resistance",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "2VikIAHy5XOpvp8R",
+  "flags": {},
+  "system": {
+    "description": "<p>Svirfneblins gain a +2 bonus to all saving throws against illusions.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.4",
+    "coreVersion": "13.350",
+    "createdTime": 1685803281320,
+    "modifiedTime": 1761459684216,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "7pkOJeE0zYiAS0Yo",
+  "sort": 100000,
+  "_key": "!items!7pkOJeE0zYiAS0Yo"
+}

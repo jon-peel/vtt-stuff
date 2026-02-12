@@ -1,0 +1,37 @@
+{
+  "name": "Hold Animal",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VZ2bxyQHtpoVt8qa",
+  "sort": 0,
+  "flags": {},
+  "_id": "kHLgnZYt2RS5SwfN",
+  "system": {
+    "description": "<p>This spell causes one or more animals to be paralysed if they fail a <strong>saving throw versus spells</strong>.</p><ul><li><p><strong>Number of targets:</strong> Up to 1 Hit Die of animals per level of the caster may be targeted.</p></li><li><p><strong>Restrictions:</strong> Normal or giant animals may be affected. Fantastic creatures, intelligent animals, or magically conjured, controlled, or summoned animals cannot be affected.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Druid",
+    "duration": "1 turn per level",
+    "range": "180'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449915108,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kHLgnZYt2RS5SwfN"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "LO8HiuDp2abtnvfU",
+  "name": "Listening at Doors",
+  "type": "ability",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "effects": [],
+  "folder": "uS6dUSjteSXkknkw",
+  "sort": 500000,
+  "flags": {},
+  "system": {
+    "description": "<p>Halflings have a [[/br 1d6]]{2-in-6} chance of hearing noises (see <span style=\"color: #191813;\">@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.DpsGa6pHQRkwiQR8]{Dungeon Adventuring}</span>).</p><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "halfling",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458872500,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!LO8HiuDp2abtnvfU"
+}

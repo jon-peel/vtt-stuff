@@ -1,0 +1,36 @@
+{
+  "_id": "dfmLPHXboNPtNRwW",
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "j0CgUlbbXoxCZaVW",
+  "sort": 400000,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">A dwarf has the option of creating an underground stronghold that will attract dwarves from far and wide. Dwarves usually live in clans, so dwarves of the character&rsquo;s clan will be attracted to live under their roof. Dwarves from other clans will generally be friendly and clans may collaborate in times of war or disaster. A dwarf ruler may only hire dwarven mercenaries. Specialists and retainers of any race may be hired.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "dwarf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458520185,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!dfmLPHXboNPtNRwW"
+}

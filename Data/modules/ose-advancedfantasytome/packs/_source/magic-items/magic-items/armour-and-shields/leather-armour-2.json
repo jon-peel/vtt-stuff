@@ -1,0 +1,50 @@
+{
+  "_id": "48fSRexItm2ICNvf",
+  "name": "Leather Armour +2",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
+  "effects": [],
+  "folder": "ejZi5RvRB8Wy0JgB",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 200,
+    "cost": 20,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 7
+    },
+    "aac": {
+      "value": 12
+    },
+    "type": "light",
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1687339326487,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!48fSRexItm2ICNvf"
+}

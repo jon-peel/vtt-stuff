@@ -1,0 +1,54 @@
+{
+  "name": "Rod of Striking",
+  "type": "weapon",
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1600000,
+  "flags": {},
+  "_id": "KvI1jfclxlX1vqdL",
+  "system": {
+    "description": "<p>A rod which can be used as a weapon and is especially potent against constructs and chaotic extra-planar monsters.</p><ul><li><p><strong>Attacking:</strong> The rod attacks as a +3 magic item, doing [[/r 1d8]] damage.</p></li><li><p><strong>Used against constructs:</strong> (For example golems.) Each hit expends one charge and inflicts double damage. On a natural 20 attack roll, the construct is instantly destroyed.</p></li><li><p><strong>Used against chaotic extra-planar monsters:</strong> On a natural 20 attack roll, one charge is expended and triple damage is inflicted.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 3,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443528947,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!KvI1jfclxlX1vqdL"
+}

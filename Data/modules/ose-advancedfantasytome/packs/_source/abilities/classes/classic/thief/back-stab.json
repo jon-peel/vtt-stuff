@@ -1,0 +1,36 @@
+{
+  "_id": "kImlsnaRvj7xldEp",
+  "name": "Back-stab",
+  "type": "ability",
+  "img": "icons/skills/melee/strike-dagger-blood-red.webp",
+  "effects": [],
+  "folder": "EEvlsnBupX1MArIu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>When attacking an unaware opponent from behind, a thief receives a <strong>+4</strong> bonus to hit and doubles any damage dealt.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "thief",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159963677,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kImlsnaRvj7xldEp"
+}

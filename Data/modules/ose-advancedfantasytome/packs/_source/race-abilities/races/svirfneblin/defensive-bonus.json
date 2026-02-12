@@ -1,0 +1,37 @@
+{
+  "name": "Defensive Bonus",
+  "type": "ability",
+  "img": "icons/equipment/shield/heater-wooden-antlers-blue.webp",
+  "effects": [],
+  "folder": "2VikIAHy5XOpvp8R",
+  "flags": {},
+  "system": {
+    "description": "<p>Due to their small size, svirfneblins gain a +2 bonus to Armour Class when attacked by large opponents (greater than human-sized).</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfnebllin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.350",
+    "createdTime": 1685803251150,
+    "modifiedTime": 1761459684216,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "twqFoprKCm6CCGCm",
+  "sort": 900000,
+  "_key": "!items!twqFoprKCm6CCGCm"
+}

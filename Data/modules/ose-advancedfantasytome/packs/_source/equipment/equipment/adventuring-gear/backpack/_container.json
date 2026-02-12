@@ -1,0 +1,38 @@
+{
+  "name": "Backpack",
+  "type": "container",
+  "img": "icons/containers/bags/case-leather-tan.webp",
+  "system": {
+    "description": "<p>Has two straps and can be worn on the back, keeping the hands free.</p>\n<p>Holds up to 400 coins.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 5,
+    "containerId": "",
+    "itemIds": [],
+    "tags": []
+  },
+  "effects": [],
+  "folder": "FBxn2Zz0vNSqX0tk",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "13.342",
+    "createdTime": 1683941342515,
+    "modifiedTime": 1683941391743,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WgYlLFs3ogqLb776",
+  "sort": 0,
+  "_key": "!items!WgYlLFs3ogqLb776"
+}

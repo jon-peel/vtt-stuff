@@ -1,0 +1,39 @@
+{
+  "name": "Rod of Resurrection",
+  "type": "item",
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1700000,
+  "flags": {},
+  "_id": "NiXWxbKw1mbliVoH",
+  "system": {
+    "description": "<p>Has the power to return the dead to life.</p><ul><li><p><strong>Useage restriction: </strong>Usable by divine spell casters only.</p></li><li><p><strong>Effect: </strong>A deceased person within 120’ is restored to life with full hit points. A person who has been dead for up to 100 years may be resurrected. The number of charges expended depends on the race of the person (see table below).</p></li><li><p><strong>Useage frequency: </strong>The rod can be used at most once per day.</p></li></ul><p><strong>Rod of Resurrection: Charges per Use</strong></p><table><thead><tr><th>Subject’s Race</th><th>Charges</th></tr></thead><tbody><tr><td>Dwarf (incl. duergar)</td><td>3</td></tr><tr><td>Elf (incl. drow)</td><td>4</td></tr><tr><td>Gnome (incl. svirfneblin)</td><td>3</td></tr><tr><td>Half-elf</td><td>2</td></tr><tr><td>Halfling</td><td>2</td></tr><tr><td>Half-orc</td><td>4</td></tr><tr><td>Human</td><td>1</td></tr><tr><td>Other</td><td>4</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443514026,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!NiXWxbKw1mbliVoH"
+}

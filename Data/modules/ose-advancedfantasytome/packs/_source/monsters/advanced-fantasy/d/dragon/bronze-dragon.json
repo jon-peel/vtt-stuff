@@ -1,0 +1,819 @@
+{
+  "_id": "oaYMVlwtfg7C5tpg",
+  "name": "Bronze Dragon",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/dragon%2C%20bronze%20-%20juan%20ochoa%20-%20c%202025%20ng.webp",
+  "items": [
+    {
+      "_id": "84FP0kyGtGSWxzdy",
+      "name": "Breath weapon",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>100&rsquo; long line of lightning (all caught in the area suffer damage equal to the dragon&rsquo;s current hit points&mdash; save versus breath for half) or cloud of repulsion gas (<strong>save versus breath </strong>or pushed 60&rsquo; away per round for 6 rounds).</p>\n<p><span style=\"color: #191813;\">Can be used up to three times per day. Unless noted otherwise, all caught in the area suffer damage equal to the dragon&rsquo;s current hit points (</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">save versus breath</strong><span style=\"color: #191813;\">&nbsp;for half). Shapes: a. Cloud: 50&rsquo; long, 40&rsquo; wide, 20&rsquo; high. b. Cone: 2&rsquo; wide at the mouth, 30&rsquo; wide at far end. c. Line: 5&rsquo; wide along whole length.</span></p>",
+        "save": "breath",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.84FP0kyGtGSWxzdy"
+    },
+    {
+      "_id": "gh3j5hFrixkReR2H",
+      "name": "Language & spells",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>[[/br 1d100]]{40%}; 4 × 1st level, 4 × 2nd level.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d100",
+        "rollType": "below",
+        "rollTarget": 40,
+        "blindroll": true,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761112619003
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.gh3j5hFrixkReR2H"
+    },
+    {
+      "_id": "Xxzu5tBJSIroDYg5",
+      "name": "Sleeping",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>[[/br 1d100]]{20%.}</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d100",
+        "rollType": "below",
+        "rollTarget": 20,
+        "blindroll": true,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761112604546
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.Xxzu5tBJSIroDYg5"
+    },
+    {
+      "_id": "Ktse7SMmYjjZ1PWE",
+      "name": "Shape changing",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "May take on the form of an animal.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.Ktse7SMmYjjZ1PWE"
+    },
+    {
+      "_id": "t8dxYHsFD6D0IuIw",
+      "name": "Behaviour",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Chaotic dragons usually try to eat humans, but may sometimes capture them. Neutral dragons may attack or ignore humans. Lawful dragons may aid parties worthy of the honour.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.t8dxYHsFD6D0IuIw"
+    },
+    {
+      "_id": "8AEeubgBlPZqn19H",
+      "name": "Pride",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Dragons are immensely proud creatures and will always listen to flattery.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.8AEeubgBlPZqn19H"
+    },
+    {
+      "_id": "IWmglu0lWWNol7TO",
+      "name": "Attack pattern",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "A dragon always attacks first with its breath weapon, then either breathes again or makes melee attacks (equal chance of either).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.IWmglu0lWWNol7TO"
+    },
+    {
+      "_id": "1PMy9tyKwREwHt6z",
+      "name": "Energy immunity",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from fire ball spells.)",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.1PMy9tyKwREwHt6z"
+    },
+    {
+      "_id": "psZMozQYdKmqhGKz",
+      "name": "Language and spells",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Some dragons are able to speak (their own tongue plus Common). The chance is listed by subspecies. Those that can speak can also cast randomly selected magic-user spells (the listed number and level of spells).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.psZMozQYdKmqhGKz"
+    },
+    {
+      "_id": "DC38drPQXr7skqqj",
+      "name": "Sleeping",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.DC38drPQXr7skqqj"
+    },
+    {
+      "_id": "BS90SMUqHQj0IQAj",
+      "name": "Subduing",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Will surrender if reduced to 0hp by non-lethal attacks, admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for up to 1,000gp per hp.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.BS90SMUqHQj0IQAj"
+    },
+    {
+      "_id": "L2au1Gq6jYsmwUPZ",
+      "name": "Age",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.L2au1Gq6jYsmwUPZ"
+    },
+    {
+      "_id": "KhRxGHeNRT7mRRPt",
+      "name": "Lairs",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "A dragon’s treasure is always kept in its well-hidden lair and is seldom unguarded.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.KhRxGHeNRT7mRRPt"
+    },
+    {
+      "_id": "1293SzdPmaxjvxA9",
+      "name": "Claw",
+      "type": "weapon",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "1d6 + 1",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6+1",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 2,
+          "max": 2
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.1293SzdPmaxjvxA9"
+    },
+    {
+      "_id": "JRsvA4mpKxm1sGZC",
+      "name": "Bite",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "3d8",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "3d8",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.JRsvA4mpKxm1sGZC"
+    },
+    {
+      "_id": "hT7DyN41O8DdFytD",
+      "name": "Breath",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<div title=\"Page 45\">\n<div>\n<div>\n<div>\n<p>▶ B<strong>reath weapon: </strong>70&rsquo; long cone of sleep gas (<strong>save versus breath</strong> or fall asleep for 4d4 turns) or cloud of fear gas (<strong>save versus breath</strong> or flee for 2 turns).</p>\n</div>\n</div>\n</div>\n</div>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "yellow",
+        "damage": "",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!oaYMVlwtfg7C5tpg.hT7DyN41O8DdFytD"
+    }
+  ],
+  "effects": [],
+  "folder": "JMEG83T5PnI4AhOm",
+  "flags": {},
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "9d8",
+      "value": 40,
+      "max": 40
+    },
+    "ac": {
+      "value": 0,
+      "mod": 0
+    },
+    "aac": {
+      "value": 19,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 12,
+      "bba": 7,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 8
+      },
+      "wand": {
+        "value": 9
+      },
+      "paralysis": {
+        "value": 10
+      },
+      "breath": {
+        "value": 10
+      },
+      "spell": {
+        "value": 12
+      }
+    },
+    "movement": {
+      "base": 90,
+      "encounter": 30,
+      "value": ""
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#dragons]{Dragon}, @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#dragon,-bronze]{Bronze}</p><p>A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation. Dwell near great lakes and seas.</p>",
+      "alignment": "Neutral",
+      "xp": "2300",
+      "specialAbilities": "2",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.xeGURxYqgotXb68P]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1d4",
+        "w": "1d4"
+      },
+      "morale": "9",
+      "movement": "90’ (30’) / 240’ (80’) flying"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Bronze Dragon",
+    "displayName": 20,
+    "width": 3,
+    "height": 3,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "color": "#ffb638",
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/bronze_dragon.Token.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925312523,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!oaYMVlwtfg7C5tpg"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "9p3LTyTSKdlYr3UV",
+  "name": "Shield +1",
+  "type": "armor",
+  "img": "icons/equipment/shield/heater-wooden-blue.webp",
+  "effects": [],
+  "folder": "ejZi5RvRB8Wy0JgB",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 100,
+    "cost": 10,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 2
+    },
+    "aac": {
+      "value": 2
+    },
+    "type": "shield",
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1687339326487,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!9p3LTyTSKdlYr3UV"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "6rQwE7ifmWzP9ksR",
+  "name": "Arrows (quiver of 20)",
+  "type": "item",
+  "img": "icons/weapons/ammunition/arrows-war-red.webp",
+  "effects": [],
+  "folder": "4ZVdwuP2KQk1NzyF",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 20,
+      "max": 20
+    },
+    "weight": null,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Ammunition",
+        "value": "Ammunition"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159894114,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6rQwE7ifmWzP9ksR"
+}

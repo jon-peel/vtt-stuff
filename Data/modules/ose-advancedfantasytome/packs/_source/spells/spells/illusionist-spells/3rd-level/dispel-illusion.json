@@ -1,0 +1,37 @@
+{
+  "name": "Dispel Illusion",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "WBQu5q80pOqBPvgd",
+  "system": {
+    "description": "<p>Dispel illusion ends ongoing illusions or phantasms (i.e. those with a non-instantaneous duration) within a 20’ cube area.</p><ul><li><p><strong>Spells cast by a non-illusionist:</strong> Are automatically dispelled.</p></li><li><p><strong>Spells cast by another illusionist:</strong> Have a chance of not being dispelled. If the level of the caster of the effect to be dispelled is higher than the level of the caster of dispel illusion, there is a 5% chance per level difference that the attempt to dispel will fail.</p></li><li><p><strong>Magic items:</strong> Are unaffected.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": "Instant",
+    "range": "10' per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451473440,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!WBQu5q80pOqBPvgd"
+}

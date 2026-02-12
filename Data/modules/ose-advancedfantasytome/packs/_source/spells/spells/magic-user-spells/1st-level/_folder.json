@@ -1,0 +1,19 @@
+{
+  "color": "#5535b5",
+  "name": "1st level",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "m36En483cuK7gD9h",
+  "_id": "F0F0H7j4BhA5Y1bW",
+  "sort": 700000,
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "11.296",
+    "createdTime": null,
+    "modifiedTime": 1683666786987,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!F0F0H7j4BhA5Y1bW"
+}

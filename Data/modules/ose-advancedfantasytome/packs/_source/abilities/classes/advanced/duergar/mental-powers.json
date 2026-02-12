@@ -1,0 +1,36 @@
+{
+  "_id": "DxCXD30AXjgPhufm",
+  "name": "Mental Powers",
+  "type": "ability",
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "effects": [],
+  "folder": "8Q5b3KQTmdR156wI",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Once per day per level, a duergar may activate one of the following mental powers:</p><ul><li><p><strong>Enlargement:</strong> The duergar’s body, clothing, and armour (but not other equipment) double in size for [[/r 1d4]] rounds. While enlarged, the duergar’s melee attacks inflict double damage.</p></li><li><p><strong>Invisibility:</strong> The duergar disappears from the sight of one or more creatures (selected when the power is activated) for one turn. Up to 1HD of creatures per level of the duergar are affected. In combat, affected creatures may attack the duergar with a –4 penalty after the first round.</p></li><li><p><strong>Shrinking:</strong> The duergar and all equipment shrinks to 6” tall for up to one turn per level. While shrunk, the duergar can slip through narrow spaces and, when remaining motionless, has a [[/br 1d100]]{90%} chance of going unnoticed. A shrunk duergar cannot harm creatures larger than 1’ tall.</p></li><li><p><strong>Heat:</strong> A creature or object within sight is subjected to a scorching heat. Paper or cloth ignite, liquids boil, and metals glow. The heat lasts for one round per level of the duergar. Applied to flesh or to metal in contact with a creature (e.g. armour), the heat inflicts [[/r 1d4]] damage per round.</p></li></ul><p><strong>Activating Mental Powers</strong></p><p>A duergar must spend a round concentrating in order to activate a mental power. While concentrating, the duergar may not move, attack, or perform any other actions.</p><p><strong>In combat</strong>: Like spell casting, activating a mental power can be disrupted in combat (see Spell Casting under @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.ouf3QNv4dWj0L1IW]{Combat}). The player must declare the use of a mental power before initiative is rolled.</p><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "duergar",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457741802,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!DxCXD30AXjgPhufm"
+}

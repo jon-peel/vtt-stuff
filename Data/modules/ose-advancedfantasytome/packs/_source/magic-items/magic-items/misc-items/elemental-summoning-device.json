@@ -1,0 +1,44 @@
+{
+  "_id": "LVQvATYoJOGEVSYR",
+  "name": "Elemental Summoning Device",
+  "type": "item",
+  "img": "icons/tools/laboratory/bowl-liquid-gold.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 4400000,
+  "flags": {},
+  "system": {
+    "description": "<p>Ritual items enchanted with the power to summon beings from the elemental planes. Each elemental plane has a different type of device:</p><p>Ritual items enchanted with the power to summon beings from the elemental planes. Each elemental plane has a different type of device:</p><ul><li><p><strong>Air:</strong> A censer.</p></li><li><p><strong>Earth:</strong> A 6” diameter stone.</p></li><li><p><strong>Fire:</strong> A brazier.</p></li><li><p><strong>Water:</strong> A 3’ diameter bowl.</p></li></ul><p><strong>Usage:</strong> The items may be used as follows:</p><ul><li><p><strong>Frequency:</strong> The summoning power may only be used once per day.</p></li><li><p><strong>Before use:</strong> The device must be prepared. This takes one turn.</p></li><li><p><strong>Activation:</strong> Once prepared, activating the device takes one round.</p></li><li><p><strong>Summoned elemental:</strong> A 12 HD elemental is conjured to do the summoner’s bidding.</p></li><li><p><strong>Command over the elemental:</strong> Works as described in the magic-user spell <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.EU9n7vjbVnS32jBo]{conjure elemental}</em>.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761352017631,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!LVQvATYoJOGEVSYR"
+}

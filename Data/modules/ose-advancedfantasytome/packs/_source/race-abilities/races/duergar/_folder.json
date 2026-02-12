@@ -1,0 +1,19 @@
+{
+  "name": "Duergar",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "H5LyintcfH0JcQca",
+  "sort": 0,
+  "color": "#00a144",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460384471,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!H5LyintcfH0JcQca"
+}

@@ -1,0 +1,217 @@
+{
+  "name": "Type F",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "7,700gp average",
+  "results": [
+    {
+      "_id": "9uy3RB9BWpEBVWWe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[2d10 * 1000]]sp.",
+      "name": "",
+      "_key": "!tables.results!AYFshL8fmmeI6SaJ.9uy3RB9BWpEBVWWe"
+    },
+    {
+      "_id": "XnMijDktzdgtxNjS",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 20,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d8 * 1000]]ep.",
+      "name": "",
+      "_key": "!tables.results!AYFshL8fmmeI6SaJ.XnMijDktzdgtxNjS"
+    },
+    {
+      "_id": "tIoHxmwgx7vNTvbo",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 45,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d12* 1000]]gp.",
+      "name": "",
+      "_key": "!tables.results!AYFshL8fmmeI6SaJ.tIoHxmwgx7vNTvbo"
+    },
+    {
+      "_id": "yLrZGmgQllEZ1ZX1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 30,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d3 * 1000]]pp.",
+      "name": "",
+      "_key": "!tables.results!AYFshL8fmmeI6SaJ.yLrZGmgQllEZ1ZX1"
+    },
+    {
+      "_id": "ZtotI8GJ0fmYGOXt",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 20,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[2d12]] pieces of jewellery",
+      "name": "",
+      "_key": "!tables.results!AYFshL8fmmeI6SaJ.ZtotI8GJ0fmYGOXt"
+    },
+    {
+      "_id": "dmEQ26nUP8soRebj",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d12]] pieces of jewellery",
+      "name": "",
+      "_key": "!tables.results!AYFshL8fmmeI6SaJ.dmEQ26nUP8soRebj"
+    },
+    {
+      "_id": "2J9Ga3HQWRMWXhsF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 30,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3 magic items (not weapons), plus 1 potion, plus 1 scroll.",
+      "name": "",
+      "_key": "!tables.results!AYFshL8fmmeI6SaJ.2J9Ga3HQWRMWXhsF"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "T0g4kT1b6Y6FcqNt",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    },
+    "ose-dev": {
+      "treasure": true
+    }
+  },
+  "_id": "AYFshL8fmmeI6SaJ",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159979846,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!AYFshL8fmmeI6SaJ"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "54990EFalmI9ze9L",
+  "name": "Cube of Force",
+  "type": "item",
+  "img": "icons/commodities/stone/masonry-block-cube-white.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 2100000,
+  "flags": {},
+  "system": {
+    "description": "<p>A ¾ inch cube of bone, ivory, or stone. Pressing the faces of the cube activates a 10’ cubic force field around the character.</p><ul><li><p><strong>Pressing faces:</strong> Each face of the cube activates or deactivates the force field, with the effects shown in the table below.</p></li><li><p><strong>Charges:</strong> The cube has 36 charges per day. Activating the force field consumes a number of charges per turn (see table).</p></li><li><p><strong>Blocking other effects:</strong> Effects other than those listed in the table can be blocked, but cost additional charges:</p><ul><li><p><strong>Catapult shot / thrown boulders:</strong> 1 charge</p></li><li><p><em><strong>@UUID[Compendium.ose-advancedfantasytome.spells.Item.biw4yLLBqWNiRwLZ]{Wall of fire } </strong></em><strong>/ non-magical inferno: </strong>2 charges</p></li><li><p><em><strong>@UUID[Compendium.ose-advancedfantasytome.spells.Item.ZrYh8AabsTCnqRjb]{Fire ball} </strong></em><strong>/</strong><em><strong>@UUID[Compendium.ose-advancedfantasytome.spells.Item.yGIGg1GYsCQApO20]{pass-wall}</strong></em><strong>: </strong>3 charges</p></li><li><p><em><strong>@UUID[Compendium.ose-advancedfantasytome.spells.Item.anWBslOOlZtV47ut]{Lightning bolt}</strong></em><strong>: </strong>4 charges</p></li><li><p><strong>@UUID[Compendium.ose-advancedfantasytome.magic-items.Item.4OhvzUBNlVFIolf5]{Horn of Blasting} / </strong><em><strong>@UUID[Compendium.ose-advancedfantasytome.spells.Item.Qia3KIVoKxni1VDo]{disintegrate}</strong></em><strong>:</strong> 6 charges</p></li></ul></li></ul><p><strong>Cube of Force: Effects by Side</strong></p><table style=\"width:100%; border-collapse:collapse; font-size:0.95em; table-layout:fixed;\"><thead><tr><th style=\"width:6%; text-align:center;\">#</th><th style=\"width:36%; text-align:center;\">Charges</th><th style=\"width:34%;\">Move</th><th style=\"width:44%;\">Keeps Out</th></tr></thead><tbody><tr><td style=\"text-align:center;\">1</td><td style=\"text-align:center;\">1</td><td>120’ (40’)</td><td>Gases, wind</td></tr><tr><td style=\"text-align:center;\">2</td><td style=\"text-align:center;\">2</td><td>90’ (30’)</td><td>Nonliving matter</td></tr><tr><td style=\"text-align:center;\">3</td><td style=\"text-align:center;\">3</td><td>60’ (20’)</td><td>Living things</td></tr><tr><td style=\"text-align:center;\">4</td><td style=\"text-align:center;\">4</td><td>30’ (10’)</td><td>Magic</td></tr><tr><td style=\"text-align:center;\">5</td><td style=\"text-align:center;\">5</td><td>6’ (2’)</td><td>All things</td></tr><tr><td style=\"text-align:center;\">6</td><td style=\"text-align:center;\">0</td><td>Normal</td><td>Deactivates</td></tr></tbody></table><ul><li><p><strong>Charges</strong>: Charges expended per turn.</p></li><li><p><strong>Move</strong>: Maximum movement rate while force field of this type is active.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761429852322,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!54990EFalmI9ze9L"
+}

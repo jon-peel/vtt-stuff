@@ -1,0 +1,8 @@
+2026/02/12-12:53:48.075 2638 Recovering log #2423
+2026/02/12-12:53:48.075 2638 Delete type=0 #2423
+2026/02/12-12:53:48.080 2638 Delete type=3 #2422
+2026/02/12-13:41:41.627 5adc Level-0 table #2427: started
+2026/02/12-13:41:41.627 5adc Level-0 table #2427: 0 bytes OK
+2026/02/12-13:41:41.628 5adc Delete type=0 #2425
+2026/02/12-13:41:41.648 5adc Manual compaction at level-0 from '!macros!cxANP1Mw2TDyDVaY' @ 72057594037927935 : 1 .. '!macros!nBMfsTgL2yxKM6dp' @ 0 : 0; will stop at (end)
+2026/02/12-13:41:41.648 5adc Manual compaction at level-1 from '!macros!cxANP1Mw2TDyDVaY' @ 72057594037927935 : 1 .. '!macros!nBMfsTgL2yxKM6dp' @ 0 : 0; will stop at (end)

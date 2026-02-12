@@ -1,0 +1,44 @@
+{
+  "_id": "qipGtOw1OVspBWo3",
+  "name": "Gem of Pristine Faceting",
+  "type": "item",
+  "img": "icons/commodities/gems/gem-faceted-round-teal.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11300000,
+  "flags": {},
+  "system": {
+    "description": "<p>A magical gem which has the power to increase the value of other gems.</p><ul><li><p><strong>Usage:</strong> The gem must be placed with one or more other (non-magical) gems.</p></li><li><p><strong>Effect:</strong> There is a [[/r 1d100]]{20%} chance of each of the other gems being magically polished, faceted, or otherwise perfected in form. Affected gems increase in value by 50%.</p></li><li><p><strong>Charges:</strong> The gem has [[/r 10d10]] charges. One charge is used each time it transforms another gem.</p></li><li><p><strong>Facets:</strong> The gem has as many facets as it has charges. Each time a charge is spent, it loses one facet. When all charges have been spent, it becomes a worthless stone sphere.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431202875,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qipGtOw1OVspBWo3"
+}

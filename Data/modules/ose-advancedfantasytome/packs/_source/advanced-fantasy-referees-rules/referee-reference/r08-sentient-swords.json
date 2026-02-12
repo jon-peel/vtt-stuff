@@ -1,0 +1,168 @@
+{
+  "name": "R08. Sentient Swords",
+  "pages": [
+    {
+      "sort": 175000,
+      "name": "Extraordinary Powers",
+      "type": "text",
+      "_id": "rj9IcSrqtYAfJIja",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Each power should be rolled on the table below. Duplicates should be re-rolled, unless noted.</p><p><strong>Usage frequency:</strong> Unless a power’s description notes otherwise, it may be used at most three times a day.</p><table><tbody><tr><td colspan=\"2\" data-colwidth=\"117,0\"><p><strong>Sentient Sword Extraordinary Powers</strong></p></td></tr><tr><td data-colwidth=\"117\"><p><strong>[[/r d100]]</strong></p></td><td><p><strong>Power</strong></p></td></tr><tr><td data-colwidth=\"117\"><p>01-10</p></td><td><p>Clairaudience</p></td></tr><tr><td data-colwidth=\"117\"><p>11-20</p></td><td><p>Clairvoyance</p></td></tr><tr><td data-colwidth=\"117\"><p>21-30</p></td><td><p>ESP</p></td></tr><tr><td data-colwidth=\"117\"><p>31-35</p></td><td><p>Extra damage (duplicates allowed)</p></td></tr><tr><td data-colwidth=\"117\"><p>36-40</p></td><td><p>Flying</p></td></tr><tr><td data-colwidth=\"117\"><p>41-45</p></td><td><p>Healing (duplicates allowed)</p></td></tr><tr><td data-colwidth=\"117\"><p>46-54</p></td><td><p>Illusion</p></td></tr><tr><td data-colwidth=\"117\"><p>55-59</p></td><td><p>Levitation</p></td></tr><tr><td data-colwidth=\"117\"><p>60-69</p></td><td><p>Telekinesis</p></td></tr><tr><td data-colwidth=\"117\"><p>70-79</p></td><td><p>Telepathy</p></td></tr><tr><td data-colwidth=\"117\"><p>80-88</p></td><td><p>Teleportation</p></td></tr><tr><td data-colwidth=\"117\"><p>89-97</p></td><td><p>X-ray vision</p></td></tr><tr><td data-colwidth=\"117\"><p>98-99</p></td><td><p>Roll twice again on this table</p></td></tr><tr><td data-colwidth=\"117\"><p>00</p></td><td><p>Roll 3 times again on this table</p></td></tr></tbody></table><p></p><h2>Clairaudience</h2><p>Enables the wielder to hear through the ears of another creature.</p><ul><li><p><strong>Activation:</strong> The wielder must concen- trate for one turn to activate this power.</p></li><li><p><strong>Range:</strong> The other creature must be within 60’.</p></li><li><p><strong>Obstruction:</strong> Lead blocks this power.</p></li></ul><h2>Clairvoyance</h2><p>Enables the wielder to see through the eyes of another creature.</p><ul><li><p><strong>Activation:</strong> The wielder must concentrate for one turn to activate this power.</p></li><li><p><strong>Range:</strong> The other creature must be within 60’.</p></li><li><p><strong>Obstruction:</strong> Lead blocks this power.</p></li></ul><h2>ESP</h2><p>Enables the wielder to read the thoughts of another living creature.</p><ul><li><p><strong>Activation:</strong> The wielder must concentrate in a specific direction to activate this power.</p></li><li><p><strong>Range:</strong> The other creature must be within 60’.</p></li><li><p><strong>Comprehension:</strong> The wielder gains an empathic understanding of the creature’s thoughts.</p></li><li><p><strong>Obstruction:</strong> Lead blocks this power.</p></li></ul><h2>Extra Damage</h2><p>Increases the wielder’s strength for [[/r 1d10]] rounds. While the power is active, damage inflicted by the wielder is multiplied by 4.</p><h3>Duplicates</h3><p>If this power is rolled more than once, the damage multiplier is increased by one for each duplicate roll.</p><h2>Flying</h2><p>The wielder is able to fly for up to 3 turns.</p><ul><li><p><strong>Movement rate:</strong> A speed of up to 360’ (120’) is possible.</p></li><li><p><strong>Free movement:</strong> Is possible in any direction, including the ability to levitate and to hover in mid-air.</p></li></ul><h2>Healing</h2><p>The sword heals damage.</p><ul><li><p><strong>Effect:</strong> One point of damage is healed per round, for six rounds.</p></li><li><p><strong>Usage frequency:</strong> This power may only be activated once a day.</p></li></ul><h3>Duplicates</h3><p>If this power is rolled more than once, the duration of the power is increased by 6 rounds for each duplicate.</p><h2>Illusion</h2><p>An illusion of the wielder’s choosing manifests. This works in the same way as the magic-user spell <em>@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.GPtJQLHf88ysJEzR#phantasmal-force]{phantasmal force}</em>.</p><h2>Levitation</h2><p>Grants the wielder the ability to move up and down through the air for up to 3 turns:</p><ul><li><p><strong>Vertical:</strong> The wielder mentally directs vertical movement at up to 20’ per round.</p></li><li><p><strong>Horizontal:</strong> The character can push against solid objects to move laterally.</p></li><li><p><strong>Weight:</strong> A normal amount of weight can be carried while levitating.</p></li></ul><h2>Telekinesis</h2><p>By concentrating, the wielder is able to move objects or creatures within 120’ by the power of thought.</p><ul><li><p><strong>Weight:</strong> Up to 2,000 coins of weight may be targeted.</p></li><li><p><strong>Movement: </strong>The target may be moved up to 20’ per round, in whatever direction the wielder wishes (including vertically).</p></li><li><p><strong>Resisting:</strong> A targeted creature may <strong>save versus spells</strong> to resist.</p></li><li><p><strong>Duration:</strong> Up to 6 rounds.</p></li><li><p><strong>Concentration:</strong> If concentration is broken, the target falls.</p></li></ul><h2>Telepathy</h2><p>Enables the wielder to read the thoughts of another living creature.</p><ul><li><p><strong>Concentration:</strong> The wielder must con- centrate in a specific direction to activate this power.</p></li><li><p><strong>Range:</strong> The other creature must be within 60’.</p></li><li><p><strong>Comprehension:</strong> The wielder gains an empathic understanding of the creature’s thoughts.</p></li><li><p><strong>Bidirectional communication:</strong> The wielder may also initiate a bidirectional telepathic communication with the creature, though it is not compelled to respond.</p></li><li><p><strong>Obstruction:</strong> Lead blocks this power.</p></li></ul><h2>Teleportation</h2><p>The wielder is able to @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.5bcXC9ougUPEBFoY#teleport]{teleport}, per the magic-user spell.</p><h2>X-Ray Vision</h2><p>Allows the wielder to see through solid objects.</p><ul><li><p><strong>Through stone:</strong> Sight up to 30’ through stone is possible.</p></li><li><p><strong>Through softer materials:</strong> Sight up to 60’ through less dense materials (cloth, water, wood) is possible. Obstructions: Sight through gold or lead is blocked.</p></li><li><p><strong>Searching:</strong> When used for the purpose of searching (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.DpsGa6pHQRkwiQR8#searching]{see Dungeon Adventuring}), the wielder is guaranteed to notice secret doors or traps in the 10’ square area being examined.</p></li><li><p><strong>Concentration:</strong> Usage requires concentration (the wielder cannot move).</p></li><li><p><strong>Usage frequency:</strong> This power may not be activated more frequently than once per turn.</p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!RnPZ03E1QyLRi0ek.rj9IcSrqtYAfJIja"
+    },
+    {
+      "sort": 200000,
+      "name": "Sensory Powers",
+      "type": "text",
+      "_id": "f700Bn50a5zumHol",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Each sensory power should be rolled on the table below, with duplicates re-rolled.</p><p><strong>Usage frequency:</strong> Unless a power’s description notes otherwise, it may be used without limit.</p><table><tbody><tr><td colspan=\"2\" data-colwidth=\"128,0\"><p><strong>Sentient Sword Sensory Powers</strong></p></td></tr><tr><td data-colwidth=\"128\"><p><strong>[[/r d100]]</strong></p></td><td><p><strong>Power</strong></p></td></tr><tr><td data-colwidth=\"128\"><p>01-10</p></td><td><p>Detect evil or good</p></td></tr><tr><td data-colwidth=\"128\"><p>11-15</p></td><td><p>Detect gems</p></td></tr><tr><td data-colwidth=\"128\"><p>16-25</p></td><td><p>Detect magic</p></td></tr><tr><td data-colwidth=\"128\"><p>26-35</p></td><td><p>Detect metals</p></td></tr><tr><td data-colwidth=\"128\"><p>36-50</p></td><td><p>Detect shifting architecture</p></td></tr><tr><td data-colwidth=\"128\"><p>51-65</p></td><td><p>Detect slopes</p></td></tr><tr><td data-colwidth=\"128\"><p>66-75</p></td><td><p>Detect traps</p></td></tr><tr><td data-colwidth=\"128\"><p>76-85</p></td><td><p>Locate secret doors</p></td></tr><tr><td data-colwidth=\"128\"><p>86-95</p></td><td><p>See invisible objects</p></td></tr><tr><td data-colwidth=\"128\"><p>96-99</p></td><td><p>Roll an extraordinary power</p></td></tr><tr><td data-colwidth=\"128\"><p>00</p></td><td><p>Roll twice again on this table</p></td></tr></tbody></table><p></p><h2>Detect Evil or Good</h2><p>The wielder can sense the intention to do evil or good within 20’. (Note: some potentially harmful things—e.g. animals, traps—are not evil.)</p><h2>Detect Gems</h2><p>The sword will point in the direction of any gems within 60’.</p><ul><li><p><strong>Count:</strong> The wielder is also informed of the number of gems present.</p></li><li><p><strong>Obstruction:</strong> Lead blocks this power.</p></li></ul><h2>Detect Magic</h2><p>Up to three times a day, the sword can detect magic within 20’. On command, the magic may be caused to glow.</p><h2>Detect Metals</h2><p>The sword will point in the direction of metal of a named type within 60’.</p><ul><li><p><strong>Obstruction:</strong> Lead blocks this power.</p></li></ul><h2>Detect Shifting Architecture</h2><p>The wielder can locate shifting walls or rooms up to 10’ distant.</p><h2>Detect Slopes</h2><p>The wielder can sense sloped floors within 10’.</p><h2>Detect Traps</h2><p>Up to three times a day, the wielder can sense traps within 10’.</p><h2>Locate Secret Doors</h2><p>Up to three times a day, the wielder can find all secret doors within 10’.</p><h2>See Invisible Objects</h2><p>The wielder can see invisible or concealed objects up to 20’ distant. (This power does not reveal secret doors.)</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!RnPZ03E1QyLRi0ek.f700Bn50a5zumHol"
+    },
+    {
+      "sort": 300000,
+      "name": "Special Purpose",
+      "type": "text",
+      "_id": "UMOmyOYwi9UTzEHW",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Some sentient swords are also imbued with a special purpose. The purpose of such swords is typically to slay a certain type of character or creature. The purpose may be rolled on the table below, or the referee may invent others.</p><table><tbody><tr><td colspan=\"2\" data-colwidth=\"115,0\"><p><strong>Sentient Sword Special Purpose</strong></p></td></tr><tr><td data-colwidth=\"115\"><p><strong>[[/r d6]]</strong></p></td><td><p><strong>Type of Target to be Slain</strong></p></td></tr><tr><td data-colwidth=\"115\"><p>1</p></td><td><p>Arcane spell casters</p></td></tr><tr><td data-colwidth=\"115\"><p>2</p></td><td><p>Divine spell casters</p></td></tr><tr><td data-colwidth=\"115\"><p>3</p></td><td><p>Warriors (e.g. fighters or other primarily combat-oriented, non-spell casting classes, including non-spell casting demihumans)</p></td></tr><tr><td data-colwidth=\"115\"><p>4</p></td><td><p>Specific type of monster (determine randomly)</p></td></tr><tr><td data-colwidth=\"115\"><p>5</p></td><td><p>Lawful creatures (or chaotic creatures if the sword is lawful)</p></td></tr><tr><td data-colwidth=\"115\"><p>6</p></td><td><p>Chaotic creatures (or lawful creatures if the sword is chaotic)</p></td></tr></tbody></table><p></p><h2>Alignment Power</h2><p>In addition to their sensory and extraordinary powers, swords of special purpose have an extra power when used to achieve their designated purpose (e.g. when attacking the enemy the sword was designed to slay). This power depends on the sword’s alignment:</p><ul><li><p><strong>Lawful:</strong> Chaotic foes hit by the sword must <strong>save versus spells</strong> or be paralysed.</p></li><li><p><strong>Neutral:</strong> The wielder gains a +1 bonus to all saving throws.</p></li><li><p><strong>Chaotic:</strong> Lawful foes hit by the sword must <strong>save versus spells</strong> or be turned to stone.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761373583173
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!RnPZ03E1QyLRi0ek.UMOmyOYwi9UTzEHW"
+    },
+    {
+      "sort": 150000,
+      "name": "Sentient Swords",
+      "type": "text",
+      "_id": "aZKkp92I042TPuqE",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>If a magic sword possesses sentience (@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.w4nZfgr9DkiZAkHE#sentient-swords]{see Swords}), the procedure on this page may be used to determine its powers. (Alternatively, the referee may select its qualities as desired.)</p><h2><strong>Rolling a Sentient Sword</strong></h2><ol><li><strong>Special purpose:</strong> If the sword has a special purpose, see <em>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.RnPZ03E1QyLRi0ek.JournalEntryPage.UMOmyOYwi9UTzEHW]{Special Purpose}</em>, to determine what it is.</li><li><strong>Intelligence and personality:</strong> The sword’s INT is [[/r 1d6+6]]. (Swords imbued with a special purpose always have INT 12.) The sword has its own personality and should be played as an NPC.</li><li><p><strong>Communication:</strong> The sword’s INT determines the means by which it can communicate. See the table below.</p><ul><li><strong>Empathy:</strong> The sword cannot communicate directly, but empathically informs the wielder of its powers and how to use them.</li><li><strong>Speech:</strong> The sword speaks out loud. The number of languages it knows is indicated by rolling on the languages table, to the right. Languages should be selected by the referee.</li><li><strong>Reading:</strong> The sword can read all languages it can speak, as well as magical inscriptions.</li></ul></li><li><strong>Alignment:</strong> See the table to the right.</li><li><strong>Powers:</strong> The sword’s INT determines the number of powers it has. See the table to the right. Powers are described in the following pages.</li><li><strong>Ego:</strong> Sentient swords have an Ego rating—a measure of their force of personality. This is rolled on [[/r 1d12]]. Swords imbued with a special purpose always have an Ego of 12.</li></ol><h3>Sentient Sword Communication</h3><table><thead><tr><th>INT</th><th>Reading</th><th>Communication</th></tr></thead><tbody><tr><td>7</td><td>No</td><td>Empathy</td></tr><tr><td>8</td><td>No</td><td>Empathy</td></tr><tr><td>9</td><td>No</td><td>Empathy</td></tr><tr><td>10</td><td>Yes</td><td>Speech</td></tr><tr><td>11</td><td>Yes</td><td>Speech</td></tr><tr><td>12</td><td>Yes</td><td>Speech</td></tr></tbody></table><hr /><h3>Sentient Sword Languages</h3><table><thead><tr><th>d100</th><th>Languages</th></tr></thead><tbody><tr><td>01–50</td><td>Alignment tongue + 1</td></tr><tr><td>51–70</td><td>Alignment tongue + 2</td></tr><tr><td>71–85</td><td>Alignment tongue + 3</td></tr><tr><td>86–95</td><td>Alignment tongue + 4</td></tr><tr><td>96–99</td><td>Alignment tongue + 5</td></tr><tr><td>00</td><td>Roll twice again, adding results</td></tr></tbody></table><hr /><h3>Sentient Sword Alignment</h3><table><thead><tr><th>d20</th><th>Alignment</th></tr></thead><tbody><tr><td>1–13</td><td>Lawful</td></tr><tr><td>14–18</td><td>Neutral</td></tr><tr><td>19–20</td><td>Chaotic</td></tr></tbody></table><hr /><h3>Sentient Sword Powers</h3><table><thead><tr><th>INT</th><th>Powers</th></tr></thead><tbody><tr><td>7</td><td>1 sensory power</td></tr><tr><td>8</td><td>2 sensory powers</td></tr><tr><td>9</td><td>3 sensory powers</td></tr><tr><td>10</td><td>3 sensory powers</td></tr><tr><td>11</td><td>3 sensory powers</td></tr><tr><td>12</td><td>3 sensory + 1 extraordinary</td></tr></tbody></table><p></p><h2>Using a Sentient Sword</h2><p>Sentient swords grant the wielder special powers beyond those of a normal magic sword, but using one also carries risks.</p><h3>Activating Powers</h3><ul><li><p><strong>In hand:</strong> To use a power, the sword must be in the wielder’s hand.</p></li><li><p><strong>Concentration:</strong> The wielder must concentrate to activate a power.</p></li></ul><h3>Alignment</h3><p>The alignment of the sword can only</p><p>be determined by touching it. Doing so may incur damage if the character is of a different alignment to the sword:</p><ul><li><p><strong>Lawful swords:</strong> Inflict [[/r 1d6]] damage per round to neutral characters and [[/r 2d6]] per round to chaotic characters.</p></li><li><p><strong>Neutral swords:</strong> Inflict [[/r 1d6]] damage per round to non-neutral characters.</p></li><li><p><strong>Chaotic swords:</strong> Inflict [[/r 1d6]] damage per round to neutral characters and [[/r 2d6]] per round to lawful characters.</p></li></ul><h2>Control</h2><p>A sentient sword has its own personality and can, at times, attempt to exercise control over the person who wields it. A control check (see below) is triggered in any of the following circumstances:</p><ul><li><p><strong>First contact:</strong> Upon the character first touching the sword.</p></li><li><p><strong>Wounded:</strong> When the character is reduced to half hit points or less.</p></li><li><p><strong>Jealousy:</strong> When another magic weapon comes into the character’s possession.</p></li><li><p><strong>Alignment difference:</strong> Upon every use, if the sword and the character are of different alignments.</p></li><li><p><strong>Special purpose:</strong> If the sword has a special purpose: every time the special purpose is applicable. (e.g. when encountering a character or creature of the type the sword is designed to slay.)</p></li></ul><h3>Control Checks</h3><p>When one of the aforementioned circumstances occurs, a control check is required:</p><ol><li><p><strong>Determine the sword’s Will score:</strong></p><ol type=\"a\"><li>The sum of its INT and Ego.</li><li>Add one for each extraordinary power the sword has.</li><li>Add [[/r 1d10]] if the sword and the wielder of the sword are different alignments.</li></ol></li><li><p><strong>Determine the wielder’s Will score:</strong></p><ol type=\"a\"><li>The sum of STR and WIS scores.</li><li>If the character has less than full hit points, Will is reduced by [[/r 1d4]] (or [[/r 2d4]] if the character has half hit points).</li></ol></li></ol><h3>When the Sword Takes Control</h3><p>The referee determines the behaviour of the character, via the sword, for example:</p><ul><li><p><strong>Jealousy:</strong> Discarding other weapons, or ignoring newly discovered magic weapons.</p></li><li><p><strong>Glory:</strong> Charging into battle, in order to gain glory for the sword.</p></li><li><p><strong>Surrender:</strong> To a foe whom the sword deems either more worthy of possessing it or more susceptible to being controlled.</p></li><li><p><strong>Indulgence:</strong> Making lavish expenditures for the sword. Purchasing expensive sheaths, having jewels fitted, having enchantments and wards applied, etc. The sword may force the character to spend most of their money on such things!</p></li></ul><h3>Ending Control</h3><p>Once in control, the sword will only release the character when the circumstance that triggered the control check is over or when the sword is otherwise satisfied.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761373523012
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!RnPZ03E1QyLRi0ek.aZKkp92I042TPuqE"
+    }
+  ],
+  "folder": "ZrsekR7d5VfKW4VT",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076664552,
+    "modifiedTime": 1754191713959,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "RnPZ03E1QyLRi0ek",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!RnPZ03E1QyLRi0ek"
+}

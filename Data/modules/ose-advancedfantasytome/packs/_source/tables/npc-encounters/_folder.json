@@ -1,0 +1,19 @@
+{
+  "name": "NPC Encounters",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "JMg9yCBTjqtgSNlB",
+  "sort": 0,
+  "color": "#009192",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "11.300",
+    "createdTime": null,
+    "modifiedTime": 1686557254372,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!JMg9yCBTjqtgSNlB"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "gxM4NZGg6IWy7B46",
+  "name": "Rope of Strangulation",
+  "type": "item",
+  "img": "icons/sundries/survival/rope-wrapped-red.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 8900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A cursed 50’ rope which strangles any who attempt to activate its magic.</p><ul><li><p><strong>Commanding</strong>: Any command issued to the rope by a character holding it activates its curse.</p></li><li><p><strong>When activated:</strong> The rope springs to life and attempts to strangle the character holding it plus [[/r 1d4]] others within 10’.</p></li><li><p><strong>Saving throw:</strong> Each victim may <strong>save versus spells</strong> to avoid being strangled.</p></li><li><p><strong>Strangled creatures:</strong> Suffer [[/r 2d6]] damage per round, cannot cast spells, and are unable to free themselves in any way.</p></li><li><p><strong>Freeing victims:</strong> <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.N1KUYlrMoNzX6QMc]{Dispel magic}</em> causes the rope to release the victims, as does severing it.</p></li><li><p><strong>Severing the rope:</strong> It has AC –2 [21] and 22 hit points. If cut through, the rope becomes non-magical.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441848934,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gxM4NZGg6IWy7B46"
+}

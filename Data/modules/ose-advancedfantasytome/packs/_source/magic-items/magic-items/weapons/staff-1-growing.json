@@ -1,0 +1,63 @@
+{
+  "name": "Staff +1, Growing",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-simple-gold.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 1500000,
+  "flags": {},
+  "_id": "L03hMfjd5YeUXIVp",
+  "system": {
+    "description": "<p>A staff of sturdy wood, banded with iron at each tip. The staff has the power to grow and shrink on command.</p><ul><li><p><strong>Size:</strong> The staff can be any length between 6’ and 12’</p></li><li><p><strong>Reach:</strong> The wielder can attack foes at up to the staff’s length distant.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 40,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446077695,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!L03hMfjd5YeUXIVp"
+}

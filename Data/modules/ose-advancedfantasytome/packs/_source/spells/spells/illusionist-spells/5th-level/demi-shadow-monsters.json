@@ -1,0 +1,37 @@
+{
+  "name": "Demi-Shadow Monsters",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "O8zmSzCfv8T9i7yd",
+  "system": {
+    "description": "<p>The caster conjures one or more semi-real monsters, woven from shadow-stuff.</p><ul><li><p><strong>Hit Dice:</strong> The monsters’ total Hit Dice may not exceed the caster’s level.</p></li><li><p><strong>Type:</strong> All monsters must be of the same type.</p></li><li><p><strong>Hit points:</strong> The monsters have [[/r 1d4]] hit points per Hit Die (instead of the normal [[/r 1d8]] hit points per Hit Die).</p></li><li><p><strong>Control:</strong> The monsters are under the caster’s control.</p></li><li><p><strong>Saving throw:</strong> Every creature viewing the shadow monsters may <strong>save versus spells:</strong></p><ul><li><p><strong>If the save succeeds:</strong> The subject views the monsters as they truly are: vague, shifting forms of shadow. To this subject, the shadow monsters have AC 9 [10] and inflict half of their normal damage (rounding down). This subject is unaffected by any special or magical attack forms of the monsters.</p></li><li><p><strong>If the save fails:</strong> The subject perceives the monsters as real creatures of the chosen type. To this subject, the shadow monsters attack as normal and inflict normal damage. They may use any special or magical attack forms they possess, but attacks such as energy drain or petrification do not really occur—at worst, they might cause an opponent to fall unconscious or be paralysed for [[/r 1d4]] turns.</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "1 round per level",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451976256,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!O8zmSzCfv8T9i7yd"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Sharpness",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-brown.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 3200000,
+  "flags": {},
+  "_id": "xdHQlS24rFCQ7O1Y",
+  "system": {
+    "description": "<p>An incredibly sharp blade which can sever extremities.</p><ul><li><p><strong>Severing:</strong> On a natural 18, 19, or 20 attack roll, one of the target’s extremities is severed. Against larger than human-sized targets, only a natural 19 or 20 severs, and against targets of solid stone or metal, only a natural 20.</p></li><li><p><strong>Severed extremity:</strong> Determined randomly, depending on the target (e.g. arm, leg, tail, tentacle, neck, etc.).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445735481,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xdHQlS24rFCQ7O1Y"
+}

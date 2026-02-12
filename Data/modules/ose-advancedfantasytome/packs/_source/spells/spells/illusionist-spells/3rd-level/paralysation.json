@@ -1,0 +1,37 @@
+{
+  "name": "Paralysation",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "XfAE3d4rb56nI3Te",
+  "system": {
+    "description": "<p>A number of creatures within a 20’ cube area are afflicted with the terrifying phantasm of being unable to move.</p><ul><li><p><strong>Number of creatures affected:</strong> Up to 2HD of creatures per level of the caster.</p></li><li><p><strong>Priority:</strong> Creatures with the lowest HD are affected first.</p></li><li><p><strong>Saving throw:</strong> Each target may <strong>save versus spells</strong> to resist the phantasm.</p></li><li><p><strong>Mindless creatures:</strong> Are unaffected.</p></li><li><p><strong>Cancelling:</strong> The caster may cancel the phantasm at will.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": " 6 turns or until cancelled",
+    "range": "10’ per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451543565,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!XfAE3d4rb56nI3Te"
+}

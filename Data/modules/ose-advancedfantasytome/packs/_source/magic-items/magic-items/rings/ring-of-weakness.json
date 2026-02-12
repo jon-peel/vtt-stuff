@@ -1,0 +1,39 @@
+{
+  "_id": "kos0zytYwPAjc6NH",
+  "name": "Ring of Weakness",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-bronze.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 1400000,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">A cursed ring that weakens the wearer.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Effect</strong><strong>:</strong> Within 6 rounds of putting the ring on, the wearer’s STR is reduced to 3.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Removing</strong><strong>:</strong> The ring cannot be removed, once worn.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Dispelling</strong><strong>:</strong> The curse can be removed by magic (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.LvD3XbuvgBpJ5eEL]{remove curse}</em>), or (at the referee’s option) by performing a special quest.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443297259,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kos0zytYwPAjc6NH"
+}

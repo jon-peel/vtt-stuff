@@ -1,0 +1,37 @@
+{
+  "_id": "HyLgu4N0xawWkW5t",
+  "name": "Remove Quest",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RmvVdtYAmuQub8Ch",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Can dispel an active <em>quest </em>spell. If the character who cast the quest spell to be nullified is higher level than the character casting <em>remove quest</em>, there is a chance of the spell having no effect. The probability of failure is 5% per level the caster is below the caster of <em>quest</em>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "instant",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160011128,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!HyLgu4N0xawWkW5t"
+}

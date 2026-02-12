@@ -1,0 +1,184 @@
+{
+  "name": "Reincarnation: Neutral Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Reincarnation: Neutral Monsters",
+  "results": [
+    {
+      "_id": "6TrhjLaGKalxilO5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pixie or sprite",
+      "name": "",
+      "_key": "!tables.results!q88rKYYoPdV4K8Y7.6TrhjLaGKalxilO5"
+    },
+    {
+      "_id": "KO4DooxvewAGF2Cv",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lizard man",
+      "name": "",
+      "_key": "!tables.results!q88rKYYoPdV4K8Y7.KO4DooxvewAGF2Cv"
+    },
+    {
+      "_id": "EjPq0zWTJKuNmL9y",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rock Baboon",
+      "name": "",
+      "_key": "!tables.results!q88rKYYoPdV4K8Y7.EjPq0zWTJKuNmL9y"
+    },
+    {
+      "_id": "GxMBVvC0ouPUkslL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ape,white",
+      "name": "",
+      "_key": "!tables.results!q88rKYYoPdV4K8Y7.GxMBVvC0ouPUkslL"
+    },
+    {
+      "_id": "KOFnpa3XYZL2RSCa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Centaur",
+      "name": "",
+      "_key": "!tables.results!q88rKYYoPdV4K8Y7.KOFnpa3XYZL2RSCa"
+    },
+    {
+      "_id": "wI1HeJaOnzVJIDjb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Werebear",
+      "name": "",
+      "_key": "!tables.results!q88rKYYoPdV4K8Y7.wI1HeJaOnzVJIDjb"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "bQ0spjafhnW3IDHf",
+  "sort": 500000,
+  "flags": {},
+  "_id": "q88rKYYoPdV4K8Y7",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686550622068,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!q88rKYYoPdV4K8Y7"
+}

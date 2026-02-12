@@ -1,0 +1,37 @@
+{
+  "name": "Polymorph Others",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M6Syp5PYARwNUKsf",
+  "sort": 0,
+  "flags": {},
+  "_id": "WHtDX4vfhkXzPzlt",
+  "system": {
+    "description": "<p>A living subject is changed into another type of creature, as chosen by the caster:</p><ul><li><p><strong>HD:</strong> The spell fails if the new form’s HD is more than twice the subject’s HD.</p></li><li><p><strong>Hit points:</strong> The subject retains the same number of hit points.</p></li><li><p><strong>Abilities:</strong> The subject truly becomes the new form: all special abilities are acquired, along with behavioural patterns, tendencies, and intelligence.</p></li><li><p><strong>Specific individuals:</strong> The spell cannot be used to duplicate a specific individual.</p></li><li><p><strong>Reversion:</strong> If the subject dies, it returns to its original form.</p></li><li><p><strong>An unwilling subject</strong>: May <em><strong>save versus spells</strong></em> to negate the effect.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453786541,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!WHtDX4vfhkXzPzlt"
+}

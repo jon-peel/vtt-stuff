@@ -1,0 +1,37 @@
+{
+  "name": "Available Classes and Max Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "TX9cD07CSUAdxCmL",
+  "flags": {},
+  "system": {
+    "description": "<ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong>Assassin:</strong> 9th</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong>Cleric*:</strong> 8th</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong>Fighter:</strong> 10th</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong>Thief:</strong> 9th</p></li></ul><p style=\"box-sizing: border-box; user-select: text; color: #191813\">* At the referee’s option, dwarven clerics may only exist as NPCs.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "dwarf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685796585640,
+    "modifiedTime": 1761459315000,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "nRi9aqaQezdMjoB4",
+  "sort": 0,
+  "_key": "!items!nRi9aqaQezdMjoB4"
+}

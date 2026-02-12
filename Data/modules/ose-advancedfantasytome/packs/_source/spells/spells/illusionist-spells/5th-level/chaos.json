@@ -1,0 +1,37 @@
+{
+  "name": "Chaos",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "cMtvevkCUeDMBEWt",
+  "system": {
+    "description": "<p>This spell causes all creatures in a 60′ diameter area to become confused, making them unable to independently determine what they will do.</p><ul><li><strong>Saving throw:</strong> Subjects that can cast illusionist spells or that have innate powers of illusion may <strong>save versus spells</strong> to resist the spell’s effect.</li><li><strong>Behaviour:</strong> Roll on the following table separately for each affected subject each round to determine how that subject acts that round:</li></ul><table><thead><tr><th>[[/r 2d6]]</th><th>Behaviour</th></tr></thead><tbody><tr><td>2–5</td><td>Attack caster’s group</td></tr><tr><td>6–8</td><td>No action</td></tr><tr><td>9–12</td><td>Attack subject’s group</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "12 rounds",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451952906,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!cMtvevkCUeDMBEWt"
+}

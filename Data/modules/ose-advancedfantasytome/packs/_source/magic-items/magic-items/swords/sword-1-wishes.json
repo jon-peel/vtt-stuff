@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Wishes",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-flamberge.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 1300000,
+  "flags": {},
+  "_id": "I8CuLVkZxXxG0VeR",
+  "system": {
+    "description": "<p>Has the power to grant the wielder’s wishes (see @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.QaJTYADJoZAOBRPB.JournalEntryPage.EJ66yz7WNMHw5JOU#wishes]{Wishes}).</p><ul><li><p><strong>Charges:</strong> The sword grants a total of [[/r 1d4]] wishes.</p></li><li><p><strong>Wishing:</strong> The wish must be spoken out loud by the wielder of the sword.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445773315,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!I8CuLVkZxXxG0VeR"
+}

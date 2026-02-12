@@ -1,0 +1,36 @@
+{
+  "_id": "zq4rioCgeEp1Jj1G",
+  "name": "Strength Of Will",
+  "type": "ability",
+  "img": "icons/equipment/shield/kite-wooden-sigil-purple.webp",
+  "effects": [],
+  "folder": "M8kCM9O2lnpAKqRe",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Fear</strong>: Knights are immune to all supernatural fear effects. From 3rd level, companions within 10’ of the knight gain a +2 bonus on saving throws against fear effects, and retainers and mercenaries under the knight’s command within 10’ gain a +2 bonus to loyalty or morale.</p>\n<p><strong>Beguilement</strong>: Knights gain a +4 bonus to saving throws against hold spells, charms, mind control, hypnotism, suggestion, etc.</p>\n<p>They gain a +2 bonus to saving throws against illusion, and gain a saving throw (one is not normally allowed) against sleep spells.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "knight",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159966840,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zq4rioCgeEp1Jj1G"
+}

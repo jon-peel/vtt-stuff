@@ -1,0 +1,44 @@
+{
+  "_id": "OhnZ8zQqtHY3YwGM",
+  "name": "Robe of Scintillating Colours",
+  "type": "item",
+  "img": "icons/equipment/chest/robe-layered-red.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A normal-looking robe that can conjure a hypnotic pattern of incredible hues.</p><ul><li><p><strong>Minimum INT and WIS:</strong> Only a character with at least 15 INT and 13 WIS can use the robe’s magic.</p></li><li><p><strong>Activating:</strong> The colours on the robe begin flowing in the round following the activation of its magic.</p></li><li><p><strong>Hypnotism:</strong> Creatures within 40’ that see the hypnotic pattern must <strong>save versus spells</strong> or stand transfixed for [[/r 1d4+1]] rounds (unable to move or act). Following this period, another save is allowed.</p></li><li><p><strong>Protection:</strong> The character gains a +1 AC bonus per round the pattern is active (to a maximum bonus of +5, after 5 rounds).</p></li><li><p><strong>Concentration:</strong> In order to maintain the pattern, the character must not move more than 10’ per round. Casting spells and other actions are possible.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441225628,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!OhnZ8zQqtHY3YwGM"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Geas",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "hhQWlgExNUVuFMEA",
+  "system": {
+    "description": "<p>The caster commands a subject to perform or avoid performing a specific action.</p><ul><li><p><strong>Examples:</strong> Bringing a specific item to the caster, eating or drinking without restraint, keeping a certain fact secret.</p></li><li><p><strong>Impossible or deadly tasks:</strong> The prescribed geas must not be impossible or directly deadly—if such a geas is cast, it affects the caster, instead.</p></li><li><p><strong>Saving throw:</strong> The subject may <strong>save versus spells</strong>, to avoid coming under the spell’s effect.</p></li><li><p><strong>If the save fails:</strong> The subject must follow the stipulated course of action or suffer gradually increasing (and eventually fatal) penalties determined by the referee. e.g.: penalties to attack, ability score reductions, inability to memorize spells, physical torment and feebleness, etc.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454712216,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hhQWlgExNUVuFMEA"
+}

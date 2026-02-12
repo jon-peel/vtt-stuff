@@ -1,0 +1,41 @@
+{
+  "name": "Spell Scroll",
+  "type": "item",
+  "img": "icons/sundries/scrolls/scroll-bound-black-tan.webp",
+  "effects": [],
+  "folder": "LpqHwq13dfzc1CwS",
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Usage:</strong> Spell casters.</p><p><strong>Type of magic:</strong> [[/r 1d4]]{1-in-4} scrolls contain divine spells; the rest contain arcane spells.</p><p><strong>Activation:</strong> Reading the script aloud conjures the effect of a specific spell. Only arcane spell casters can use scrolls of arcane spells. Only divine spell casters can use scrolls of divine spells.</p><p><strong>Arcane spell scrolls:</strong> Are written in magical script that can only be read by magic.</p><p><strong>Divine spell scrolls:</strong> Are written in normal languages (usually Common), but can only be used by divine spell casters.</p><p><strong>Scrolls of multiple spells:</strong> If a scroll contains multiple spells, only the spell cast disappears from the scroll.</p><h4><strong>Spells on a Scroll</strong></h4><p>The referee may choose the spells or may roll for them randomly. The table below may be used to select the level of each spell on a scroll.</p><table><thead><tr><th>[[/r 1d100]]</th><th>Arcane</th><th>Divine</th></tr></thead><tbody><tr><td>01–25</td><td>1st</td><td>1st</td></tr><tr><td>26–50</td><td>2nd</td><td>2nd</td></tr><tr><td>51–70</td><td>3rd</td><td>3rd</td></tr><tr><td>71–85</td><td>4th</td><td>4th</td></tr><tr><td>86–95</td><td>5th</td><td>5th</td></tr><tr><td>96–00</td><td>6th</td><td>5th</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761372060721,
+    "modifiedTime": 1761425958966,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "x8A1oLz7d4ZyLUBI",
+  "sort": 200000,
+  "_key": "!items!x8A1oLz7d4ZyLUBI"
+}

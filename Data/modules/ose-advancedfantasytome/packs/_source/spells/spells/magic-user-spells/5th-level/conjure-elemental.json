@@ -1,0 +1,37 @@
+{
+  "_id": "EU9n7vjbVnS32jBo",
+  "name": "Conjure Elemental",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "GbNTKS9IfubrrhPn",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A 16 Hit Dice elemental—a being formed of pure elemental matter—is summoned from an elemental plane of the caster’s choice (@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.VNtA6rVl7RuAFwhv]{air}, @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.UU6uel3V04XSNr8u]{earth}, @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.pg0TgbfQ4BFdkEOg]{fire}, @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.7CwWfISuwhBOZ85t]{water}) to do the caster’s bidding.</p><ul><li><p><strong>Materials:</strong> The summons requires a large volume of the appropriate element.</p></li><li><p><strong>Concentration:</strong> Is required to command an elemental.</p></li><li><p><strong>Dismissing:</strong> While control over the elemental is maintained, the caster may dismiss it at any time, sending it back to its plane of origin.</p></li><li><p><strong>Disruption:</strong> If the caster moves at more than half speed or their concentration is disturbed, the command over the elemental ends. It is, henceforth, a free-willed entity and will immediately try to kill the caster and any who get in its way.</p></li><li><p><strong>Dispelling:</strong> A conjured elemental may be dispelled by dispel magic or dispel evil.</p></li></ul><p><strong>Restrictions:</strong> The caster may summon at most one elemental from each plane in a single day.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Permanent (until dismissed  or slain)",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453987591,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!EU9n7vjbVnS32jBo"
+}

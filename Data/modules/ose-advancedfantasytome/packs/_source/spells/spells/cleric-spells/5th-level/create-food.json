@@ -1,0 +1,37 @@
+{
+  "_id": "6CZv9r29uhEmEvVe",
+  "name": "Create Food",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RmvVdtYAmuQub8Ch",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Conjures food from thin air.</p><ul><li><p><strong>Volume:</strong> Food sufficient for twelve humans and twelve mounts for one day is conjured.</p></li><li><p><strong>Higher level casters:</strong> If the caster is higher than 8th level, food sufficient for an additional 12 humans and mounts is produced for each level beyond 8th.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "permanent",
+    "range": "self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449516766,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6CZv9r29uhEmEvVe"
+}

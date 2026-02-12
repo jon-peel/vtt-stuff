@@ -1,0 +1,39 @@
+{
+  "_id": "hn2AEoBw8W5nlfrW",
+  "name": "Ring of Controlling Humans",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-cabochon-gold-red.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 1300000,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">Grants the power to charm humans.</p><ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Usage</strong><strong>:</strong> A charm may be placed upon a human within 60’. One target may be charmed per round.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Resisting</strong><strong>:</strong> The subject may <strong>save versus spells</strong> (<strong>with a –2 penalty</strong>) to resist.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Maximum subjects</strong><strong>:</strong> Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Charmed individuals</strong><strong>:</strong> Regard the character as a trusted friend, and will come to their defence. Subjects will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Duration</strong><strong>:</strong> The charm lasts until dispelled, until the ring is removed, or until the wearer cancels it.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443056387,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hn2AEoBw8W5nlfrW"
+}

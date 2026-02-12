@@ -1,0 +1,44 @@
+{
+  "_id": "4K4F0nDaFn0VAkNL",
+  "name": "Saw of Felling",
+  "type": "item",
+  "img": "icons/tools/hand/saw-steel-grey.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 1700000,
+  "flags": {},
+  "system": {
+    "description": "<p>A magical saw-blade of adamantine, 12’ long and 1’ wide, with the power to saw through trunks at a fantastic speed.</p><ul><li><p><strong>Minimum STR:</strong> A character of STR 18 can operate the saw alone. Two characters of STR 17 can operate it together.</p></li><li><p><strong>Cutting speed:</strong> The saw can cut through a 4’ thick trunk in 3 turns, a 2’ trunk in 1 turn, and a 1’ trunk in 3 rounds.</p></li><li><p><strong>Resting:</strong> After 6 turns of sawing, a character must rest for 6 turns.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441998909,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4K4F0nDaFn0VAkNL"
+}

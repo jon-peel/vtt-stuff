@@ -1,0 +1,44 @@
+{
+  "_id": "wFyJAlT9kBtKyUff",
+  "name": "Spade of Mighty Digging",
+  "type": "item",
+  "img": "icons/tools/hand/shovel-spade-steel-grey.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 12500000,
+  "flags": {},
+  "system": {
+    "description": "<p>A magical spade with an 8’ long handle and a 3’ long head. The spade has the power to excavate earth at a fantastic speed.</p><ul><li><p><strong>Minimum STR:</strong> Only a character of STR 18 or greater can use the spade.</p></li><li><p><strong>Digging speed:</strong> The spade can excavate a cubic yard of hard clay in 2 rounds, a cubic yard of normal earth in 1 round, and a 2 cubic yards of loose soil in 1 round.</p></li><li><p><strong>Resting:</strong> After 10 rounds of digging, the character must rest for 5 rounds.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442075642,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!wFyJAlT9kBtKyUff"
+}

@@ -1,0 +1,388 @@
+{
+  "name": "Obsidian Steed",
+  "type": "monster",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "6d8",
+      "value": 27,
+      "max": 27
+    },
+    "ac": {
+      "value": -3,
+      "mod": 0
+    },
+    "aac": {
+      "value": 22,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 14,
+      "bba": 5,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 10
+      },
+      "wand": {
+        "value": 11
+      },
+      "paralysis": {
+        "value": 12
+      },
+      "breath": {
+        "value": 13
+      },
+      "spell": {
+        "value": 14
+      }
+    },
+    "movement": {
+      "base": 150
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>In figurine form, a vaguely quadruped lump of obsidian. Transforms into a nightmare-an intelligent, demonic horse with glowing red eyes, flaming nostrils, and hooves like smouldering embers.</p><p>Summoned by a @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.0VOYCVFQCqpJfXcH#figurine-of-wondrous-power]{Figurine of Wondrous Power}.</p>",
+      "alignment": "Chaotic",
+      "xp": "500",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "0"
+      },
+      "morale": 10,
+      "movement": "150' (50') / 360' (120') flying"
+    },
+    "encumbrance": {},
+    "config": {}
+  },
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/nightmare%20-%20juan%20ochoa%20-%20c%202025%20ng.webp",
+  "prototypeToken": {
+    "name": "Obsidian Steed",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/nightmare.Token.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Flaming Hoof",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "system": {
+        "description": "[[/r 2d4 + 2]]",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 2,
+          "max": 2
+        },
+        "itemslots": 1
+      },
+      "_id": "kU2k3iFI6LnaO4Hv",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!16EYWliEZozTg98C.kU2k3iFI6LnaO4Hv"
+    },
+    {
+      "name": "Bite",
+      "type": "weapon",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "system": {
+        "description": "[[/r 2d4]]",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_id": "FdO5U7JzlPl4ihDf",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761366448681
+      },
+      "_key": "!actors.items!16EYWliEZozTg98C.FdO5U7JzlPl4ihDf"
+    },
+    {
+      "name": "Burning Smoke",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "system": {
+        "description": "<p>Breathe out a choking cloud of burning smoke. Anyone in melee with a nightmare must <strong>save versus poison</strong> or suffer -2 to attack and damage rolls against the monster.</p>",
+        "save": "death",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_id": "qpquGkevHLKqCrNJ",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761366460569
+      },
+      "_key": "!actors.items!16EYWliEZozTg98C.qpquGkevHLKqCrNJ"
+    },
+    {
+      "name": "Usage Frequency",
+      "type": "ability",
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "system": {
+        "description": "Once per week, for up to 24 hours.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_id": "LcLUJeViqg1xPqbS",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!16EYWliEZozTg98C.LcLUJeViqg1xPqbS"
+    }
+  ],
+  "effects": [],
+  "folder": "VleuDDxjk9WIYmy2",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1761366222839,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "16EYWliEZozTg98C",
+  "sort": 200000,
+  "_key": "!actors!16EYWliEZozTg98C"
+}

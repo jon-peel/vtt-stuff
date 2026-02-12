@@ -1,0 +1,253 @@
+{
+  "_id": "2SBUVYDJXsy372xW",
+  "name": "Draft Horse",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/horse%2C%20draft%20-%20juan%20ochoa%20-%20c%202025%20ng.webp",
+  "items": [
+    {
+      "_id": "PSYtUp6LznXJNOZ0",
+      "name": "Non-combatants",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "description": "<p>Flee, if attacked.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_key": "!actors.items!2SBUVYDJXsy372xW.PSYtUp6LznXJNOZ0"
+    }
+  ],
+  "effects": [],
+  "folder": "Ty0JTztDOnTPn1pH",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "3d8",
+      "value": 13,
+      "max": 13
+    },
+    "ac": {
+      "value": 7,
+      "mod": 0
+    },
+    "aac": {
+      "value": 12,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 12
+      },
+      "wand": {
+        "value": 13
+      },
+      "paralysis": {
+        "value": 14
+      },
+      "breath": {
+        "value": 15
+      },
+      "spell": {
+        "value": 16
+      }
+    },
+    "movement": {
+      "base": 90,
+      "encounter": 40,
+      "value": ""
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>Bred for great strength and endurance. Used to pull vehicles and ploughs or as beasts of burden.</p>",
+      "alignment": "Neutral",
+      "xp": "35",
+      "specialAbilities": "0",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "0"
+      },
+      "morale": "6",
+      "movement": "90' (30')"
+    },
+    "attacks": "",
+    "encumbrance": {},
+    "config": {}
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Draft Horse",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 1,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/draft_horse.Token.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761455249303,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!actors!2SBUVYDJXsy372xW"
+}

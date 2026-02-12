@@ -1,0 +1,37 @@
+{
+  "name": "Available Classes and Max Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "L8Wif2V6qv06MZYL",
+  "flags": {},
+  "system": {
+    "description": "<ul><li><p><strong>Acrobat:</strong> 10th</p></li><li><p><strong>Assassin:</strong> 10th</p></li><li><p><strong>Cleric*:</strong> 11th</p></li><li><p><strong>Fighter:</strong> 7th</p></li><li><p><strong>Knight:</strong> 9th</p></li><li><p><strong>Magic-user:</strong> 9th</p></li><li><p><strong>Ranger:</strong> 9th</p></li><li><p><strong>Thief:</strong> 11th</p></li></ul><p>* At the referee’s option, drow clerics may only exist as NPCs.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "drow",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685801740039,
+    "modifiedTime": 1761459341272,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "oKxDTmc1hazmLq9D",
+  "sort": 0,
+  "_key": "!items!oKxDTmc1hazmLq9D"
+}

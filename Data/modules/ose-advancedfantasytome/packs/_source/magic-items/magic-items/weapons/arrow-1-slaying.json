@@ -1,0 +1,39 @@
+{
+  "name": "Arrow +1, Slaying",
+  "type": "item",
+  "img": "icons/weapons/ammunition/arrow-broadhead-white.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 300000,
+  "flags": {},
+  "_id": "5ig4qqrUzLGEqH9q",
+  "system": {
+    "description": "<p>An arrow specially enchanted to kill a certain type of foe. The arrow has an unusual appearance that indicates its special nature and purpose.</p><ul><li><p><strong>Type of foe</strong>: Should be selected by the referee. (e.g. birds, spiders, dragons, magic-users, mammals, undead, etc.).</p></li><li><p><strong>Fired against a foe creature:</strong> Acts as a +3 arrow. If the attack hits, the foe is instantly slain.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445900745,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5ig4qqrUzLGEqH9q"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "hgVmcQdbZMYUYWd7",
+  "name": "Infravision",
+  "type": "ability",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
+  "effects": [],
+  "folder": "L8Wif2V6qv06MZYL",
+  "sort": 100000,
+  "flags": {},
+  "system": {
+    "description": "<p>Drow have infravision to 90&rsquo; (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.eh7GQsf8aWU7NcEP#darkness]{Darkness}).</p>\n<div id=\"simple-translate\" class=\"simple-translate-system-theme\">\n<div>\n<div class=\"simple-translate-button isShow\" style=\"background-image: url('moz-extension://c548e1d8-d92e-4ff9-9e9b-4057b05d1dde/icons/512.png'); height: 22px; width: 22px; top: 55px; left: 206px;\">&nbsp;</div>\n<div class=\"simple-translate-panel \" style=\"width: 300px; height: 200px; top: 0px; left: 0px; font-size: 13px;\">\n<div class=\"simple-translate-result-wrapper\" style=\"overflow: hidden;\">\n<div class=\"simple-translate-move\" draggable=\"true\">&nbsp;</div>\n<div class=\"simple-translate-result-contents\">\n<p class=\"simple-translate-result\" dir=\"auto\">&nbsp;</p>\n<p class=\"simple-translate-candidate\" dir=\"auto\">&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "drow",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685794922860,
+    "modifiedTime": 1685795124595,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hgVmcQdbZMYUYWd7"
+}

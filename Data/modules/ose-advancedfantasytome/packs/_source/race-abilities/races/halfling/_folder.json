@@ -1,0 +1,19 @@
+{
+  "name": "Halfling",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "UqH47T24iOHIUjM8",
+  "sort": 0,
+  "color": "#00d61b",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460514714,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!UqH47T24iOHIUjM8"
+}

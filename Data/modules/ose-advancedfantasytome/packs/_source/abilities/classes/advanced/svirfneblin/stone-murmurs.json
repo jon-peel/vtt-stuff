@@ -1,0 +1,37 @@
+{
+  "name": "Stone Murmurs",
+  "type": "ability",
+  "img": "icons/environment/wilderness/terrain-rocky-ground.webp",
+  "effects": [],
+  "folder": "JRYdjkuuf2Ss7rAW",
+  "flags": {},
+  "system": {
+    "description": "<p>Svirfneblins can understand the imperceptible grumblings of stone. If a svirfneblin stands quietly for one turn with their ear pressed against a stone surface, they have a [[/br 1d6]]{2-in-6} chance of divining one of the following pieces of information (player’s choice):</p><ul><li><p>The presence of secret doors in the stone, within 10’.</p></li><li><p>The presence of gems or precious metals, up to 30’ beyond the surface.</p></li><li><p>The presence of living creatures, up to 30’ beyond the surface.</p></li><li><p>The presence of bodies of water or open spaces, up to 60’ beyond the surface.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761458407666,
+    "modifiedTime": 1761458410730,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "dEKs6fVmeKDU0Nvy",
+  "sort": 0,
+  "_key": "!items!dEKs6fVmeKDU0Nvy"
+}

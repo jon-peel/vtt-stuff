@@ -1,0 +1,46 @@
+{
+  "_id": "iJDRv7DG3Jfg3dAn",
+  "name": "Potion of ESP",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+  "effects": [],
+  "folder": "IHA5DDN3y3qLHr52",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Grants the power of reading thoughts. This works in the same way as the magic-user spell <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.6hazyvvcq46M63wY]{ESP}</em>. The standard potion duration applies.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442518712,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!iJDRv7DG3Jfg3dAn"
+}

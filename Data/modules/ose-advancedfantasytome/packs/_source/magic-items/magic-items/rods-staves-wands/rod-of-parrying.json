@@ -1,0 +1,54 @@
+{
+  "name": "Rod of Parrying",
+  "type": "weapon",
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1000000,
+  "flags": {},
+  "_id": "BMpFzkXCpysZmbJK",
+  "system": {
+    "description": "<p>A 5’ metal rod which provides offensive and defensive capabilities in melee.</p><ul><li><p><strong>Attacking:</strong> The rod attacks as a +2 magic item, doing [[/r 1d8]] damage.</p></li><li><p><strong>Parrying:</strong> Instead of attacking, the character may use the rod to parry, gaining a +4 bonus to AC versus melee attacks for one round. It is not possible to parry with the rod when retreating from melee (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.ouf3QNv4dWj0L1IW#movement]{Movement}).</p></li><li><p><strong>No charges:</strong> Does not use charges; may be used an unlimited number of times.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 2,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443494044,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BMpFzkXCpysZmbJK"
+}

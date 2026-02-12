@@ -1,0 +1,37 @@
+{
+  "name": "Spook",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "jg9pEWeySTYFcfKf",
+  "system": {
+    "description": "<p>The caster gestures threateningly at an intelligent target within range.</p><ul><li><p><strong>Saving throw:</strong> The target may <strong>save versus spells</strong> to avoid coming under the spell’s effect.</p></li><li><p><strong>An afflicted target:</strong> Perceives the caster as a monster from its worst nightmares and will flee from the caster at maximum speed.</p></li><li><p><strong>Breaking the spell:</strong> The target may make a new <strong>save versus spells</strong> each round with success indicating that the spell is broken. Until the spell is broken, the target believes it is being pursued by the imagined horror.</p></li></ul><p><strong>Restrictions:</strong> Undead and creatures of less than animal intelligence are not affected.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "Until Broken",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450524959,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!jg9pEWeySTYFcfKf"
+}

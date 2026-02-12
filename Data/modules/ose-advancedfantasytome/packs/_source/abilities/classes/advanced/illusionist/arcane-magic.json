@@ -1,0 +1,36 @@
+{
+  "_id": "zkuhOpCdAd5pt7Ra",
+  "name": "Arcane Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "fG3WgjGwlYRbKIMZ",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on arcane magic.</p>\n<p><strong>Magical research</strong>: An illusionist of any level may spend time and money on magical research. This allows them to add new spells to their spell book and to research other magical effects. When an illusionist reaches 9th level, they are also able to create magic items. Researched spells, effects, and magic items must be within the scope of the illusionist class, as judged by the referee.</p>\n<p><strong>Spell casting</strong>: Illusionists carry spell books containing the formulae for arcane spells. The level progression table (Image) shows both the number of spells in the illusionist&rsquo;s spell book and the number they may memorize, determined by the character&rsquo;s experience level. Thus, a 1st level illusionist has one spell in their spell book, selected by the referee (who may allow the player to choose). The list of spells available to illusionists is provided in Druid and Illusionist Spells.</p>\n<p><strong>Using magic items</strong>: As spell casters, illusionists are able to use magic scrolls of spells on their spell list. They can also use items that may only be used by arcane spell casters (e.g. magic wands). They are, however, not able to use magic items with effects that cause direct damage (e.g. a wand that shoots fireballs).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "illusionist",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1685796413940,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zkuhOpCdAd5pt7Ra"
+}

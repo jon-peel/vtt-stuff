@@ -1,0 +1,63 @@
+{
+  "name": "Crossbow +2, Accuracy",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-ornamental-winged.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 600000,
+  "flags": {},
+  "_id": "82XVrzMsKU3fbgKN",
+  "system": {
+    "description": "<p>An enchanted crossbow which can fire with precision, even at long range.</p><ul><li><p><strong>Attack rolls at long range:</strong> The normal –1 range modifier does not apply.</p></li><li><p><strong>Maximum range:</strong> Is not increased by the enchantment.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 50,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 80,
+      "medium": 160,
+      "long": 240
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 2,
+    "tags": [
+      {
+        "title": "Reload",
+        "value": "Reload"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445934150,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!82XVrzMsKU3fbgKN"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Light",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "F0F0H7j4BhA5Y1bW",
+  "sort": 0,
+  "flags": {},
+  "_id": "u2TkEoo1t6rmY11y",
+  "system": {
+    "description": "<p>This spell has three usages:</p><ol><li><p><strong>Conjuring light:</strong> In a 15’ radius. The magical light is sufficient for reading, but is not as bright as daylight. The spell may be cast upon an object, in which case the light moves with the object.</p></li><li><p><strong>Blinding a creature:</strong> By casting the spell upon its eyes. If the target fails a <strong>saving throw versus spells</strong>, it is blinded for the duration. A blind creature cannot attack.</p></li><li><p><strong>Cancelling darkness:</strong> <em>Light </em>may cancel a <em>darkness </em>spell.</p></li></ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "6T +1 per levl",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452851189,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!u2TkEoo1t6rmY11y"
+}

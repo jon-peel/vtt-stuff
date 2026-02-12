@@ -1,0 +1,37 @@
+{
+  "_id": "QoS2cIYWAYSpndEC",
+  "name": "Cure Disease",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "a8U83GTRvuz41jM1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell has two uses:<br>1. <strong>Cure a subject of any disease</strong>: Including those of magical origin.<br>2. <strong>Kill green slime</strong>: This monster is killed instantly.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Cleric",
+    "duration": "instant",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160018321,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QoS2cIYWAYSpndEC"
+}

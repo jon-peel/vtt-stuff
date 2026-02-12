@@ -1,0 +1,46 @@
+{
+  "name": "Elemental Summoning Device: Water",
+  "type": "item",
+  "img": "icons/commodities/materials/bowl-liquid-white.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "flags": {},
+  "system": {
+    "description": "<p>Ritual items enchanted with the power to summon beings from the elemental planes. Each elemental plane has a different type of device:</p><ul><li><p><strong>Water</strong>: A 3’ diameter bowl.</p></li></ul><p><strong>Usage</strong>: The items may be used as follows:</p><ul><li><p><strong>Frequency</strong>: The summoning power may only be used once per day.</p></li><li><p><strong>Before use</strong>: The device must be prepared. This takes one turn.</p></li><li><p><strong>Activation</strong>: Once prepared, activating the device takes one round.</p></li><li><p><strong>Summoned elemental</strong>: A @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.4hSsliSI5Xbqu61g]{12 HD elemental} is conjured to do the summoner’s bidding.</p></li><li><p><strong>Command over the elemental</strong>: Works as described in the magic-user spell <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.EU9n7vjbVnS32jBo]{conjure elemental}</em>.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761351554257,
+    "modifiedTime": 1761351982478,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "Zckx03ecIBoKvfnq",
+  "sort": 400000,
+  "_key": "!items!Zckx03ecIBoKvfnq"
+}

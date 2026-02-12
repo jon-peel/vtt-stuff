@@ -1,0 +1,130 @@
+{
+  "name": "P08. Hired Help",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Retainers",
+      "type": "text",
+      "_id": "2hLpr10WJquHpJHk",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Retainers are NPCs that are hired by characters to accompany them on an adventure.</p><p><strong>Limit per PC</strong>: Each character is limited to a finite number of retainers, as indicated by the character’s Charisma score (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#charisma-(cha)]{see Ability Scores}).</p><p><strong>Duties</strong>: Retainers are not mindless slaves and, although they will usually share the party’s risks, they will not willingly act as battle fodder. If abused in any way, retainers will typically warn others of this and the PCs will soon find it difficult to hire other retainers.</p><h2>Class and Level</h2><p>Retainers can be of any class (including normal humans—effectively of level 0), but must be of equal or lower level to the hiring PC. </p><h2>Recruitment</h2><p>Potential retainers may be located by frequenting drinking establishments or by paying to post notices of help wanted.</p><p>Applicants are recruited through negotiation, with the referee playing the roles of the NPCs a character attempts to hire. The PC should explain what the job entails and the wages paid.</p><h2>Wages and Upkeep</h2><p>The referee should determine the rate of pay desired by potential retainers, taking the following factors into account:</p><ul><li><p><strong>Skill level</strong>: More experienced retainers will want a higher rate of pay, whereas those employed for unskilled tasks will have lower demands.</p></li><li><p><strong>Competition</strong>: Retainers may accept lower rates of pay if there are many applicants, but may demand higher rates if there is little competition for the job.</p></li></ul><h3>Standard Rate</h3><p>Retainers will usually want a guaranteed fee (per day or per adventure) and a share of treasure recovered (at very least a half share). For example: a fee of 1gp per day plus a half share of treasure.</p><h3>Upkeep</h3><p>The hiring PC must also pay for the retainer’s daily upkeep (food and lodgings) and for any new adventuring gear, weapons, or mounts the retainer requires.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Shares of Treasure</h3><p>Fractional shares of treasure are calculated by dividing the treasure by the total number of shares. For example, a party consisting of 5 PCs (who receive full shares) plus one retainer (who is paid a half share) discover 2,750gp of treasure. The total is divided by 5.5 (five full shares plus one half share): 500gp.</p><p>Thus, each PC gains 500gp and the retainer gains 250gp.</p></td></tr></tbody></table><h2>Applicant Reactions</h2><p>Once an offer is made, the referee determines the potential retainer’s reaction by rolling [[/r 2d6]] on the table below, modified as follows:</p><ul><li><p><strong>Charisma</strong>: The roll is modified by the hiring character’s reaction modifier due to CHA (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#charisma-(cha)]{see Ability Scores}).</p></li><li><p><strong>Generosity</strong>: The referee may apply a bonus or penalty, depending on the attractiveness of the deal (+1 or +2 for generous offers, –1 or –2 for poor offers).</p></li><li><p><strong>Reputation</strong>: A penalty of –1 or –2 may be applied, if the hiring PC has a bad reputation.</p></li></ul><p><strong>Retainer Hiring Reactions</strong></p><hr /><table border=\"1\"><tbody><tr><td><p><strong>[[/r 2d6]]</strong></p></td><td><p><strong>Result</strong></p></td></tr><tr><td><p>2 or less </p></td><td><p>Ill will</p></td></tr><tr><td><p>3–5 </p></td><td><p>Offer refused</p></td></tr><tr><td><p>6–8</p></td><td><p>Roll again</p></td></tr><tr><td><p>9–11</p></td><td><p>Offer accepted</p></td></tr><tr><td><p>12 or more </p></td><td><p>Offer accepted, +1 loyalty</p></td></tr></tbody></table><p><strong>Ill will</strong>: A –1 penalty applies to further hiring reaction rolls while recruiting in the same town or area.</p><h2>Experience</h2><p>Although retainers are played by the referee, they acquire experience in the same way PCs do, can advance in level, and are affected by all of the same class rules as PCs.</p><p><strong>XP penalty</strong>: Because retainers follow instructions when on an adventure, thus not directly engaging in problem solving, XP they receive is penalised by –50%.</p><p><strong>Normal humans</strong>: When a normal human (i.e. a retainer of level 0 with no character class) gains XP, they must choose an adventuring character class.</p><h2>Loyalty</h2><p>Retainers have a loyalty rating, determined by the hiring character’s CHA (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#charisma-(cha)]{see Ability Scores}). This rating may be adjusted at the referee’s discretion:</p><ul><li><p><strong>Bonuses</strong>: A retainer’s loyalty may be increased if the PC has been particularly good to the retainer (e.g. has repeatedly given additional treasure).</p></li><li><p><strong>Penalties</strong>: A retainer’s loyalty may be reduced if the PC has been cruel or contrary to their word.</p></li></ul><h2>Loyalty Checks</h2><p>To make a loyalty check, the referee rolls [[/r 2d6]] and, if the result is lower than or equal to the retainer’s loyalty rating, accounting for any adjustments, the roll has succeeded.</p><h2>When to Check Loyalty</h2><p>Loyalty checks are made in two circumstances:</p><ul><li><p><strong>Peril</strong>: Each time the retainer is exposed to a particularly perilous situation. If the roll fails, the retainer will likely flee.</p></li><li><p><strong>After an adventure</strong>: If the roll fails, the retainer will not work for the PC again.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!r9gEFXti3Vox9BTA.2hLpr10WJquHpJHk"
+    },
+    {
+      "sort": 200000,
+      "name": "Mercenaries",
+      "type": "text",
+      "_id": "sY8MkOu90iRf4gJo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Hired soldiers who will guard, patrol, and otherwise serve in wilderness settings, but only as part of a larger force, not an adventuring party.</p><p>Note that as mercenaries are hired by a character to perform specific services, they are not treated as retainers and thus do not count toward a character’s maximum number of retainers.</p><h2>Locating Mercenaries</h2><p>Mercenaries can be located by posting notices of help wanted. The response will depend on the availability of suitable troops in the area and the offer made.</p><h2>Wages</h2><p><strong>Outside of wartime</strong>: As listed opposite.</p><p><strong>During wartime</strong>: All wages are doubled.</p><h2>Upkeep</h2><p>The monthly rate of pay includes food and basic gear. Most mercenaries already have weapons and armour when hired, though their employer may give them additional gear. Note that armourers are required to repair mercenaries’ armour and weapons (see @UUID[.RGMnG1aJJYCgjJWe]{Specialists}).</p><h2>Mercenaries</h2><table><thead><tr><th style=\"vertical-align:bottom\" rowspan=\"2\">Type</th><th style=\"vertical-align:bottom\" rowspan=\"2\">AC</th><th style=\"vertical-align:bottom\" rowspan=\"2\">Morale</th><th colspan=\"5\">Wage per Month</th></tr><tr><th>Human</th><th>Dwarf</th><th>Elf</th><th>Orc</th><th>Goblin</th></tr></thead><tbody><tr><td>Archer</td><td>6 [13]</td><td>8</td><td>5gp</td><td>–</td><td>10gp</td><td>3gp</td><td>2gp</td></tr><tr><td>Archer, mounted</td><td>9 [10]</td><td>9</td><td>15gp</td><td>–</td><td>30gp</td><td>–</td><td>–</td></tr><tr><td>Crossbowman</td><td>5 [14]</td><td>8</td><td>4gp</td><td>6gp</td><td>–</td><td>2gp</td><td>–</td></tr><tr><td>Crossbowman, mounted</td><td>9 [10]</td><td>9</td><td>–</td><td>15gp</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Footman, light</td><td>6 [13]</td><td>8</td><td>2gp</td><td>–</td><td>4gp</td><td>1gp</td><td>5sp</td></tr><tr><td>Footman, heavy</td><td>4 [15]</td><td>8</td><td>3gp</td><td>5gp</td><td>6gp</td><td>15sp</td><td>–</td></tr><tr><td>Horseman, light</td><td>7 [12]</td><td>9</td><td>10gp</td><td>–</td><td>20gp</td><td>–</td><td>–</td></tr><tr><td>Horseman, medium</td><td>5 [14]</td><td>9</td><td>15gp</td><td>–</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Horseman, heavy</td><td>3 [16]</td><td>9</td><td>20gp</td><td>–</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Longbowman</td><td>5 [14]</td><td>8</td><td>10gp</td><td>–</td><td>20gp</td><td>–</td><td>–</td></tr><tr><td>Peasant</td><td>9 [10]</td><td>6</td><td>1gp</td><td>–</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Wolf rider</td><td>7 [12]</td><td>9</td><td>–</td><td>–</td><td>–</td><td>–</td><td>5gp</td></tr></tbody></table><h3>Archer</h3><p>Equipped with a shortbow, leather armour, and a shield.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Archer, Mounted</h3><p>Mounted on a riding horse. Equipped with a shortbow.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Crossbowman</h3><p>Equipped with a crossbow and chainmail.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Crossbowman, Mounted</h3><p>Mounted on a mule. Equipped with a crossbow.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Footman, Light</h3><p>Equipped with a sword, leather armour, and a shield.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Footman, Heavy</h3><p>Equipped with a sword, chainmail, and a shield.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Horseman, Light</h3><p>Mounted on a riding horse. Equipped with a lance and leather armour.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Horseman, Medium</h3><p>Mounted on a warhorse. Equipped with a lance and chainmail.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Horseman, Heavy</h3><p>Mounted on a warhorse. Equipped with a sword, a lance, and plate mail.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Longbowman</h3><p>Equipped with a longbow, a sword, and chainmail.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Peasant</h3><p>Unarmed.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Wolf Rider</h3><p>Mounted on a wolf. Equipped with a spear and leather armour.</p><h3></h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762845143075
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!r9gEFXti3Vox9BTA.sY8MkOu90iRf4gJo"
+    },
+    {
+      "sort": 300000,
+      "name": "Specialists",
+      "type": "text",
+      "_id": "RGMnG1aJJYCgjJWe",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>All types of characters that PCs may wish to hire for non-combat and non-adventuring purposes (i.e. not mercenaries or retainers) are termed specialists.</p><p>Note that as specialists are hired by a character to perform specific services, they are not treated as retainers and thus do not count toward a character’s maximum number of retainers.</p><p>The most common types of specialists are described, along with their typical monthly pay rates. This list is not exhaustive and the referee may create additional types of specialists as needed.</p><h2>Locating Specialists</h2><p>Specialists can be located by posting notices of help wanted. The response will depend on the availability of suitable specialists in the area and the offer made.</p><h2>Wages and Upkeep</h2><p>The monthly rate of pay includes food and basic gear.</p><table style=\"height:221px;width:319px\" border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p><strong>Specialist </strong></p></td><td style=\"height:17px;width:157px\"><p><strong>Wage per Month</strong></p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Alchemist </p></td><td style=\"height:17px;width:157px\"><p>1,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Animal trainer</p></td><td style=\"height:17px;width:157px\"><p>500gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Armourer </p></td><td style=\"height:17px;width:157px\"><p>100gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Assistant armourer</p></td><td style=\"height:17px;width:157px\"><p>15gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Blacksmith </p></td><td style=\"height:17px;width:157px\"><p>25gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Engineer </p></td><td style=\"height:17px;width:157px\"><p>750gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Navigator </p></td><td style=\"height:17px;width:157px\"><p>150gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Oarsman </p></td><td style=\"height:17px;width:157px\"><p>2gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Sage </p></td><td style=\"height:17px;width:157px\"><p>2,000gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Sailor </p></td><td style=\"height:17px;width:157px\"><p>10gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Ship’s captain</p></td><td style=\"height:17px;width:157px\"><p>250gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:155px\"><p>Spy </p></td><td style=\"height:17px;width:157px\"><p>500gp (or more)</p></td></tr></tbody></table><h2>Alchemist</h2><p><strong>Recreating potions</strong>: Based on a sample or recipe, an alchemist can produce a potion at twice the normal speed and for half the normal cost (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.SdmCc7wdNTl5kD7C]{see Magical Research}).</p><p><strong>Researching potions</strong>: An alchemist may also research new potions, but this takes twice as long and costs twice as much as normal.</p><h2>Animal Trainer</h2><p>Trainers are not required for small numbers of common animals like dogs, horses, or mules, but more exotic animals or larger numbers of normal animals require a specialized trainer.</p><p><strong>Speciality</strong>: All animal trainers are specialized in a particular kind of animal.</p><p><strong>Number of animals</strong>: A trainer can have up to six animals under their care at a time.</p><p><strong>Time required</strong>: The referee decides how long an animal must be trained, based on the nature of the training. It will take a minimum of one month to teach an animal the first new behaviour or trick. After this first month, an animal has become accustomed to the trainer and can be taught additional behaviours at twice the rate (two weeks per behaviour).</p><p><strong>Interruptions</strong>: If training is interrupted, all time already spent on that particular behaviour is lost and the animal becomes unable to learn further behaviours.</p><h2>Armourer</h2><p>Producing weapons and armour: Per month, an armourer can make five weapons, three shields, or one suit of armour.</p><p><strong>Maintaining mercenaries’ gear</strong>: A dedicated armourer is required per 50 troops.</p><p><strong>Assistants</strong>: An armourer’s output (either in terms of arms produced or troops maintained) may be doubled by hiring two assistant armourers and one blacksmith. If four assistants and two blacksmiths are hired, the armourer’s output may be quadrupled. An armourer cannot coordinate more assistants than this.</p><h2>Assistant Armourer</h2><p>Apprentices who may work under an armourer to increase the rate of production. See <em><strong>Armourer</strong></em>.</p><h2>Blacksmith</h2><p>Craftsmen trained in the art of forging metal. Blacksmiths may be hired to work under an armourer to increase the rate of production. See <em><strong>Armourer</strong></em>.</p><h2>Engineer</h2><p>Engineers plan and oversee large construction projects such as building strongholds (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.9vgvFXRsnlP9wHP7.JournalEntryPage.XhHeS4jkWd6PQ03s]{see strongholds}).</p><p><strong>Number required</strong>: One engineer is needed per 100,000gp cost of the project.</p><p><strong>Specialty</strong>: Humans usually handle overground structures, while dwarves may be hired for underground construction.</p><h2>Navigator</h2><p>A navigator is a sailor who understands how to read charts and navigate based on instruments and the position of the stars. Any time a ship ventures beyond sight of a coastline, it becomes lost if a navigator is not aboard. (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.9Pu7DvFdpiwXR2D8#losing-direction]{Waterborne Adventuring})</p><h2>Oarsman</h2><p>Unskilled normal humans who man the oars of sea vessels. Not trained for combat.</p><h2>Sage</h2><p>Sages are very rare individuals who devote their lives to the study of obscure knowledge. A sage may be consulted to answer unusual questions.</p><p><strong>Time and cost</strong>: The referee must judge the time and cost required to research the answer to a question.</p><p><strong>Chance of success</strong>: There is never a 100% chance of success in finding an answer.</p><h2>Sailor</h2><p>Skilled normal humans who can handle a ship. Sailors can fight to defend their ship, typically being equipped with a sword, shield, and leather armour.</p><h2>Ship’s Captain</h2><p>A captain is required for any large ship, is skilled like a sailor, and has an intimate knowledge of the particular coasts they frequent.</p><h2>Spy</h2><p>A spy is hired to gather information about a person or group. The spy may be an outsider who tries to infiltrate or may be a traitor already connected with the person or group to be spied upon.</p><p><strong>Class</strong>: Spies are often NPC thieves, but may be of any character class. Time: The referee will determine the time required for the job.</p><p><strong>Chance of success</strong>: The referee judges the probability of success in the mission, based on the circumstances.</p><p><strong>Reliability</strong>: Spies may or may not be reliable and could stab the hiring character in the back (perhaps literally!)</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!r9gEFXti3Vox9BTA.RGMnG1aJJYCgjJWe"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "r9gEFXti3Vox9BTA",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!r9gEFXti3Vox9BTA"
+}

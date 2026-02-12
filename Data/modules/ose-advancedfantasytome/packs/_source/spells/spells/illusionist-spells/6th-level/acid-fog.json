@@ -1,0 +1,37 @@
+{
+  "_id": "Rzt8wWvDsPeHGS5J",
+  "name": "Acid Fog",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A wall of roiling, acidic vapour appears at a location of the caster’s choosing within range.</p><ul><li><p><strong>Area:</strong> The fog bank fills a 10’ cube area per level of the caster.</p></li><li><p><strong>Plant-life in the fog:</strong> Withers and dies. Small shrubs and grasses perish in two rounds, while large trees are more resilient and may take up to 16 rounds to finally blacken and die.</p></li><li><p><strong>Creatures in the fog:</strong> Suffer 1 damage on the first round they are in the fog, 2 damage on the second round, 4 damage on the third round, and 8 damage on each subsequent round.</p></li><li><p><strong>Vision:</strong> The acid fog blocks normal vision and infravision.</p></li><li><p><strong>Movement:</strong> Creatures moving through the fog move at one tenth of their normal movement rate.</p></li><li><p><strong>Strong winds:</strong> Only very strong winds can clear the fog before the spell’s duration has expired.</p></li><li><p><strong>Magical fire:</strong> A large area of magical fire can dissipate the fog in one round.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "1d4 rounds +1 per level",
+    "range": "30'",
+    "roll": "1d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452319166,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Rzt8wWvDsPeHGS5J"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Levitate",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "IrPTQ7bRzLV9wWl3",
+  "system": {
+    "description": "<p>This enchantment allows the caster to move up and down through the air:</p><ul><li><p><strong>Vertical:</strong> The caster mentally directs vertical movement at up to 20’ per round.</p></li><li><p><strong>Horizontal:</strong> The caster can push against solid objects to move laterally.</p></li><li><p><strong>Weight:</strong> A normal amount of weight can be carried while levitating.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "6T+1 per Lvl",
+    "range": "self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453191964,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!IrPTQ7bRzLV9wWl3"
+}

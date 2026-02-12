@@ -1,0 +1,44 @@
+{
+  "_id": "jcAlnKN00v1jizFK",
+  "name": "Eyes of Charming",
+  "type": "item",
+  "img": "icons/equipment/head/goggles-leather-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9800000,
+  "flags": {},
+  "system": {
+    "description": "<p>A pair of crystal lenses that fit over the eyes. The wearer gains the power to charm persons who meet their gaze.</p><ul><li><p><strong>Usage:</strong> A charm may be placed upon a person within 60’. One target may be charmed per round.</p></li><li><p><strong>Resisting:</strong> The subject may <strong>save versus spells</strong> to resist, with a +2 bonus if only one of the lenses is worn.</p></li><li><p><strong>Charmed individuals:</strong> Regard the character as a trusted friend, and will come to their defence. Subjects will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.</p></li><li><p><strong>Duration:</strong> The charm lasts until dispelled or until the eyes are removed.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430365834,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!jcAlnKN00v1jizFK"
+}

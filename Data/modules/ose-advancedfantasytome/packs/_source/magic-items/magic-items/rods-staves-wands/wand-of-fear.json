@@ -1,0 +1,54 @@
+{
+  "name": "Wand of Fear",
+  "type": "weapon",
+  "img": "icons/weapons/wands/wand-gem-violet.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 900000,
+  "flags": {},
+  "_id": "9Vwn9tnSZRTsIZGI",
+  "system": {
+    "description": "<p>Conjures a cone of magical energy that terrifies those within it.</p><ul><li><p><strong>Area</strong>: The cone is 60’ long and 30’ wide at the far end.</p></li><li><p><strong>Creatures in the cone</strong>: Are struck with terror, and will flee from the wielder of the wand at maximum speed for 30 rounds. (A <strong>save versus wands</strong> negates the effect).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 20,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761444931631,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!9Vwn9tnSZRTsIZGI"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "DpKJygWKgyXD6xPT",
+  "name": "Shield",
+  "type": "armor",
+  "img": "icons/equipment/shield/round-wooden-pointed-boss-steel-brown.webp",
+  "effects": [],
+  "folder": "T0iQvXpPKeJGwEfH",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 100,
+    "cost": 10,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 1
+    },
+    "aac": {
+      "value": 1
+    },
+    "type": "shield"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159897309,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!DpKJygWKgyXD6xPT"
+}

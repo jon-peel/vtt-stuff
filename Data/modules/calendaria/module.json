@@ -1,0 +1,63 @@
+{
+    "authors": [
+        {
+            "discord": "Tyler",
+            "flags": {},
+            "name": "Tyler",
+            "url": "https://github.com/Sayshal"
+        }
+    ],
+    "bugs": "https://github.com/Sayshal/calendaria/issues",
+    "changelog": "https://github.com/Sayshal/calendaria/releases",
+    "compatibility": {
+        "maximum": "13.351",
+        "minimum": "13.351",
+        "verified": "13.351"
+    },
+    "description": "A FVTT Module to handle calendar operations, passage of real time, and automated effect expiry.",
+    "documentTypes": {
+        "JournalEntryPage": {
+            "calendarnote": {
+                "htmlFields": [
+                    "text.content"
+                ]
+            }
+        }
+    },
+    "download": "https://github.com/Sayshal/Calendaria/releases/download/release-0.9.1/module.zip",
+    "esmodules": [
+        "calendaria.mjs"
+    ],
+    "flags": {
+        "hotReload": false
+    },
+    "id": "calendaria",
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "pt-BR",
+            "name": "Português (Brasil)",
+            "path": "lang/pt-BR.json"
+        },
+        {
+            "lang": "de",
+            "name": "German",
+            "path": "lang/de.json"
+        }
+    ],
+    "license": "https://github.com/Sayshal/calendaria?tab=MIT-1-ov-file",
+    "manifest": "https://github.com/Sayshal/Calendaria/releases/latest/download/module.json",
+    "readme": "https://github.com/Sayshal/calendaria?tab=readme-ov-file",
+    "relationships": {},
+    "socket": true,
+    "styles": [
+        "styles/calendaria.css"
+    ],
+    "title": "Calendaria",
+    "url": "https://github.com/Sayshal/calendaria",
+    "version": "0.9.1"
+}

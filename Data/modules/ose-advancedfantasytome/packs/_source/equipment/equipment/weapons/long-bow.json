@@ -1,0 +1,59 @@
+{
+  "_id": "RaaQ9kTGBojzsqur",
+  "name": "Long bow",
+  "type": "weapon",
+  "img": "icons/weapons/bows/bow-ornamental-gold-blue.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Missile (5’–70’ / 71’–140’ / 141’–210’), Two-handed</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 40,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 70,
+      "medium": 140,
+      "long": 210
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1683938213887,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!RaaQ9kTGBojzsqur"
+}

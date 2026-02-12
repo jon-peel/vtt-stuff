@@ -1,0 +1,44 @@
+{
+  "_id": "GCEobAEl59E8AUKi",
+  "name": "Incense of Meditation",
+  "type": "item",
+  "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3700000,
+  "flags": {},
+  "system": {
+    "description": "<p>Small blocks of incense which grant boons to a divine spell caster when burned. [[/r 2d4]] blocks are usually found together.</p><ul><li><p><strong>Burning:</strong> When lit, a distinctive pearly-hued smoke and sweet fragrance are produced. A block burns for 8 hours.</p></li><li><p><strong>Meditation:</strong> If the divine spell caster who lit the block prays and meditates for 8 hours in the vicinity of the incense, they gain the following boons for 24 hours:</p><ol type=\"a\"><li><strong>Maximised spells:</strong> Any variable qualities of spells cast have their maximum value. (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.oVocergs4MJ0NECf]{cure light wounds}</em> heals the maximum: 7hp).</li><li><strong>Save penalty:</strong> Saving throws against the character’s spells are penalised by -1.</li><li><strong>Raising the dead:</strong> If using the optional rule for returning from death (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.N7g9cY3U5XSi7jSY#limits-on-returning-from-death-(optional-rule)]{Damage, Healing, and Death}), resurrection magic used by the character has an increased chance of success. For the sake of the survival roll, the subject’s CON is increased by 4.</li></ol></li><li><p><strong>Recognising:</strong> The unique aroma and smoke can be recognised by divine spell casters of 5th level or higher.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761439688706,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GCEobAEl59E8AUKi"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Shadowcast",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "z4iwaIHqIKPXoFx3",
+  "system": {
+    "description": "<p>The shadows cast by the light of a candle are enchanted, causing them to re-enact events which previously occurred in the area where the spell is cast.</p><ul><li><p><strong>Candle:</strong> The caster must light a candle and place it in the centre of the area to be affected, which must otherwise be in darkness. The candle burns down completely over the spell’s duration.</p></li><li><p><strong>Time span:</strong> The caster may choose to look back into the past up to six turns plus one turn per level.</p></li><li><p><strong>Shadow play:</strong> Once the starting point for the shadow re-enactment has been selected, the spell lasts for that amount of time, producing a shadowy replay of the past up to the moment the spell was cast.</p></li><li><p><strong>Silhouettes:</strong> Only silhouettes of past events in the area are produced; any sound or speech which occurred is not replicated.</p></li><li><p><strong>Enhancement:</strong> The power of the illusion may be enhanced by using a specially manufactured candle:</p><ul><li><p><strong>Special candle:</strong> The candle must be formed from the earwax of a giant monster (which must be obtained by adventuring) and be inlaid with fine runes in gold leaf (at a cost of 200gp).</p></li><li><p><strong>Sound:</strong> If such a candle is used, the shadow play is also accompanied by sound, faintly reproduced in the sputtering of the candle’s flame.</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "Up to 6 turns +1 per level",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452093477,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!z4iwaIHqIKPXoFx3"
+}

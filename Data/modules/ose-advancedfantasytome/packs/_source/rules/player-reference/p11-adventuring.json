@@ -1,0 +1,559 @@
+{
+  "name": "P11. Adventuring",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Party Organisation",
+      "type": "text",
+      "_id": "V9lMMqSbuArYGFFN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Size</strong>: The ideal size of a group is between 6 and 8 characters—large enough to confront the challenges of the adventure, while not so large as to be disorganised. If not enough PCs are present, the players may wish to hire @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.r9gEFXti3Vox9BTA.JournalEntryPage.2hLpr10WJquHpJHk]{Retainers}.</p><p><strong>Classes</strong>: It is wise for a party to consist of a mix of characters of different adventuring classes. Combat-focused characters are essential for protecting the group from danger, while other classes each have magic or other special abilities which are useful for handling different situations that may arise in an adventure.</p><p><strong>Level</strong>: As new PCs join play, the experience levels of the characters in the party may diverge. It is recommended that  characters more than four levels apart should adventure separately, as challenges and rewards suitable to characters of greatly different experience levels do not match. </p><h2>Marching Order</h2><p>Before starting an adventure, the players should determine the normal arrangement of their PCs when exploring. This is known as the party’s marching order. For example, players may decide to move in a two-column formation, with well-armoured characters in front, weaker characters in the middle, and a rear guard. The group may define different standard marching orders for common situations (e.g. standard exploration, combat, opening doors, searching, etc.).</p><h2>The Caller</h2><p>If the players wish to, they may nominate one of their number as the spokesperson of the group, known as the caller. This player is responsible for informing the referee about the actions and movements of the party as a whole. Delegating this role to one player—rather than having each player informing the referee about their PC’s individual actions—can speed up play.</p><p>The caller’s character usually takes on the role of party leader and should thus have a high Charisma score and be located near to the front of the party.</p><h2>The Mapper</h2><p>One player should create a map of the areas being explored, based on the referee’s descriptions. Details such as monsters or traps encountered, clues to puzzles, or possibly interesting unexplored areas may be noted on the map as it is drawn.</p><h2>Dividing Treasure</h2><p>The spoils of an adventure may be divided between surviving characters in whatever way the players agree on.</p><p><strong>Non-magical treasure</strong>: Is typically divided evenly between player characters.</p><p><strong>Magic items</strong>: The players must decide which character keeps each item. One method for doing this is for each player to roll a die and compare the results. The highest rolling player gets to pick a magic item first, the second highest rolling player gets the next pick, and so on.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.V9lMMqSbuArYGFFN"
+    },
+    {
+      "sort": 200000,
+      "name": "Time, Weight, and Movement",
+      "type": "text",
+      "_id": "nRk895vQvT8AuWZ5",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Tracking Time</h2><p>When an adventure is under way, the referee should keep track of the time that elapses in the imagined world, known as game time. This is distinct from real time: what may take the players and referee mere seconds to describe may take PCs hours or even days to complete.</p><p>For example, when characters are exploring a dungeon, the referee tracks the number of turns that have elapsed; when characters are exploring the wilderness, the number of days elapsed is tracked. The referee must adjudicate what may be accomplished in a given period of time.</p><h3>Resources</h3><p>As game time passes, the referee should pay attention to resources that the party consumes. For example: food, water, fuel for light sources, durations of spells or magical effects, etc.</p><h2>Tracking Movement</h2><p>As player characters explore the imagined world, the referee should keep track of their location on a prepared map. The map is usually kept secret from the players, who must rely on the referee’s descriptions of the areas they explore. To determine how long it takes for characters to move from one area to the next, the referee should refer to the characters’ movement rates.</p><h3>Group Movement Rate</h3><p>An adventuring party will usually want to stay together. The movement rate of the party as a whole is determined by the speed of the slowest member.</p><h2>Measurements</h2><p><strong>Time</strong>: Rounds and Turns Aside from everyday time increments (minutes, hours, days, and so on), the following special units are used in the game.</p><p><strong>Turns</strong>: 10 minutes of game time. There are 6 turns in an hour. Time is measured in turns when exploring dungeons (see @UUID[.DpsGa6pHQRkwiQR8]{Dungeon Adventuring}).</p><p><strong>Rounds</strong>: 10 seconds of game time. There are 60 rounds in a turn. Time is measured in rounds during encounters, especially in combat (see @UUID[.SAZiydZewI4XOlsU]{Encounters} and @UUID[.ouf3QNv4dWj0L1IW]{Combat}).</p><p><strong>Distance</strong>: Inches, Feet, Yards, Miles Staying true to its origins, this game uses imperial or customary US units. Distances are measured in inches (notated with a ”), feet (notated with a ’), yards, and miles.</p><table border=\"1\"><tbody><tr><td style=\"width:174px\"><p><strong>Distance Conversions</strong></p><ul><li><p>1 foot = 12 inches</p></li><li><p>1 yard = 3 feet</p></li><li><p>1 mile = 1,760 yards = 5,280 feet</p></li></ul></td></tr></tbody></table><p><strong>Weight:</strong> Coins</p><p>Weight measures typically come into play only when discussing how much characters can carry (see <strong>Encumbrance</strong>, below). As coins are the most common form of treasure found by adventurers, all weights are measured in coins. (Ten coins are equivalent to one pound.)</p><table border=\"1\"><tbody><tr><td style=\"width:174px\"><h2>Encumbrance (Optional Rule)</h2><p>Some groups may wish to use a system to track the amount of gear and treasure a character can carry and how this affects their movement rate.</p><h3><strong>Tracking Encumbrance</strong></h3><p><strong>Encumbrance:</strong> is a measure of both the weight and bulk a character is carrying.</p><p><strong>Treasure:</strong> The encumbrance of treasure carried by a character should be tracked. The encumbrance of common items of treasure is shown in the table below. The referee should decide the weight of other forms of treasure.</p><p><strong>Equipment:</strong> Two options for tracking the encumbrance of characters’ equipment are presented to the right. The same system should be applied to all characters.</p><p><strong>Maximum load:</strong> The maximum load any character can carry is 1,600 coins of weight. Characters carrying more than this cannot move.</p><h3><strong>Treasure Encumbrance in Coins</strong></h3><table><thead><tr><th>Treasure</th><th>Weight in Coins</th></tr></thead><tbody><tr><td>Coin (any type)</td><td>1</td></tr><tr><td>Gem</td><td>1</td></tr><tr><td>Jewellery (1 piece)</td><td>10</td></tr><tr><td>Potion</td><td>10</td></tr><tr><td>Rod</td><td>10</td></tr><tr><td>Scroll</td><td>1</td></tr><tr><td>Staff</td><td>40</td></tr><tr><td>Wand</td><td>10</td></tr></tbody></table><hr /><h3><strong>Option 1: Basic Encumbrance</strong></h3><p><strong>Treasure:</strong> The weight of treasure carried is tracked to make sure that the character’s maximum load is not exceeded.</p><p><strong>Equipment:</strong> The weight of armour, weapons, and adventuring gear is not tracked and does not count towards a character’s maximum load.</p><p><strong>Movement rate:</strong> Is determined by the type of armour the character is wearing and whether they are carrying a significant amount of treasure (as judged by the referee). The actual weight of the treasure carried does not affect movement rate.</p><h4><strong>Basic Encumbrance</strong></h4><table><thead><tr><th>Armour Worn</th><th><p>Movement Rate<br />Without Treasure</p></th><th><p>Movement Rate<br />Carrying Treasure</p></th></tr></thead><tbody><tr><td>Unarmoured</td><td>120’ (40’)</td><td>90’ (30’)</td></tr><tr><td>Light armour</td><td>90’ (30’)</td><td>60’ (20’)</td></tr><tr><td>Heavy armour</td><td>60’ (20’)</td><td>30’ (10’)</td></tr></tbody></table><hr /><h3><strong>Option 2: Detailed Encumbrance</strong></h3><p><strong>Treasure:</strong> The weight of coins and other treasure carried is tracked.</p><p><strong>Equipment:</strong> The weight of the character’s armour and weapons is also tracked (the weight of these items is listed in the equipment list). Miscellaneous adventuring gear (backpack, spikes, sacks, etc.) may be counted as 80 coins of weight.</p><p><strong>Movement rate:</strong> The character’s movement rate is based on the total weight of all significant items carried, including treasure, weapons, and armour.</p><h4><strong>Detailed Encumbrance</strong></h4><table><thead><tr><th>Encumbrance</th><th>Movement Rate</th></tr></thead><tbody><tr><td>Up to 400 coins</td><td>120’ (40’)</td></tr><tr><td>Up to 600 coins</td><td>90’ (30’)</td></tr><tr><td>Up to 800 coins</td><td>60’ (20’)</td></tr><tr><td>Up to 1,600 coins</td><td>30’ (10’)</td></tr></tbody></table></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762844377076
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.nRk895vQvT8AuWZ5"
+    },
+    {
+      "sort": 300000,
+      "name": "Ability Checks",
+      "type": "text",
+      "_id": "4ekfEa11HHkI43mn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The referee may use a character’s ability scores to determine the character’s chance of succeeding at various challenging tasks.</p><h2>Rolling an Ability Check</h2><p>The player rolls 1d20 and, if the result is less than or equal to the ability, the check succeeds. If the roll is greater than the ability, the check fails.</p><h2>Modifiers</h2><p>Bonuses or penalties to the roll may be applied, depending on the difficulty of the task. A modifier of –4 would be a relatively easy ability check, and a +4 would be very difficult.</p><h2>1s and 20s</h2><p>A natural 1 should be treated as a success and a natural 20 treated as a failure.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.4ekfEa11HHkI43mn"
+    },
+    {
+      "sort": 400000,
+      "name": "Saving Throws",
+      "type": "text",
+      "_id": "2MaU3ifJwbCMFzkn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>All characters and monsters can make saving throws to avoid the full effects of certain magical or special attacks.</p><h2>Categories</h2><p>There are five saving throw categories, used in the following situations:</p><ul><li><p><strong>Death or Poison (D):</strong> When targeted by a death ray or exposed to poison.</p></li><li><p><strong>Wands (W):</strong> When targeted by an effect from a magical wand.</p></li><li><p><strong>Paralysis or Petrification (P):</strong> When targeted by an effect that paralyses or turns to stone.</p></li><li><p><strong>Breath Attacks (B):</strong> When targeted by the breath of a dragon (or other monster with a breath attack).</p></li><li><p><strong>Spells, Rods, or Staves (S):</strong> When targeted by a baneful spell or an effect from a magical rod or staff.</p></li></ul><h2>When to Roll a Saving Throw</h2><p>The appropriate saving throw to make and the effects of a success or failure are indicated in the description of the spell, monster attack, or adventure scenario.</p><h2>Saving Throw Tables</h2><p>Each character class has its own table denoting the saving throw values of char- acters of each experience level.</p><h2>Rolling a Saving Throw</h2><p>When affected by a spell or attack form which requires a saving throw, the player or referee must roll 1d20 and compare the result to the appropriate saving throw value:</p><ul><li><p><strong>Greater or equal:</strong> A result that is greater than or equal to the saving throw value is a success.</p></li><li><p><strong>Lower:</strong> A result of less than the saving throw value is a failure.</p></li></ul><h2>Successful Saves</h2><p><strong>Damaging effects:</strong> A successful save against an effect that causes damage means that the damage is halved.</p><p><strong>Other effects:</strong> A successful saving throw against an effect that does not cause dam- age means the effect has been entirely avoided or negated.</p><h2>Saving Throws Versus Poison</h2><p><strong>Failure:</strong> A failed save against poison is usually fatal.</p><p><strong>Damage:</strong> If a poisonous attack also inflicts damage, the damage is not affected by the success or failure of the save.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.2MaU3ifJwbCMFzkn"
+    },
+    {
+      "sort": 500000,
+      "name": "Damage, Healing, and Death",
+      "type": "text",
+      "_id": "N7g9cY3U5XSi7jSY",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Damage</h2><p>All characters and monsters have a hit point total, which represents their ability to avoid death. Many attack forms, including attacks with weapons in combat, subtract hit points from this pool.</p><h2>Healing</h2><h3>Natural Healing</h3><p>For each full day of complete rest, a character or monster recovers 1d3 hit points. If the rest is interrupted, the character or monster will not heal that day.</p><h3>Magical Healing</h3><p>Healing may also occur through magic, such as potions or spells. This kind of healing is instantaneous. Magical healing and natural healing can be combined.</p><h2>Death</h2><p>A character or monster reduced to 0 hit points or less is killed.</p><h3>Destruction of Items</h3><p>If a character is killed by a destructive spell or special attack (e.g. a lightning bolt spell or a dragon’s breath), their equipment is assumed to be destroyed.</p><h3>Destruction of Magic Items</h3><p>Magic items in the possession of a character who is killed by a destructive spell or special attack may be allowed a chance to survive, as follows:</p><ul><li><p><strong>Save:</strong> For each item, a saving throw may be made using the character’s saving throw values.</p></li><li><p><strong>Bonuses:</strong> Items that grant a bonus</p></li></ul><p>in combat (e.g. magical weapons and armour) may also apply this bonus to the saving throw.</p><table border=\"1\"><tbody><tr><td style=\"width:174px\"><h2>Limits on Returning from Death (Optional Rule)</h2><h3>Maximum Number of Times</h3><p>A character’s initial Constitution score (i.e. the score at character creation) defines the number of times that they can be returned from the dead by magic. Once this limit is reached, death is final, barring extraordinary magic such as a wish or the direct intervention of a deity.</p><h3>Chance of Success</h3><p>Returning from death represents a huge shock to a character, and it is not guaranteed that they will be successfully brought back to life. The chance of resurrection magic succeeding depends on a charac- ter’s Constitution score as shown in the table to the right.</p><h3>CON Loss After Returning from Death</h3><p>Each time a character is brought back from the dead, their CON score is reduced by one point.</p><h3><strong>Chance of Raising the Dead</strong></h3><table><thead><tr><th>CON</th><th>Survival Chance</th></tr></thead><tbody><tr><td>3</td><td>[[/r 1d100]]{40%}</td></tr><tr><td>4</td><td>[[/r 1d100]]{45%}</td></tr><tr><td>5</td><td>[[/r 1d100]]{50%}</td></tr><tr><td>6</td><td>[[/r 1d100]]{55%}</td></tr><tr><td>7</td><td>[[/r 1d100]]{60%}</td></tr><tr><td>8</td><td>[[/r 1d100]]{65%}</td></tr><tr><td>9</td><td>[[/r 1d100]]{70%}</td></tr><tr><td>10</td><td>[[/r 1d100]]{75%}</td></tr><tr><td>11</td><td>[[/r 1d100]]{80%}</td></tr><tr><td>12</td><td>[[/r 1d100]]{85%}</td></tr><tr><td>13</td><td>[[/r 1d100]]{90%}</td></tr><tr><td>14</td><td>[[/r 1d100]]{92%}</td></tr><tr><td>15</td><td>[[/r 1d100]]{94%}</td></tr><tr><td>16</td><td>[[/r 1d100]]{96%}</td></tr><tr><td>17</td><td>[[/r 1d100]]{98%}</td></tr><tr><td>18</td><td>100%</td></tr></tbody></table></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762844482446
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.N7g9cY3U5XSi7jSY"
+    },
+    {
+      "sort": 600000,
+      "name": "Hazards and Challenges",
+      "type": "text",
+      "_id": "eh7GQsf8aWU7NcEP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Climbing</h2><p>When characters are climbing in a difficult or tense situation, the referee may require an ability check against Dexterity.</p><h3>Sheer Surfaces</h3><p>Very steep or sheer surfaces are normally impossible to climb without specialised equipment. Some characters may have class abilities which allow them to attempt to climb such surfaces unaided.</p><h2>Darkness</h2><p>Characters will usually want to bring a source of light with them on underground expeditions. Typical light sources enable normal vision within a 30’ radius.</p><h3>Infravision</h3><p>All non-human monsters and many demihuman races have a special kind of vision that allows them to see in the dark. This is called infravision.</p><p><strong>Heat tones</strong>: Characters who have infravision can see the heat energy that radiates off of living things. Generally, living things will be visible as bright tones, while cool items are grey and very cold objects are black.</p><p><strong>Reading</strong>: It is not possible to read in the dark with infravision, because fine detail cannot be perceived.</p><p><strong>Range</strong>: Infravision works within a limited range (60’ for monsters, unless specified otherwise in a monster’s description).</p><p><strong>Disruption</strong>: Infravision only functions in darkness. Visible light (normal or magical) and large heat sources will disrupt it.</p><h3>Light and Surprise</h3><p>Characters or monsters that carry a light in a dark environment are usually unable to surprise opponents (see @UUID[.SAZiydZewI4XOlsU]{Encounters}), because the light gives their presence away.</p><h2>Falling</h2><p>Falling from a height onto a hard surface inflicts [[/r 1d6]] damage per 10’ fallen.</p><h2>Losing Direction</h2><p>Characters can confidently follow trails, roads, and other well-known landmarks without fear of becoming lost. Likewise, travelling with a reliable guide prevents becoming lost. However, when travelling through untracked, open regions, it is easy to lose direction.</p><p>The chance of the party becoming lost depends on the type of terrain being explored (see @UUID[.MZcvVTyQEgxgSXic]{Wilderness Adventuring} and @UUID[.9Pu7DvFdpiwXR2D8]{Waterborne Adventuring}).</p><h3>Effects of Being Lost</h3><p>If the party becomes lost, the referee will decide which direction they are actually travelling in. One option is to pick a direction only slightly off course. For example, if the group intended to go south, they are actually headed southwest or west.</p><p>It may take some time for a lost party to realise that it is moving in the wrong direction.</p><h2>Starvation</h2><p>If characters go for a full day or more without food or water, the referee may begin to apply penalties to attack rolls and movement rate, require more frequent rests, or even begin to deduct hit points (in extreme cases).</p><h2>Swimming</h2><p><strong>Movement rate</strong>: Characters move at half their normal movement rate when swimming.</p><p><strong>Who can swim</strong>: It is assumed that every character knows how to swim, unless there is some obvious reason why a character could not have learned.</p><h3>Drowning</h3><p>The circumstances in which drowning is a risk—as well as the chance of drowning—are judged by the referee.</p><p><strong>Example circumstances</strong>: Swimming in treacherous water conditions, swimming while wearing armour or carrying heavy or awkward items, fighting in water.</p><p><strong>Example chances of drowning</strong>: A character swimming in rough waters while wearing heavy armour and carrying a heavy load may have a 99% probability of drowning. A character in the same waters but wearing light armour and carrying a light load may only have a 10% probability of drowning.</p><h2>Wandering Monsters</h2><p>Besides the monsters specifically placed in certain regions of a dungeon or wilderness, PCs may randomly encounter monsters on the move between areas. These are known as wandering monsters. See @UUID[.DpsGa6pHQRkwiQR8]{Dungeon Adventuring}, @UUID[.MZcvVTyQEgxgSXic]{Wilderness Adventuring}, and @UUID[.9Pu7DvFdpiwXR2D8]{Waterborne Adventuring} for specific details.</p><p><strong>Frequency</strong>: The referee should roll periodically to determine whether a wandering monster is encountered. The frequency of checks depends on the type of area being explored.</p><p><strong>Chance</strong>: When a wandering monster check is made, the chance of a random encounter is usually 1-in-6. This chance may vary, depending on the type of area being explored (e.g. dungeon region or level, type of wilderness terrain).</p><p><strong>Monster type</strong>: Each area should have its own table of wandering monsters, which the referee rolls on when an encounter takes place.</p><p><strong>Noise or light</strong>: If the party is making a lot of noise or carrying bright light sources in a dark environment, the referee may increase the chance of wandering monsters being encountered.</p><p><strong>Hiding</strong>: If the party rests quietly in an out-of-the-way location, the referee may decrease the chance of wandering monsters being encountered.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.eh7GQsf8aWU7NcEP"
+    },
+    {
+      "sort": 700000,
+      "name": "Dungeon Adventuring",
+      "type": "text",
+      "_id": "DpsGa6pHQRkwiQR8",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:271px;height:17px\"><p><strong>Sequence of Play Per Turn</strong></p><p>1. <strong>Wandering monsters</strong>: The referee makes checks as applicable.</p><p>2. <strong>Actions</strong>: The party decides what action to take (e.g. moving, searching, listening, entering rooms).</p><p>3. <strong>Description</strong>: The referee describes what happens. If monsters are encountered, follow the procedure described in @UUID[.SAZiydZewI4XOlsU]{Encounters}.</p><p>4. <strong>End of turn</strong>: The referee updates time records, with special attention to light sources, spell durations, and the party’s need to rest.</p></td></tr></tbody></table><h2>Doors</h2><p>Dungeons often have many doors, some secret and others obvious. Many are locked and many are stuck.</p><h3>Searching For Secret Doors</h3><p>Some doors are hidden or concealed. Adventurers may choose to search a 10’ × 10’ area for secret doors. See <em><strong>Searching</strong></em>.</p><p><strong>Chance of finding:</strong> If a character is searching in the right location, there is a [[/br 1d6]]{1-in-6} chance of finding a secret door. (Some types of adventurers may have an increased chance.)</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Stuck Doors</h3><p><strong>Forcing</strong>: The chance of forcing open a stuck door depends on the character’s Strength (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#strength-(str)]{see Ability Scores}).</p><p><strong>Surprise</strong>: A failed attempt to force open a door eliminates any possibility of surprise ( @UUID[.SAZiydZewI4XOlsU]{see Encounters}) that the party may have against any monsters on the other side of the door.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Locked Doors</h3><p>Locks may be picked by a character proficient with lock picks or opened by magic.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Doors Swinging Shut</h3><p>Doors opened by adventurers (by whatever means) are likely to swing shut after they pass. To prevent this, doors may be held open using iron spikes or other wedges.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Monsters and Doors</h3><p>Monsters that live in the dungeon can usually open doors (even stuck doors), unless they are blocked, magically closed, or wedged shut with spikes.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h3>Listening at Doors</h3><p><strong>Chance of success</strong>: PCs have a [[/br 1d6]]{1-in-6} chance of detecting subtle sounds beyond a door. (Some types of adventurers may have an increased chance of success.) Referee rolls: The referee should always roll for the character listening so that the player never knows if the roll failed or if there simply is no sound behind the door.</p><p><strong>One chance</strong>: This attempt may only be made one time at any door by a character. Silent monsters: Some monsters, such as undead, do not make any noise.</p><h2>Movement</h2><p><strong>Exploring the unknown</strong>: When exploring unknown areas of a dungeon, characters can move their movement rate in feet per turn. This (very slow!) rate of movement takes account for the fact that PCs are exploring, watching their footing, mapping, and trying to be quiet and avoid obstacles.</p><p><strong>In familiar areas:</strong> When PCs are moving through dungeon areas with which they are familiar, the referee may allow them to move at a faster rate. For example, the referee might allow PCs to move at three times their base movement rate per turn, when moving through familiar areas.</p><h2>Resting</h2><p><strong>Frequency of rest:</strong> Characters must rest for one turn every hour in the dungeon. Penalty for not resting: If characters press on without resting, they suffer a penalty of –1 to hit and damage rolls until they have rested for one turn.</p><p><strong>Penalty for not resting:</strong> If characters press on without resting, they suffer a penalty of –1 to attack and damage rolls until they have rested for one turn.</p><h2>Searching</h2><p>The following stipulations apply to searching for secret doors, room traps, and treasure traps.</p><p><strong>Time:</strong> Searching takes one turn.</p><p><strong>Referee rolls:</strong> The referee should always roll for the character searching, so that the player does not know if the roll failed or if there are simply no hidden features present.</p><p><strong>One chance:</strong> Each character can only make one attempt to search a specific area or item.</p><h2>Traps</h2><p>There are two kinds of traps:</p><ul><li><p><strong>Treasure traps</strong>: Small traps placed on an item, to prevent it being tampered with or stolen (e.g. a poison needle on a chest or lock).</p></li><li><p><strong>Room traps</strong>: Large traps that are designed to affect anyone who enters a certain area (e.g. a pit that opens in the floor when walked over).</p></li></ul><h3>Triggering Traps</h3><p>Each trap is triggered by a specific action (e.g. opening a door or walking over a particular area).</p><p><strong>Chance of triggering</strong>: Every time a character makes an action that could trigger a trap, there is a [[/br 1d6]]{2-in-6} chance of the trap being sprung.</p><p><strong>Trap damage</strong>: Damage inflicted by a triggered trap is usually automatic, without an attack roll.</p><p><strong>Monsters</strong>: Monsters may be able to bypass traps without risk, if the referee wishes.</p><h3>Searching for Traps</h3><p><strong>Room traps</strong>: Adventurers may choose to search a 10’ × 10’ area for room traps. If the search succeeds, the trap is discovered. See Searching.</p><p><strong>Treasure traps</strong>: Most adventurers do not have the requisite knowledge of subtle mechanisms to locate small traps such as poisoned needles. (Some types of adventurers may have this ability, as noted in their class description.)</p><h2>Wandering Monsters</h2><p><strong>Frequency</strong>: A check is typically rolled once every two turns in the dungeon.</p><p><strong>Chance</strong>: The typical chance of encountering a wandering monster is [[/br 1d6]]{1-in-6}.</p><p><strong>Distance</strong>: Wandering monsters are encountered [[/r 2d6*10]] feet away, moving in the direction of the party.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762849399637
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.DpsGa6pHQRkwiQR8"
+    },
+    {
+      "sort": 800000,
+      "name": "Wilderness Adventuring",
+      "type": "text",
+      "_id": "MZcvVTyQEgxgSXic",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p><strong>Sequence of Play Per Day</strong></p><p>1. <strong>Decide course</strong>: The players decide on their course of travel for the day.</p><p>2. <strong>Losing direction</strong>: The referee determines whether the party gets lost.</p><p>3. <strong>Wandering monsters</strong>: The referee makes checks as applicable.</p><p>4. <strong>Description</strong>: The referee describes the terrain passed through and any sites of interest that the party comes across, asking players for their actions, as required. If monsters are encountered, follow the procedure described in @UUID[.SAZiydZewI4XOlsU]{Encounters}.</p><p>5. <strong>End of day</strong>: The referee updates time records, with special attention to rations, spell durations, and the party’s need to rest</p></td></tr></tbody></table><h2>Distance and Measurement</h2><p>The open spaces of the wilderness mean that characters and monsters can move more freely than in a dungeon.</p><p><strong>Ranges and movement rates</strong>: Are measured in yards, instead of feet. This means that ranges and movement rates are tripled.</p><p><strong>Areas</strong>: Of spell effects, breath weapons, etc. are still measured in feet.</p><h2>Flying</h2><p><strong>Miles per day</strong>: The distance a creature can fly in a day is double the distance it can travel overland (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.MZcvVTyQEgxgSXic#overland-travel]{see Overland Travel}). For example, a creature with a movement rate of 120’ could travel 24 miles in a day overland, but could fly 48 miles in a day.</p><p><strong>Terrain</strong>: Does not affect air travel.</p><h3>Flying Mounts</h3><p>In general, a winged beast may carry riders or other burdens based on its HD:</p><ul><li><p><strong>3 HD creatures</strong>: May carry a being about half the size of an adult human.</p></li><li><p><strong>6 HD creatures</strong>: May carry an adult human.</p></li><li><p><strong>12 HD creatures</strong>: May carry a large animal like a horse.</p></li><li><p><strong>24 HD creatures</strong>: May carry a very a large animal like an elephant.</p></li></ul><h2>Foraging</h2><p>Foraging for herbs, fruits, nuts, etc. can be performed alongside normal movement (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.MZcvVTyQEgxgSXic#overland-travel]{see Overland Travel}). The party has a [[/r 1d6]]{1-in-6} chance per day of finding enough food for [[/r 1d6]] human-sized beings. </p><h2>Hunting</h2><p>Hunting must be engaged in as the sole activity for a day—no travelling or resting is possible. When hunting, there is a [[/r 1d6]]{1-in-6} chance of encountering animals which may be suitable for eating (if they can be caught!). This is in addition to the normal chance of random encounters (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.MZcvVTyQEgxgSXic#wandering-monsters]{see Wandering Monsters}}.</p><h2>Losing Direction</h2><p>At the start of each day of travel, the referee should roll to determine if the group loses direction. The probability depends on the terrain being traversed:</p><p><strong>Clear, grasslands</strong>: [[/br 1d6]]{1-in-6}.</p><p><strong>Barren lands, hills, mountains, woods</strong>: [[/br 1d6]]{2-in-6}.</p><p><strong>Desert, jungle, swamp</strong>: [[/br 1d6]]{3-in-6}.</p><p><strong>Effects</strong>: @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.eh7GQsf8aWU7NcEP#effects-of-being-lost]{See Effects of Being Lost}.</p><h2>Overland Travel</h2><p><strong>Miles per day</strong>: The number of miles a character can travel in a day is determined by dividing their base movement rate by five. For example, a character whose base movement rate is 120’ could travel up to 24 miles in a day.</p><h3>Terrain Modifiers</h3><p>Some types of terrain modify the speed at which characters can travel:</p><ul><li><p><strong>Broken lands, desert, forest, hills</strong>: 33% slower.</p></li><li><p><strong>Jungle, mountains, swamp</strong>: 50% slower.</p></li><li><p><strong>Maintained roads</strong>: 50% faster.</p></li></ul><h3>Forced March</h3><p>If characters need to travel further in a day, they may engage in a forced march.</p><p><strong>Speed increase</strong>: The distance travelled is increased by 50%. For example, a character that can normally travel 24 miles in a day could travel 36 miles.</p><p><strong>Rest</strong>: After a forced march, characters must rest for a full day.</p><h2>Resting</h2><p>Frequency of rest: Characters must rest for one day per six days of travel. Penalty for not resting: If characters press on without resting, they suffer a penalty of –1 to hit and damage rolls until they have rested for one full day.</p><h2>Surprise</h2><p><strong>Surrounded:</strong> If a party is surprised by three or more monsters, the monsters may have moved to encircle the party.</p><h2>Visibility</h2><p>Characters can usually see for three miles around them, in open terrain. This range may sometimes be reduced (e.g. in overgrown terrain such as a forest) or increased (e.g. looking out from the top of a mountain).</p><h2>Wandering Monsters</h2><p><strong>Frequency:</strong> A check is typically rolled once per day, but the referee may choose to make more checks: up to three or four per day.</p><p><strong>Chance</strong>: The chance of encountering a wandering monster depends on the terrain being explored (see below).</p><p><strong>Distance</strong>: Wandering monsters are encountered [[/r 4d6*10]] yards away. If either side is surprised (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.SAZiydZewI4XOlsU#surprise]{see Encounters}), this is reduced to [[/r 1d4*10]] yards.</p><h3>Chance by Terrain</h3><ul><li><p><strong>City, clear, grasslands, settled lands</strong>: [[/br 1d6]]{1-in-6}.</p></li><li><p><strong>Aerial, barren, desert, forest, hills</strong>: [[/br 1d6]]{2-in-6}.</p></li><li><p><strong>Jungle, mountains, swamp</strong>: [[/br 1d6]]{3-in-6}.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761374001504
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.MZcvVTyQEgxgSXic"
+    },
+    {
+      "sort": 900000,
+      "name": "Waterborne Adventuring",
+      "type": "text",
+      "_id": "9Pu7DvFdpiwXR2D8",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><table border=\"1\"><tbody><tr><td style=\"width:363px\"><p><strong>Sequence of Play Per Day</strong></p><p>1. <strong>Decide course</strong>: The players decide on their course of travel for the day.</p><p>2. <strong>Losing direction</strong>: The referee determines whether the party gets lost.</p><p>3. <strong>Weather</strong>: The referee determines the Wind Conditions.</p><p>4. <strong>Wandering monsters</strong>: The referee makes checks as applicable.</p><p>5. <strong>Description</strong>: The referee describes the regions passed through and any sites of interest that the party comes across, asking players for their actions, as required. If monsters are encountered, follow the procedure described in @UUID[.SAZiydZewI4XOlsU]{Encounters}.</p><p>6. <strong>End of day</strong>: The referee updates time records, with special attention to rations, spell durations, and the crew’s need to rest</p></td></tr></tbody></table><h2>Distance and Measurement</h2><p><strong>Ranges and movement rates</strong>: Are measured in yards, instead of feet. This means that ranges and movement rates are tripled.</p><p><strong>Areas</strong>: Of spell effects, breath weapons, etc. are still measured in feet.</p><h2>Losing Direction</h2><p><strong>With a navigator aboard</strong>: The chance of getting lost is [[/br 1d6]]{2-in-6}.</p><p><strong>Without a navigator aboard</strong>: The chance of getting lost is 100% on the open seas and [[/br 1d6]]{2-in-6} within sight of land.</p><p><strong>Effects</strong>: @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.eh7GQsf8aWU7NcEP#effects-of-being-lost]{See Effects of Being Lost.}</p><h2>Surprise</h2><p>Aquatic monsters are usually not surprised by ships. Special circumstances (e.g. thick fog) may alter this. </p><h2>Travel on the Water</h2><p><strong>Miles per day</strong>: The number of miles a creature or vessel can travel in a day is determined by dividing its base movement rate by five. For example, a vessel with a base movement rate of 360’ could travel up to 72 miles in a day.</p><h3>Modifiers</h3><p>The distance travelled in a day may be affected by the prevailing water and weather conditions:</p><ul><li><p><strong>River travel</strong>: Water currents may increase (when moving downstream) or decrease (when moving upstream) the distance travelled by [[/r 1d6+6]] miles per day.</p></li><li><p><strong>Sailing</strong>: The movement rate of sailing vessels is affected by the prevailing wind conditions. @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.9Pu7DvFdpiwXR2D8#wind-conditions]{See Wind Conditions}<em><strong> </strong></em>below.</p></li></ul><h2>Visibility</h2><p><strong>Land</strong>: On a clear day, land can be spotted at a distance of 24 miles. This may be reduced based on light and weather conditions.</p><p><strong>Ships</strong>: May be sighted and identified at 300 yards on a clear day or as little as 40 yards in dense fog.</p><h2>Wandering Monsters</h2><p><strong>Frequency</strong>: A check is typically rolled once per day, but the referee may choose to make more checks: up to 3 or 4 a day.</p><p><strong>Chance</strong>: The chance of encountering a wandering monster is [[/br 1d6]]{2-in-6} on oceans or rivers, [[/br 1d6]]{3-in-6} in swamps.</p><p><strong>Distance</strong>: Wandering monsters are encountered [[/r 4d6*10]] yards away. If either side is surprised (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.SAZiydZewI4XOlsU#surprise]{see Encounters}), this is reduced to [[/r 1d4*10]] yards.</p><p><strong>Location</strong>: Aquatic encounters may occur either on the open water or on land, if the party docks at some point during the day.</p><h2>Wind Conditions</h2><p>Wind conditions at sea affect the rate at which a sailing vessel can travel. Extreme winds can also make travel hazardous. The referee should check the wind conditions at the start of each day, rolling [[/r 2d6]]:</p><ul><li><p><strong>2</strong>: No wind; sailing is not possible.</p></li><li><p><strong>3–11</strong>: Normal sailing is possible.</p></li><li><p><strong>12</strong>: Gale or storm; sailing vessels’ speed tripled (see Gales and Storms).</p></li></ul><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Variable Wind Conditions (Optional Rule)</h3><p>Groups who prefer a slightly more detailed system of sea travel may use the table above, which adds extra detail to the daily [[/r 2d6]] wind conditions roll.</p><table><thead><tr><th>[[/r 2d6]]</th><th>Wind</th><th>Effect</th></tr></thead><tbody><tr><td>2</td><td>No wind</td><td>Sailing impossible. Movement by oar at ⅓ rate (due to fatigue).</td></tr><tr><td>3</td><td>Faint breeze</td><td>Sailing movement rate reduced to ⅓ normal.</td></tr><tr><td>4</td><td>Gentle breeze</td><td>Sailing movement rate reduced to ½ normal.</td></tr><tr><td>5</td><td>Moderate breeze</td><td>Sailing movement rate reduced to ⅔ normal.</td></tr><tr><td>6–8</td><td>Fresh breeze</td><td>Normal sailing movement rate.</td></tr><tr><td>9</td><td>Strong breeze</td><td>Sailing movement rate increased by ⅓.</td></tr><tr><td>10</td><td>High wind</td><td>Sailing movement rate increased by ½.</td></tr><tr><td>11</td><td>Near gale</td><td>Sailing movement rate doubled. See <em>Near Gales</em>.</td></tr><tr><td>12</td><td>Gale or storm</td><td>Sailing movement rate tripled. See <em>Gales and Storms</em>.</td></tr></tbody></table><h3>Near Gales</h3><p><strong>Seaworthy vessels</strong>: Have a [[/r 1d100]]{10%} chance of taking on water.</p><p><strong>Unseaworthy vessels</strong>: Have a [[/r 1d100]]{20%} chance of taking on water.</p><p><strong>Effect of taking on water</strong>: The ship’s movement rare is reduced by one third until repaired at a dock.</p><h3>Gales and Storms</h3><p><strong>Seaworthy vessels</strong>: Sailing vessels can attempt to move with the wind to avoid damage. This is handled as follows:</p><ul><li><p>The vessel travels at three times its normal speed in a randomly determined direction. (The referee may roll [[/r 1d6]], with 1 indicating the intended direction of travel, 2 indicating 60° to the right, 3 indicating 120° to the right, and so on.)</p></li><li><p>If the ship encounters land during this travel, there is a [[/r 1d100]]{75%} chance of it wrecking against the shore.</p></li></ul><p><strong>Unseaworthy vessels:</strong></p><ul><li><p>There is an [[/r 1d100]]{80%} chance of the vessel being overrun with water and sinking.</p></li><li><p>If the vessel is in sight of land when the gale hits, it may attempt to beach. If the shore is relatively clear of physical dangers (rocks, cliffs, etc.), this is automatically successful; otherwise there is a [[/r 1d6]]{2-in-6} chance of finding a safe harbour to weather the storm.</p></li></ul></td></tr></tbody></table>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762849506396
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.9Pu7DvFdpiwXR2D8"
+    },
+    {
+      "sort": 1000000,
+      "name": "Encounters",
+      "type": "text",
+      "_id": "SAZiydZewI4XOlsU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>An encounter begins when the characters stumble onto a monster, either because the referee has planned an encounter in the area the PCs are exploring or because a random die roll indicates an encounter (see @UUID[.eh7GQsf8aWU7NcEP#wandering-monsters]{Wandering Monsters}).</p><table border=\"1\"><tbody><tr><td style=\"width:416px\"><p><strong>Encounter Sequence</strong></p><p>1. <strong>Surprise</strong>: The referee rolls for surprise, if applicable.</p><p>2. <strong>Encounter distance</strong>: The referee determines how far away the monsters are from the PCs.</p><p>3. <strong>Initiative</strong>: Any sides that are not surprised roll initiative to determine who acts first.</p><p>4. <strong>Actions</strong>: Any sides that are not surprised decide how they will respond to the encounter. The encounter is played out accordingly.</p><p>5. <strong>Conclusion</strong>: One turn has passed.</p></td></tr></tbody></table><h2>Surprise</h2><h3>When to Check</h3><p>A check for surprise is made for any side that is not expecting the encounter. For example, if a monster is waiting quietly for an approaching party that is making a lot of noise, the monster would not have a chance to be surprised, but the party would.</p><h3>Surprise Checks</h3><p>Each side that is not already aware of the other’s presence rolls [[/r 1d6]].</p><p><strong>Monsters</strong>: The referee rolls for monsters. PCs: One player rolls for the adventuring party as a whole.</p><p><strong>Results</strong>: A result of 1 or 2 means the side is surprised.</p><h3>Effects of Surprise</h3><p><strong>Both sides surprised:</strong> There is simply a momentary confusion—neither side has any advantage.</p><p><strong>One side surprised</strong>: The side that is not surprised gains a one round advantage. The surprised side cannot act that round.</p><h2>Encounter Distance</h2><p>The situation in which the encounter occurs often determines how far away the monster is. If there is uncertainty, the encounter distance may be determined randomly:</p><ul><li><p><strong>Dungeon</strong>: [[/r 2d6*10]] feet.</p></li><li><p><strong>Wilderness</strong>: [[/r 4d6*10]] yards (or [[/r 1d4*10]] yards if either side is surprised).</p></li><li><p><strong>Waterborne</strong>: [[/r 4d6*10]] yards (or [[/r 1d4*10]] yards if either side is surprised).</p></li></ul><h2>Initiative</h2><p>(See @UUID[.ouf3QNv4dWj0L1IW]{Combat} or full details.)</p><p><strong>Roll [[/r 1d6]]</strong>: For each side, at the start of each round.</p><p><strong>Winner</strong>: The side with the highest roll acts first. Other sides act in order from highest to lowest roll.</p><p><strong>Ties</strong>: Either both sides may roll again, or actions on both sides may be resolved simultaneously.</p><h2>Actions</h2><h3>Player Character Actions</h3><p>The players decide how they will act.</p><h3>Monster Actions</h3><p>The referee determines monsters’ reaction to the party. Sometimes, circumstances make it obvious how a monster will react. Otherwise, the referee may roll on the table below to determine how a monster reacts to the party.</p><p><strong>Charisma</strong>: If one specific character attempts to speak with the monsters, that character’s NPC reactions modifier due to CHA (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#charisma-(cha)]{Ability Scores}) is used to modify the monster reaction roll.</p><h3><strong>Monster Reaction Roll</strong></h3><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:90px\"><p><strong>[[/r 2d6]] </strong></p></td><td style=\"height:17px;width:162px\"><p><strong>Result</strong></p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:90px\"><p>2 or less</p></td><td style=\"height:17px;width:162px\"><p>Hostile, attacks</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:90px\"><p>3-5</p></td><td style=\"height:17px;width:162px\"><p>Unfriendly, may attack</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:90px\"><p>6-8</p></td><td style=\"height:17px;width:162px\"><p>Neutral, uncertain</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:90px\"><p>9–11 </p></td><td style=\"height:17px;width:162px\"><p>Indifferent, uninterested</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:90px\"><p>12 or more</p></td><td style=\"height:17px;width:162px\"><p>Friendly, helpful</p></td></tr></tbody></table><h3>Common Actions</h3><p>Any action is possible in an encounter, but the following are common:</p><ul><li><p><strong>Combat</strong>: If one side attacks, casts spells, or makes tactical movement, begin tracking time in rounds, following the @UUID[.ouf3QNv4dWj0L1IW]{Combat} procedure.</p></li><li><p><strong>Evasion</strong>: If one side decides to flee, the other may decide to pursue. See @UUID[.TxYeWUtWR7plXIzS]{Evasion and Pursuit}.</p></li><li><p><strong>Parley</strong>: PCs may attempt to communicate with monsters. Opening an encounter in this way can influence the monsters’ behaviour (see <em><strong>Monster Actions</strong></em>). If both sides decide to talk, the negotiation may be role-played.</p></li></ul><h3>Movement</h3><p><strong>Encounter movement rate:</strong> During encounters, a character can move up to one third of their base movement rate per round in feet (in the dungeon) or yards (in the wilderness). For example, a character whose base movement rate is 120’ could move 40’ per round during a dungeon encounter.</p><p><strong>Maximum duration</strong>: Characters may move at this rate for at most 60 rounds (one turn).</p><h3>Evasion</h3><p>If one side wishes to avoid an encounter, it may attempt to flee. This is called evasion and is only possible before combat has begun. When a side decides to attempt an evasion, the opposing side must decide whether or not to pursue.</p><p><strong>Players</strong>: May decide freely whether they wish to pursue fleeing monsters.</p><p><strong>Monsters</strong>: The referee must decide whether monsters pursue fleeing PCs. (A low roll on the <em><strong>Monster Reactions table</strong></em> may be taken to indicate that the monster will pursue.)</p><p><strong>No pursuit</strong>: If the opposing side decides to let the other side flee, then the evasion automatically succeeds; the encounter is avoided.</p><p><strong>Pursuit</strong>: If the opposing side gives chase, the chance of the evasion succeeding depends on the environment being explored. See @UUID[.TxYeWUtWR7plXIzS]{Evasion and Pursuit}.</p><h2>Conclusion</h2><p>An encounter is assumed to take at least one full turn to complete, including time to rest, regroup, clean weapons, bind wounds, and so on, afterwards.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1758456788702
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.SAZiydZewI4XOlsU"
+    },
+    {
+      "sort": 1100000,
+      "name": "Evasion and Pursuit",
+      "type": "text",
+      "_id": "TxYeWUtWR7plXIzS",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>In the Dungeon</h2><h3>Evasion</h3><p>Compare the two sides’ movement rates:</p><ul><li><p><strong>Fleeing side faster</strong>: The evasion automatically succeeds, unless the fleeing side is forced to stop.</p></li><li><p><strong>Fleeing side not faster</strong>: A pursuit occurs.</p></li></ul><h3>Pursuit</h3><p><strong>Time</strong>: Is measured in rounds (see @UUID[.nRk895vQvT8AuWZ5]{Time, Weight, and Movement}).</p><p><strong>Running</strong>: Each side is assumed to be running at full speed (see below).</p><p><strong>Line of sight</strong>: Most monsters will not continue a pursuit if the characters get out of the monster’s range of vision.</p><p><strong>Dropping treasure</strong>: If the monsters enjoy treasure, there is a [[/r 1d6]]{3-in-6} probability that they will stop pursuit to collect any treasure the characters drop.</p><p><strong>Dropping food</strong>: Hungry or less intelligent monsters may stop pursuit if characters drop food ([[/r 1d6]]{3-in-6} chance).</p><p><strong>Obstacles</strong>: Burning oil or other obstacles may also slow or stop a pursuit.</p><h3>Running</h3><p><strong>Movement rate</strong>: During a pursuit, characters run at their base movement rate in feet per round.</p><p><strong>Mapping</strong>: Is not possible while running.</p><p><strong>Exhaustion</strong>: Characters become exhausted after running for 30 rounds.</p><p><strong>Effects of exhaustion</strong>: A –2 penalty to attacks, damage, and Armour Class.</p><p><strong>Resting</strong>: The penalties for exhaustion last until characters have rested for three full turns.</p><h2>Waterborne</h2><h3>Evasion</h3><p>The chance of evasion is determined by the difference between the two sides’ movement rates, listed in the table below.</p><p><strong>Success</strong>: If the evasion roll succeeds, the pursuers cannot attempt to catch up with the fleeing side until the next day—and then only if a random encounter roll indicates an encounter.</p><p><strong>Failure</strong>: If the evasion roll fails, a pursuit occurs.</p><h3>Waterborne Evasion Chance</h3><table><thead><tr><th>Fleeing Side’s Movement Rate (Compared with Pursuer’s)</th><th>Chance of Evasion</th></tr></thead><tbody><tr><td>Faster than pursuer</td><td>[[/r 1d100]]{80%}</td></tr><tr><td>0–30’ per round slower</td><td>[[/r 1d100]]{50%}</td></tr><tr><td>31–60’ per round slower</td><td>[[/r 1d100]]{40%}</td></tr><tr><td>61–90’ per round slower</td><td>[[/r 1d100]]{35%}</td></tr><tr><td>91–120’ per round slower</td><td>[[/r 1d100]]{25%}</td></tr><tr><td>121+’ per round slower</td><td>[[/r 1d100]]{10%}</td></tr></tbody></table><h3>Pursuit</h3><p><strong>Time</strong>: Is measured in rounds (see @UUID[.nRk895vQvT8AuWZ5]{Time, Weight, and Movement}).</p><p><strong>Initial distance</strong>: The two sides begin a pursuit at normal encounter distance (see @UUID[.9Pu7DvFdpiwXR2D8]{Waterborne Adventuring}).</p><p><strong>Closing in</strong>: The distance between the two sides decreases by the difference between their two movement rates each round (a minimum of 30’ per round).</p><h2>In the Wilderness</h2><h3>Evasion</h3><p>The chance of evasion is a percentile roll. If the percentile evasion roll fails, a pursuit occurs. Surprise (see @UUID[.SAZiydZewI4XOlsU]{Encounters}) determines the chance of evasion:</p><ul><li><p><strong>No surprise</strong>: If neither side is surprised, the chance of evasion is determined by the relative size of the two groups. (The chances are in favour of the smaller group, as larger groups cannot move as fast or as quietly.) The table to the right indicates the base chance of evasion, and the modifiers that may apply.</p></li><li><p><strong>Surprised side</strong>: May generally not evade. The referee may rule that environmental conditions give a small chance of evasion even when surprised (as above). For example, dense woodland may give a surprised side a 10% chance of evasion.</p></li><li><p><strong>Surprising side</strong>: If one side has surprised the other, the side with surprise may evade automatically—the surprised side is not even aware that the encounter occurred.</p></li></ul><h3>Evasion Modifiers</h3><p><strong>One side twice as fast</strong>: If the pursuing side’s movement rate is double that of the other, the chance of evasion is decreased by 25%. If the fleeing side’s movement rate is double that of the other, the chance of evasion is increased by 25%.</p><p><strong>Environment</strong>: The referee may modify the probabilities based on the conditions and environment. For example, in a densely wooded area, the chance of evasion may be increased by 25%.</p><p><strong>Minimum chance</strong>: The chance of escape is always at least 5%.</p><h3><strong>Wilderness Evasion Base Chance</strong></h3><table><thead><tr><th rowspan=\"2\">Fleeing Group Size</th><th colspan=\"3\">Chance of Evasion by Number of Pursuers</th></tr></thead><tbody><tr><td>1–4</td><td>1 pursuer: [[/r 1d100]]{50%}</td><td>2-3 pursuers: [[/r 1d100]]{70%}</td><td>4+ pursuers: [[/r 1d100]]{90%}</td></tr><tr><td>5–12</td><td>1-3 pursuer: [[/r 1d100]]{35%}</td><td>4-8 pursuers: [[/r 1d100]]{50%}</td><td>9+ pursuers: [[/r 1d100]]{70%}</td></tr><tr><td>13–24</td><td>1-6 pursuers: [[/r 1d100]]{25%}</td><td>7-16 pursuers: [[/r 1d100]]{35%}</td><td>17+ pursuers: [[/r 1d100]]{50%}</td></tr><tr><td>25+</td><td>1-10 pursuers: [[/r 1d100]]{10%}</td><td>11-30 pursuers: [[/r 1d100]]{25%}</td><td>31+ pursuers: [[/r 1d100]]{35%}</td></tr></tbody></table><h3>Pursuit</h3><p>The following procedure is followed, day by day, until the pursuit is over:</p><ol><li><p>The fleeing side moves in a random direction, determined by the referee (no mapping is possible).</p></li><li><p>If the pursuing side’s movement rate is greater than that of the fleeing side,there is a [[/r 1d100]]{50%} chance of it catching up. If the roll succeeds, the fleeing side has been caught; the pursuit is over. Otherwise, continue to step 3.</p></li><li><p>The fleeing side must decide whether to continue fleeing. If it decides to continue, it may make another evasion attempt (see above). If the attempt to evade fails, return to step 1. If the fleeing group decides to stop fleeing, it is caught (the pursuit ends).</p></li></ol>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762844291124
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.TxYeWUtWR7plXIzS"
+    },
+    {
+      "sort": 1200000,
+      "name": "Combat",
+      "type": "text",
+      "_id": "ouf3QNv4dWj0L1IW",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><table border=\"1\"><tbody><tr style=\"height:250px\"><td style=\"width:257px;height:250px\"><p><strong>Combat Sequence Per Round</strong></p><ol><li><p>Declare spells and melee movement</p></li><li><p>Initiative: Each side rolls [[/r 1d6]]</p></li><li><p>Winning side acts:</p><ol type=\"a\"><li><p>Monster morale</p></li><li><p>Movement</p></li><li><p>Missile attacks</p></li><li><p>Spell casting</p></li><li><p>Melee attacks</p></li></ol></li><li><p>Other sides act: In initiative order.</p></li></ol></td></tr></tbody></table><h2>Declare Spells and Melee Movement</h2><p>Players must inform the referee if they intend to <em><strong>cast a spell</strong></em> or <em><strong>move when in melee.</strong></em> Other actions need not be declared.</p><h2>Initiative</h2><p><strong>Roll</strong> [[/r 1d6]]: For each side at the start of each round.</p><p><strong>Winner</strong>: The side with the highest roll acts first. Other sides act in order from highest to lowest roll.</p><p><strong>Ties</strong>: Either both sides may roll again or actions on both sides may be resolved simultaneously. (This means that both sides may inflict deadly blows on each other!)</p><h3>Slow Weapons</h3><p>Combatants attacking with two-handed melee weapons (and some missile weapons—as indicated in the equipment description) always act last in the round, as if they had lost initiative.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Individual Initiative (Optional Rule)<strong><br /></strong></h3><p>Instead of an initiative roll per side, a roll may be made for each individual involved in a battle, modified by DEX (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#dexterity-(dex)]{see Ability Scores}). The referee may determine an initiative modifier for monsters that are very fast or slow, instead of applying a DEX modifier.</p></td></tr></tbody></table><h2>Monster Morale (Optional Rule)</h2><p>See @UUID[.4dfEUllNr02Vm7ze]{Morale (Optional Rule)}.</p><h2>Movement</h2><h3>Outside of Melee</h3><p><strong>Movement rate</strong>: Combatants can move up to their encounter movement rate each round.</p><p><strong>Maximum duration</strong>: Combatants may move at this rate for at most 60 rounds.</p><h3>In Melee</h3><p>When in melee with a foe, only the following forms of movement are possible:</p><ul><li><p><strong>Fighting withdrawal</strong>: The combatant moves backwards at up to half their encounter movement rate. There must be a clear path for this movement.</p></li><li><p><strong>Retreat</strong>: The combatant turns and flees from melee, moving up to their full encounter movement rate. This round: the character may not attack; the opponent gains a +2 bonus to all attacks against the character and ignores any AC bonus due to the character’s shield (if applicable).</p></li></ul><h2>Missile Attacks</h2><p>Are possible when opponents are more than 5’ from one another. See Attacking.</p><h3>Range Modifiers</h3><p>All missile weapons have ranges, noted in the equipment lists.</p><ul><li><p><strong>Short range</strong>: +1 bonus to attack rolls.</p></li><li><p><strong>Medium range</strong>: No bonuses or penalties.</p></li><li><p><strong>Long range</strong>: –1 penalty to attack rolls. Beyond long range: Attack not possible.</p></li></ul><h3>Targets Behind Cover</h3><p><strong>Complete cover</strong>: The target cannot be hit.</p><p><strong>Partial cover</strong>: The referee may apply attack penalties of between –1 and –4 (e.g. a small table might incur a –1 penalty; dense woods might incur a –4 penalty).</p><h2>Spell Casting</h2><p><strong>Freedom</strong>: The spell caster must be able to speak and move their hands. A spell caster cannot cast spells if gagged, bound, or in an area of magical silence.</p><p><strong>Sole action</strong>: When casting a spell, no other actions may be taken in the round.</p><p><strong>No movement</strong>: The character cannot move and cast a spell in the same round.</p><p><strong>Line of sight</strong>: Unless noted in a spell’s description, the intended target (a specific monster, character, or area of effect) must be visible to the caster.</p><h3>Disrupting Spells</h3><p>If a spell caster loses initiative and is successfully attacked or fails a saving throw before their turn, the spell being cast is disrupted and fails. It is removed from the caster’s memory as if it had been cast.</p><h2>Melee Attacks</h2><p>Are possible when opponents are 5’ or less from each other. See <em><strong>Attacking</strong></em>.</p><h2>Other Sides Act</h2><p>Repeat steps 3a to 3e for each side, in order of initiative (highest first).</p><h2>Attacking</h2><h3>1s and 20s</h3><p>Unmodified attack rolls of 20 always hit. Unmodified attack rolls of 1 always miss.</p><h3>Invulnerabilities</h3><p>Some monsters are immune to certain attacks. In this case, even if an attack hits, damage is not rolled.</p><h3>Attacks Per Round</h3><p>PCs normally attack once per round. Some monsters have multiple attacks.</p><h3>Attacking and Moving</h3><p>Movement and attacking may be combined in the same round. </p><table border=\"1\"><tbody><tr><td style=\"width:433px\"><p><strong>Attack Rolls</strong></p><p>1. <strong>Roll </strong>[[/r 1d20]]</p><p>2. <strong>Apply modifiers</strong>: STR for melee; DEX, range, cover for missile attacks.</p><p>3. <strong>Determine hit AC</strong>: Look up the result in the attack matrix row for the attacker’s THAC0 (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.NucGY6Zfuow2EMQp#attack-matrix]{see Attack Matrix by THAC0}). This indicates the AC score that the attack hits.</p><p>4. <strong>Result</strong>: If the hit AC is equal to or lower than the opponent’s AC, the attack hits. Referee rolls for damage.</p><p><strong>Ascending Armour Class (Optional Rule)</strong></p><p>Groups using the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.ZnnIy2UP16cSbkGk#ascending-ac-(optional-rule)]{optional rule for Ascending AC} should use the following attack procedure instead.</p><p>1. <strong>Roll </strong>[[/r 1d20]]</p><p>2. <strong>Apply modifiers</strong>: STR for melee; DEX, range, cover for missile attacks.</p><p>3. <strong>Determine hit AC:</strong> Add the character’s attack bonus to the attack roll. The result is the ascending AC score the attack hits.</p><p>4. <strong>Result</strong>: If the hit AAC is equal to or higher than the opponent’s AAC, the attack hits. Referee rolls for damage.</p></td></tr></tbody></table><h3>Rolling for Damage</h3><p><strong>PC attacks</strong>: Inflict [[/r 1d6]] damage. Damage of melee attacks is modified by STR.</p><p><strong>Monster attacks</strong>: Deal the damage indicated in the monster’s description.</p><p><strong>Minimum damage</strong>: An attack which hits always deals at least one point of damage, even when damage modifiers reduce the number rolled to 0 or less.</p><p><strong>Death</strong>: A character or monster reduced to 0 hit points or less is killed.</p><table border=\"1\"><tbody><tr><td style=\"width:433px\"><h3>Variable Weapon Damage (Optional Rule)</h3><p>Some groups may prefer different weapons to inflict different amounts of damage. In this case, PC attacks inflict the damage indicated for the weapon in the equipment lists</p></td></tr></tbody></table>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.ouf3QNv4dWj0L1IW"
+    },
+    {
+      "sort": 1300000,
+      "name": "Other Combat Issues",
+      "type": "text",
+      "_id": "lCY9764ojkqtdswC",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Attacking from Behind</h2><p>AC bonuses from shields are negated.</p><h2>Attacking with Two Weapons (Optional Rule)</h2><p>Characters with DEX or STR as a prime requisite may choose to wield two one-handed weapons, as follows:</p><ul><li><p>The secondary weapon must be of small size (e.g. a dagger or hand axe).</p></li><li><p>Attacks with the primary weapon suffer a –2 penalty.</p></li><li><p>The character may make one extra attack per round with the secondary weapon, at a –4 attack penalty.</p></li></ul><h2>Blindness</h2><p>A blind character is unable to attack.</p><h2>Bombing</h2><p>Flying creatures may pick up rocks or other objects and drop them from above.</p><p><strong>Altitude</strong>: At most 300’.</p><p><strong>Chance to hit</strong>: 16 or higher on [[/r 1d20]].</p><p><strong>Affected area and damage</strong>: Depend on the size of the bomb—larger creatures can carry larger bombs. For example, a bomb from a flying creature able to carry a human might inflict [[/r 2d6]] damage to all creatures hit in a 10’ × 10’ area.</p><h2>Charging into Melee (Optional Rule)</h2><p>Once per combat, a character may charge into melee and attack, as follows:</p><ul><li><p>The character moves at least 20’ (20 yards in the wilderness) before attacking. There must be a clear run.</p></li><li><p>The character gains a +2 bonus to attack this round.</p></li><li><p>The character’s AC is penalised by 1 this round.</p></li><li><p>Weapons that may be braced against charging monsters are also effective against charging characters.</p></li></ul><h2>Invulnerabilities (Optional Rule)</h2><p>Some monsters can only be harmed by magical or silver weapons. The referee may allow such monsters to also be harmed by attacks from:</p><ul><li><p>Another invulnerable monster.</p></li><li><p>A monster with 5 HD or greater. </p></li></ul><h2>Missile Attacks on Targets in Melee (Optional Rule)</h2><p>The constant and unpredictable movement of characters in melee makes firing or throwing missile weapons at combatants an uncertain proposition.</p><p>When this happens, randomly determine which character in the melee is actually targeted by the missile attack before making the attack roll.</p><p>Typically, all characters involved in the melee have the same chance of being targeted, but especially large creatures may count as two or more characters.</p><h2>Paralysed Opponents</h2><p>Helpless opponents, such as those magically paralysed or frozen, can be automatically hit in melee. Only a roll for damage is required.</p><h2>Parrying (Optional Rule)</h2><p>Characters with a STR of 13 or above may opt to act purely defensively in melee, forfeiting their attack that round. When parrying, the character’s STR bonus to melee attacks is applied as an Armour Class bonus that round.</p><h2>Spacing</h2><p>The referee should judge how many attackers can strike at a single opponent, bearing in mind the size of the opponent and the available space around it.</p><p><strong>10’ passage:</strong> Normally at most 2-3 characters can fight side-by-side in a 10’ wide passageway.</p><h2>Splash Weapons (Optional Rule)</h2><p><strong>Targeting a Surface</strong></p><p>Characters may attempt to throw a splash weapon so that it smashes on a hard surface close to one or more creatures. This is handled as an attack against AC 9 [10]. If the attack succeeds, all creatures within 5’ are splashed with the liquid and, if it is harmful to them, suffer 1d2 damage.</p><p><strong>Misses</strong></p><p>When an attack with a splash weapon misses its target (whether a character or a surface), it lands in a random location:</p><ul><li><p>Roll [[/r 1d12]] to determine the direction, interpreting the roll as a clock-face direction.</p></li><li><p>The container smashes 5’ from the intended target in the specified direction.</p></li><li><p>Creatures within 5’ of this location are splashed with the liquid. If it is harmful to them, they suffer [[/r 1d2]] damage.</p></li></ul><h2>Subduing (Optional Rule)</h2><p>Characters that wish to subdue an intelligent opponent must announce that they are attacking without the intent to kill.</p><p><strong>Blunt blows</strong>: Only bludgeoning attacks may be made. Bladed melee weapons may be employed to deal blunt blows with the flat of the blade.</p><p><strong>Subdual damage</strong>: Combat and damage are calculated normally, but subdual damage is noted separately from actual damage.</p><p><strong>Effect at 0hp</strong>: An intelligent character or monster reduced to 0 hit points due to subdual damage will surrender, realising that its opponent could have killed it.</p><h2>Unarmed Attacks</h2><p><strong>Attack rolls</strong>: Unarmed combat is handled the same as melee combat.</p><p><strong>Damage</strong>: Unarmed attacks inflict [[/r 1d2]] damage, modified by STR. </p><h2>Unstable Surfaces</h2><p>Characters on an unstable surface, such as a ship in rough seas or riding a flying animal, are affected as follows:</p><ul><li><p><strong>Missile attacks</strong>: Suffer a –4 penalty.</p></li><li><p><strong>Spells</strong>: Cannot be cast.</p></li><li><p><strong>Magic items</strong>: Can be used normally. Note that magical means of flight (e.g. a magic broom, carpet, or the fly spell) generally do not count as unstable.</p></li></ul><h2>Water</h2><p>When fighting in or beneath water:</p><ul><li><p><strong>Penalties</strong>: Attack and damage rolls should be penalised.</p></li><li><p><strong>Missile weapons</strong>: Usually do not work at all underwater.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.lCY9764ojkqtdswC"
+    },
+    {
+      "sort": 1400000,
+      "name": "Morale (Optional Rule)",
+      "type": "text",
+      "_id": "4dfEUllNr02Vm7ze",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>In combat, the referee decides whether monsters or NPCs surrender or run away. The following system may be utilised.</p><h2>Morale Rating</h2><p>Monsters have a listing for morale, rated from 2 to 12, which represents how likely they are to fight or flee. Higher morale scores indicate more fearless monsters.</p><p><strong>A score of 2: </strong>Means the monster never fights. No morale checks should be made.</p><p><strong>A score of 12: </strong>Means the monster will fight until killed, never checking morale.</p><h2>Morale Checks</h2><p>The referee rolls [[/r 2d6]] and compares the result against the monster’s morale score:</p><ul><li><p>Higher than morale score: The monster will surrender or attempt to flee.</p></li><li><p>Equal to or lower than morale score: The monster will continue to fight.</p></li></ul><p><strong>Two successes</strong>: If a monster makes two successful morale checks in an encounter, it will fight until killed, with no further checks necessary.</p><h2>When to Check Morale</h2><p>The referee usually makes a morale check for monsters under two conditions:</p><p><strong>First death on side</strong>: The first time one of their number is killed in battle.</p><p><strong>Side half incapacitated</strong>: When half the monsters have been killed or otherwise incapacitated.</p><h2>Situational Adjustments</h2><p>The referee may decide to apply bonuses or penalties to morale (from –2 to +2), depending on the circumstances. For example, the side that is losing or winning might receive a penalty or bonus to morale of –1 or +1, respectively.</p><p><strong>Scores of 2 or 12</strong>: Adjustments are never applied to monsters with a morale of 2 or 12.</p><h2>Mercenary Morale</h2><p>@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.r9gEFXti3Vox9BTA.JournalEntryPage.sY8MkOu90iRf4gJo#mercenaries$1]{Mercenaries} have a morale rating and check morale in exactly the same way as monsters.</p><p><strong>Morale rating</strong>: Determined solely by the type of troops, see below. The CHA of the hiring character has no influence.</p><p><strong>Modifiers</strong>: The morale score of a group of mercenaries may be modified based on working conditions, at the referee’s discretion. If mercenaries from the group are being killed frequently or subjected to other abuses, morale will be low. If the mercenaries are enjoying riches and excitement, it might be higher.</p><p> </p><p><strong>Mercenary Morale</strong></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p><strong>Troop Type</strong></p></td><td style=\"height:17px;width:346px\"><p><strong>Morale</strong></p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>Untrained, militia</p></td><td style=\"height:17px;width:346px\"><p>6</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>Barbarian horde</p></td><td style=\"height:17px;width:346px\"><p>7</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>Trained warriors</p></td><td style=\"height:17px;width:346px\"><p>8</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>Mounted </p></td><td style=\"height:17px;width:346px\"><p>+1</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>Elite troops</p></td><td style=\"height:17px;width:346px\"><p>+1</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>Fanatics, berserkers </p></td><td style=\"height:17px;width:346px\"><p>+2</p></td></tr></tbody></table><p><strong>Retainer Morale</strong></p><p>Retainers signed up to work as adventurers, so are not frightened off at the first sign of danger. Retainers do not make morale checks in combat, but a loyalty check may be required in extreme peril (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.r9gEFXti3Vox9BTA.JournalEntryPage.2hLpr10WJquHpJHk#when-to-check-loyalty]{Retainers}).</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.4dfEUllNr02Vm7ze"
+    },
+    {
+      "sort": 1500000,
+      "name": "Combat Tables",
+      "type": "text",
+      "_id": "NucGY6Zfuow2EMQp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>These tables list the attack probabilities for all monsters and characters and the saving throw values used by monsters and normal humans.</p><h2>Normal Humans</h2><p>All humans who are not a member of an adventuring class are classified as <em><strong>normal humans</strong></em>. They are treated as having less than 1 Hit Die and have their own saving throw and attack probabilities (the table rows labelled NH).</p><h2>Example of Making an Attack Roll</h2><p>A 5th level fighter attacks a monster with AC 4. The attack is resolved as follows:</p><ol><li><p>The player rolls 1d20. The roll comes up 14.</p></li><li><p>The fighter has a STR score of 13, meaning they gain a +1 bonus to me- lee attack rolls. The result of the attack roll is thus 15.</p></li><li><p>A 5th level fighter has a THAC0 score of 17 [+2] (listed in the class descrip- tion), so the player refers to that row of the attack matrix.</p></li><li><p>The player looks up the result (15) in the THAC0 17 [+2] attack matrix row. 15 is in the AC 2 column, indicating that the attack hits AC 2.</p></li><li><p>As AC 2 is better than the monster’s Armour Class (4), the attack hits!</p></li><li><p>Damage is rolled and the result subtracted from the monster’s current hit point total.</p></li></ol><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p><strong>Attack Rolls Using THAC0 (Optional Rule)</strong></p><p>Instead of referring to the attack matrix, attacks may be resolved using THAC0 directly. A THAC0 score denotes the attack roll required to hit AC 0. The attack roll required to hit opponents of other AC scores can be calculated by subtracting the target AC from the THAC0. For example, a character with a THAC0 of 19 could hit an opponent with AC 5 on a roll of 14 or greater (19 – 5 = 14).</p><p>Note: Using THAC0 to resolve attack rolls results in very slightly different attack probabilities than when using the traditional approach of referring to the attack matrix.</p></td></tr></tbody></table><h2>Attack Matrix</h2><table class=\"ose-table\"><thead><tr class=\"oset-trans-bg\"><th colspan=\"5\"> </th><th colspan=\"10\"><strong>Attack Roll to Hit AC</strong></th></tr><tr class=\"oset-trans-bg\"><th><strong>Monster HD</strong></th><th><strong>THAC0</strong></th><th><strong>-3</strong></th><th><strong>-2</strong></th><th><strong>-1</strong></th><th><strong>0</strong></th><th><strong>1</strong></th><th><strong>2</strong></th><th><strong>3</strong></th><th><strong>4</strong></th><th><strong>5</strong></th><th><strong>6</strong></th><th><strong>7</strong></th><th><strong>8</strong></th><th><strong>9</strong></th></tr></thead><tbody><tr><td>NH</td><td>20 [-1]</td><td>20</td><td>20</td><td>20</td><td>20</td><td>19</td><td>18</td><td>17</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td></tr><tr><td>Up to 1</td><td>19 [0]</td><td>20</td><td>20</td><td>20</td><td>19</td><td>18</td><td>17</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td></tr><tr><td>1+ to 2</td><td>18 [+1]</td><td>20</td><td>20</td><td>19</td><td>18</td><td>17</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td></tr><tr><td>2+ to 3</td><td>17 [+2]</td><td>20</td><td>19</td><td>18</td><td>17</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td></tr><tr><td>3+ to 4</td><td>16 [+3]</td><td>19</td><td>18</td><td>17</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td></tr><tr><td>4+ to 5</td><td>15 [+4]</td><td>18</td><td>17</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td></tr><tr><td>5+ to 6</td><td>14 [+5]</td><td>17</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td></tr><tr><td>6+ to 7</td><td>13 [+6]</td><td>16</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td></tr><tr><td>7+ to 9</td><td>12 [+7]</td><td>15</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr><td>9+ to 11</td><td>11 [+8]</td><td>14</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td></tr><tr><td>11+ to 13</td><td>10 [+9]</td><td>13</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>13+ to 15</td><td>9 [+10]</td><td>12</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>2</td><td>2</td></tr><tr><td>15+ to 17</td><td>8 [+11]</td><td>11</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>17+ to 19</td><td>7 [+12]</td><td>10</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>19+ to 21</td><td>6 [+13]</td><td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>21+ or more</td><td>5 [+14]</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr></tbody></table><p><strong>Monsters:</strong> Use the attack matrix row for their Hit Dice (see monster description).</p><p><strong>Monsters with bonus hit points:</strong> Monsters whose Hit Dice are notated as a number of dice plus a fixed hit point bonus (e.g. HD 2+1) are more powerful and attack as if they were 1 HD higher. For example, a monster with 2 HD uses the THAC0 18 [+1] row, but a monster with 2+1 HD uses the THAC0 17 [+2] row.</p><p><strong>Characters:</strong> Use the attack matrix row for their THAC0 score (see class description).</p><p><strong>Normal humans:</strong> Use the attack matrix row labelled NH.</p><h2>Monster Saving Throws</h2><table class=\"ose-table\"><thead><tr><th><strong>Hit Dice</strong></th><th><strong>Death</strong></th><th><strong>Wands</strong></th><th><strong>Paralysis</strong></th><th><strong>Breath</strong></th><th><strong>Spells</strong></th></tr></thead><tbody><tr><td>NH</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>1-3</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>4-6</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr><tr><td>7-9</td><td>8</td><td>9</td><td>10</td><td>10</td><td>12</td></tr><tr><td>10-12</td><td>6</td><td>7</td><td>8</td><td>8</td><td>10</td></tr><tr><td>13-15</td><td>4</td><td>5</td><td>6</td><td>5</td><td>8</td></tr><tr><td>16-18</td><td>2</td><td>3</td><td>4</td><td>3</td><td>6</td></tr><tr><td>19-21</td><td>2</td><td>2</td><td>2</td><td>2</td><td>4</td></tr><tr><td>22 or more</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr></tbody></table><p><strong>Monsters:</strong> Use the saving throw table row noted in the monster description.</p><p><strong>Characters:</strong> Do not use this table. See the saving throw table in the class description.</p><p><strong>Normal humans:</strong> Use the saving throw table row labled NH.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761374527476
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!u9gtXY21VnjrwwkH.NucGY6Zfuow2EMQp"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "u9gtXY21VnjrwwkH",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!u9gtXY21VnjrwwkH"
+}

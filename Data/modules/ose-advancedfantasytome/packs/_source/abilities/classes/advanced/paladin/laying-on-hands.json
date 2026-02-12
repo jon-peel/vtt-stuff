@@ -1,0 +1,36 @@
+{
+  "_id": "e2GNoHLWu5pJJUdQ",
+  "name": "Laying On Hands",
+  "type": "ability",
+  "img": "icons/magic/fire/flame-burning-hand-white.webp",
+  "effects": [],
+  "folder": "AHz82IIt2Yr2Zxqi",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Once per day, a paladin can heal 2 hit points per level by laying their hands on wounded characters. Additionally, a paladin of 5th level or higher may cure disease once per week by laying on hands.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "paladin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159962011,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!e2GNoHLWu5pJJUdQ"
+}

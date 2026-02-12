@@ -1,0 +1,21 @@
+{
+  "type": "Actor",
+  "folder": "a8jU0gv8Ev6TwOmI",
+  "name": "Figurine",
+  "color": "#209f40",
+  "sorting": "a",
+  "_id": "VleuDDxjk9WIYmy2",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "lastModifiedBy": "osebuilder000000",
+    "modifiedTime": 1763375337227
+  },
+  "_key": "!folders!VleuDDxjk9WIYmy2"
+}

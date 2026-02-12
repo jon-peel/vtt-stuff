@@ -1,0 +1,37 @@
+{
+  "_id": "g0OeDC0eo5b3R1Oy",
+  "name": "Cause Serious Wounds",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "hQiAgT9TyM2uGpZ3",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Inflicts [[/r 2d6+2]] hit points of damage to a touched creature. In combat, a melee attack roll is required.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "instant",
+    "range": "touch",
+    "roll": "2d6+2",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449379430,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!g0OeDC0eo5b3R1Oy"
+}

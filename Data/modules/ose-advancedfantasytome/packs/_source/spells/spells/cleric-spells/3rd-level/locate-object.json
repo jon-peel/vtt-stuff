@@ -1,0 +1,37 @@
+{
+  "_id": "oRSJRW3WU9tv8PCg",
+  "name": "Locate Object",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "a8U83GTRvuz41jM1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The caster can sense the direction (but not distance) of an object. One of two types of object may be located:</p><ol><li><p><strong>General class:</strong> An object of a general class (e.g. a stairway, an altar, etc). In this case, the nearest object of that type is located.</p></li><li><p><strong>Specific object:</strong> A specific object which the caster can clearly visualise in all aspects.</p></li></ol><p><strong>Restrictions:</strong> This spell cannot be used to locate creatures.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449353377,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!oRSJRW3WU9tv8PCg"
+}

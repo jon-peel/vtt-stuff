@@ -1,0 +1,37 @@
+{
+  "_id": "k9KkPNI9OZVVpThA",
+  "name": "Blight",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Uomj8iwM0LC6tcoG",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Incurs a –1 penalty to morale checks, attacks rolls, and damage rolls of enemies within a 20’ square area. A <strong>save versus spells</strong> is allowed to resist the <em>blight</em>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160035547,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!k9KkPNI9OZVVpThA"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, +3 vs Dragons",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-flanged.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Bonus: </strong>Enchanted weapons specify a bo- nus that is applied to both attack rolls and damage rolls made with the weapon.</p>\n<p><strong>Bonus vs creature type:</strong> Some weapons have a special bonus when used against a certain type of creature.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.350",
+    "createdTime": 1685073144196,
+    "modifiedTime": 1761372586767,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "irgd54MBOOAf1D7Z",
+  "sort": 2400000,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!irgd54MBOOAf1D7Z"
+}

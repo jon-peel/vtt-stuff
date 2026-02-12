@@ -1,0 +1,7 @@
+2026/02/12-12:53:47.404 2424 Recovering log #31
+2026/02/12-12:53:47.410 2424 Delete type=0 #31
+2026/02/12-12:53:47.410 2424 Delete type=3 #30
+2026/02/12-13:41:41.959 5adc Level-0 table #35: started
+2026/02/12-13:41:41.959 5adc Level-0 table #35: 0 bytes OK
+2026/02/12-13:41:41.960 5adc Delete type=0 #33
+2026/02/12-13:41:42.075 5adc Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

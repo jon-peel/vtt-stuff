@@ -1,0 +1,37 @@
+{
+  "_id": "W5pgN2EzhUP9jCdZ",
+  "name": "Triggered Illusion",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>An area within range is enchanted to produce an illusion of the caster’s choosing —including sounds, smells, and thermal elements—when a specified triggering condition occurs. Once triggered, the illusion manifests in a 20’ cube area, remaining for up to 1 round per level. The enchantment then ends. Three types of illusion may be created:</p><ol><li><p><strong>An illusionary monster:</strong> That can be directed to attack. The monster has AC 5 [14]. If it is hit in combat, the attacker may save versus spells. If the save succeeds, the attacker realises the illusory nature of the monster and can no longer be harmed by it.</p></li><li><p><strong>An illusionary attack:</strong> For example, an avalanche, a falling ceiling, a magic missile, etc. Targets who <em><strong>save versus spells</strong></em> are unaffected.</p></li><li><p><strong>A scene:</strong> Either changing the appearance of the affected area or creating the appearance of something new. The scene disappears if touched.</p></li></ol><p><strong>Stipulations:</strong> The following apply:</p><ul><li><p><strong>Responsiveness:</strong> The illusion behaves and responds as decided by the caster when the spell is cast.</p></li><li><p><strong>Illusionary monsters:</strong> May appear to be harmful but never inflict real damage. A character who appears to die actually falls unconscious, a character turned to stone will actually be paralysed, and so on. Such effects last for [[/r 1d4]] turns.</p></li><li><p><strong>Illusions from imagination:</strong> If the illusion is of something the caster has not personally seen, the referee should grant targets a bonus to any applicable saving throws.</p></li></ul><p><strong>The trigger condition:</strong> May be as broad or as specific as the caster wishes, and may include conditions on objects in the enchanted area being touched or on the presence of creatures in the area. It may only take visual appearances into account (e.g. it cannot discern the alignment, class, level, etc. of creatures who pass through).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "Permanent until triggered, then 1 round per level",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452493828,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!W5pgN2EzhUP9jCdZ"
+}

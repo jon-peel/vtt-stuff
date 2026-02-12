@@ -1,0 +1,39 @@
+{
+  "name": "Wand of Radiance",
+  "type": "item",
+  "img": "icons/weapons/wands/wand-gem-red.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1500000,
+  "flags": {},
+  "_id": "IwyFCs0MrCMRB9Ee",
+  "system": {
+    "description": "<p>Has three different light-bringing effects.</p><ul><li><p><strong>Light:</strong> Expending one charge conjures light in a 15’ radius, lasting for 6 turns. The light may be caused to emanate from a location or object within 120’.</p></li><li><p><strong>Continual light:</strong> Expending 2 charges conjures permanent light with a 30’ radius. The light may be caused to emanate from a location or object within 120’.</p></li><li><p><strong>Burst of sunlight:</strong> Expending 3 charges conjures a momentary flash of blazing golden light rays, emanating from a point within 120’. Undead creatures within 40’ of the flash suffer [[/r 6d6]] damage. Creatures viewing the flash must save versus wands or be blinded for 1 round.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445085295,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!IwyFCs0MrCMRB9Ee"
+}

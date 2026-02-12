@@ -1,0 +1,36 @@
+{
+  "_id": "Tbxii0fa5C1V6Ore",
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "EEvlsnBupX1MArIu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A thief can establish a thief den, attracting 2d6 apprentices of 1st level. These thieves will serve the character with some reliability; however, should any be arrested or killed, the PC will not be able to attract apprentices to replace them. A successful thief might use these followers to start a Thieves&rsquo; Guild.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "thief",
+    "roll": "2d6",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159959334,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Tbxii0fa5C1V6Ore"
+}

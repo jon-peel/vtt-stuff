@@ -1,0 +1,37 @@
+{
+  "name": "Whispering Wind",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "6myl9UJvzNcU8Vjy",
+  "sort": 0,
+  "flags": {},
+  "_id": "CQvFY3Rwod9HBxQx",
+  "system": {
+    "description": "<p>This spell allows the caster to send a message or other, non-verbal sound via the wind to a distant location within range.</p><ul><li><p><strong>The destination:</strong> Must be known to the caster.</p></li><li><p><strong>The message:</strong> Up to 100 words or one minute of non-verbal sound.</p></li><li><p><strong>Rate:</strong> The message travels on the wind, unnoticed, at one mile per turn.</p></li><li><p><strong>Delivery:</strong> Once it reaches the designated destination, the wind delivers the caster’s message. The message is whisper quiet, relayed by the susurrations of the air, but can be heard by all within 30’. The message is delivered at the location whether or not anyone is present to hear it.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Illusionist",
+    "duration": "Special",
+    "range": "1 mile per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451446792,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CQvFY3Rwod9HBxQx"
+}

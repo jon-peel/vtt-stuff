@@ -1,0 +1,19 @@
+{
+  "name": "Dwarf",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "TX9cD07CSUAdxCmL",
+  "sort": 0,
+  "color": "#00aa3d",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460397173,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!TX9cD07CSUAdxCmL"
+}

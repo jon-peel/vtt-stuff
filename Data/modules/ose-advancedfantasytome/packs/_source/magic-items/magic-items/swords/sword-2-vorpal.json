@@ -1,0 +1,54 @@
+{
+  "name": "Sword +2, Vorpal",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-flanged-purple.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 100000,
+  "flags": {},
+  "_id": "1vUpqHPMOXn85ILt",
+  "system": {
+    "description": "<p>An incredibly sharp blade which can decapitate enemies.</p><ul><li><p><strong>Severing:</strong> On an attack roll of natural 18, 19, or 20, the target is decapitated. Against larger than human-sized targets, only a natural 19 or 20 decapitates, and against targets of solid stone or metal, only a natural 20.</p></li><li><p><strong>Restrictions:</strong> Creatures without a head are unaffected. Some creatures with heads (e.g. constructs, elementals) are not killed by decapitation.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 2,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445859247,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1vUpqHPMOXn85ILt"
+}

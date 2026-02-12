@@ -1,0 +1,41 @@
+{
+  "name": "Wand of Paralysation",
+  "type": "item",
+  "img": "icons/weapons/wands/wand-gem-green.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "flags": {},
+  "system": {
+    "description": "<p>Conjures a cone of paralysing energy.</p><ul><li><p><strong>Area:</strong> The cone is 60’ long and 30’ wide at the far end.</p></li><li><p><strong>Creatures caught in the cone:</strong> Are paralysed for 6 turns, with a successful <strong>save versus wands</strong> negating the effect.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 20,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761370903326,
+    "modifiedTime": 1761445046597,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "xljvAUBG963Khgbe",
+  "sort": 0,
+  "_key": "!items!xljvAUBG963Khgbe"
+}

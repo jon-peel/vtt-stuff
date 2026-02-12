@@ -1,0 +1,59 @@
+{
+  "name": "Spear –1, Backbiter (Cursed)",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-flared-steel.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 1600000,
+  "flags": {},
+  "_id": "PIBrT9D6ZqqVsGc3",
+  "system": {
+    "description": "<p>A cursed spear which attacks its wielder.</p><ul><li><p><strong>Natural 1:</strong> On an attack roll of natural 1, the spear inflicts damage on its wielder.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 20,
+      "medium": 40,
+      "long": 60
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": -1,
+    "tags": [
+      {
+        "title": "Brace",
+        "value": "Brace"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446064605,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!PIBrT9D6ZqqVsGc3"
+}

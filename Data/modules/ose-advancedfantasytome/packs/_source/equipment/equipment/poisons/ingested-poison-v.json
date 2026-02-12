@@ -1,0 +1,41 @@
+{
+  "name": "Ingested Poison: V",
+  "type": "item",
+  "img": "icons/consumables/potions/bottle-corked-green.webp",
+  "system": {
+    "description": "<p>Ingested poisons take effect when swallowed by the victim. A vial of poison is enough to poison one victim.</p><table style=\"border-collapse: collapse; width: 100%; font-size: 0.92em;\"><thead><tr><th style=\"padding: 4px; border-bottom: 1px solid #ccc; white-space: normal; word-break: keep-all;\">Save Mod.</th><th style=\"padding: 4px; border-bottom: 1px solid #ccc; white-space: nowrap;\">Detection</th><th style=\"padding: 4px; border-bottom: 1px solid #ccc; white-space: nowrap;\">Onset</th><th style=\"padding: 4px; border-bottom: 1px solid #ccc; white-space: normal; word-break: keep-all;\">Save Success</th><th style=\"padding: 4px; border-bottom: 1px solid #ccc; white-space: normal; word-break: keep-all;\">Save Failure</th></tr></thead><tbody><tr><td style=\"padding: 4px;\">+2</td><td style=\"padding: 4px;\">0%</td><td style=\"padding: 4px;\">[[/r 1d4]] turns</td><td style=\"padding: 4px;\">30 hp damage</td><td style=\"padding: 4px;\">Death</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 1000,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "effects": [],
+  "folder": "I8Pdr5KVk8bGLKvN",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761105268933,
+    "modifiedTime": 1761105268933,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "uIh0k8GFsi1wGsWB",
+  "sort": 0,
+  "_key": "!items!uIh0k8GFsi1wGsWB"
+}

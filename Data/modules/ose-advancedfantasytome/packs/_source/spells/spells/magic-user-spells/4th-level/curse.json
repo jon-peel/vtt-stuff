@@ -1,0 +1,37 @@
+{
+  "name": "Curse",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M6Syp5PYARwNUKsf",
+  "sort": 0,
+  "flags": {},
+  "_id": "xz25h3zISMJMr25X",
+  "system": {
+    "description": "<p>Places a deleterious effect upon a creature, if it fails a <strong>save versus spells</strong>.</p><ul><li><p><strong>Effects:</strong> The exact form and effects of the curse are determined by the caster.</p></li><li><p><strong>Maximum possible effects include:</strong> A –2 penalty to saving throws, a –4 penalty to hit, reducing an ability score by 50%.</p></li><li><p><strong>Multiple curses:</strong> May afflict a creature, as long as each has a different effect.</p></li><li><p><strong>Referee judgement:</strong> The referee should judge the effects of this spell and may turn overly powerful curses back onto the caster!</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453695966,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xz25h3zISMJMr25X"
+}

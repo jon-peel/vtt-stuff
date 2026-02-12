@@ -1,0 +1,44 @@
+{
+  "_id": "nTfKpjIxE0eUOCB1",
+  "name": "Folding Boat",
+  "type": "item",
+  "img": "icons/environment/settlement/ship.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 10600000,
+  "flags": {},
+  "system": {
+    "description": "<p>A normal-seeming wooden box (about 1’ cube) which magically unfolds into a boat or ship when the correct command word is spoken.</p><ul><li><p><strong>Boat:</strong> One command word causes the box to unfold into a small river boat (length 10’, beam 4’, draft 2’), with oars, a sail, and an anchor. The boat can hold up to 4 human-sized characters and up to 5,000 coins of cargo. It has a movement rate of 150’ (50’) rowed and 240’ (80’) sailed, AC 8 [11], and [[/r 1d10 + 10]] hull points.</p></li><li><p><strong>Ship:</strong> Another command word causes the box to unfold into a small sailing ship (length 24’, beam 8’, draft 6’), with 5 sets of oars, a sail, a cabin, and an anchor. The ship can hold up to 15 human-sized characters and up to 15,000 coins of cargo. It has a movement rate of 180’ (60’) rowed and 360’ (180’) sailed, AC 8 [11], and [[/r 1d20 + 20]] hull points.</p></li><li><p><strong>Folding down:</strong> The boat or ship folds back down into a box when a third command word is uttered.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431020499,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nTfKpjIxE0eUOCB1"
+}

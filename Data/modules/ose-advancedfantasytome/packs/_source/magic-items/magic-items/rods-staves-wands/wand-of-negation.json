@@ -1,0 +1,54 @@
+{
+  "name": "Wand of Negation",
+  "type": "weapon",
+  "img": "icons/weapons/wands/wand-skull-feathers.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 800000,
+  "flags": {},
+  "_id": "7kWa5dbB4DINulZM",
+  "system": {
+    "description": "<p>Has the power to negate the effects of other wands or staves.</p><ul><li><p><strong>Declare intent:</strong> Before rolling initiative, the wielder of the wand must declare the intention to use it.</p></li><li><p><strong>Target:</strong> Another wand or staff must be targeted.</p></li><li><p><strong>Effect:</strong> The effects of the targeted item are negated for one round.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 20,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445038900,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7kWa5dbB4DINulZM"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Slow Poison",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "TDQzHoPtU6S9sSNc",
+  "sort": 0,
+  "flags": {},
+  "_id": "4JeLh0J9cXIcrJbq",
+  "system": {
+    "description": "<p>Poisons affecting the subject are dramatically slowed, giving the caster time to effect a full cure.</p><ul><li><p><strong>Poison effects:</strong> As long as the subject has more than 1 hit point, the slowed poison inflicts 1hp of damage per turn. If the subject is at 1hp, the poison inflicts no further damage.</p></li><li><p><strong>Characters killed by poison:</strong> Can be revived by this spell. Death must have occurred within one turn per level of the caster.</p></li><li><p><strong>Natural poisons:</strong> If the subject was poisoned by a natural plant or animal, the caster has a 10% chance per level of knowing a herbal antidote that will fully neutralize the poison. In the wilderness, gathering the herbs for the antidote takes one turn. In a settlement, the herbs may be available for purchase from a herbalist.</p></li><li><p><strong>When the duration ends:</strong> The full effects of the poison occur. If the subject was revived from death by this spell, they die once more</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Druid",
+    "duration": "1 hour/lvl",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449810037,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4JeLh0J9cXIcrJbq"
+}

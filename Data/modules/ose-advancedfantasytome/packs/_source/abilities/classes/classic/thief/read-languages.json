@@ -1,0 +1,36 @@
+{
+  "_id": "uxEEHnsp5GHgCg7Y",
+  "name": "Read Languages",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-brown.webp",
+  "effects": [],
+  "folder": "EEvlsnBupX1MArIu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A thief of 4th level or higher can read non-magical text in any language (including dead languages and basic codes) with 80% probability. If the roll does not succeed, the thief may not try to read that particular text again until they reach a higher level of experience.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "thief",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 80,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159966093,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uxEEHnsp5GHgCg7Y"
+}

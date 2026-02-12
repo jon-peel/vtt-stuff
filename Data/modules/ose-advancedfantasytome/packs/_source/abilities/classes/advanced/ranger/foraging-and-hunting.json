@@ -1,0 +1,36 @@
+{
+  "_id": "2vt1dDWPT2G9X4MA",
+  "name": "Foraging and Hunting",
+  "type": "ability",
+  "img": "icons/magic/nature/mushroom-glow-red.webp",
+  "effects": [],
+  "folder": "VeevuJykXLRx7ycw",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A party with a ranger succeeds at foraging with a 2-in-6 [[/r 1d6]]chance and finds prey when hunting with a 5-in-6 [[/r 1d6]]chance (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.MZcvVTyQEgxgSXic]{Wilderness Adventuring}).</p><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "ranger",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.0",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1750641931030,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!2vt1dDWPT2G9X4MA"
+}

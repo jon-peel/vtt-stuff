@@ -1,0 +1,44 @@
+{
+  "_id": "IxqaCnOjC4pd1OXD",
+  "name": "Cloak of the Manta Ray",
+  "type": "item",
+  "img": "icons/equipment/back/cloak-collared-blue-iron.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A leather cloak which wraps around the wearer when submerged in salt water, granting them abilities like those of a manta ray.</p><ul><li><p><strong>Breathing water:</strong> The wearer can breathe underwater.</p></li><li><p><strong>Movement:</strong> The wearer can swim at 180’ (60’) with ray-like wings.</p></li><li><p><strong>Armour Class:</strong> The wearer’s AC is 6 [13], unless improved by magical armour or protective devices.</p></li><li><p><strong>Attacks:</strong> The wearer can attack once a round with a tail barb (for [[/r 1d6]] damage) and may also free their arms from the cloak to make other attacks.</p></li><li><p><strong>Disguise:</strong> While wearing the cloak underwater, the wearer is [[/br 1d100]]{90%} indistinguishable from a real manta ray.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427479323,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!IxqaCnOjC4pd1OXD"
+}

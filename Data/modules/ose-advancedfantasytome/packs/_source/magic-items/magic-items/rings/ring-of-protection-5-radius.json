@@ -1,0 +1,41 @@
+{
+  "name": "Ring of Protection, 5' Radius",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-cabochon-gold-green.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "flags": {},
+  "system": {
+    "description": "<p>Grants a measure of protection from harm:</p><ul><li><p><strong>Armour Class:</strong> A +1 AC bonus.</p></li><li><p><strong>Saving throws:</strong> A +1 bonus to all saves.</p></li></ul><p>Allies within 5’ of the wearer also benefit from the ring’s protective power. For example, two characters fighting beside the wearer of the ring would gain the protective benefit.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761370355348,
+    "modifiedTime": 1761370565271,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "h7QqLJPRr9hssmnH",
+  "sort": 300000,
+  "_key": "!items!h7QqLJPRr9hssmnH"
+}

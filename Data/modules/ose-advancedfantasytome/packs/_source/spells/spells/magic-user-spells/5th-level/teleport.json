@@ -1,0 +1,37 @@
+{
+  "_id": "Zvkn56CzsC7cCw08",
+  "name": "Teleport",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "GbNTKS9IfubrrhPn",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The caster or a chosen creature vanishes and reappears at a location of the caster’s choosing.</p><ul><li><p><strong>Gear:</strong> The subject is teleported with all its gear, up to its maximum load.</p></li><li><p><strong>Unwilling subjects:</strong> May <strong>save versus spells</strong> to prevent the teleportation.</p></li><li><p><strong>Destination:</strong> May be at any distance, but must be known to the caster. The destination must be an open space at ground level. (It is not possible to intentionally teleport the subject into mid-air or into solid matter.)</p></li><li><p><strong>Risk:</strong> There is a risk, when teleporting, of accidentally arriving above or below ground level. The chance of a successful teleportation depends on the caster’s knowledge of the destination (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.5bcXC9ougUPEBFoY#teleport]{see full description}). Roll [[/r d100]] and consult the table below.</p></li></ul><table style=\"width:100%; font-size: 0.93em; table-layout: fixed; border-collapse: collapse;\"><thead><tr><th style=\"word-break: keep-all; padding-right: 0.5em;\">Knowledge of Dest.</th><th style=\"word-break: keep-all;\">Ground Level</th><th style=\"word-break: keep-all;\">Too High</th><th style=\"word-break: keep-all;\">Too Low</th></tr></thead><tbody><tr><td style=\"white-space: nowrap; padding-right: 0.5em;\">Scant</td><td style=\"white-space: nowrap;\">01–50</td><td style=\"white-space: nowrap;\">51–75</td><td style=\"white-space: nowrap;\">76–00</td></tr><tr><td style=\"white-space: nowrap; padding-right: 0.5em;\">Moderate</td><td style=\"white-space: nowrap;\">01–80</td><td style=\"white-space: nowrap;\">81–90</td><td style=\"white-space: nowrap;\">91–00</td></tr><tr><td style=\"white-space: nowrap; padding-right: 0.5em;\">Exact</td><td style=\"white-space: nowrap;\">01–95</td><td style=\"white-space: nowrap;\">96–99</td><td style=\"white-space: nowrap;\">00</td></tr></tbody></table><ul><li><p><strong>Too high:</strong> The subject appears [[/r 1d10*10]]’ above the intended destination. Should this location already be occupied by solid matter, the subject is instantly killed. Otherwise, the subject falls from a height.</p></li><li><p><strong>Too low:</strong> The subject appears in the ground and is killed instantly.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "10'",
+    "roll": "1d100",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454482270,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Zvkn56CzsC7cCw08"
+}

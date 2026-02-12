@@ -1,0 +1,37 @@
+{
+  "_id": "TahbRyoZqF7dOoDw",
+  "name": "Impersonation",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The subject takes on the appearance of a person of the caster’s choosing.</p><ul><li><p><strong>Appearance:</strong> The subject becomes physically indistinguishable from the selected individual, becoming the same height, age, race, sex, etc.</p></li><li><p><strong>Manner:</strong> Even the subject’s gestures, voice, mode of speech, and mannerisms are rendered identical to those of the mimicked target.</p></li><li><p><strong>Mind:</strong> The subject does not gain any of the memories, mental faculties, experiences, or abilities of the target.</p></li><li><p><strong>Observers:</strong> Who know the mimicked target may <strong>save versus spells</strong> to detect the illusion if the subject does or says anything that the original would not.</p></li><li><p><strong>Sympathetic item:</strong> The caster must have a personal possession or bodily sample (e.g. drop of blood, lock of hair) of the target to be mimicked.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "1 turn per level",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452350327,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TahbRyoZqF7dOoDw"
+}

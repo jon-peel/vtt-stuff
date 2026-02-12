@@ -1,0 +1,44 @@
+{
+  "_id": "6BVCgWkvG45rUiyT",
+  "name": "Horseshoes of a Zephyr",
+  "type": "item",
+  "img": "icons/tools/smithing/horsehoe-worn-steel-grey.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 2300000,
+  "flags": {},
+  "system": {
+    "description": "<p>Iron shoes which, when affixed, allow a horse to float slightly above the ground.</p><ul><li><p><strong>Water:</strong> The horse can move across water as if it were solid ground.</p></li><li><p><strong>Tracks:</strong> The horse leaves no tracks.</p></li><li><p><strong>Missing shoes:</strong> The magic of the shoes is only effective if all 4 are worn.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761439609924,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6BVCgWkvG45rUiyT"
+}

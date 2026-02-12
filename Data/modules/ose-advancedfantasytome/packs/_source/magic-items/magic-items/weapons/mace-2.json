@@ -1,0 +1,59 @@
+{
+  "name": "Mace +2",
+  "type": "weapon",
+  "img": "icons/weapons/maces/mace-flanged-steel.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 2,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.10.2",
+    "coreVersion": "13.342",
+    "createdTime": 1685074267850,
+    "modifiedTime": 1721690266666,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XKnVLoGtBk6X5E75",
+  "sort": 2300000,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XKnVLoGtBk6X5E75"
+}

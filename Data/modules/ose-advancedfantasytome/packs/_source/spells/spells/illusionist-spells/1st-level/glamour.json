@@ -1,0 +1,37 @@
+{
+  "name": "Glamour",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "nxDiMuUWBjXDUvEK",
+  "system": {
+    "description": "<p>The caster is wrapped in an illusion, taking on the outward appearance of another humanoid. Two variants are possible, chosen as the spell is cast:</p><ol><li><p><strong>Imagined form:</strong> The caster takes on a form which they imagine.</p></li><li><p><strong>Duplicate individual:</strong> The caster copies the form of a living individual whom they touch. An attack roll is required if the target is unwilling.</p></li></ol><p><strong>Stipulations:</strong> The following apply:</p><ul><li><p><strong>Height:</strong> The illusionary form may be at most 1’ taller or shorter than the caster’s normal form.</p></li><li><p><strong>Weight:</strong> Apparent weight may be altered in any way.</p></li><li><p><strong>Gear:</strong> Clothing or items may be altered in any way.</p></li><li><p><strong>Observers:</strong> If the spell is used to copy another’s appearance, those familiar with the copied individual may <strong>save versus spells</strong> to detect the ruse.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "2d6 rounds +2 per level",
+    "range": "Self",
+    "roll": "2d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450437841,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nxDiMuUWBjXDUvEK"
+}

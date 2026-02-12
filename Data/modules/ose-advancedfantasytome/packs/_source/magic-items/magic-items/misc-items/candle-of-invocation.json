@@ -1,0 +1,44 @@
+{
+  "_id": "V5vWX8xSUfdB9MsI",
+  "name": "Candle of Invocation",
+  "type": "item",
+  "img": "icons/sundries/lights/candle-unlit-white.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6300000,
+  "flags": {},
+  "system": {
+    "description": "<p>Specially consecrated candles associated with a specific alignment (determined randomly). Characters of that alignment gain benefits when lighting the candle.</p><ul><li><p><strong>If lit by a divine caster:</strong> The character is able to memorize and cast spells as if they were two experience levels higher, as long as the candle burns. When the candle goes out, any memorized spells beyond those the character may normally have are lost.</p></li><li><p><strong>If lit by another character:</strong> The character gains a +1 bonus to attack rolls and saving throws, as long as the candle burns.</p></li><li><p><strong>Duration:</strong> The candle burns for a total of 4 hours. It can be extinguished and relit.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427368259,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!V5vWX8xSUfdB9MsI"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Projected Image",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "fJr0DUET2x8MCGit",
+  "system": {
+    "description": "<p>An illusory duplicate of the caster appears within range.</p><ul><li><p><strong>Duplicate:</strong> The image is an exact duplicate of the caster that can only be differentiated by touch.</p></li><li><p><strong>Subsequent spells cast:</strong> Appear to originate from the image. (Targets must still be visible to the caster, however.)</p></li><li><p><strong>Spells and missiles:</strong> The image appears unaffected by spells or missile weapons.</p></li><li><p><strong>Melee or touch:</strong> If the image is touched or hit in melee, it disappears.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "6 turns",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452066607,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fJr0DUET2x8MCGit"
+}

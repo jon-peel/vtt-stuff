@@ -1,0 +1,44 @@
+{
+  "_id": "s7SHQY1zutlG6XRc",
+  "name": "Well of Many Worlds",
+  "type": "item",
+  "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11600000,
+  "flags": {},
+  "system": {
+    "description": "<p>A 6’ diameter circle of fine black cloth, often found folded down to the size of a handkerchief. The cloth can be placed upon a surface to conjure a gateway to another world.</p><ul><li><p><strong>Placing on a surface:</strong> Creates a 6’ diameter hole in the surface.</p></li><li><p><strong>Anything placed in the hole:</strong> Is transported to another world, plane, or dimension (as determined by the referee).</p></li><li><p><strong>Returning:</strong> An identical hole exists at the destination location in the other world, allowing transit back and forth.</p></li><li><p><strong>Picking up:</strong> When placed upon a surface, picking up the cloth causes the hole to disappear. The cloth can be picked up from either world.</p></li><li><p><strong>Moving the hole:</strong> Picking up the hole and placing it in a different location opens a gateway to a different world, plane, or dimension.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442142672,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!s7SHQY1zutlG6XRc"
+}

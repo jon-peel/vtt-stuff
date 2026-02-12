@@ -1,0 +1,39 @@
+{
+  "name": "Rod of Absorption",
+  "type": "item",
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 2100000,
+  "flags": {},
+  "_id": "QdtUEhHxTcpZVnc6",
+  "system": {
+    "description": "<p>Absorbs spells cast at the character and uses the absorbed energy to cast the character’s own spells.</p><ul><li><p><strong>Usage restriction:</strong> Only usable by spell casters (divine or arcane).</p></li><li><p><strong>Spell absorption:</strong> When a spell is cast at the character, the rod absorbs its energy, negating its effect. This uses one charge per level of the spell. The rod gains an equal number of stored energy levels.</p></li><li><p><strong>Stored energy:</strong> May be used to cast spells which the character has memorized. When doing so, a number of stored energy levels are expended equal to the level of the spell cast. Spells cast in this way are not lost from the character’s memory.</p></li><li><p><strong>Charges:</strong> The rod has 50 charges.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443397477,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QdtUEhHxTcpZVnc6"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Faerie Fire",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "98H5alZjT4gFD44w",
+  "sort": 0,
+  "flags": {},
+  "_id": "2WDIHl63UGChlV4R",
+  "system": {
+    "description": "<p>Selected objects or creatures in range are outlined with a lambent, green fire.</p><ul><li><p><strong>Targets:</strong> The caster must be able to perceive or detect the targets.</p></li><li><p><strong>Size of targets:</strong> If the caster is below 5th level, a single object or creature of approximately human size (or smaller) can be affected. At 5th level, two human-sized targets or one target up to 10’ tall can be affected. At 10th level, three human-sized targets or one target up to 15’ tall can be affected. At 14th level, four human-sized targets or one target up to 20’ tall can be affected.</p></li><li><p><strong>Harmless:</strong> The faerie fire does not cause damage.</p></li><li><p><strong>Counters invisibility:</strong> The flickering fire makes invisible targets visible.</p></li><li><p><strong>In low light conditions:</strong> Attacks on targets gain a +2 bonus to hit.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Druid",
+    "duration": "1 turn",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449661612,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!2WDIHl63UGChlV4R"
+}

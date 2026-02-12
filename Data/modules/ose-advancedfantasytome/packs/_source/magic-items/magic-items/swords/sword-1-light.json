@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Light",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-guard-jewel-green.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 2000000,
+  "flags": {},
+  "_id": "cPxPz8iKPRaekgjf",
+  "system": {
+    "description": "<p>On command, produces light in a 30&rsquo; radius.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761372586767,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!cPxPz8iKPRaekgjf"
+}

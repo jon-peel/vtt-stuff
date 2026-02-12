@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Sun Blade",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-embossed-gold.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 3100000,
+  "flags": {},
+  "_id": "uzBlzTCVhYsR4Z2k",
+  "system": {
+    "description": "<p>A sword of pristine, shining silver with an enchantment effective against the powers of darkness.</p><ul><li><p><strong>Used against shades:</strong> Acts as a +3 sword against incorporeal creatures of shadow (e.g. spectres, shadows).</p></li><li><p><strong>Whirling the blade:</strong> Once per day, the wielder may whirl the blade above their head. This conjures a 60’ radius globe of golden light which lasts for 1 turn.</p></li><li><p><strong>Creatures affected by daylight:</strong> Are affected by the globe of light as if it were full daylight.</p></li></ul><p>▶ <strong>Creatures affected by daylight</strong>: Are affected by the globe of light as if it were full daylight.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445756609,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uzBlzTCVhYsR4Z2k"
+}

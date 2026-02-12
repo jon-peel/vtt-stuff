@@ -1,0 +1,548 @@
+{
+  "folder": "JMg9yCBTjqtgSNlB",
+  "name": "NPC Adventurer Class and Level",
+  "_id": "7uzdlmSLDn3K7rI5",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>*In campaigns where Underworld races are common, a duergar, drow, or svirfneblin may be encountered in place of a dwarf, elf, or gnome.</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "IXUcvfcULa6vHu6N",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acrobat Basic: [[1d3]] Expert: [[1d6+4]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.IXUcvfcULa6vHu6N"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "W0LjKj6xZmQc3mt3",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assassin Basic: [[1d3]] Expert: [[1d6+4]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.W0LjKj6xZmQc3mt3"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "00TmUEcQdOIoEoFH",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barbarian Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.00TmUEcQdOIoEoFH"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "b5cvqdl2tds2XAA5",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bard Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.b5cvqdl2tds2XAA5"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "Md0x8CGWDazOWCwM",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cleric Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.Md0x8CGWDazOWCwM"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "Aq7pH0R2pd1PWnrh",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Druid Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.Aq7pH0R2pd1PWnrh"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "3mPnT4SOcPxE6ujK",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dwarf Basic: [[1d3]] Expert: [[1d6+6]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.3mPnT4SOcPxE6ujK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "ZVtZbkkqCxY7hz55",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elf  Basic: [[1d3]] Expert: [[1d6+2]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.ZVtZbkkqCxY7hz55"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "6z5UglpXMn8J7tjQ",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fighter Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.6z5UglpXMn8J7tjQ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "8XtbWuP4yTVp0jHc",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fighter Basic: [[1d3]] Expert: [[1d6+5]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.8XtbWuP4yTVp0jHc"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "ADfUYa1Hxpa6GAWR",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gnome Basic: [[1d3]] Expert: [[1d6+2]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.ADfUYa1Hxpa6GAWR"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "4QHYzSP9v00oVDz9",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Half-Elf Basic: [[1d3]] Expert: [[1d6+2]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.4QHYzSP9v00oVDz9"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "UXYomPeNYbp78P5Z",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Halfling Basic: [[1d3]] Expert: [[1d6+2]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.UXYomPeNYbp78P5Z"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "tbKLxuJlPOes5U8W",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Half-Orc Basic: [[1d3]] Expert: [[1d6+4]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.tbKLxuJlPOes5U8W"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "Eejv458imcXefVfb",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Illusionist Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.Eejv458imcXefVfb"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "wB99YUvu942gu1a1",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Knight Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.wB99YUvu942gu1a1"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "5vVQ1sOmOqJzpJSb",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magic-User Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.5vVQ1sOmOqJzpJSb"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "HYqy8fIO7V8tdDkR",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paladin Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.HYqy8fIO7V8tdDkR"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "4nUpzRyM1nUcPEjP",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ranger Basic: [[1d3]] Expert: [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.4nUpzRyM1nUcPEjP"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "8FQ65AdxveDvquxU",
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thief Basic: [[1d3]] Expert: [[1d6+4]]",
+      "name": "",
+      "_key": "!tables.results!7uzdlmSLDn3K7rI5.8FQ65AdxveDvquxU"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1686557275440,
+    "modifiedTime": 1686557758383,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "",
+  "_key": "!tables!7uzdlmSLDn3K7rI5"
+}

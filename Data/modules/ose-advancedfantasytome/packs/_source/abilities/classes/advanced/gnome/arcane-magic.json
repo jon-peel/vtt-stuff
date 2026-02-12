@@ -1,0 +1,36 @@
+{
+  "_id": "oexWVYqTKOa9bQnv",
+  "name": "Arcane Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "y17DHMGsT2ud1wkD",
+  "sort": 1000000,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on arcane magic.</p>\n<p>Magical research: A gnome of any level may spend time and money on magical research. This allows them to add new spells to their spell book and to research other magical effects. When a gnome reaches 8th level, they are also able to&nbsp;create magic items.</p>\n<p><strong>Spell casting</strong>: Gnomes carry spell books containing the formulae for arcane spells. The level progression table (Image) shows both the number of spells in the gnome&rsquo;s spell book and the number they may memorize, determined by the character&rsquo;s experience level. Thus, a 1st level gnome has one spell in their spell book, selected by the referee (who may allow the player to choose). The list of spells available to gnomes is provided in Druid and Illusionist Spells (gnomes have the same spell selection as illusionists).</p>\n<p><strong>Using magic items</strong>: As spell casters, gnomes are able to use magic scrolls of spells on their spell list. They can also use items that may only be used by arcane spell casters (e.g. magic wands).</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457803240,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!oexWVYqTKOa9bQnv"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "xkKoDOw292U7lAWh",
+  "name": "Wall of Thorns",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "OKlmc2RHuvz6vil1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A barrier of tough, thorny plants is conjured at a point of the caster’s choosing.</p><ul><li><p><strong>Size:</strong> The wall can be any size up to 1,200 square feet and may be shaped in any manner and to any dimensions the caster desires. For example, it may be a straight wall or curved into a protective circle.</p></li><li><p><strong>Enveloping creatures:</strong> Any creatures standing in a spot where the wall is conjured suffer damage equal to 1d8 plus their AC score.</p></li><li><p><strong>Pushing through:</strong> Creatures may push through the wall, but suffer damage equal to [[/r 1d8]] plus their AC score for every 10’.</p></li><li><p><strong>Ascending AC:</strong> If using the optional rule for Ascending Armour Class, the damage inflicted by the thorns is [[/r 1d8]] + (19 – AAC score).</p></li><li><p><strong>Hacking through the wall:</strong> Is possible and does not inflict damage on those breaking through. It takes 4 turns to chop through a 10’ section.</p></li><li><p><strong>Fire:</strong> The wall is unharmed by normal fire, but magical fire will burn it away completely in 2 turns.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Druid",
+    "duration": "1 turn per level",
+    "range": "80'",
+    "roll": "1d8",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450124605,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xkKoDOw292U7lAWh"
+}

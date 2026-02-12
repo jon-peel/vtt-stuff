@@ -1,0 +1,37 @@
+{
+  "name": "Entangle",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "98H5alZjT4gFD44w",
+  "sort": 0,
+  "flags": {},
+  "_id": "n6v35rWEsBabtE9m",
+  "system": {
+    "description": "<p>All plants present in a 20’ radius area within range bend and twist, entangling creatures inside the area.</p><ul><li><p><strong>Saving throw:</strong> Each creature in the affected area may <strong>save versus spells</strong>.</p></li><li><p><strong>If the save fails:</strong> The creature is entangled and cannot move.</p></li><li><p><strong>If the save succeeds:</strong> The creature is able to move through the entangled area at half its normal movement rate.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Druid",
+    "duration": "1 turn",
+    "range": "80'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449647642,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!n6v35rWEsBabtE9m"
+}

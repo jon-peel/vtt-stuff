@@ -1,0 +1,54 @@
+{
+  "name": "Dagger +1",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-double-black.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "pattern": "transparent",
+    "damage": "1d4",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.10.2",
+    "coreVersion": "13.342",
+    "createdTime": 1685074131030,
+    "modifiedTime": 1721690266666,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "yLBXlV0t5xWqUgCo",
+  "sort": 3700000,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yLBXlV0t5xWqUgCo"
+}

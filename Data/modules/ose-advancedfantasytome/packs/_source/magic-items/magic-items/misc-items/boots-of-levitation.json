@@ -1,0 +1,44 @@
+{
+  "_id": "tvLvS7ROjML8GzrZ",
+  "name": "Boots of Levitation",
+  "type": "item",
+  "img": "icons/equipment/feet/boots-collared-blue-gold.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 11900000,
+  "flags": {},
+  "system": {
+    "description": "<p>The wearer is able to move up and down through the air at will.</p><ul><li><p><strong>Vertical:</strong> The caster mentally directs vertical movement at up to 20’ per round.</p></li><li><p><strong>Horizontal:</strong> The caster can push against solid objects to move laterally.</p></li><li><p><strong>Weight:</strong> A normal amount of weight can be carried while levitating.</p></li><li><p><strong>Usage:</strong> The enchantment may be used without limit of frequency or duration.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427218345,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!tvLvS7ROjML8GzrZ"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "War Hammer +3, Dwarven Thrower",
+  "type": "weapon",
+  "img": "icons/weapons/hammers/hammer-double-studded.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 800000,
+  "flags": {},
+  "_id": "CDKia5ctHtWze8cd",
+  "system": {
+    "description": "<p>In the hands of a dwarf, this weapon may function as a thrown missile weapon.</p><ul><li><p><strong>Range:</strong> 60’.</p></li><li><p><strong>After being thrown:</strong> It returns to its wielder’s hands.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 20,
+      "medium": 40,
+      "long": 60
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 3,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446153346,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CDKia5ctHtWze8cd"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#387247",
+  "name": "Acrobat",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "19CKrmFs1J9vBYUg",
+  "_id": "OiTN7aQLlw4Qe86Q",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685059903552,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!OiTN7aQLlw4Qe86Q"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Protection from Magic Scroll",
+  "type": "item",
+  "img": "icons/sundries/scrolls/scroll-runed-brown-purple.webp",
+  "effects": [],
+  "folder": "LpqHwq13dfzc1CwS",
+  "flags": {},
+  "system": {
+    "description": "<p><strong>Usage</strong>: All characters (unless noted). (Written in non-magical languages—usually Common.)</p><p><strong>Activation</strong>: Reading the script aloud conjures a circle of protection against a specific type of monster or energy.</p><p><strong>Area of protection</strong>: When used, conjures a 10’ radius circle of protection around the reader. If the reader moves, the circle of protection follows them.</p><hr><p>Conjures a barrier that spells and spelllike effects (e.g. from magic items) cannot cross.</p><p><strong>Effect: </strong>The barrier prevents magic from entering the circle, but also from leaving it.</p><p><strong>Duration:</strong> [[/r 1d4]] turns.</p><p><strong>Dispelling:</strong> Only by a wish.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761372054797,
+    "modifiedTime": 1761372060773,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "g9DH4bH7WyXBqdTq",
+  "sort": 600000,
+  "_key": "!items!g9DH4bH7WyXBqdTq"
+}

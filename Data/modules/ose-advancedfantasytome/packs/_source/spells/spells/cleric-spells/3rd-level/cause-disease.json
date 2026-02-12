@@ -1,0 +1,37 @@
+{
+  "_id": "utSlS9YuENM0HrWm",
+  "name": "Cause Disease",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "a8U83GTRvuz41jM1",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Inflicts a terrible, withering disease on a victim, if a saving throw versus spells is failed. The disease has the following effects:</p><ul><li><p><strong>Death:</strong> Within [[/r 2d12]] days.</p></li><li><p><strong>Attack penalty:</strong> –2 to attack rolls.</p></li><li><p><strong>Natural healing:</strong> Takes twice the usual amount of time.</p></li><li><p><strong>Magical healing:</strong> Is utterly ineffective.</p></li><li><p><strong>Curing:</strong> This disease can be cured with a casting of cure disease.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Cleric",
+    "duration": "instant",
+    "range": "30'",
+    "roll": "2d12",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449273680,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!utSlS9YuENM0HrWm"
+}

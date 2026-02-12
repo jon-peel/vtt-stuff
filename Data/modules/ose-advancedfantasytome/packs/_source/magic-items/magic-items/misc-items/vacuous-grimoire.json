@@ -1,0 +1,44 @@
+{
+  "_id": "hJ3C65ZmXlOdF4gy",
+  "name": "Vacuous Grimoire",
+  "type": "item",
+  "img": "icons/sundries/books/book-eye-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9100000,
+  "flags": {},
+  "system": {
+    "description": "<p>A cursed tome which can diminish a character’s mental faculties.</p><ul><li><p><strong>Appearance</strong>: The tome adapts its appearance to blend in with any other books in its vicinity.</p></li><li><p><strong>Reading</strong>: Opening the book and reading so much as a single word of the text afflicts the character with the baleful magic.</p></li><li><p><strong>Afflicted characters</strong>: Lose 1 point of INT (<strong>save vs spells</strong> to avoid) and 2 points of WIS (<strong>save vs spells</strong> to avoid).</p></li><li><p><strong>Destroying</strong>: The grimoire is impervious to physical harm, except if remove curse is cast upon it first.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442130953,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hJ3C65ZmXlOdF4gy"
+}

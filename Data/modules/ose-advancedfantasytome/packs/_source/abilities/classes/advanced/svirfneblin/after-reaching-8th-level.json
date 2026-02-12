@@ -1,0 +1,36 @@
+{
+  "_id": "mkum8JND3zAOOfYn",
+  "name": "After Reaching 8th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "JRYdjkuuf2Ss7rAW",
+  "sort": 900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A svirfneblin may construct a subterranean stronghold that will attract svirfneblins from far and wide.</p><p>Because of svirfneblins’ connection with earth elementals, [[/r 1d3]] 16 HD earth elementals (see <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.EU9n7vjbVnS32jBo]{conjure elemental}</em> in Cleric and Magic-User Spells) will live in the rocks around the stronghold and will be friendly with the svirfneblins. They may warn of intruders, carry messages and news, etc. The elementals will also protect the svirfneblins in times of grave danger. However, in exchange a svirfneblin ruler must always defend earth elementals within the svirfneblins’ territory.</p><p>Svirfneblin rulers can hire members of other races in the capacity of retainers or specialists, but only soldiers of svirfneblin stock may be hired.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458365656,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!mkum8JND3zAOOfYn"
+}

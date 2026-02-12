@@ -1,0 +1,44 @@
+{
+  "_id": "ORF9LqYZbVq4ApAl",
+  "name": "Chainmail",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-scale-grey.webp",
+  "effects": [],
+  "folder": "T0iQvXpPKeJGwEfH",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 400,
+    "cost": 40,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 5
+    },
+    "aac": {
+      "value": 14
+    },
+    "type": "heavy"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1683938578900,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ORF9LqYZbVq4ApAl"
+}

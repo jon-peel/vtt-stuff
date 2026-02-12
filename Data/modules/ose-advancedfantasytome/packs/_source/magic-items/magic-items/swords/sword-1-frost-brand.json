@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Frost Brand",
+  "type": "weapon",
+  "img": "icons/magic/water/strike-weapon-blade-ice-blue.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 2800000,
+  "flags": {},
+  "_id": "n2ZKEwezzwZrlrae",
+  "system": {
+    "description": "<p>Grants special benefits against fire and creatures with an affinity for fire.</p><ul><li><p><strong>In extreme cold, casts light:</strong> 30’ radius.</p></li><li><p><strong>Grants an attack bonus:</strong> +3 against fire-using or fire-dwelling creatures.</p></li><li><p><strong>Can extinguish fire:</strong> [[/r 1d100]]{50%} chance of extinguishing a 10’ radius area when thrust into fire. This also affects magical fire (but not instantaneous effects).</p></li><li><p><strong>Protects against fire:</strong> The wielder gains the following benefits:</p><ol type=\"a\"><li><strong>Normal fire:</strong> Unharmed by non-magical fire.</li><li><strong>Save bonus:</strong> Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.</li><li><strong>Fire-based damage:</strong> Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)</li></ol></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445562955,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!n2ZKEwezzwZrlrae"
+}

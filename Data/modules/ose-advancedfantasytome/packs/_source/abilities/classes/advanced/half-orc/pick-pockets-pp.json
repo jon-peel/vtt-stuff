@@ -1,0 +1,36 @@
+{
+  "_id": "GJNaWnvOoXWmOdg4",
+  "name": "Pick pockets (PP)",
+  "type": "ability",
+  "img": "icons/skills/trades/farming-plant-seeds-gray.webp",
+  "effects": [],
+  "folder": "e0OPI6yYuyHhLkKp",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>If the victim is above 5th level, the half-orc’s roll is penalised by 5% for every level above 5th.</p><p>A roll of more than twice the percentage required for success means that the attempted theft is noticed. The referee should determine the reaction of the victim (possibly using the reaction table under @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.SAZiydZewI4XOlsU#monster-reaction-roll]{Encounters}).</p><hr><table><thead><tr><th>Level</th><th>PP</th></tr></thead><tbody><tr><td>1</td><td>20</td></tr><tr><td>2</td><td>25</td></tr><tr><td>3</td><td>30</td></tr><tr><td>4</td><td>35</td></tr><tr><td>5</td><td>40</td></tr><tr><td>6</td><td>45</td></tr><tr><td>7</td><td>55</td></tr><tr><td>8</td><td>65</td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-orc",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 20,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457965278,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GJNaWnvOoXWmOdg4"
+}

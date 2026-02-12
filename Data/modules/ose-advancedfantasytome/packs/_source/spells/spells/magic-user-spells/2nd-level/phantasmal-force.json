@@ -1,0 +1,37 @@
+{
+  "name": "Phantasmal Force",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "W3jTDFoaDSi5oovE",
+  "system": {
+    "description": "<p>A visual illusion of the caster’s choosing manifests in a 20′ cube area. Three types of illusions may be created:</p><ol><li><strong>An illusionary monster:</strong> That can be directed to attack. The monster has Armour Class of 9 [10] and will vanish if hit in combat.</li><li><strong>An illusionary attack:</strong> For example, an avalanche, a falling ceiling, a magic missile, etc. Targets who <em><strong>save versus spells</strong></em> are unaffected.</li><li><strong>A scene:</strong> Either changing the appearance of the affected area or creating the appearance of something new. The scene disappears if touched.</li></ol><p><strong>Stipulations:</strong> The following apply:</p><ul><li><strong>Concentration:</strong> Is required to maintain the illusion. If the caster moves or loses concentration, the spell ends.</li><li><strong>Illusionary monsters or attacks:</strong> May appear to be harmful but no real damage is ever inflicted. A character who appears to die actually falls unconscious, a character turned to stone will actually be paralysed, and so on. Such effects last for [[/r 1d4]] turns.</li><li><strong>Illusions from imagination:</strong> If the illusion is of something the caster has not personally seen, the referee should grant targets a bonus to any applicable saving throws.</li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "Concentration",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453250801,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!W3jTDFoaDSi5oovE"
+}

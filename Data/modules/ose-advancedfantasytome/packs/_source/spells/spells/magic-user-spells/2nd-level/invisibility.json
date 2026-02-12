@@ -1,0 +1,37 @@
+{
+  "name": "Invisibility",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "1YF6jV01OkoNViec",
+  "system": {
+    "description": "<p>The caster or another creature or object within range becomes invisible:</p><ul><li><p><strong>If cast on a creature:</strong> Any gear the subject is carrying is also rendered invisible (this includes clothing and armour). Items dropped or put down by an invisible creature become visible. If the subject attacks or casts a spell, the invisibility is broken, ending the spell.</p></li><li><p><strong>If cast on an object:</strong> The invisibility is permanent.</p></li><li><p><strong>Light sources:</strong> If a light source is made invisible (either as part of a creature’s gear or as an individual object), the light it casts is unaffected.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "permanent *",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453036950,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1YF6jV01OkoNViec"
+}

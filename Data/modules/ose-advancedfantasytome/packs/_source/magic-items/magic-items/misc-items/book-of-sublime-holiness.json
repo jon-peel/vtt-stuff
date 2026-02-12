@@ -1,0 +1,44 @@
+{
+  "_id": "howBZJaZ1oqd5KBj",
+  "name": "Book of Sublime Holiness",
+  "type": "item",
+  "img": "icons/sundries/books/book-embossed-jewel-gold-purple.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9400000,
+  "flags": {},
+  "system": {
+    "description": "<p>An unremarkable book with a powerful, holy enchantment. The effects of opening the book depend on the class and alignment of the character.</p><ul><li><p><strong>Divine casters (lawful):</strong> Sense that the book is holy and may study it (requires 1 week) to gain one experience level and one point of WIS. A character can only gain this benefit once, even if another book of sublime holiness is discovered.</p></li><li><p><strong>Divine casters (neutral or chaotic</strong>)<strong>:</strong> Lose one experience level. This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the lost level (e.g. spells, saving throws, etc.). The character’s XP is reduced to halfway between the former and new levels. If this would reduce the character below 1st level, they are either unaffected (neutral alignment) or die (chaotic).</p></li><li><p><strong>Arcane casters:</strong> Must <strong>save versus spells</strong> or lose 1 point of INT.</p></li><li><p><strong>Other classes (lawful or neutral):</strong> Unaffected.</p></li><li><p><strong>Other classes (chaotic):</strong> Suffer [[/r 4d10]] damage.</p></li><li><p><strong>Vanishes after use:</strong> Once the book’s magical effect has occurred, it vanishes.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427159804,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!howBZJaZ1oqd5KBj"
+}

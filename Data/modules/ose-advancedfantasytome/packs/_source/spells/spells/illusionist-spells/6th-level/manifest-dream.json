@@ -1,0 +1,37 @@
+{
+  "_id": "uHO6SSx2EX1mQpGh",
+  "name": "Manifest Dream",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This spell harnesses the malleable, imaginative potency of the dream world, manifesting the caster’s wish.</p><ul><li><p><strong>Dreaming:</strong> After casting the spell, the caster must lie down and drift off to sleep while visualising the desired manifestation. The visualisation will then be taken up by the caster’s subconscious and experienced as a potent dream.</p></li><li><p><strong>Upon awakening:</strong> If the caster sleeps for an uninterrupted 8 hours, the desired manifestation comes to pass.</p></li><li><p><strong>Potency:</strong> While manifest dream can bring about a wide range of effects, its power is not unlimited. The following are examples of the maximum potency of the spell:</p><ul><li><p><strong>Healing:</strong> All of an individual’s wounds.</p></li><li><p><strong>Regeneration:</strong> Of a lost body part (e.g. a hand or foot).</p></li><li><p><strong>Revelation:</strong> Of a route through the wilderness, a secret entrance into a fortress, or the location of a lost item. (As long as the sought location or object is not warded by magic.)</p></li><li><p><strong>Divination:</strong> Of the approximate strength of enemy forces. (Creatures of 7 or more Hit Dice in the force may <strong>save versus spells</strong> to avoid being detected in this way.)</p></li><li><p><strong>Temporary restoration:</strong> Of a dead creature or destroyed object for 1 turn per level of the caster.</p></li></ul></li><li><p><strong>Usage limit:</strong> This spell may be used at most once per week. A caster who oversteps this limit will become permanently insane.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "Varies by manifestation (see examples below)",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452398331,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uHO6SSx2EX1mQpGh"
+}

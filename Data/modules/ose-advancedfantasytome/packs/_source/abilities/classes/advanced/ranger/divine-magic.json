@@ -1,0 +1,36 @@
+{
+  "_id": "icJu6ts7orSbvvzg",
+  "name": "Divine Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "VeevuJykXLRx7ycw",
+  "sort": 700000,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on divine magic.</p><p><strong>Spell casting</strong>: From 8th level, due to a deep connection with nature, a ranger gains the ability to cast spells. The power and number of spells available to a ranger are determined by the character’s experience level. The list of spells available to rangers is found in Druid and Illusionist Spells (rangers use the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.zvY8pHVp2p7969z9]{Druid Spell List}.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "ranger",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.0",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458077748,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!icJu6ts7orSbvvzg"
+}

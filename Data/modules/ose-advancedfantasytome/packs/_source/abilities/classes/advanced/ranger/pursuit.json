@@ -1,0 +1,36 @@
+{
+  "_id": "8P3RQjHptfWpaaya",
+  "name": "Pursuit",
+  "type": "ability",
+  "img": "icons/skills/movement/figure-running-gray.webp",
+  "effects": [],
+  "folder": "VeevuJykXLRx7ycw",
+  "sort": 100000,
+  "flags": {},
+  "system": {
+    "description": "<p>When the ranger’s party pursues an opposing group in the wilderness (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.TxYeWUtWR7plXIzS]{Evasion and Pursuit}), the chance of evasion is reduced by 10%.</p><p> </p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "ranger",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.0",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458077748,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8P3RQjHptfWpaaya"
+}

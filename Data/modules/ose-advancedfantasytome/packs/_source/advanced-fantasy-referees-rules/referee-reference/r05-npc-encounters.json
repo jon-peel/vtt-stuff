@@ -1,0 +1,96 @@
+{
+  "name": "R05. NPC Encounters",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Adventuring Parties",
+      "type": "text",
+      "_id": "6pZONlVaAtFL1TVE",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This procedure generates parties of NPC adventurers. As the procedure is fairly involved, referees may wish to pre-generate some NPC parties for use in random encounters.</p><p>The following general details apply to all types of NPC parties described:</p><ul><li><p><strong>Spells:</strong> If spell casters are present, choose or roll their memorized spells.</p></li><li><p><strong>Equipment:</strong> Normal adventuring gear.</p></li><li><p><strong>Treasure:</strong> Treasure types U+V, shared among the group.</p></li><li><p><strong>Marching order:</strong> Decided by referee.</p></li></ul><p>If the classes presented in the Advanced Fantasy Player’s Tome are not in use, the referee should replace the listed classes by equivalents in use in the campaign.</p><h3><strong>NPC Adventurer Class and Level</strong></h3><table><thead><tr><th rowspan=\"2\">[[/r d20]]</th><th rowspan=\"2\">Class</th><th colspan=\"2\">Level</th></tr><tr><th>Basic</th><th>Expert</th></tr></thead><tbody><tr><td>1</td><td>Acrobat</td><td>[[/r 1d3]]</td><td>[[/r 1d6+4]]</td></tr><tr><td>2</td><td>Assassin</td><td>[[/r 1d3]]</td><td>[[/r 1d6+4]]</td></tr><tr><td>3</td><td>Barbarian</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>4</td><td>Bard</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>5</td><td>Cleric</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>6</td><td>Druid</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>7</td><td>Dwarf*</td><td>[[/r 1d3]]</td><td>[[/r 1d6+6]]</td></tr><tr><td>8</td><td>Elf*</td><td>[[/r 1d3]]</td><td>[[/r 1d6+2]]</td></tr><tr><td>9</td><td>Fighter</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>10</td><td>Fighter</td><td>[[/r 1d3]]</td><td>[[/r 1d6+5]]</td></tr><tr><td>11</td><td>Gnome*</td><td>[[/r 1d3]]</td><td>[[/r 1d6+2]]</td></tr><tr><td>12</td><td>Half-Elf</td><td>[[/r 1d3]]</td><td>[[/r 1d6+2]]</td></tr><tr><td>13</td><td>Halfling</td><td>[[/r 1d3]]</td><td>[[/r 1d6+2]]</td></tr><tr><td>14</td><td>Half-Orc</td><td>[[/r 1d3]]</td><td>[[/r 1d6+4]]</td></tr><tr><td>15</td><td>Illusionist</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>16</td><td>Knight</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>17</td><td>Magic-User</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>18</td><td>Paladin</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>19</td><td>Ranger</td><td>[[/r 1d3]]</td><td>[[/r 1d6+3]]</td></tr><tr><td>20</td><td>Thief</td><td>[[/r 1d3]]</td><td>[[/r 1d6+4]]</td></tr></tbody></table><p>*In campaigns where Underworld races are common, a duergar, drow, or svirfneblin may be encountered in place of a dwarf, elf, or gnome.</p><h3><strong>NPC Adventurer Alignment</strong></h3><table><thead><tr><th>[[/r d6]]</th><th>Alignment</th></tr></thead><tbody><tr><td>1–2</td><td>Lawful</td></tr><tr><td>3–4</td><td>Neutral</td></tr><tr><td>5–6</td><td>Chaotic</td></tr></tbody></table><h2>Basic Adventurers</h2><ul><li><p><strong>Composition:</strong> [[/r 1d4+4]] characters of random class and level (see opposite).</p></li><li><p><strong>Alignment:</strong> Either roll the alignment of each NPC or roll once for the party.</p></li></ul><h2>Expert Adventurers</h2><ul><li><p><strong>Composition:</strong> [[/r 1d6+3]] characters of random class and level (see opposite).</p></li><li><p><strong>Alignment:</strong> Either roll the alignment of each NPC or roll once for the party.</p></li><li><p><strong>Mounts:</strong> 75% chance of being mounted, in the wilderness.</p></li><li><p><strong>Magic items:</strong> Per individual: there is a chance of the NPC having a magic item from each suitable magic item sub-table (@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4]{see Magic Items}). The chance per sub-table is 5% per level of the NPC. Rolled items that cannot be used by the NPC should be ignored (no re-roll).</p></li></ul><h2>High-Level Cleric</h2><p>A high-level cleric and party. (Mounts and magic items as per Expert Adventurers.)</p><ul><li><p><strong>Composition:</strong> Leader (cleric of level [[/r 1d6+6]]), [[/r 1d4]] clerics (level [[/r 1d4+1]]), [[/r 1d3]] fighters (level [[/r 1d6]]).</p></li><li><p><strong>Alignment:</strong> Roll for the whole party.</p></li></ul><h3>Alternatives</h3><p>The party may alternatively be led by a high-level bard, druid, or paladin.</p><h2>High-Level Fighter</h2><p>A high-level fighter and a group of retainers, often on their way to or from war. (Mounts and magic items as per Expert Adventurers.)</p><ul><li><p><strong>Composition:</strong> Leader (fighter of level [[/r 1d4+6]]), [[/r 2d4]] retainers (level [[/r 1d4+2]], any class).</p></li><li><p><strong>Alignment:</strong> Roll for the whole party.</p></li></ul><h3>Alternatives</h3><p>The party may alternatively be led by a high-level barbarian, knight, paladin, or ranger.</p><h2>High-Level Magic-User</h2><p>A high-level magic-user, accompanied by their apprentices and a group of hired guards, often on a quest for arcane lore. (Mounts and magic items as per Expert Adventurers.)</p><ul><li><p><strong>Composition:</strong> Leader (magic-user of level [[/r 1d4+6]]), [[/r 1d4]] apprentices (magic-users of level [[/r 1d3]]), [[/r 1d4]] mercenaries (fighters of level [[/r 1d4+1]]).</p></li><li><p>Alignment: Roll the leader’s alignment. The apprentices have the same alignment as the leader, but the mercenaries may be of different alignment.</p></li></ul><h3>Alternatives</h3><p>The party may alternatively be led by a high-level illusionist with apprentices of the same class.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762847947252
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!OuVLNG2GIBGFrOAm.6pZONlVaAtFL1TVE"
+    },
+    {
+      "sort": 200000,
+      "name": "Strongholds",
+      "type": "text",
+      "_id": "gkPp0tYFhnj6OQlL",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>When PCs wander into the vicinity of the wilderness stronghold of a high-level NPC, a warm reception is not always guaranteed. These guidelines may be used if the referee does not have specific notes on a stronghold’s ruler and guard patrols.</p><h2>Ruler</h2><p>The referee should decide what class of NPC claims ownership of the stronghold and the surrounding lands:</p><ul><li><p><strong>Arcane spell caster:</strong> Of level [[/r 1d4+10]]. (e.g. illusionist, magic-user.)</p></li><li><p><strong>Divine spell caster:</strong> Of level [[/r 1d8+6]]. (e.g. cleric, paladin.)</p></li><li><p><strong>Martial character:</strong> Of level [[/r 1d6+8]]. (e.g. fighter, knight.)</p></li></ul><h3>Demihuman Rulers</h3><p>Demihuman strongholds are unusual cases, and should be detailed in advance by the referee. Typically, they will attempt to avoid all contact with travellers.</p><h2>Patrols</h2><p>Strangers in the lands around a stronghold will typically be spotted by mercenary groups hired to patrol the lands. The type of troops depends on the ruler’s class:</p><ul><li><p><strong>Arcane spell caster:</strong> [[/r 2d6]] heavy footmen. Equipped with chainmail + shield (AC 4 [15]) and swords. Morale 8.</p></li><li><p><strong>Divine spell caster:</strong> [[/r 2d6]] medium horsemen. Equipped with chainmail (AC 5 [14]) and lances. Morale 9.</p></li><li><p><strong>Martial character:</strong> [[/r 2d6]] heavy horsemen. Equipped with plate mail (AC 3 [16]), lances, and swords. Morale 9.</p></li></ul><h2>Garrison</h2><p>Patrols such as those described are only a small part of the ruler’s garrison. Further forces may include magical monsters or humans mounted on flying creatures.</p><h2>Reaction to Travellers</h2><p>The reaction of the ruler to travellers in their domain depends on the class of the ruler and can be determined by rolling [[/r 1d6]] and consulting this table:</p><table><thead><tr><th colspan=\"4\">Ruler Reaction By Class</th></tr></thead><tbody><tr><td>[[/r d6]]</td><td>Arcane</td><td>Divine</td><td>Martial</td></tr><tr><td>1</td><td>Chase</td><td>Chase</td><td>Chase</td></tr><tr><td>2</td><td>Ignore</td><td>Chase</td><td>Chase</td></tr><tr><td>3</td><td>Ignore</td><td>Ignore</td><td>Chase</td></tr><tr><td>4</td><td>Ignore</td><td>Ignore</td><td>Ignore</td></tr><tr><td>5</td><td>Ignore</td><td>Invite</td><td>Ignore</td></tr><tr><td>6</td><td>Invite</td><td>Invite</td><td>Invite</td></tr></tbody></table><p><strong>Chase:</strong> The patrol is instructed to chase intruders out of the domain. Alternatively, they may demand a toll from travellers passing through. The exact price demanded depends on the ruler’s character, the apparent wealth of the PCs, etc. If the PCs refuse to pay the toll, the patrol may attack them, drive them away, or attempt to take them prisoner.</p><p><strong>Ignore:</strong> The patrol leaves the PCs to go about their business.</p><p><strong>Invite:</strong> The patrol brings a message from the domain’s ruler, inviting the PCs to stay in the stronghold. The ruler’s exact motive for doing so will depend on their personality—it is not necessarily benign.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762846212400
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!OuVLNG2GIBGFrOAm.gkPp0tYFhnj6OQlL"
+    }
+  ],
+  "folder": "ZrsekR7d5VfKW4VT",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076664552,
+    "modifiedTime": 1754191713959,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "OuVLNG2GIBGFrOAm",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!OuVLNG2GIBGFrOAm"
+}

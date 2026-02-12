@@ -1,0 +1,37 @@
+{
+  "name": "Death Spell",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "d2MOw0O3aWiv45sH",
+  "system": {
+    "description": "<p>Up to [[/r 4d8]] Hit Dice of creatures within a 60’ cube area must <strong>save versus death </strong>or die, instantly.</p><p><strong>Restrictions</strong>: Undead and creatures with greater than 7 Hit Dice are unaffected.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "death",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "240'",
+    "roll": "4d8",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454677480,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!d2MOw0O3aWiv45sH"
+}

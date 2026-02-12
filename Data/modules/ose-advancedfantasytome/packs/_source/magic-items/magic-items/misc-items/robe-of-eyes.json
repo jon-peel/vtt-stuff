@@ -1,0 +1,44 @@
+{
+  "_id": "hsYm8PtEL5rLSjYX",
+  "name": "Robe of Eyes",
+  "type": "item",
+  "img": "icons/equipment/chest/robe-layered-purple.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9500000,
+  "flags": {},
+  "system": {
+    "description": "<p>A luxurious robe adorned with dozens of eye motifs. Donning the robe grants the following magical visual powers:</p><ul><li><p><strong>Surprise:</strong> The robe’s visual powers prevent the character from being surprised.</p></li><li><p><strong>Infravision:</strong> To 120’.</p></li><li><p><strong>Multi-directional sight:</strong> The character can see in all directions at once.</p></li><li><p><strong>See invisible:</strong> Within 120’.</p></li><li><p><strong>See displacement:</strong> The character sees creatures using displacement effects (e.g. a @UUID[Item.AQaNag8DolMwL3Dv]{displacer cloak}) in their true location.</p></li><li><p><strong>Detect camouflage and hiding:</strong> The character can plainly see anyone hiding or using camouflage.</p></li><li><p><strong>Targeting with light:</strong> A <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.7Ip7EsMgUOap4YFs]{light}</em> spell cast directly on the robe causes the character to be blinded for [[/r 1d3]] rounds. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.kpC4u6vrjJ1RnikN]{Continual light}</em> causes blindness for [[/r 2d4]] rounds.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441181591,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hsYm8PtEL5rLSjYX"
+}

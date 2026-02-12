@@ -1,0 +1,37 @@
+{
+  "name": "Dancing Lights",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "HD9bFQagyngKsl96",
+  "system": {
+    "description": "<p>Lights under the caster’s control are conjured and may be directed to move anywhere within range. The caster may choose to conjure one of the following types of light:</p><ol><li><p><strong>Torches:</strong> 1–4 lights that resemble torches or lanterns, casting the appropriate volume of light.</p></li><li><p><strong>Spheres:</strong> 1–4 glowing spheres, resembling will-o-the-wisps.</p></li><li><p><strong>Humanoid:</strong> A single, glowing, humanoid form.</p></li></ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "1 turn",
+    "range": "40' +10' per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450418627,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!HD9bFQagyngKsl96"
+}

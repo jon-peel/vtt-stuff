@@ -1,0 +1,54 @@
+{
+  "name": "Dagger +1, Venomous",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-double-black.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 2700000,
+  "flags": {},
+  "_id": "fVRpRiGSbYAXjUgs",
+  "system": {
+    "description": "<p>A dagger that magically injects venom into the victim when it strikes true.</p><ul><li><p><strong>Natural 20:</strong> If the wielder rolls an attack roll of natural 20, the dagger injects venom into the victim (<em><strong>save versus death</strong></em> or die instantly).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 10,
+    "cost": 0,
+    "containerId": "",
+    "save": "death",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "pattern": "transparent",
+    "damage": "1d4",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445962310,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fVRpRiGSbYAXjUgs"
+}

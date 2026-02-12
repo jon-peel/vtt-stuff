@@ -1,0 +1,38 @@
+{
+  "_id": "QSJP5ZOrspxsCr4w",
+  "name": "GP",
+  "type": "item",
+  "img": "/systems/ose/assets/gold.png",
+  "effects": [],
+  "folder": "8cmtAyQKjMHgl3Fi",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 1,
+    "cost": 1,
+    "containerId": "",
+    "treasure": true,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159902404,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QSJP5ZOrspxsCr4w"
+}

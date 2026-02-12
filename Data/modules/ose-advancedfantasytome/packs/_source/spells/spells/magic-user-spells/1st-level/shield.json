@@ -1,0 +1,37 @@
+{
+  "name": "Shield",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "F0F0H7j4BhA5Y1bW",
+  "sort": 0,
+  "flags": {},
+  "_id": "vXRns8VugCmQPVw9",
+  "system": {
+    "description": "<p>Shield creates an invisible field of force that protects the caster:</p><ul><li><p><strong>Against missile attacks:</strong> The caster’s AC is 2 [17].</p></li><li><p><strong>Against other attacks:</strong> The caster’s AC is 4 [15].</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452950882,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!vXRns8VugCmQPVw9"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Continual Darkness",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "VsQ6wz7YjYnbxCLJ",
+  "sort": 0,
+  "flags": {},
+  "_id": "YdbQYi2342iUgXpz",
+  "system": {
+    "description": "<p>Creates a 30’ radius area of magical blackness, preventing both normal sight and infravision. Light sources brought within the area of darkness do not illuminate it. Like <em>continual light</em>, it may alternatively be used to blind creatures or to dispel a <em>continual light spell</em>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "permanent",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160023566,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!YdbQYi2342iUgXpz"
+}

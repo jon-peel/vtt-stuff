@@ -1,0 +1,36 @@
+{
+  "_id": "GEThpLA7ZMrcVsV5",
+  "name": "Arcane Magic",
+  "type": "ability",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "effects": [],
+  "folder": "dDBykdzsnJ9HeIw8",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX]{Magic} for full details on arcane magic.</p>\n<p><strong>Magical research</strong>: A magic-user of any level may spend time and money on magical research. This allows them to add new spells to their spell book and to research other magical effects. When a magic-user reaches 9th level, they are also able to create magic items.</p>\n<p><strong>Spell casting</strong>: Magic-users carry spell books containing the formulae for arcane spells. The spell casting chart (opposite) shows both the number of spells in the magic-user&rsquo;s spell book and the number they may memorize, determined by the character&rsquo;s experience level. Thus, a 1st level magic-user has one spell in their spell book, selected by the referee (who may allow the player to choose). The list of spells available to magic-users is found @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.EUNZ2PDKp7Amu7CX.JournalEntryPage.dat23W4Kv02OGyAJ]{Here}.</p>\n<p><strong>Using magic items</strong>: As spell casters, magic-users are able to use magic scrolls of spells on their spell list. They can also use items that may only be used by arcane spell casters (e.g. magic wands).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "magic-user",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1685796507430,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GEThpLA7ZMrcVsV5"
+}

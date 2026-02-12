@@ -1,0 +1,37 @@
+{
+  "name": "Auditory Illusion",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "ieNxeIUcm8jhwsu3",
+  "sort": 0,
+  "flags": {},
+  "_id": "myRlwc16oUxgwBpr",
+  "system": {
+    "description": "<p>A sound of the caster’s choosing is conjured, emanating from a point anywhere within range.</p><ul><li><p><strong>Motion:</strong> The sound may move as long as it remains within range.</p></li><li><p><strong>Change:</strong> The sound may change and evolve over the course of the duration as the caster wishes.</p></li><li><p><strong>Loudness:</strong> The loudness of the sound is limited by the caster’s level: a maximum equivalent to approximately four humans shouting per experience level. (For example, a horde of rats is equal to 8 humans, a lion roaring is equal to 16 humans, a dragon roaring is equal to 24 or more humans.)</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Illusionist",
+    "duration": "3 turns",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450210470,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!myRlwc16oUxgwBpr"
+}

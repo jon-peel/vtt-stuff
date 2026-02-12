@@ -1,0 +1,44 @@
+{
+  "_id": "S4a5AbT60NLg4auN",
+  "name": "Lyre of Building",
+  "type": "item",
+  "img": "icons/tools/instruments/harp-gold-glowing.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5800000,
+  "flags": {},
+  "system": {
+    "description": "<p>A beautifully crafted musical instrument which, when played by a skilled musician, has magical abilities of construction.</p><ul><li><p><strong>Protecting buildings:</strong> Once per day, playing the proper chords (treat as a command word) negates the effects of attacks made against a building or construction. This can, for example, negate the powers of a @UUID[Compendium.ose-advancedfantasytome.magic-items.Item.4OhvzUBNlVFIolf5]{horn of blasting} or the effects of siege weapons.</p></li><li><p><strong>Construction:</strong> Once per week, playing the proper chords (treat as a command word) allows buildings to be magically constructed. Construction work equivalent to that of 100 humans over 3 days occurs in merely 3 turns.</p></li><li><p><strong>If disturbed while playing:</strong> There is a [[/r 1d100]]{50%} chance of the effects of the lyre being negated.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440292022,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!S4a5AbT60NLg4auN"
+}

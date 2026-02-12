@@ -1,0 +1,36 @@
+{
+  "_id": "BT63nHBmcKErlt5N",
+  "name": "Cure Poison",
+  "type": "ability",
+  "img": "icons/magic/life/cross-worn-green.webp",
+  "effects": [],
+  "folder": "cOt7bmTx1Q2WSYbw",
+  "sort": 100000,
+  "flags": {},
+  "system": {
+    "description": "<p>In the wilderness, a barbarian can gather herbs to concoct an antidote to natural poisons. This takes one turn per character to be cured. Each subject may make a second save versus poison to end the effects.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "barbarian",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761456948172,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BT63nHBmcKErlt5N"
+}

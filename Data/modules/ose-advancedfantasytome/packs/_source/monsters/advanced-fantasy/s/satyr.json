@@ -1,0 +1,375 @@
+{
+  "_id": "GyqWOkATNDxrJ0Eo",
+  "name": "Satyr",
+  "type": "monster",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/satyr%20-%20juan%20ochoa%20-%20c%202025%20ng.webp",
+  "items": [
+    {
+      "_id": "uiMgSICfiqpD3FHt",
+      "name": "Surprise",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Only surprised [[/r 1d6]]{on a 1}.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d6",
+        "rollType": "above",
+        "rollTarget": 2,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761282352599
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!GyqWOkATNDxrJ0Eo.uiMgSICfiqpD3FHt"
+    },
+    {
+      "_id": "k7MLpnIav13ReBAM",
+      "name": "Hide in woods",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>[[/br 1d100]]{90%} undetectable when hiding.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d100",
+        "rollType": "below",
+        "rollTarget": 90,
+        "blindroll": true,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.9",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761282371584
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!GyqWOkATNDxrJ0Eo.k7MLpnIav13ReBAM"
+    },
+    {
+      "_id": "PdX3G43bk7JHgTyQ",
+      "name": "Magic pipes",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>One satyr in a group has magic pipes and may play them when encountered for one of the following effects:</p><ul><li><p><strong>Charm:</strong> Used on attractive individuals. Anyone within 60’ who hears the song must <strong>save versus spells</strong> or be charmed: move towards the satyr (resisting those who try to prevent it); defend the satyr; obey the satyr’s commands (if understood); unable to cast spells or use magic items; unable to harm the satyr. A character who saves is unaffected for the rest of the encounter. Killing the satyr breaks the charm.</p></li><li><p><strong>Fear:</strong> Used on powerful enemies. All within 60’ must <strong>save versus spells</strong> or flee for 2 turns.</p></li><li><p><strong>Sleep: </strong>Used against intruders not deemed dangerous. All within 60’ must <strong>save versus spells</strong> or fall asleep for [[/ r4d4]] turns. Satyrs will rob sleeping victims.</p></li></ul>",
+        "save": "spell",
+        "pattern": "yellow",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762136757049
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!GyqWOkATNDxrJ0Eo.PdX3G43bk7JHgTyQ"
+    },
+    {
+      "_id": "fFaDsMVv21j3W5fk",
+      "name": "Horns",
+      "type": "weapon",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "2d4",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "2d4",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!GyqWOkATNDxrJ0Eo.fFaDsMVv21j3W5fk"
+    }
+  ],
+  "effects": [],
+  "folder": "tQilM7Lq7YEXA3tR",
+  "flags": {},
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "5d8",
+      "value": 22,
+      "max": 22
+    },
+    "ac": {
+      "value": 5,
+      "mod": 0
+    },
+    "aac": {
+      "value": 14,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 15,
+      "bba": 4,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 6
+      },
+      "wand": {
+        "value": 7
+      },
+      "paralysis": {
+        "value": 8
+      },
+      "breath": {
+        "value": 8
+      },
+      "spell": {
+        "value": 10
+      }
+    },
+    "movement": {
+      "base": 180,
+      "encounter": 60
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#satyr]{Satyr}</p><p>Magical humanoids with the legs and horns of goats. Love dance, drink, and debauchery. Dwell in deep, isolated forests.</p><p> </p><p>Treasure Type I, N</p>",
+      "alignment": "Neutral",
+      "xp": "175",
+      "specialAbilities": "0",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.KcbPOdArD1qK0m0H]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "2d4"
+      },
+      "morale": "9",
+      "movement": "180’ (60’)"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Satyr",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "color": "#ffb638",
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/satyr.Token.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925312523,
+    "modifiedTime": 1763375337668,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!GyqWOkATNDxrJ0Eo"
+}

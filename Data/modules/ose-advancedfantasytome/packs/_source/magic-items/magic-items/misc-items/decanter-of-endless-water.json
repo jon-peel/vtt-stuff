@@ -1,0 +1,44 @@
+{
+  "_id": "TQFA6Bt0cBFIh50y",
+  "name": "Decanter of Endless Water",
+  "type": "item",
+  "img": "icons/containers/kitchenware/vase-clay-painted-blue-gold.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6200000,
+  "flags": {},
+  "system": {
+    "description": "<p>A stoppered flask which, upon speaking the proper command word, pours forth fresh or salt water at three different rates of flow.</p><ul><li><p><strong>Stream:</strong> A trickle of 1 gallon (8 pints) per round.</p></li><li><p><strong>Fountain:</strong> A 5’ high fountain of 5 gallons per round.</p></li><li><p><strong>Geyser:</strong> A 20’ long jet of 30 gallons per round. Anyone holding the decanter must make a STR check each round or be knocked down by the force of the geyser.</p></li><li><p><strong>Attacking:</strong> The geyser can be used as a missile attack (20’ range), inflicting [[/r 1d2]] damage per hit.</p></li><li><p><strong>Filling spaces:</strong> The geyser will fill a 10’ cubic space every 4 turns.</p></li><li><p><strong>Stopping the flow:</strong> A command word stops the water flowing, allowing the stopper to be put back in.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761429917198,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TQFA6Bt0cBFIh50y"
+}

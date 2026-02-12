@@ -1,0 +1,37 @@
+{
+  "name": "Missile Attack Bonus",
+  "type": "ability",
+  "img": "icons/weapons/slings/slingshot-wood.webp",
+  "effects": [],
+  "folder": "UqH47T24iOHIUjM8",
+  "flags": {},
+  "system": {
+    "description": "<p>Halflings’ keen coordination grants them a +1 bonus to attack rolls with all missile weapons.</p><blockquote><img src=\"icons/vtt-512.png\" width=\"48\" style=\"float: left\"><p><strong>Foundry VTT Note</strong>: To implement the missile attack bonus click on the \"&lt;/&gt; Tweaks\" button on the actor sheet and enter 1 into the Missile Bonus field and save changes.</p></blockquote>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685802950337,
+    "modifiedTime": 1761459626993,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zRoCTr1OWBfRU3aw",
+  "sort": 0,
+  "_key": "!items!zRoCTr1OWBfRU3aw"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "w5Wqz5ECL50IDCy0",
+  "name": "Iron Flask",
+  "type": "item",
+  "img": "icons/containers/kitchenware/goblet-engraved-vines-grey.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 12400000,
+  "flags": {},
+  "system": {
+    "description": "<p>A flask of iron, decorated with silver runes and sealed with a sigil-engraved brass plug. The flask—if the appropriate command word is used—has the power to trap an extra-planar being and force it into servitude.</p><ul><li><p><strong>When found:</strong> There is a [[/br 1d100]]{50%} chance that a creature (e.g. an elemental, djinni, efreeti, invisible stalker, or other creature of extra-planar origin) is already trapped in the flask.</p></li><li><p><strong>Removing the plug:</strong> Frees the trapped creature (if any). If the character speaks the command word, the creature is forced to serve for 1 turn. If the command word is not spoken, the creature’s reaction should be determined randomly (see Monster Reactions under Encounters in the Advanced Fantasy Player’s Tome).</p></li><li><p><strong>Trapping creatures:</strong> If the flask is empty, an extra-planar creature within 60’ can be trapped by removing the plug and speaking the command word. The creature may <strong>save versus spells</strong> to resist. If the creature was previously trapped in the flask, it gains a +2 bonus to the save and becomes utterly hostile.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440037281,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!w5Wqz5ECL50IDCy0"
+}

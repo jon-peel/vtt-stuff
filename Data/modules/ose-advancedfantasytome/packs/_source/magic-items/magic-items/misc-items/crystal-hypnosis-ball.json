@@ -1,0 +1,44 @@
+{
+  "_id": "T6Q61wxdPzMhjvo9",
+  "name": "Crystal Hypnosis Ball",
+  "type": "item",
+  "img": "icons/tools/laboratory/alembic-glass-ball-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6100000,
+  "flags": {},
+  "system": {
+    "description": "<p>Grants an arcane spell caster false visions of any place or object that is brought to mind, while in reality bringing the user under the sway of a baleful intelligence.</p><ul><li><p><strong>False visions</strong>: The user sees the desired place or object in the crystal ball for up to 1 turn, but all impressions are false.</p></li><li><p><strong>Usage frequenc</strong>y: Grants visions at most 3 times a day.</p></li><li><p><strong>Malign contact</strong>: In reality, the user comes into mental contact with the creator of the crystal ball—a malignant magic-user, lich, extra-planar entity, etc. The visions are fabricated by that being.</p></li><li><p><strong>Mind control</strong>: Following each use of the crystal ball, a suggestion is telepathically implanted in the mind of the user. These suggestions cause the user to gradually come under the influence of the remote intelligence, eventually coming to do its bidding.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761351554299,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!T6Q61wxdPzMhjvo9"
+}

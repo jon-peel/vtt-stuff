@@ -1,0 +1,288 @@
+{
+  "name": "Reincarnation: Chaotic Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Reincarnation: Chaotic Monsters",
+  "results": [
+    {
+      "_id": "BexFzYN9eEFpCkUq",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Goblin",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.BexFzYN9eEFpCkUq"
+    },
+    {
+      "_id": "OZ33AtFK1QzuiYUk",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hobgoblin",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.OZ33AtFK1QzuiYUk"
+    },
+    {
+      "_id": "J5vcnCGsZo9R7xII",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kobold",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.J5vcnCGsZo9R7xII"
+    },
+    {
+      "_id": "me4hZn0vdzh6rzzH",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orc",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.me4hZn0vdzh6rzzH"
+    },
+    {
+      "_id": "8duF9luu3r7stA0q",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gnoll",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.8duF9luu3r7stA0q"
+    },
+    {
+      "_id": "w6aQTdDihm7Jkwhb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bugbear",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.w6aQTdDihm7Jkwhb"
+    },
+    {
+      "_id": "R9QLoRfE6dHv6DT8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wererat",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.R9QLoRfE6dHv6DT8"
+    },
+    {
+      "_id": "bKAaI112o4sLiQDp",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ogre",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.bKAaI112o4sLiQDp"
+    },
+    {
+      "_id": "yyM36kvcGAFqDLJ0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Werewolf",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.yyM36kvcGAFqDLJ0"
+    },
+    {
+      "_id": "OXYV7Gxk7Iq2XtRn",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Minotaur",
+      "name": "",
+      "_key": "!tables.results!ElXhB8ujqeFco2qx.OXYV7Gxk7Iq2XtRn"
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "bQ0spjafhnW3IDHf",
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1682112454327,
+    "modifiedTime": 1686550622068,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ElXhB8ujqeFco2qx",
+  "sort": 300000,
+  "_key": "!tables!ElXhB8ujqeFco2qx"
+}

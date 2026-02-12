@@ -1,0 +1,37 @@
+{
+  "name": "Dimension Door",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M6Syp5PYARwNUKsf",
+  "sort": 0,
+  "flags": {},
+  "_id": "03HuiBPsXpuO9G99",
+  "system": {
+    "description": "<p>The caster or a single creature is instantly transferred to another location up to 360’ distant. The destination may be selected in two ways:</p><ol><li><p><strong>Known location:</strong> A location, within 360’, known to the caster.</p></li><li><p><strong>An unknown location:</strong> Specified by a series of offsets (e.g. 120’ north, 160’ east, 80’ up) totalling not more than 360’.</p></li></ol><p><strong>Stipulations:</strong> The following apply:</p><ul><li><p><strong>If the destination is occupied:</strong> By a solid body, the spell fails.</p></li><li><p><strong>If the target is unwilling:</strong> It may <em><strong>save versus spells</strong></em> to resist the teleportation.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "1 round",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761453740925,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!03HuiBPsXpuO9G99"
+}

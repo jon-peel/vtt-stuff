@@ -1,0 +1,37 @@
+{
+  "name": "Hunting",
+  "type": "ability",
+  "img": "icons/weapons/bows/shortbow-recurve-yellow.webp",
+  "effects": [],
+  "folder": "cOt7bmTx1Q2WSYbw",
+  "flags": {},
+  "system": {
+    "description": "<p>A party with a barbarian succeeds at hunting with a [[/r 1d6]]{5-in-6} chance (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.MZcvVTyQEgxgSXic]{Wilderness Adventuring}).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "barbarian",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 5,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761456949415,
+    "modifiedTime": 1761457093653,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "1PDRJ1EKsj3LNTw9",
+  "sort": 0,
+  "_key": "!items!1PDRJ1EKsj3LNTw9"
+}

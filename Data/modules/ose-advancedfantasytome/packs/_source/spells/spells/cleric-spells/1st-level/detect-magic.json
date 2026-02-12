@@ -1,0 +1,37 @@
+{
+  "_id": "vRtoWnlxiF0x74cK",
+  "name": "Detect Magic",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "M8wSNIwAlVFexHGd",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Enchanted objects, areas, or creatures are caused to glow. Both permanent and temporary enchantments are revealed.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Cleric",
+    "duration": "2 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160048474,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!vRtoWnlxiF0x74cK"
+}

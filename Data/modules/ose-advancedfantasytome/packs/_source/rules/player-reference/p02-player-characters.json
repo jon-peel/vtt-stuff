@@ -1,0 +1,378 @@
+{
+  "name": "P02. Player Characters",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Game Statistics",
+      "type": "text",
+      "_id": "ZnnIy2UP16cSbkGk",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Player characters are described, in game terms, by a set of statistics that define their abilities, strengths, and weaknesses in the game world.</p><h3><strong>Ability Scores</strong></h3><p>The basic physical and mental strengths and weaknesses of the character. There are 6 ability scores: <em>Strength</em> (abbreviated STR), <em>Intelligence </em>(INT), <em>Wisdom </em>(WIS), <em>Dexterity</em> (DEX), <em>Constitution </em>(CON), and <em>Charisma </em>(CHA). A character is ranked in each ability score by a number between 3–18. (3 being the worst score possible and 18 the best.)</p><h3><strong>Class</strong></h3><p>An adventuring profession to which the character belongs. A character’s class defines their main abilities. @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.pKRzPpWFHma1Xfnx]{See Character Classes}.</p><h3><strong>Race</strong></h3><p>Unless a demihuman class is selected, the character is assumed to be human.</p><h3><strong>Level</strong></h3><p>The character’s experience as an adventurer is denoted by their experience level. Characters typically start play at 1st level (the lowest level of adventurer) and can increase in level through successful adventuring. As a character goes up in level, they gain more powerful abilities, as defined by their class.</p><h3><strong>Experience Points (XP)</strong></h3><p>The character’s advancement in the game is tracked by the accumulation of experience points. Experience points are awarded by the referee after a successful adventure. When the character has accumulated a certain number of experience points, the character’s level increases. Each class specifies the number of experience points required to achieve each experience level.</p><h3><strong>Prime Requisite</strong></h3><p>The ability score (or scores) that are the most important to the character’s class. The character’s score in these abilities can affect the rate at which the character accumulates experience points.</p><h3><strong>Alignment</strong></h3><p>The character (and every other creature in the game world) is aligned with one of three cosmic principles: Law, Neutrality, or Chaos (see @UUID[.Rc8l9hQ1KAWFE9Kh]{Alignment}). This alignment determines how certain magic influences the character and should be used by the player as a guideline for role-playing the character.</p><h3><strong>Hit Points (hp)</strong></h3><p>The character’s ability to avoid dying. The character has a maximum hit point total and a current hit point total, which are tracked separately. When a character is harmed, their current hit point total is reduced. If this number reaches 0, the character is dead! Rest or healing can restore lost hit points (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.N7g9cY3U5XSi7jSY]{see Damage, Healing, and Death}), but never above the character’s maximum hit point total (this is only increased when the character increases in level).</p><h3><strong>Hit Dice (HD)</strong></h3><p>The number of dice used to determine the character’s maximum hit point total. The character’s class determines the type of dice rolled (i.e. d4, d6, d8) and the character’s level determines the number of dice rolled. (Some classes also grant a flat bonus to hit points at certain levels, instead of or in addition to an extra HD.)</p><h3><strong>Armour Class (AC)</strong></h3><p>The character’s ability to avoid damage in combat. Armour Class is determined by the character’s Dexterity score and by the armour they wear. Lower AC scores are better, so a bonus to AC decreases the character’s AC score and a penalty increases the AC score.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Ascending AC (Optional Rule)</strong></h3><p>Some groups are more familiar with an Armour Class system where higher scores are better. This system is known as Ascending Armour Class (abbreviated AAC) and works as follows:</p><ul><li><p><strong>Armour Class:</strong> When using AAC, higher scores are better. Bonuses to Armour Class increase the AAC score and penalties decrease it.</p></li><li><p><strong>Attack rolls:</strong> When using AAC, the procedure for resolving attack rolls involves the use of an attack bonus instead of a THAC0 score and attack matrix. Note: Using Ascending Armour Class results in very slightly different attack probabilities than when using the traditional approach of descending AC with an attack matrix.</p></li></ul></td></tr></tbody></table><h3><strong>Attack Roll “to Hit AC 0” (THAC0)</strong></h3><p>The character’s ability to hit foes in combat, determined by their class and level. Lower THAC0 scores are better. @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.ouf3QNv4dWj0L1IW]{See Combat} for full details on attacking.</p><h3><strong>Saving Throw Values</strong></h3><p>The character’s ability to avoid being affected by certain types of dangerous or detrimental effects. There are five saving throw categories: death (or poison), wands, paralysis (or petrification), breath attacks, spells (or magic rods or staves). The character’s saving throw values are determined by class and level. @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.2MaU3ifJwbCMFzkn]{See Saving Throws} for full details.</p><h3><strong>Movement Rate</strong></h3><p>The speed at which the character can move when exploring, travelling, or during combat. Every character has a base movement rate and an encounter movement rate (noted in parentheses). The encounter movement rate is one third of the base movement rate. The default movement rate for characters is 120’ (40’)—a base movement rate of 120’ and an encounter movement rate of 40’.</p><h3><strong>Class Abilities</strong></h3><p>Finally, the character’s class denotes a set of special abilities that the character may use. These include the ability to use certain types of armour and weapons and the ability to speak one or more languages.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.ZnnIy2UP16cSbkGk"
+    },
+    {
+      "sort": 200000,
+      "name": "Creating a Character: Basic Method",
+      "type": "text",
+      "_id": "xGDMQKMtMnykkYdB",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>To create a character, you’ll first need a character sheet—a sheet of paper on which to record all information about the new character.</p><p>A selection of different character sheet PDFs is available at <strong>necroticgnome.com</strong>. These may be downloaded and printed for use in your games.</p><h2>1. Roll Ability Scores</h2><p>Roll [[/r 3d6]] for each of your character’s ability scores: Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma. See @UUID[.0DzPBB1QjFvI37uj]{Ability Scores}.</p><h3>Sub-Par Characters</h3><p>If you roll a character with very poor ability scores—for example an 8 or less in every score or an extremely low rating in more than one ability—the referee may allow you to discard the character and start again.</p><h2>2. Choose a Class</h2><p>Select one of the classes available (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.pKRzPpWFHma1Xfnx]{see Character Classes}), bearing in mind the minimum ability score requirements of some classes. The chosen class determines your character’s race—unless a demihuman class is selected, the character is human.</p><h2>3. Adjust Ability Scores</h2><p>If you wish, you may raise your character’s prime requisite(s) by lowering other (non-prime requisite) ability scores. For every 2 points by which an ability score is lowered, 1 point may be added to a prime requisite. The following restrictions apply:</p><ul><li><p>Only Strength, Intelligence, and Wisdom may be lowered in this way.</p></li><li><p>No score may be lowered below 9.</p></li><li><p>Some character classes may have additional constraints.</p></li></ul><h2>4. Note Ability Score Modifiers</h2><p>Now that your character’s ability scores are fixed, make a note of any associated bonuses or penalties (@UUID[.0DzPBB1QjFvI37uj]{see Ability Scores}).</p><h2>5. Note Attack Values</h2><p>The level progression chart for your character’s class lists your THAC0 score. This indicates your chance of hitting opponents in combat, as determined by the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.NucGY6Zfuow2EMQp#attack-matrix]{Attack Matrix}.</p><p>For quick reference, it is convenient to look up the values in the attack matrix row for your character’s THAC0 (determined by class and level) and record them on your character sheet. 1st level characters have a THAC0 of 19 [0], resulting in the attack values shown below.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Ascending AC (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If using the optional rule for @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.ZnnIy2UP16cSbkGk#ascending-ac-(optional-rule)]{Ascending AC}, record your attack bonus on your character sheet, instead of the attack matrix quick reference.</p></div></div></div></div></td></tr></tbody></table><table><tbody><tr><td colspan=\"11\" data-colwidth=\"98,0,0,52,52,0,0,0,0,0,0\"><p><strong>1st Level PC Attack Values</strong></p></td></tr><tr><td data-colwidth=\"98\"><p style=\"text-align:right\"><strong>Attack Roll</strong></p></td><td><p style=\"text-align:center\"><strong>10</strong></p></td><td><p style=\"text-align:center\"><strong>11</strong></p></td><td data-colwidth=\"52\"><p style=\"text-align:center\"><strong>12</strong></p></td><td data-colwidth=\"52\"><p style=\"text-align:center\"><strong>13</strong></p></td><td><p style=\"text-align:center\"><strong>14</strong></p></td><td><p style=\"text-align:center\"><strong>15</strong></p></td><td><p style=\"text-align:center\"><strong>16</strong></p></td><td><p style=\"text-align:center\"><strong>17</strong></p></td><td><p style=\"text-align:center\"><strong>18</strong></p></td><td><p style=\"text-align:center\"><strong>19</strong></p></td></tr><tr><td data-colwidth=\"98\"><p style=\"text-align:right\"><strong>AC Hit</strong></p></td><td><p style=\"text-align:center\">9</p></td><td><p style=\"text-align:center\">8</p></td><td data-colwidth=\"52\"><p style=\"text-align:center\">7</p></td><td data-colwidth=\"52\"><p style=\"text-align:center\">6</p></td><td><p style=\"text-align:center\">5</p></td><td><p style=\"text-align:center\">4</p></td><td><p style=\"text-align:center\">3</p></td><td><p style=\"text-align:center\">2</p></td><td><p style=\"text-align:center\">1</p></td><td><p style=\"text-align:center\">0</p></td></tr></tbody></table><h2>6. Note Saving Throws and Class Abilities</h2><p>Record any special abilities possessed by your character as a result of their class, as well as your character’s saving throws. If your character has a spell book, ask your referee which spells are recorded in it. The referee may allow you to choose.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Weapon Proficiencies (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If using the optional rule for @UUID[.QVnFIvegzPDeIn0P]{Weapon Proficiency}, select which weapons your character is proficient with, choosing from the list of weapons usable by the character’s class.</p></div></div></div></div></td></tr></tbody></table><h2>7. Roll Hit Points</h2><p>Determine your character’s hit points by rolling the die type specified for your class. Modifiers for high or low Constitution apply (see @UUID[.0DzPBB1QjFvI37uj]{Ability Scores}). Characters always start with at least 1 hit point, regardless of CON modifier.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Re-Rolling 1s and 2s (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If you roll a 1 or 2 (before applying any CON modifier), the referee may allow you to re-roll. This is in order to increase the survivability of 1st level PCs.</p></div></div></div></div></td></tr></tbody></table><h2>8. Choose Alignment</h2><p>Decide whether your character is Lawful, Neutral, or Chaotic (see @UUID[.Rc8l9hQ1KAWFE9Kh]{Alignment}).</p><h2>9. Note Known Languages</h2><p>Your character’s native languages are listed in the class description. This always includes the common tongue and your character’s alignment language. Characters with high INT may also choose additional languages. See @UUID[.T0jsb83a6kKKnmi4]{Languages}.</p><h2>10. Buy Equipment</h2><p>Your character has [[/r 3d6*10]] gold pieces (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.7N4x3fUq18XFncMM.JournalEntryPage.Cwhky2oVbK58aCxd]{see Wealth}). Consult the equipment lists (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D]{see Equipment}) and decide what to purchase with this initial wealth.</p><p>Remember: Your chosen class may restrict your use of some equipment (e.g. weapons and armour).</p><h2>11. Note Armour Class</h2><p>Your character’s Armour Class is determined by two factors:</p><ul><li><p><strong>Armour:</strong> The armour worn determines your character’s base AC. See the equipment lists under @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D.JournalEntryPage.nYCaZdKJr9MkDwk4#armour]{Equipment}.</p></li><li><p><strong>Dexterity:</strong> @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#dexterity-(dex)]{See Ability Scores}.</p></li></ul><h3>Unarmoured AC</h3><p>If your character has no armour, their base AC is 9 [10].</p><h2>12. Note Level and XP</h2><p>Your character begins play at 1st level with 0 XP.</p><h2>13. Secondary Skill (Optional Rule)</h2><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>If using the optional rule for secondary skills (@UUID[.zCOYVzNwQmdmHkuT]{see Secondary Skills}), determine which skill your character has.</p></td></tr></tbody></table><h2>14. Name Character</h2><p>Finally, choose a name for your character. You are now ready for adventure!</p></div></div></div></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.xGDMQKMtMnykkYdB"
+    },
+    {
+      "sort": 175000,
+      "name": "Multiple Classes (Optional Rule)",
+      "type": "text",
+      "_id": "rp6lM1xbBfVh1l6b",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>When selecting character race and class separately, players may optionally also be allowed to choose more than one class. This is a significant departure from the standard rules, so the ramifications should be considered very carefully:</p><ul><li><p>Allowing multiple classes to be chosen greatly increases the complexity of the character creation process.</p></li><li><p>Single-classed characters tend to be overwhelmed by characters with multiple classes who can do everything they can and more. Single-classed characters advance more quickly, but the exponential nature of the class XP tables means that they are rarely more than one level ahead.</p></li><li><p>In the traditional Advanced rules, only demihumans were allowed to choose multiple classes and then only in specific combinations. The referee may consider creating combinations of allowed classes, emphasising the different cultures of the various demihuman races.</p></li></ul><h2>Choosing Multiple Classes</h2><p>A character may be of up to three classes, which are selected at character creation.</p><h2>Level and Experience Points</h2><p>The character has a separately tracked count of experience points per class. When earning XP, the total earned is split evenly between the per-class XP counts.</p><h3>Prime Requisite XP Adjustments</h3><p>The character’s prime requisite XP adjustment (see @UUID[.0DzPBB1QjFvI37uj]{Ability Scores}) is calculated separately for each class, based on the prime requisite(s) of the class. The per-class adjustment only applies to XP added to that class’ XP count.</p><h3>Levelling</h3><p>The character has a separately tracked experience level per class. When the character has gained enough XP in one of their classes, that class increases in level.</p><h2>Hit Points</h2><p>When determining hit points at character creation or upon gaining a level, any hit points gained are divided by the number of classes. Fractions are tracked and may add up to a whole number later on.</p><p>For example, a fighter/thief character gains a thief level and the player rolls 1d4 for hit points. The result is a 3, meaning that the character gains 1½ hit points.</p><p>Upon gaining a fighter level, the player rolls 1d8 for hit points. The result is a 5, meaning that the character gains 2½ hit points. The half hit points gained for the thief and fighter levels add up to a whole hit point.</p><h2>Saving Throws and THAC0</h2><p>The character uses the best saving throw value in each category and the best THAC0 value of all of their classes.</p><h2>Class Abilities</h2><h3>Allowed Armour</h3><p>The character may use the best armour options allowed to any of their classes.</p><h3>Allowed Weapons</h3><p>The character may use the best weapon options allowed to any of their classes. For the purposes of the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.QVnFIvegzPDeIn0P]{optional weapon proficiency rules}, the character is treated as their most favourable class.</p><h3>Spell Casting</h3><p>The character may use the magical abilities of each class without restriction.</p><h3>Stealth Skills</h3><p>Class abilities such as hide in shadows or move silently may only be used when wearing armour that is allowed to the class that grants the ability.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.rp6lM1xbBfVh1l6b"
+    },
+    {
+      "sort": 150000,
+      "name": "Character Creation Options",
+      "type": "text",
+      "_id": "jL3GtHWM5XXlL599",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This book presents two methods of character creation, one in the style of the Basic/Expert game and one in the style of the Advanced game.</p><h2>Basic Character Creation</h2><p>Using this method, an adventurer’s primary abilities are determined by a single factor: the chosen character class.</p><h3>Character Race</h3><p>The character class chosen by the player also determines the character’s race. Unless a demihuman class is selected, the character is human.</p><h2>Advanced Character Creation</h2><p>Using this method, an adventurer’s primary abilities are determined by two factors: their race and their class, both chosen separately. Selecting multiple classes may also be allowed.</p><h3>Separate Race and Class</h3><p>Instead of just choosing a character class, players separately choose a race <em>and</em> a class. Separating the abilities granted by a character’s race and class leads to a much wider range of character possibilities. For example, rather than simply being an elf, a character may be an elf fighter, elf thief, elf magic-user, etc.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Multiple Classes (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>Optionally, players may also be allowed to choose multiple classes for their character, enabling the creation of characters with a wide range of mixed abilities. For example, a magic-user/thief combines the abilities of both classes for a powerful subterfuge-based character. See Multiple Classes (Optional Rule).</p></div></div></div></div></td></tr></tbody></table><h2>Choosing Which Method to Use</h2><p>Each group must decide which character creation method they will allow in their games. Some groups may only allow one of the two methods of character creation (basic or advanced), while others may allow each player to decide individually which method to use.</p><p>Characters created using both methods are completely compatible and may freely adventure together.</p><h3>Pros and Cons</h3><p>The major benefit of the basic method of character creation is the ease with which characters can be created: experienced players are able to go from blank character sheet to finished 1st level PC in under 10 minutes. The extra options in the advanced method of character creation provide an extra level of customisation, but at the expense of a more complex and lengthy process of character creation.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h2>Optional Character Creation Rules</h2><p>Two additional options inspired by the Advanced game are available in both methods of character creation, for groups that wish to use them.</p><ul><li><p><strong>Secondary skills:</strong> This optional rule grants characters a degree of experience in a non-adventuring profession, which they have picked up at some point in their lives. See @UUID[.zCOYVzNwQmdmHkuT]{Secondary Skills}.</p></li><li><p><strong>Weapon proficiency:</strong> This optional rule adds an extra level of customisation, allowing players to select the types of weapons their characters are trained to use. See @UUID[.QVnFIvegzPDeIn0P]{Weapon Proficiency}.</p></li></ul></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.jL3GtHWM5XXlL599"
+    },
+    {
+      "sort": 500000,
+      "name": "Creating a Character: Advanced Method",
+      "type": "text",
+      "_id": "xoTLe7LGr168RGej",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"page\" title=\"Page 18\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>To create a character, you’ll first need a character sheet—a sheet of paper on which to record all information about the new character.</p><p>A selection of different character sheet PDFs is available at <strong>necroticgnome.com</strong>. These may be downloaded and printed for use in your games.</p><h2>1. Roll Ability Scores</h2><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>Roll [[/r 3d6]] for each of your character’s ability scores: Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma. See @UUID[.0DzPBB1QjFvI37uj]{Ability Scores}.</p><h3>Sub-Par Characters</h3><p>If you roll a character with very poor ability scores—for example an 8 or less in every score or an extremely low rating in more than one ability—the referee may allow you to discard the character and start again.</p></div></div></div></div><h2>2. Choose a Race</h2><p>Select one of the races available (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.CBg9vMhkLa1XpOok]{see Character Races}), bearing in mind the minimum ability score requirements of some races.</p><p><strong>Ability score modifiers:</strong> If the selected race lists ability score modifiers, adjust your character’s ability scores as indicated. These modifiers cannot raise an ability score above 18 or lower it below 3.</p><h2>3. Choose a Class</h2><p>Select one of the classes available (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.pKRzPpWFHma1Xfnx]{see Character Classes}), bearing in mind the minimum ability score requirements of some classes. The chosen class determines your character’s race—unless a demihuman class is selected, the character is human.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Multiple Classes (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If using the optional rule for multiple classes (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.rp6lM1xbBfVh1l6b]{see Multiple Classes}), you may select more than one class for your character as long as their ability scores meet the requirements of all selected classes.</p></div></div></div></div></td></tr></tbody></table><h2>4. Adjust Ability Scores</h2><p>If you wish, you may raise your character’s prime requisite(s) by lowering other (non-prime requisite) ability scores. For every 2 points by which an ability score is lowered, 1 point may be added to a prime requisite. The following restrictions apply:</p><ul><li><p>Only Strength, Intelligence, and Wisdom may be lowered in this way.</p></li><li><p>No score may be lowered below 9.</p></li><li><p>Some character classes may have additional constraints.</p></li></ul><h2>5. Note Ability Score Modifiers</h2><p>Now that your character’s ability scores are fixed, make a note of any associated bonuses or penalties (@UUID[.0DzPBB1QjFvI37uj]{see Ability Scores}).</p><h2>6. Note Attack Values</h2><p>The level progression chart for your character’s class lists your THAC0 score. This indicates your chance of hitting opponents in combat, as determined by the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.NucGY6Zfuow2EMQp#attack-matrix]{Attack Matrix}.</p><p>For quick reference, it is convenient to look up the values in the attack matrix row for your character’s THAC0 (determined by class and level) and record them on your character sheet. 1st level characters have a THAC0 of 19 [0], resulting in the attack values shown below.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Ascending AC (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If using the optional rule for @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.ZnnIy2UP16cSbkGk#ascending-ac-(optional-rule)]{Ascending AC}, record your attack bonus on your character sheet, instead of the attack matrix quick reference.</p></div></div></div></div></td></tr></tbody></table><table><tbody><tr><td colspan=\"11\" data-colwidth=\"98,0,0,52,52,0,0,0,0,0,0\"><p><strong>1st Level PC Attack Values</strong></p></td></tr><tr><td data-colwidth=\"98\"><p style=\"text-align:right\"><strong>Attack Roll</strong></p></td><td><p style=\"text-align:center\"><strong>10</strong></p></td><td><p style=\"text-align:center\"><strong>11</strong></p></td><td data-colwidth=\"52\"><p style=\"text-align:center\"><strong>12</strong></p></td><td data-colwidth=\"52\"><p style=\"text-align:center\"><strong>13</strong></p></td><td><p style=\"text-align:center\"><strong>14</strong></p></td><td><p style=\"text-align:center\"><strong>15</strong></p></td><td><p style=\"text-align:center\"><strong>16</strong></p></td><td><p style=\"text-align:center\"><strong>17</strong></p></td><td><p style=\"text-align:center\"><strong>18</strong></p></td><td><p style=\"text-align:center\"><strong>19</strong></p></td></tr><tr><td data-colwidth=\"98\"><p style=\"text-align:right\"><strong>AC Hit</strong></p></td><td><p style=\"text-align:center\">9</p></td><td><p style=\"text-align:center\">8</p></td><td data-colwidth=\"52\"><p style=\"text-align:center\">7</p></td><td data-colwidth=\"52\"><p style=\"text-align:center\">6</p></td><td><p style=\"text-align:center\">5</p></td><td><p style=\"text-align:center\">4</p></td><td><p style=\"text-align:center\">3</p></td><td><p style=\"text-align:center\">2</p></td><td><p style=\"text-align:center\">1</p></td><td><p style=\"text-align:center\">0</p></td></tr></tbody></table><h2>7. Note Saving Throws and Class Abilities</h2><p>Record any special abilities possessed by your character as a result of their class, as well as your character’s saving throws. If your character has a spell book, ask your referee which spells are recorded in it. The referee may allow you to choose.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Weapon Proficiencies (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If using the optional rule for @UUID[.QVnFIvegzPDeIn0P]{Weapon Proficiency}, select which weapons your character is proficient with, choosing from the list of weapons usable by the character’s class.</p></div></div></div></div></td></tr></tbody></table><h2>8. Roll Hit Points</h2><p>Determine your character’s hit points by rolling the die type specified for your class. Modifiers for high or low Constitution apply (@UUID[.0DzPBB1QjFvI37uj]{see Ability Scores}). Characters always start with at least 1 hit point, regardless of CON modifier.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3>Re-Rolling 1s and 2s (Optional Rule)</h3><div class=\"page\"><div class=\"section\"><div class=\"layoutArea\"><div class=\"column\"><p>If you roll a 1 or 2 (before applying any CON modifier), the referee may allow you to re-roll. This is in order to increase the survivability of 1st level PCs.</p></div></div></div></div></td></tr></tbody></table><h2>9. Choose Alignment</h2><p>Decide whether your character is Lawful, Neutral, or Chaotic (see @UUID[.Rc8l9hQ1KAWFE9Kh]{Alignment}).</p><h2>10. Note Known Languages</h2><p>Your character’s native languages are listed in the class description. This always includes the common tongue and your character’s alignment language. Characters with high INT may also choose additional languages. See @UUID[.T0jsb83a6kKKnmi4]{Languages}.</p><h2>11. Buy Equipment</h2><p>Your character has [[/r 3d6*10]] gold pieces (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.7N4x3fUq18XFncMM.JournalEntryPage.Cwhky2oVbK58aCxd]{see Wealth}). Consult the equipment lists (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D]{see Equipment}) and decide what to purchase with this initial wealth.</p><p>Remember: Your chosen race and class may restrict your use of some equipment (e.g. weapons and armour).</p><h2>12. Note Armour Class</h2><p>Your character’s Armour Class is determined by two factors:</p><ul><li><p>Armour: The armour worn determines your character’s base AC. See the equipment lists under Equipment.</p></li><li><p>Dexterity: @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#dexterity-(dex)]{See Ability Scores}.</p></li></ul><h3>Unarmoured AC</h3><p>If your character has no armour, their base AC is 9 [10].</p><h2>13. Note Level and XP</h2><p>Your character begins play at 1st level with 0 XP.</p><h2>14. Secondary Skill (Optional Rule)</h2><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>If using the optional rule for secondary skills (@UUID[.zCOYVzNwQmdmHkuT]{see Secondary Skills}), determine which skill your character has.</p></td></tr></tbody></table><h2>15. Name Character</h2><p>Finally, choose a name for your character. You are now ready for adventure!</p></div></div></div></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.xoTLe7LGr168RGej"
+    },
+    {
+      "sort": 600000,
+      "name": "Ability Scores",
+      "type": "text",
+      "_id": "0DzPBB1QjFvI37uj",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A character’s score in each ability determines whether they have any bonuses or penalties associated with various actions in the game. The tables opposite list the modifiers associated with each ability score, with the effects described below.</p><h2>Strength (STR)</h2><p>Brawn, muscle, and physical power.</p><ul><li><p><strong>Melee:</strong> Is applied to attack and damage rolls with melee weapons.</p></li><li><p><strong>Open doors:</strong> The chance of success with attempts to force open a stuck door (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.DpsGa6pHQRkwiQR8#stuck-doors]{Dungeon Adventuring}).</p></li></ul><table><thead><tr><th>STR</th><th>Melee</th><th>Open Doors</th></tr></thead><tbody><tr><td>3</td><td>–3</td><td>1-in-6</td></tr><tr><td>4–5</td><td>–2</td><td>1-in-6</td></tr><tr><td>6–8</td><td>–1</td><td>1-in-6</td></tr><tr><td>9–12</td><td>None</td><td>2-in-6</td></tr><tr><td>13–15</td><td>+1</td><td>3-in-6</td></tr><tr><td>16–17</td><td>+2</td><td>4-in-6</td></tr><tr><td>18</td><td>+3</td><td>5-in-6</td></tr></tbody></table><h2>Intelligence (INT)</h2><p>Learning, memory, and reasoning.</p><ul><li><p><strong>Spoken languages:</strong> Denotes the number of languages the character can speak.</p></li><li><p><strong>Literacy:</strong> Indicates the character’s ability to read and write their native languages.</p></li></ul><table><thead><tr><th>INT</th><th>Spoken Languages</th><th>Literacy</th></tr></thead><tbody><tr><td>3</td><td>–</td><td>Illiterate</td></tr><tr><td>4–5</td><td>Native (broken speech)</td><td>Illiterate</td></tr><tr><td>6–8</td><td>Native</td><td>Basic</td></tr><tr><td>9–12</td><td>Native</td><td>Literate</td></tr><tr><td>13–15</td><td>Native + 1 additional</td><td>Literate</td></tr><tr><td>16–17</td><td>Native + 2 additional</td><td>Literate</td></tr><tr><td>18</td><td>Native + 3 additional</td><td>Literate</td></tr></tbody></table><h2>Wisdom (WIS)</h2><p>Willpower, common sense, perception, and intuition.</p><ul><li><p><strong>Magic saves:</strong> Is applied to @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.2MaU3ifJwbCMFzkn]{Saving Throws} versus magical effects. This does not normally include saves against breath attacks, but may apply to any other saving throw category.</p></li></ul><table><thead><tr><th>WIS</th><th>Magic Saves</th></tr></thead><tbody><tr><td>3</td><td>–3</td></tr><tr><td>4–5</td><td>–2</td></tr><tr><td>6–8</td><td>–1</td></tr><tr><td>9–12</td><td>None</td></tr><tr><td>13–15</td><td>+1</td></tr><tr><td>16–17</td><td>+2</td></tr><tr><td>18</td><td>+3</td></tr></tbody></table><h2>Dexterity (DEX)</h2><p>Agility, reflexes, speed, and balance.</p><ul><li><p><strong>AC:</strong> Modifies the character’s AC (a bonus lowers AC, a penalty raises it).</p></li><li><p><strong>Missile:</strong> Applied to attack rolls (but not damage rolls) with ranged weapons.</p></li><li><p><strong>Initiative:</strong> Modifies the character’s initiative roll, if the optional rule for individual initiative is used (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.ouf3QNv4dWj0L1IW#initiative]{see Combat}).</p></li></ul><table><thead><tr><th>DEX</th><th>AC</th><th>Missile</th><th>Initiative</th></tr></thead><tbody><tr><td>3</td><td>–3</td><td>–3</td><td>–3</td></tr><tr><td>4–5</td><td>–2</td><td>–2</td><td>–1</td></tr><tr><td>6–8</td><td>–1</td><td>–1</td><td>None</td></tr><tr><td>9–12</td><td>None</td><td>None</td><td>None</td></tr><tr><td>13–15</td><td>+1</td><td>+1</td><td>+1</td></tr><tr><td>16–17</td><td>+2</td><td>+2</td><td>+2</td></tr><tr><td>18</td><td>+3</td><td>+3</td><td>+2</td></tr></tbody></table><h2>Constitution (CON)</h2><p>Health, stamina, and endurance.</p><ul><li><p><strong>Hit points:</strong> Applies when rolling a character’s hit points (i.e. at 1st level and every time a level is gained thereafter). A character always gains at least 1 hit point per Hit Die, regardless of CON modifier.</p></li></ul><table><thead><tr><th>CON</th><th>Hit Points</th></tr></thead><tbody><tr><td>3</td><td>–3</td></tr><tr><td>4–5</td><td>–2</td></tr><tr><td>6–8</td><td>–1</td></tr><tr><td>9–12</td><td>None</td></tr><tr><td>13–15</td><td>+1</td></tr><tr><td>16–17</td><td>+2</td></tr><tr><td>18</td><td>+3</td></tr></tbody></table><h2>Charisma (CHA)</h2><p>Force of personality, persuasiveness, personal magnetism, physical attractiveness, and ability to lead.</p><ul><li><p><strong>NPC reactions:</strong> Applies when hiring retainers and when interacting with monsters.</p></li><li><p><strong>Max # of retainers:</strong> Determines the number of retainers a character may have at any one time.</p></li><li><p><strong>Retainer loyalty:</strong> Determines retainers’ loyalty to the character.</p></li></ul><table><thead><tr><th>CHA</th><th>NPC Reactions</th><th>Retainers Max #</th><th>Loyalty</th></tr></thead><tbody><tr><td>3</td><td>–2</td><td>1</td><td>–4</td></tr><tr><td>4–5</td><td>–1</td><td>2</td><td>–2</td></tr><tr><td>6–8</td><td>None</td><td>3</td><td>–1</td></tr><tr><td>9–12</td><td>None</td><td>4</td><td>None</td></tr><tr><td>13–15</td><td>+1</td><td>5</td><td>+1</td></tr><tr><td>16–17</td><td>+2</td><td>6</td><td>+3</td></tr><tr><td>18</td><td>+3</td><td>7</td><td>+10</td></tr></tbody></table><h2>Prime Requisites</h2><p>Each character class has one or more prime requisites—ability scores of special importance to that class’ function. A character’s score in their prime requisites affects how quickly they gain XP.</p><ul><li><p><strong>XP modifier:</strong> Applied to all XP awarded to characters with a single prime requisite. The modifiers for classes with multiple prime requisites are noted in the class description.</p></li></ul><table><thead><tr><th>Prime Requisite</th><th>XP Modifier</th></tr></thead><tbody><tr><td>3–5</td><td>–20%</td></tr><tr><td>6–8</td><td>–10%</td></tr><tr><td>9–12</td><td>None</td></tr><tr><td>13–15</td><td>+5%</td></tr><tr><td>16–18</td><td>+10%</td></tr></tbody></table>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762844656156
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.0DzPBB1QjFvI37uj"
+    },
+    {
+      "sort": 700000,
+      "name": "Alignment",
+      "type": "text",
+      "_id": "Rc8l9hQ1KAWFE9Kh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>All beings, whether PCs, NPCs, or monsters, adhere to one of three philosophies or spheres of behaviour, known as alignments. These spheres are Law, Neutrality, and Chaos. A player must choose one of these paths when creating a character.</p><p><strong>Law:</strong> Lawful beings believe in truth and justice. To this end, they will follow laws and believe all things must adhere to order. Lawful beings also believe in sacrifice to a greater good and will choose the good of a larger group over the good of an individual.</p><p><strong>Neutrality:</strong> Neutral beings believe in a balance between the ideas of Law and Chaos and, in their actions, tend to do what will serve themselves. They might commit good or evil acts in order to further their own ends and generally will not put others’ needs ahead of their own. </p><p><strong>Chaos:</strong> Chaotic beings are in direct opposition to Law. These beings should seldom be trusted, for they tend to act in “evil” ways and are utterly selfish. Chaotic characters believe in chance and that there is no innate order to life.</p><h2>Revealing Alignment</h2><p>The player must inform the referee of their character’s alignment, but does not have to tell other players.</p><h2>Role-Playing Alignment</h2><p>When determining the character’s actions, players should do their best to adhere to their chosen alignment. The referee will take note when a character’s behaviour deviates too much from the norm of the chosen alignment and may assign a new alignment more appropriate to actual character actions. Deviation from alignment may also be penalised, as the referee sees fit.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.Rc8l9hQ1KAWFE9Kh"
+    },
+    {
+      "sort": 800000,
+      "name": "Weapon Proficiency (Optional Rule)",
+      "type": "text",
+      "_id": "QVnFIvegzPDeIn0P",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>The weapons a character can use are normally determined by their class. Two characters of the same class can thus both use the same weapons with equal skill.</p><p>This optional rule allows for further differentiation between characters by limiting the types of weapons each character is trained to use. If using this optional rule, each character is <em><strong>proficient</strong></em> with a limited number of types of weapons (e.g. maces, short swords, long bows)—the character is comfortable using these weapons and can use them in combat without penalty.</p><h2>Martial, Semi-Martial, Non-Martial</h2><p>For the sake of determining weapon proficiencies, character classes are divided into three categories: martial, semi-martial, and non-martial. The category each class falls under is determined by the rate at which its THAC0 and saving throw values improve, as follows:</p><ul><li><p><strong>Martial:</strong> THAC0 and saves improve every 3 levels (e.g. knight).</p></li><li><p><strong>Semi-martial:</strong> THAC0 and saves improve every 4 levels (e.g. acrobat).</p></li><li><p>Non-martial: THAC0 and saves improve every 5 levels (e.g. illusionist).</p></li></ul><h2>Choosing Weapon Proficiencies</h2><p>Proficient weapons may only be chosen from the list of weapons usable by the character’s class (also taking into account any limitations due to the character’s race, if the advanced character creation method is used).</p><h2>Initial Weapon Proficiencies</h2><p>At character creation, before purchasing equipment, the player should note the weapons that the character is proficient with. Martial characters are proficient with 4 weapons at 1st level, semi-martial characters with 3 weapons, and non-martial characters with 1 weapon.</p><h2>Gaining Weapon Proficiencies</h2><p>As the character gains experience, they become proficient in the use of addition- al weapons. Every time the character’s THAC0 and saving throw values improve, the character also gains proficiency with a new weapon.</p><h2>Non-Proficient Attacks</h2><p>A character using a weapon that they are not proficient with incurs a penalty to attack rolls. Martial characters suffer a –2 penalty, semi-martial characters a –3 penalty, and non-martial characters a –5 penalty.</p><p>The referee may optionally allow characters to use weapons that are restricted by their race or class, applying the same non-proficiency penalty in such cases.</p><h2>Weapon Specialisation</h2><p>Martial characters may optionally be allowed to <em><strong>specialise</strong></em> in a single, specific type of weapon. This requires dedicating two weapon proficiency “slots” to a single weapon type. For example, a 1st level martial character is normally proficient with 4 weapons. If the player chooses to specialise in a weapon, the character is only proficient with 3 weapons (the specialised weapon plus two others).</p><p>When attacking with a specialised weap- on, the character gains a +1 bonus to attack and damage rolls.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.QVnFIvegzPDeIn0P"
+    },
+    {
+      "sort": 900000,
+      "name": "Languages",
+      "type": "text",
+      "_id": "T0jsb83a6kKKnmi4",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The native languages spoken by a player character are determined by the character’s class (or their race, if using the advanced character creation method). These typically include the common tongue and an alignment language. Characters with high INT may learn additional languages (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.0DzPBB1QjFvI37uj#intelligence-(int)]{see Ability Scores}).</p><h2>The Common Tongue</h2><p>The common tongue (sometimes simply called <em><strong>Common</strong></em>) is a language which is widespread among intelligent species. All player character races—as well as many monsters—are able to speak Common.</p><p>In some settings, the referee may rule that different cultures in the campaign world have different languages, in which case a particular language must be chosen instead of Common.</p><h3>Deepcommon</h3><p>Creatures native to the Underworld speak an alternative common tongue known as Deepcommon.</p><h2>Alignment Languages</h2><p>All intelligent beings know a secret, unwritten language of gestures, signs, and code words associated with their alignment. This secret language allows beings of the same alignment to communicate. Beings of another alignment recognise when an alignment language is being used, but cannot understand. It is not possible to learn another alignment language except by changing alignment, in which case the former language is forgotten.</p><p>Many demihuman and intelligent monster species have their own language, which player characters may be able to learn. The table below lists common languages which may be chosen by player characters with high Intelligence (at the referee’s discretion).</p><h2>Other Languages</h2><p>Many demihuman and intelligent monster species have their own language, which player characters may be able to learn. The table below lists common languages which may be chosen by player characters with high Intelligence (at the referee’s discretion).</p><table><thead><tr><th>[[/r d20]]</th><th>Language</th></tr></thead><tbody><tr><td>1</td><td>Bugbear</td></tr><tr><td>2</td><td>Doppelgänger</td></tr><tr><td>3</td><td>Dragon</td></tr><tr><td>4</td><td>Dwarvish</td></tr><tr><td>5</td><td>Elvish</td></tr><tr><td>6</td><td>Gargoyle</td></tr><tr><td>7</td><td>Gnoll</td></tr><tr><td>8</td><td>Gnomish</td></tr><tr><td>9</td><td>Goblin</td></tr><tr><td>10</td><td>Halfling</td></tr><tr><td>11</td><td>Harpy</td></tr><tr><td>12</td><td>Hobgoblin</td></tr><tr><td>13</td><td>Kobold</td></tr><tr><td>14</td><td>Lizard man</td></tr><tr><td>15</td><td>Medusa</td></tr><tr><td>16</td><td>Minotaur</td></tr><tr><td>17</td><td>Ogre</td></tr><tr><td>18</td><td>Orcish</td></tr><tr><td>19</td><td>Pixie</td></tr><tr><td>20</td><td>Human dialect</td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.T0jsb83a6kKKnmi4"
+    },
+    {
+      "sort": 1000000,
+      "name": "Secondary Skills (Optional Rule)",
+      "type": "text",
+      "_id": "zCOYVzNwQmdmHkuT",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>A character’s class is assumed to be their primary profession and the focus of all training. However, characters may have picked up secondary skills related to another profession at some point in their lives. This may be the profession of a parent or mentor which the character has picked up to some degree or it may be simply a skill that the character practises as a hobby.</p><h2>Determining Secondary Skills</h2><p>When creating a new character, the player should roll [[/r d100]] and consult the table to the right to determine the character’s secondary skill. If desired, the referee may allow a player to choose a secondary skill rather than rolling randomly.</p><h2>Using Secondary Skills</h2><p>The referee must adjudicate all uses of secondary skills. Generally speaking, knowledge of a secondary skill allows a character to perform the functions of a profession at a basic level, for example:</p><ul><li><p>Assess the value and quality of an item associated with the skill.</p></li><li><p>Make minor repairs to items associated with the skill.</p></li><li><p>Construct simple items associated with the skill.</p></li></ul><p>Under no circumstances should a character following the life of an adventurer be able to approach anywhere near the level of skill of a character dedicated to a profession</p><h4><strong>Secondary Skills</strong></h4><table><thead><tr><th>[[/r d100]]</th><th>Secondary Skill</th></tr></thead><tbody><tr><td>01–03</td><td>Animal trainer</td></tr><tr><td>04–05</td><td>Armourer</td></tr><tr><td>06–09</td><td>Baker</td></tr><tr><td>10–12</td><td>Blacksmith</td></tr><tr><td>13</td><td>Bookbinder</td></tr><tr><td>14–16</td><td>Bowyer / fletcher</td></tr><tr><td>17–20</td><td>Brewer</td></tr><tr><td>21–23</td><td>Butcher</td></tr><tr><td>24–26</td><td>Carpenter</td></tr><tr><td>27–28</td><td>Chandler</td></tr><tr><td>29–33</td><td>Cooper</td></tr><tr><td>34–35</td><td>Coppersmith</td></tr><tr><td>36–46</td><td>Farmer</td></tr><tr><td>47–50</td><td>Fisher</td></tr><tr><td>51–54</td><td>Furrier</td></tr><tr><td>55</td><td>Glassblower</td></tr><tr><td>56–59</td><td>Huntsman</td></tr><tr><td>60–62</td><td>Lapidary / jeweller</td></tr><tr><td>63–66</td><td>Lorimer</td></tr><tr><td>67</td><td>Mapmaker</td></tr><tr><td>68–69</td><td>Mason</td></tr><tr><td>70–73</td><td>Miner</td></tr><tr><td>74–76</td><td>Potter</td></tr><tr><td>77–78</td><td>Roper</td></tr><tr><td>79–81</td><td>Seafarer</td></tr><tr><td>82–84</td><td>Shipwright</td></tr><tr><td>85–87</td><td>Tailor</td></tr><tr><td>88–90</td><td>Tanner</td></tr><tr><td>91–93</td><td>Thatcher / roofer</td></tr><tr><td>94–96</td><td>Woodcutter</td></tr><tr><td>97–98</td><td>Vintner</td></tr><tr><td>99–00</td><td>Roll for two skills</td></tr></tbody></table></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!XzYWi1aD44eB2sHv.zCOYVzNwQmdmHkuT"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "XzYWi1aD44eB2sHv",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!XzYWi1aD44eB2sHv"
+}

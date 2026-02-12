@@ -1,0 +1,22 @@
+{
+  "color": "#47b123",
+  "name": "Hag",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "EAo3lQ9OO2Map3lm",
+  "_id": "aPhTnUqpQY3KVGlp",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752925312335,
+    "modifiedTime": 1763375337227,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!aPhTnUqpQY3KVGlp"
+}

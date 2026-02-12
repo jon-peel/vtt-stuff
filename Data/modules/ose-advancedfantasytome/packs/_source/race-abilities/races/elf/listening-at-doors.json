@@ -1,0 +1,37 @@
+{
+  "name": "Listening at Doors",
+  "type": "ability",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "effects": [],
+  "folder": "bHcbTbx1e4imyyb0",
+  "flags": {},
+  "system": {
+    "description": "<p>Elves have a [[/br 1d6]]{2-in-6} chance of hearing noises (see <span style=\"color: #191813;\">@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.DpsGa6pHQRkwiQR8]{Dungeon Adventuring}</span>).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "elf",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1685802412169,
+    "modifiedTime": 1761459384138,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ErS76pb6IzgsaYLm",
+  "sort": 0,
+  "_key": "!items!ErS76pb6IzgsaYLm"
+}

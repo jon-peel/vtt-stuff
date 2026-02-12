@@ -1,0 +1,44 @@
+{
+  "_id": "O13eQassfBIHFvQb",
+  "name": "Amulet of Protection Against Possession",
+  "type": "item",
+  "img": "icons/commodities/treasure/brooch-jeweled-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5200000,
+  "flags": {},
+  "system": {
+    "description": "<p>An amulet that prevents disembodied spirits from entering and possessing the wearer’s body.</p><ul><li><p><strong>Magic jar:</strong> The magic-user spell <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.mSgmimBzP2XdC30B]{magic jar}</em> cannot affect the wearer.</p></li><li><p><strong>Ghostly possession:</strong> The possession attack of @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.mJzI6EZT0xTNc8OW]{ghosts} is ineffective against the wearer.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761426727982,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!O13eQassfBIHFvQb"
+}

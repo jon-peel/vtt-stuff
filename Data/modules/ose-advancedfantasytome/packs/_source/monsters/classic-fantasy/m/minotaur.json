@@ -1,0 +1,448 @@
+{
+  "folder": "K4G4eF2aFMJxlZeX",
+  "name": "Minotaur",
+  "type": "monster",
+  "_id": "KkC5B1nQaNQ5zrlF",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/minotaur%20-%20frank%20scacalossi%20-%20c%202021%20ng.webp",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": null,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "6d8",
+      "value": 27,
+      "max": 27
+    },
+    "ac": {
+      "value": 6,
+      "mod": 0
+    },
+    "aac": {
+      "value": 13,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 14,
+      "bba": 5,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 10
+      },
+      "wand": {
+        "value": 11
+      },
+      "paralysis": {
+        "value": 12
+      },
+      "breath": {
+        "value": 13
+      },
+      "spell": {
+        "value": 14
+      }
+    },
+    "movement": {
+      "base": 120
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#minotaur]{Minotaur}</p><p>Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes and labyrinths.</p>",
+      "alignment": "Chaotic",
+      "xp": "275",
+      "specialAbilities": "2",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.6hRwPJuYNRW5lf94]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1d6",
+        "w": "1d8"
+      },
+      "morale": "12",
+      "movement": ""
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "name": "Minotaur",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/minotaur.Token.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "pGBPiVSeT4DPFall",
+      "name": "Weapon",
+      "type": "weapon",
+      "sort": 400000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>&nbsp;Or By Weapon +2</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 10,
+        "cost": 3,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "yellow",
+        "damage": "1d6+2",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762133857948
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!KkC5B1nQaNQ5zrlF.pGBPiVSeT4DPFall"
+    },
+    {
+      "_id": "JwHzreaAN6Dgq3LH",
+      "name": "Weapons",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Prefer axes, clubs, or spears.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762133846759
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!KkC5B1nQaNQ5zrlF.JwHzreaAN6Dgq3LH"
+    },
+    {
+      "_id": "coUz8mBKbasxhvRK",
+      "name": "Aggressive",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Attack same size or smaller creatures on sight.</p>\n<p>Persue until the victims are out of sight.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762133832490
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!KkC5B1nQaNQ5zrlF.coUz8mBKbasxhvRK"
+    },
+    {
+      "_id": "KDxrAxIuImRgqv8P",
+      "name": "Gore",
+      "type": "weapon",
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.ose-advancedfantasytome.monsters.Actor.QqFRQw5Zqn4hqC3Z.Item.4A8LbHZBWSOmrvrA",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "createdTime": 1762133860431,
+        "modifiedTime": 1762133874949,
+        "lastModifiedBy": "osebuilder000000"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!KkC5B1nQaNQ5zrlF.KDxrAxIuImRgqv8P"
+    },
+    {
+      "_id": "5DfZaeXMcjjV1y9t",
+      "name": "Bite",
+      "type": "weapon",
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.ose-advancedfantasytome.monsters.Actor.QqFRQw5Zqn4hqC3Z.Item.4A8LbHZBWSOmrvrA",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "createdTime": 1762133861735,
+        "modifiedTime": 1762133881942,
+        "lastModifiedBy": "osebuilder000000"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!KkC5B1nQaNQ5zrlF.5DfZaeXMcjjV1y9t"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925299445,
+    "modifiedTime": 1763375111579,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!KkC5B1nQaNQ5zrlF"
+}

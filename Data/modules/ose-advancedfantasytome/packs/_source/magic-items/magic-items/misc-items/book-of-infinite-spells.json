@@ -1,0 +1,44 @@
+{
+  "_id": "I8KuU0h6QFBhT8HO",
+  "name": "Book of Infinite Spells",
+  "type": "item",
+  "img": "icons/sundries/books/book-embossed-gold-green.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3800000,
+  "flags": {},
+  "system": {
+    "description": "<p>A tome of great magical power with [[/r 1d8 + 12]] pages. Each page grants the owner the ability to cast a spell.</p><ul><li><p><strong>Non-spell casters:</strong> Suffer [[/r 5d4]] damage and are paralysed for 5d4 turns upon first opening the book. Thereafter, they may benefit as normal from its powers.</p></li><li><p><strong>Reading a page:</strong> The owner gains the ability to cast the associated spell. Spells are of level 1–5 and may be of any type (e.g. cleric, druid, magic-user). Level and type are determined randomly per page.</p></li><li><p><strong>Turning to another page:</strong> The spell on the previous page disappears forever and the owner loses the ability to cast it. Once all pages have been read, the book is empty.</p></li><li><p><strong>Casting spells:</strong> The owner may cast the spell on the last page read once per day. If the spell is one that the character could normally cast (according to class and level), they can cast it 4 times a day.</p></li><li><p><strong>Each time a spell is cast:</strong> There is a [[/r 1d6]]{1-in-6} chance of the spell disappearing from its page in the book. The owner loses the ability to cast the spell and must turn to another page.</p></li><li><p><strong>Storing the book:</strong> The owner benefits from the book’s power even if it is not on their person. It may thus be stored.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427073793,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!I8KuU0h6QFBhT8HO"
+}

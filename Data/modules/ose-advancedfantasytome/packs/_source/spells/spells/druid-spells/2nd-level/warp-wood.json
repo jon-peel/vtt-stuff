@@ -1,0 +1,37 @@
+{
+  "name": "Warp Wood",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "TDQzHoPtU6S9sSNc",
+  "sort": 0,
+  "flags": {},
+  "_id": "ZpzhHnsZitZ1Gp0C",
+  "system": {
+    "description": "<p>Wooden objects of the caster’s choice warp and become useless.</p><ul><li><p><strong>Common objects:</strong> One arrow-sized object is affected per level of the caster. A javelin, magic wand, or spear counts as two arrows; a bow, club, or staff counts as four.</p></li><li><p><strong>Objects of other shapes:</strong> (e.g. boards or planks) of roughly equivalent size may also be targeted.</p></li><li><p><strong>Magical objects:</strong> That are targeted have a chance of being unaffected:</p><ul><li><p><strong>Magic weapons and arms:</strong> Have a 10% chance of being unaffected per magical “plus”. (e.g. a magical spear +2 has a 20% chance of being unaffected by warp wood.)</p></li><li><p><strong>Wielding:</strong> If the magical object is in the hands of a creature, the creature may also <strong>save versus spells</strong> to prevent the object being warped.</p></li></ul></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Druid",
+    "duration": "Permanent",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761449871893,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ZpzhHnsZitZ1Gp0C"
+}

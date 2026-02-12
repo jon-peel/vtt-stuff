@@ -1,0 +1,37 @@
+{
+  "name": "Looking Glass",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "Tst7hPgRHOWQ3gAQ",
+  "sort": 0,
+  "flags": {},
+  "_id": "lCRDEl8ZJ6gGxGnv",
+  "system": {
+    "description": "<p>A finely wrought, silver mirror is enchanted to act as a scrying device, allowing the caster to fleetingly view any place or object that is brought to mind:</p><ul><li><p><strong>The clarity of the vision:</strong> Is dependent on the scryer’s familiarity with the subject.</p></li><li><p><strong>Casting spells:</strong> It is not possible to cast spells through the mirror into the viewed scene.</p></li><li><p><strong>Material cost:</strong> The mirror enchanted by this spell must be of at least 1,000gp value.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Illusionist",
+    "duration": "1 round per level",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452023872,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!lCRDEl8ZJ6gGxGnv"
+}

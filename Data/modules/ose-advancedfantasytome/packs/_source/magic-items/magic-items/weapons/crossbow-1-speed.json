@@ -1,0 +1,63 @@
+{
+  "name": "Crossbow +1, Speed",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-blue.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 2900000,
+  "flags": {},
+  "_id": "ipL6WyBJikMv4kaB",
+  "system": {
+    "description": "<p>An enchanted crossbow which can fire with great rapidity.</p><ul><li><p><strong>If using the optional reload rule</strong>: (See @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D.JournalEntryPage.nYCaZdKJr9MkDwk4]{Weapons and Armour}.) The crossbow can be reloaded so rapidly that it may fire every round in combat.</p></li><li><p><strong>Otherwise</strong>: The crossbow always attacks first in the round, as if the wielder had won initiative.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 50,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 80,
+      "medium": 160,
+      "long": 240
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 1,
+    "tags": [
+      {
+        "title": "Reload",
+        "value": "Reload"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445923819,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ipL6WyBJikMv4kaB"
+}

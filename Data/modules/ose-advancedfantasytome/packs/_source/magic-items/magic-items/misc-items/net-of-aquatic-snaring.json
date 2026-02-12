@@ -1,0 +1,46 @@
+{
+  "name": "Net of Aquatic Snaring",
+  "type": "item",
+  "img": "icons/tools/fishing/net-simple-brown.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "flags": {},
+  "system": {
+    "description": "<p>A 10’ square net of meshed rope with the power to ensnare creatures.</p><ul><li><p><strong>Function:</strong> Only usable underwater</p></li><li><p><strong>Throwing:</strong> Can be thrown up to 20’. Creatures must <strong>save versus spells</strong> or be trapped.</p></li><li><p><strong>Suspending from above:</strong> A command word causes the net to drop.</p></li><li><p><strong>Placing on the ground:</strong> A command word can cause the net to close upwards.</p></li><li><p><strong>Escaping:</strong> Only creatures of giant strength can escape ensnarement. The strands of the net cannot be cut or damaged by mundane means.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ],
+    "equipped": false,
+    "itemslots": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761354910474,
+    "modifiedTime": 1761440821824,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "kN0rOq2xddMde4nB",
+  "sort": 0,
+  "_key": "!items!kN0rOq2xddMde4nB"
+}

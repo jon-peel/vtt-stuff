@@ -1,0 +1,240 @@
+{
+  "name": "Type H",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "60,000gp average",
+  "results": [
+    {
+      "_id": "ttB7i7zkZL7U830q",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[3d8 * 1000]]cp.",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.ttB7i7zkZL7U830q"
+    },
+    {
+      "_id": "Ol2fr0n9x1yLvDvA",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100 * 1000]]sp",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.Ol2fr0n9x1yLvDvA"
+    },
+    {
+      "_id": "DwsuUQbTO7uhPCka",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4 * 10000]]ep.",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.DwsuUQbTO7uhPCka"
+    },
+    {
+      "_id": "AhrjYqOdhg4Bd2WO",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6 * 10000]]gp.",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.AhrjYqOdhg4Bd2WO"
+    },
+    {
+      "_id": "6Q7WcW8pMu5s0HoT",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[5d4 * 1000]]pp",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.6Q7WcW8pMu5s0HoT"
+    },
+    {
+      "_id": "nbWQ0PRKTTleazEN",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]] gems.",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.nbWQ0PRKTTleazEN"
+    },
+    {
+      "_id": "eXmspS6adXEkFss9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4 * 10]] pieces of jewellery.",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.eXmspS6adXEkFss9"
+    },
+    {
+      "_id": "HRihw26Xm5sSENRS",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 15,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4 magic items, plus 1 potion, plus 1 scroll.",
+      "name": "",
+      "_key": "!tables.results!xeGURxYqgotXb68P.HRihw26Xm5sSENRS"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "T0g4kT1b6Y6FcqNt",
+  "sort": 0,
+  "flags": {
+    "ose": {
+      "treasure": true
+    }
+  },
+  "_id": "xeGURxYqgotXb68P",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159982402,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!xeGURxYqgotXb68P"
+}

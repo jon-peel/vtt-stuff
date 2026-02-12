@@ -1,0 +1,60 @@
+{
+  "name": "Sling +1",
+  "type": "weapon",
+  "img": "icons/weapons/slings/slingshot-wood.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 40,
+      "medium": 80,
+      "long": 160
+    },
+    "pattern": "transparent",
+    "damage": "1d4",
+    "bonus": 1,
+    "tags": [
+      {
+        "title": "Two-handed",
+        "value": "Two-handed",
+        "label": "Two-handed"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.10.2",
+    "coreVersion": "13.342",
+    "createdTime": 1685073098892,
+    "modifiedTime": 1721690266666,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "mAk4KTmBVOO4R5Qo",
+  "sort": 3200000,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!mAk4KTmBVOO4R5Qo"
+}

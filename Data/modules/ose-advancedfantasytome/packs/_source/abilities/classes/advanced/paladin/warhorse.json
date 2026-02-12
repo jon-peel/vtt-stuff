@@ -1,0 +1,36 @@
+{
+  "_id": "JhfW2wCMcp74wDvJ",
+  "name": "Warhorse",
+  "type": "ability",
+  "img": "icons/tools/smithing/horsehoe-worn-steel-grey.webp",
+  "effects": [],
+  "folder": "AHz82IIt2Yr2Zxqi",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A paladin of 4th level or higher may summon a @UUID[Compendium.ose-advancedfantasytome.animals.Actor.wV0LnGelWbwkGQea]{Holy Charger}&mdash;a warhorse with AC 5 [14], 5+5 HD, and a movement rate of 180&rsquo; (60&rsquo;). If the horse dies, another may not be summoned for 10 years.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "paladin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1686554180696,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!JhfW2wCMcp74wDvJ"
+}

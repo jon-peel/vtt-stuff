@@ -1,0 +1,44 @@
+{
+  "_id": "4q3ctPQgEIt2oWFd",
+  "name": "Eyes of Minuscule Sight",
+  "type": "item",
+  "img": "icons/equipment/head/goggles-leather-grey.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 2000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A pair of crystal lenses that fit over the eyes, granting the ability to see minuscule details at close range (1’ or less).</p><ul><li><p><strong>Wearing only one lens</strong>: Causes intense dizziness, unless the other eye is closed.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761430460681,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4q3ctPQgEIt2oWFd"
+}

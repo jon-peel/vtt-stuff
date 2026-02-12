@@ -1,0 +1,63 @@
+{
+  "name": "Staff of Snakes",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-ornate-gold-jeweled.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1300000,
+  "flags": {},
+  "_id": "GMo1MIr2FRLjNQhC",
+  "system": {
+    "description": "<p>A magical staff that has the power to transform into a snake, on command.</p><ul><li><p><strong>Divine magic:</strong> Usable by divine spell casters only.</p></li><li><p><strong>In melee:</strong> Treated as a staff with a +1 magic bonus to attacks and damage.</p></li><li><p><strong>On a successful hit:</strong> Upon a human-sized (or smaller) creature, the wielder of the staff may speak the command word, causing it to transform into a serpent and coil around the victim.</p></li><li><p><strong>Victims:</strong> Must <strong>save versus spells</strong> or be immobilised in the coils of the snake. Victims are completely helpless while held by the snake ([[/r 1d4]] turns, or released as the wielder of the staff commands).</p></li><li><p><strong>Snake:</strong> Has AC 5 [14], HD 3 (20hp), and a movement rate of 60’ (20’).</p></li><li><p><strong>When the victim is released:</strong> The snake returns to the owner and transforms back into a staff. (At this point, it is healed of any damage it has suffered.)</p></li><li><p><strong>If the snake is killed:</strong> It does not return to its staff form, becoming non-magical.</p></li><li><p><strong>No charges:</strong> Does not use charges; may be used any number of times.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 40,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761444597514,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GMo1MIr2FRLjNQhC"
+}

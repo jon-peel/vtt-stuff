@@ -1,0 +1,54 @@
+{
+  "name": "Sword +1, Energy Drain",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-guard-gold.webp",
+  "effects": [],
+  "folder": "jesG5GanP92O852E",
+  "sort": 900000,
+  "flags": {},
+  "_id": "FTIV2XQwSazF1Ug1",
+  "system": {
+    "description": "<p>Drains the life energy of its victims.</p><ul><li><p><strong>On a successful hit:</strong> The wielder may command the sword to drain the victim’s life energy.</p></li><li><p><strong>Energy drain:</strong> In addition to suffering normal damage, the target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g. spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels dies.</p></li><li><p><strong>Charges:</strong> The sword may drain a total of [[/r 1d4+4]] levels. Once this many levels have been drained, it becomes a normal magical sword +1.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8",
+    "bonus": 1,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445490848,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!FTIV2XQwSazF1Ug1"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "2VikIAHy5XOpvp8R",
+  "flags": {},
+  "system": {
+    "description": "<p>Svirfneblins can use all types of armour. Armour must be tailored to svirfneblins&rsquo; small size. Likewise, svirfneblins can only use weapons appropriate to their stature (as determined by the referee). They cannot use longbows or two-handed swords.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.4",
+    "coreVersion": "13.350",
+    "createdTime": 1685803243521,
+    "modifiedTime": 1761459684216,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "aJG9LNuGAeaXJZBn",
+  "sort": 600000,
+  "_key": "!items!aJG9LNuGAeaXJZBn"
+}

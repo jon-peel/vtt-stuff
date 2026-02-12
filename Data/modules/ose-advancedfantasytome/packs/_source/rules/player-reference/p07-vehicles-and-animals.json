@@ -1,0 +1,166 @@
+{
+  "name": "P07. Vehicles and Animals",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Rules For Vehicles",
+      "type": "text",
+      "_id": "QzjcHbKWy2QPveNh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Game Statistics</h2><p><strong>Hull Points (hp)</strong></p><p>The vehicle’s structural integrity and ability to keep moving when damaged. Analogous to a character’s hit points. A vehicle that reaches 0 hull points is destroyed.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Armour Class (AC)</strong></p><p>The vehicle’s ability to resist damage from attacks.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Movement Rate</strong></p><p>The speed at which the vehicle can move. Every vehicle has a base movement rate and an encounter movement rate (noted in parentheses). The encounter movement rate is one third of the base movement rate.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Cargo Capacity</strong></p><p>The maximum load the vehicle can carry, measured in coins (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.nRk895vQvT8AuWZ5]{Time, Weight, and Movement}).</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Required Crew</strong></p><p>The number of people or animals (e.g. sailors, oarsmen, horses) required for the vehicle’s normal operation.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Passengers or Mercenaries</strong></p><p>Some vehicles have extra space aboard specifically intended to carry passengers or mercenaries (of any type, see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.r9gEFXti3Vox9BTA.JournalEntryPage.sY8MkOu90iRf4gJo]{Mercenaries}) in addition to the normal crew. If a vehicle’s description does not mention this space for passengers, it is assumed to only have space for the crew—the referee may rule that cargo hold space could be converted into additional living quarters.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Seaworthiness</strong></p><p>Water vessels are divided into two categories, each behaving differently under different wind conditions (see @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.9Pu7DvFdpiwXR2D8#wind-conditions]{Wind Conditions}). Seaworthy vessels are suitable for use on the high seas, away from coastal waters. Unseaworthy vessels are restricted to rivers, lakes, or coastal waters.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><h2>Damaging Vehicles</h2><p>In combat, attacks and damage may be directed at vehicles in addition to characters and monsters.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Normal attacks</strong>: Unless noted in a vehicle’s description, attacks with normal weapons (e.g. bows, swords, etc.) do not inflict hull damage.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Magical attacks</strong>: Damaging spells or magical attacks inflict one point of hull damage per five points of normal hit point damage the attack does.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Giant monsters</strong>: Can damage vehicles, inflicting one point of hull damage per five points of normal hit point damage the attack does.</p><hr style=\"visibility:hidden;margin:.5em 0\" /><p><strong>Mounted weaponry</strong>: Some vehicles carry mounted weaponry specifically designed for vehicle-to-vehicle combat. Such weapons inflict hull damage directly. The rules for attacking with ship-mounted weapons are described in @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.LbHe6XO6WBsfDseJ.JournalEntryPage.qtL0RGRgkqWoAvwh]{Water Vessels}.</p><h2>Effects of Hull Damage</h2><p>When a vehicle loses hull points, its movement rate is also affected. This may be due to structural damage influencing how the vehicle moves or, in the case of water vessels, due to taking on water.</p><p>Movement rate reduction: For every 10% a vehicle is reduced from its maximum hull points, its movement rate is reduced by an equal percentage. For example, if a vehicle loses 20% of its hull points, its movement rate is reduced by 20%.</p><h3>Destruction</h3><p>If a vehicle is reduced to 0 hull points:</p><ul><li><p>It will lose its structural integrity in [[/r 1d10]] rounds (e.g. a water vessel sinks).</p></li><li><p>Any mounted weaponry is no longer functional.</p></li></ul><h3>Repairs</h3><p><strong>In a workshop:</strong> Vehicle damage can be repaired by experienced technicians working in a suitable workshop or dock.</p><p><strong>In the field:</strong> A vehicle’s crew can repair up to half of any damage sustained. Remaining damage can only be repaired in a suitable workshop or dock.</p><p><strong>Time:</strong> It takes five crew-members one turn to repair one hull point. This task requires full attention, so any crew involved in repair cannot take any other action during a turn repairing a vessel.</p><h2>Boarding</h2><p>When the occupants of a vehicle wish to board another vehicle, the two vehicles must be brought alongside one another.</p><p><strong>Forceful boarding</strong>: If the occupants of one vehicle wish to forcefully board the other vehicle, there is a [[/r 1d6]]{2-in-6} chance of being able to successfully manoeuvre the vehicle into a boarding position. The two vehicles may then be clamped together with grappling hooks.</p><p><strong>Mutual boarding intent</strong>: If the occupants of both vehicles wish to board one another, their mutual intent makes the action succeed with no chance of failure.</p><p><strong>Boarding characters</strong>: Characters who are in the act of boarding another vehicle suffer a –2 penalty to attack rolls and Armour Class for one round.</p><h2>Rowed Water Vessels</h2><h3>Rowing Encounter Speeds</h3><p>Some rowed vessels may have an increased encounter movement rate. This represents the great effort on the part of the oarsmen that may be exerted during combat. Such speeds cannot be maintained for long periods, thus the per turn and per day movement rates of such vessels are much slower.</p><h3>Reduced Oarsmen</h3><p>Having less than the required number of oarsmen reduces a vessel’s speed.</p><p><strong>Movement rate reduction</strong>: For every 10% reduction in the available rowing crew, the vessel’s rowing speed is reduced by an equal percentage. For example, if 10% of the oarsmen are being used to repair hull damage, the vessel moves at 90% of its normal speed (i.e. 10% slower than normal).</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762844802812
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!LbHe6XO6WBsfDseJ.QzjcHbKWy2QPveNh"
+    },
+    {
+      "sort": 600000,
+      "name": "Water Vessels",
+      "type": "text",
+      "_id": "qtL0RGRgkqWoAvwh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"table-layout:fixed;width:100%\"><colgroup><col style=\"width:20%\"></col><col style=\"width:12%\"></col><col style=\"width:16%\"></col><col style=\"width:20%\"></col><col style=\"width:10%\"></col><col style=\"width:11%\"></col><col style=\"width:11%\"></col></colgroup><thead><tr><th>Vessel</th><th>Cost (gp)</th><th>Cargo Capacity (Coins)</th><th>Usage</th><th>Length</th><th>Beam</th><th>Draft</th></tr></thead><tbody><tr><td>Lifeboat</td><td>1,000</td><td>15,000</td><td>Any</td><td>20'</td><td>4'–5'</td><td>1'–2'</td></tr><tr><td>Longship</td><td>15,000</td><td>40,000</td><td>Any</td><td>60'–80'</td><td>10'–15'</td><td>2'–3'</td></tr><tr><td>Sailing ship (large)</td><td>20,000</td><td>300,000</td><td>Coastal waters, open seas</td><td>100'–150'</td><td>25'–30'</td><td>10'–12'</td></tr><tr><td>Sailing ship (small)</td><td>5,000</td><td>100,000</td><td>Coastal waters, open seas</td><td>60'–80'</td><td>20'–30'</td><td>5'–8'</td></tr><tr><td>Troop transport (large)</td><td>26,600</td><td>300,000</td><td>Coastal waters, open seas</td><td>100'–150'</td><td>25'–30'</td><td>10'–12'</td></tr><tr><td>Troop transport (small)</td><td>6,600</td><td>100,000</td><td>Coastal waters, open seas</td><td>60'–80'</td><td>20'–30'</td><td>5'–8'</td></tr><tr><td>Warship (large)</td><td>26,600</td><td>300,000</td><td>Coastal waters, open seas</td><td>100'–150'</td><td>25'–30'</td><td>10'–12'</td></tr><tr><td>Warship (small)</td><td>6,600</td><td>100,000</td><td>Coastal waters, open seas</td><td>60'–80'</td><td>20'–30'</td><td>5'–8'</td></tr><tr><td>Boat (river)</td><td>4,000</td><td>30,000</td><td>Rivers, lakes</td><td>20'–30'</td><td>10'</td><td>2'–3'</td></tr><tr><td>Boat (sailing)</td><td>2,000</td><td>20,000</td><td>Lakes, coastal waters</td><td>20'–40'</td><td>10'–15'</td><td>2'–3'</td></tr><tr><td>Canoe</td><td>50</td><td>6,000</td><td>Rivers, swamps</td><td>15'</td><td>3'</td><td>1'</td></tr><tr><td>Galley (large)</td><td>30,000</td><td>40,000</td><td>Coastal waters</td><td>120'–150'</td><td>15'–20'</td><td>3'</td></tr><tr><td>Galley (small)</td><td>10,000</td><td>20,000</td><td>Coastal waters</td><td>60'–100'</td><td>10'–15'</td><td>2'–3'</td></tr><tr><td>Galley (war)</td><td>60,000</td><td>60,000</td><td>Coastal waters</td><td>120'–150'</td><td>20'–30'</td><td>4'–6'</td></tr><tr><td>Raft (makeshift)</td><td>–</td><td>50 per sq ft</td><td>Rivers, lakes</td><td>Varies</td><td>Varies</td><td>½'</td></tr><tr><td>Raft (professional)</td><td>1 gp per sq ft</td><td>100 per sq ft</td><td>Rivers, lakes</td><td>Varies</td><td>Varies</td><td>½'</td></tr></tbody></table><p></p><h2>Descriptions</h2><p><strong>Lifeboat</strong>: A small boat with a mast that folds down for storage. A small ship usually has 1–2 lifeboats, while larger ships may have 3–4. A lifeboat weighs 5,000 coins and reduces the cargo capacity of the ship on which it is carried by this much. A lifeboat is usually equipped with rations to feed ten human-sized beings for one week.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Longship</strong>: A narrow ship which may be used in rivers, coastal waters, or the open seas. A longship may be rowed or sailed, depending on the conditions. The crew typically fill the role of oarsmen, sailors, and fighters, as needed.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Sailing ship, large</strong>: A large, seaworthy vessel with up to three masts. Usually has multiple decks and raised “castles” at the bow and stern.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Sailing ship, small</strong>: A small, seaworthy vessel with a single mast.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Troop transport (large, small)</strong>: These ships have similar dimensions and characteristics to normal sailing ships, but are specially designed to carry troops, mounts, and equipment of war as theircargo.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Warship (large, small)</strong>: These ships have similar dimensions and characteristics to normal sailing ships, but are specially designed to carry mercenaries and war gear.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Boat, river</strong>: Riverboats are either rowed or pushed with poles. The cost of the boat increases by 1,000gp if it has a roof (to protect passengers or cargo).</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Boat, sailing</strong>: A small boat typically used for fishing in lakes or coastal waters.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Canoe</strong>: A small boat made of hide or canvas stretched over a wooden frame. Because of its small size and lightweight construction, a canoe may be carried by two people (weighing 500 coins).</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Galley, large</strong>: A long ship with a shallow draft and a single, square-sailed mast.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Galley, small</strong>: A ship with a shallow draft and a single, square-sailed mast.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Galley, war</strong>: A large, specially constructed galley that is generally a fleet’s flagship. War galleys are always fitted with a ram (comes with the basic cost) and have a full deck above the rowers. They have two masts and 10’–20’ wide wooden towers rising 15’–20’ above the bow and stern.</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Raft, makeshift</strong>: Given sufficient wood, characters may build a makeshift raft in 1–3 days per 10’ square section (up to a maximum size of 20’ × 30’).</p><hr style=\"visibility:hidden;margin:1em 0\" /><p><strong>Raft, professional</strong>: A professionally built raft has raised sides, a basic steering oar, and some form of shelter for goods or passengers. Such a raft may be up to 30’ × 40’. Professionally built rafts are sometimes floated downstream with cargo and then broken down and sold for the value of their wood (25cp per square foot).</p><hr /><h4>Vessel Dimensions</h4><p>A ship’s beam is its width and its draft is the depth it extends beneath the water.</p><hr /><h4>Historical Periods</h4><p>The vessels described in this section span various historical periods, from the ancient period to the medieval. Not all types of vessels may be available in a campaign setting.</p><h2>Vessel Movement and Crew</h2><table style=\"table-layout:fixed;width:100%\"><colgroup><col style=\"width:20%\"></col><col style=\"width:10%\"></col><col style=\"width:11.667%\"></col><col style=\"width:11.667%\"></col><col style=\"width:11.667%\"></col><col style=\"width:11.667%\"></col><col style=\"width:11.667%\"></col><col style=\"width:11.667%\"></col></colgroup><thead><tr><th rowspan=\"2\">Vessel</th><th rowspan=\"2\">Requires Captain?</th><th colspan=\"3\">Rowing (Oarsmen)</th><th colspan=\"3\">Sailing (Sailors)</th></tr><tr><th>Req. Crew</th><th>Miles/Day</th><th>Movement Rate</th><th>Req. Crew</th><th>Miles/Day</th><th>Movement Rate</th></tr></thead><tbody><tr><td>Boat (river)</td><td>No</td><td>8</td><td>36</td><td>180' (60')</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Boat (sailing)</td><td>No</td><td>–</td><td>–</td><td>–</td><td>1</td><td>72</td><td>360' (120')</td></tr><tr><td>Canoe</td><td>No</td><td>1**</td><td>18</td><td>90' (60')</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Galley (large)</td><td>Yes</td><td>180</td><td>18</td><td>90' (90')</td><td>20</td><td>72</td><td>360' (120')</td></tr><tr><td>Galley (small)</td><td>Yes</td><td>60</td><td>18</td><td>90' (90')</td><td>10</td><td>90</td><td>450' (150')</td></tr><tr><td>Galley (war)</td><td>Yes</td><td>300</td><td>12</td><td>60' (60')</td><td>30</td><td>72</td><td>360' (120')</td></tr><tr><td>Lifeboat</td><td>No</td><td>–</td><td>–</td><td>–</td><td>1**</td><td>18</td><td>90' (30')</td></tr><tr><td>Longship</td><td>Yes</td><td>60*</td><td>18</td><td>90' (90')</td><td>75*</td><td>90</td><td>450' (150')</td></tr><tr><td>Raft (makeshift)</td><td>No</td><td>1**</td><td>12</td><td>60' (30')</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Raft (professional)</td><td>No</td><td>1**</td><td>12</td><td>60' (30')</td><td>–</td><td>–</td><td>–</td></tr><tr><td>Sailing ship (large)</td><td>Yes</td><td>–</td><td>–</td><td>–</td><td>20</td><td>72</td><td>360' (120')</td></tr><tr><td>Sailing ship (small)</td><td>Yes</td><td>–</td><td>–</td><td>–</td><td>10</td><td>90</td><td>450' (150')</td></tr><tr><td>Troop transport (large)</td><td>Yes</td><td>–</td><td>–</td><td>–</td><td>20</td><td>72</td><td>360' (120')</td></tr><tr><td>Troop transport (small)</td><td>Yes</td><td>–</td><td>–</td><td>–</td><td>10</td><td>90</td><td>450' (150')</td></tr><tr><td>Warship (large)</td><td>Yes</td><td>–</td><td>–</td><td>–</td><td>20</td><td>72</td><td>360' (120')</td></tr><tr><td>Warship (small)</td><td>Yes</td><td>–</td><td>–</td><td>–</td><td>10</td><td>90</td><td>450' (150')</td></tr></tbody></table><div class=\"oset-prog-footer\"><div><p>* Crew act as rowers, sailors, and fighters.</p></div><div><p>** May be piloted by unskilled characters.</p></div></div><h2>Crew</h2><p>Vessels are propelled by rowing or sailing, with some able to use either means. The necessary crew and the resulting speeds are given in the table above. The pay rates for crew are listed in @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.r9gEFXti3Vox9BTA.JournalEntryPage.RGMnG1aJJYCgjJWe]{Specialists}.</p><h2>Vessel Combat Stats</h2><table style=\"table-layout:fixed;width:100%\"><colgroup><col style=\"width:20%\"></col><col style=\"width:15%\"></col><col style=\"width:15%\"></col><col style=\"width:20%\"></col><col style=\"width:15%\"></col><col style=\"width:15%\"></col></colgroup><thead><tr><th>Vessel</th><th>Maximum Mercenaries</th><th>Armour Class</th><th>Hull Points</th><th>Ram?</th><th>Catapults?</th></tr></thead><tbody><tr><td>Boat (river)</td><td>–</td><td>8 [11]</td><td>20–40</td><td>–</td><td>–</td></tr><tr><td>Boat (sailing)</td><td>–</td><td>8 [11]</td><td>20–40</td><td>–</td><td>–</td></tr><tr><td>Canoe</td><td>–</td><td>9 [10]</td><td>5–10</td><td>–</td><td>–</td></tr><tr><td>Galley (large)</td><td>50</td><td>7 [12]</td><td>100–120</td><td>Can be added</td><td>Up to 2</td></tr><tr><td>Galley (small)</td><td>20</td><td>8 [11]</td><td>80–100</td><td>Can be added</td><td>Up to 2</td></tr><tr><td>Galley (war)</td><td>75</td><td>7 [12]</td><td>120–150</td><td>Built in</td><td>Up to 3</td></tr><tr><td>Lifeboat</td><td>–</td><td>9 [10]</td><td>10–20</td><td>–</td><td>–</td></tr><tr><td>Longship</td><td>75*</td><td>8 [11]</td><td>60–80</td><td>–</td><td>Up to 1</td></tr><tr><td>Raft (makeshift)</td><td>–</td><td>9 [10]</td><td>5 per 10′ sq</td><td>–</td><td>–</td></tr><tr><td>Raft (professional)</td><td>–</td><td>9 [10]</td><td>5 per 10′ sq</td><td>–</td><td>–</td></tr><tr><td>Sailing ship (large)</td><td>–</td><td>7 [12]</td><td>120–180</td><td>–</td><td>–</td></tr><tr><td>Sailing ship (small)</td><td>–</td><td>8 [11]</td><td>60–90</td><td>–</td><td>–</td></tr><tr><td>Troop transport (large)</td><td>100</td><td>7 [12]</td><td>160–240</td><td>–</td><td>–</td></tr><tr><td>Troop transport (small)</td><td>50</td><td>8 [11]</td><td>80–120</td><td>–</td><td>–</td></tr><tr><td>Warship (large)</td><td>50</td><td>7 [12]</td><td>120–180</td><td>–</td><td>Up to 2</td></tr><tr><td>Warship (small)</td><td>25</td><td>8 [11]</td><td>60–90</td><td>–</td><td>Up to 1</td></tr></tbody></table><h2>Ship Modifications</h2><p>The following modifications may be made to an existing ship:</p><ul><li><p><strong>Warship</strong>: A sailing ship may be converted into a warship or troop transport of the same size. The modification costs one-third of the ship’s original cost.</p></li><li><p><strong>Catapult</strong>: A catapult may be added to a galley, longship, or warship.</p></li><li><p><strong>Ram</strong>: A ram may be added to a large or small galley (a war galley already comes with a ram fitted).</p></li></ul><h3><strong>Rams</strong></h3><p>Can be used against ships or giant sea monsters. Small individuals cannot be targeted.</p><p><strong>Attack rolls</strong>: Are made using a THAC0 of 19 [0] and occur at the same point in the combat sequence as missile fire.</p><p><strong>Attack modifiers</strong>: May be applied for weather conditions, manoeuvrability, etc.</p><p><strong>Large or war galley</strong>: Deals [[/r (1d6+5) * 10]] hull points damage against ships and [[/r 6d6]] hit points damage against monsters.</p><p><strong>Small galley: Deals</strong> [[/r (1d4+4) * 10]] hull points damage against ships and [[/r 3d8]] hit points damage against monsters.</p><h2>Catapults</h2><p>Fire either large rocks or flaming pitch.</p><p><strong>Weight</strong>: A catapult plus twenty rounds of shot weighs 10,000 coins (subtracted from the ship’s cargo allowance). <strong>Range</strong>: 150–300 yards.</p><p><strong>Attack rolls and rate of fire</strong>: Depend on the number of crew manning the catapult:</p><ul><li><p><strong>2 crew (minimum)</strong>: Attacks with THAC0 19 [0]. Fires every 10 rounds.</p></li><li><p><strong>3 crew</strong>: Attacks with THAC0 19 [0]. Fires every 8 rounds.</p></li><li><p><strong>4 crew (maximum)</strong>: Attacks with THAC0 17 [+2]. Fires every 5 rounds.</p></li></ul><p><strong>Attack modifiers</strong>: May be applied for weather conditions, manoeuvrability, etc.</p><p><strong>Catapult Shot</strong></p><p>Inflicts [[/r 3d6]] hull damage against ships.</p><p><strong>Catapult Shot, Pitch</strong></p><p>Sets a 10’×10’ area of a ship on fire. The burning does [[/r 1d6]] hull points of damage per turn (for at least one turn) and will spread to other areas of the ship if not extinguished. A fire may be put out by five crew in 3 turns, ten crew in 2 turns, or fifteen crew in 1 turn.</p><h2>Ship Weaponry</h2><table class=\"ose-table oset-w40\"><thead><tr><th><strong>Item</strong></th><th><strong>Cost (gp)</strong></th></tr></thead><tbody><tr><td>Catapult</td><td>100</td></tr><tr><td>Catapult shot</td><td>5</td></tr><tr><td>Catapult shot, pitch</td><td>25</td></tr><tr><td>Ram, large galley</td><td>10,000</td></tr><tr><td>Ram, small galley</td><td>3,000</td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!LbHe6XO6WBsfDseJ.qtL0RGRgkqWoAvwh"
+    },
+    {
+      "sort": 250000,
+      "name": "Animals of Burden",
+      "type": "text",
+      "_id": "5WAIrl8Kea57GwOy",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table><thead><tr><th>Animal</th><th>Cost (gp)</th><th>Miles per Day</th><th>Unencumbered Movement Rate</th><th>Max Load (Coins)</th><th>Encumbered Miles per Day</th><th>Movement Rate</th><th>Max Load (Coins)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.animals.Actor.NXlWZPLKjZ5XFK3R]{Camel}</td><td>100</td><td>30</td><td>150’ (50’)</td><td>3,000</td><td>15</td><td>75’ (25’)</td><td>6,000</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.animals.Actor.2SBUVYDJXsy372xW]{Horse (draft)}</td><td>40</td><td>18</td><td>90’ (30’)</td><td>4,500</td><td>9</td><td>45’ (15’)</td><td>9,000</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.animals.Actor.Yh0x6Z4oyGS1S9gU]{Horse (riding)}</td><td>75</td><td>48</td><td>240’ (80’)</td><td>3,000</td><td>24</td><td>120’ (40’)</td><td>6,000</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.animals.Actor.OFK58uGUaH3F8Bkc]{Horse (war)}</td><td>250</td><td>24</td><td>120’ (40’)</td><td>4,000</td><td>12</td><td>60’ (20’)</td><td>8,000</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.animals.Actor.p8SIvR7qncpuFUUV]{Mule}</td><td>30</td><td>24</td><td>120’ (40’)</td><td>2,000</td><td>12</td><td>60’ (20’)</td><td>4,000</td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Camel</strong></h3><p>Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts.</p><hr /><p><strong>AC</strong> 7 [12], <strong>HD</strong> 2 (9hp), <strong>Att</strong> 1 × bite ([[/r 1d4]]), <strong>THAC0</strong> 18 [+1], <strong>MV</strong> 150’ (50’), <strong>SV</strong> D12 W13 P14 B15 S16 (1), <strong>ML</strong> 7, <strong>AL</strong> Neutral, <strong>XP</strong> 20</p><ul><li><strong>Ill-tempered:</strong> Bite or kick creatures in their way, including owners.</li><li><strong>Water:</strong> After drinking well, can survive 2 weeks without water.</li><li><strong>Desert travel:</strong> Move at full speed through broken lands and deserts.</li></ul></td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Draft Horse</strong></h3><p>Bred for great strength and endurance. Used to pull vehicles and ploughs or as beasts of burden.</p><hr /><p><strong>AC</strong> 7 [12], <strong>HD</strong> 3 (13hp), <strong>Att</strong> None, <strong>THAC0</strong> 17 [+2], <strong>MV</strong> 90’ (30’), <strong>SV</strong> D12 W13 P14 B15 S16 (2), <strong>ML</strong> 6, <strong>AL</strong> Neutral, <strong>XP</strong> 35</p><ul><li><strong>Non-combatants:</strong> Flee, if attacked.</li></ul></td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Mule</strong></h3><p>Stubborn horse/donkey cross-breeds used as beasts of burden.</p><hr /><p><strong>AC</strong> 7 [12], <strong>HD</strong> 2 (9hp), <strong>Att</strong> 1 × kick ([[/r 1d4]]) or 1 × bite ([[/r 1d3]]), <strong>THAC0</strong> 18 [+1], <strong>MV</strong> 120’ (40’), <strong>SV</strong> D14 W15 P16 B17 S18 (NH), <strong>ML</strong> 8, <strong>AL</strong> Neutral, <strong>XP</strong> 20</p><ul><li><strong>Tenacious:</strong> Can be taken underground, if the referee allows it.</li><li><strong>Defensive:</strong> May attack if threatened, but cannot be trained to attack on command.</li></ul></td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Riding Horse</strong></h3><p>Lightly built horses adapted to run at high speed. Can survive purely on grass, wherever available.</p><hr /><p><strong>AC</strong> 7 [12], <strong>HD</strong> 2 (9hp), <strong>Att</strong> 2 × hoof ([[/r 1d4]]), <strong>THAC0</strong> 18 [+1], <strong>MV</strong> 240’ (80’), <strong>SV</strong> D12 W13 P14 B15 S16 (1), <strong>ML</strong> 7, <strong>AL</strong> Neutral, <strong>XP</strong> 20</p></td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>War Horse</strong></h3><p>Bred for strength and courage in battle. Adapted to short bursts of speed; not suited to long-distance riding.</p><hr /><p><strong>AC</strong> 7 [12], <strong>HD</strong> 3 (13hp), <strong>Att</strong> 2 × hoof ([[/r 1d6]]), <strong>THAC0</strong> 17 [+2], <strong>MV</strong> 120’ (40’), <strong>SV</strong> D12 W13 P14 B15 S16 (2), <strong>ML</strong> 9, <strong>AL</strong> Neutral, <strong>XP</strong> 35</p><ul><li><strong>Charge:</strong> When not in melee. Requires a clear run of at least 20 yards. Rider’s lance inflicts double damage. Horse cannot attack when charging.</li><li><strong>Melee:</strong> When in melee, both rider and horse can attack.</li></ul></td></tr></tbody></table><h2><strong>Dogs</strong></h2><table><thead><tr><th>Dog Type</th><th>Cost (gp)</th><th>Miles per Day</th><th>Movement Rate</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.animals.Actor.sAYswBs3VKa3tXln]{Hunting}</td><td>17</td><td>36</td><td>180’ (60’)</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.animals.Actor.vcwJSOSuz48zgTM0]{War}</td><td>25</td><td>24</td><td>120’ (40’)</td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Hunting Dog</strong></h3><p>Domestic breeds selected for their intelligence and excellent sense of smell.</p><hr /><p><strong>AC</strong> 7 [12], <strong>HD</strong> 1+2 (6hp), <strong>Att</strong> 1 × bite ([[/r 1d6]]), <strong>THAC0</strong> 18 [+1], <strong>MV</strong> 180’ (60’), <strong>SV</strong> D12 W13 P14 B15 S16 (1), <strong>ML</strong> 10, <strong>AL</strong> Neutral, <strong>XP</strong> 15</p><ul><li><strong>Tracking:</strong> By scent. Once started, very difficult to put off the trail.</li><li><strong>Command:</strong> Trained to attack on owner’s command.</li></ul></td></tr></tbody></table><p></p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>War Dog</strong></h3><p>Large domestic breeds selected for their bulk and ferocious nature.</p><hr /><p><strong>AC</strong> 8 [11], <strong>HD</strong> 2+2 (11hp), <strong>Att</strong> 1 × bite ([[/r 2d4]]), <strong>THAC0</strong> 17 [+2], <strong>MV</strong> 120’ (40’), <strong>SV</strong> D12 W13 P14 B15 S16 (1), <strong>ML</strong> 11, <strong>AL</strong> Neutral, <strong>XP</strong> 25</p><ul><li><strong>Armour:</strong> Trained to wear armour (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.LbHe6XO6WBsfDseJ.JournalEntryPage.5WAIrl8Kea57GwOy#tack-and-harness]{see Tack and Harness}).</li><li><strong>Command:</strong> Trained to attack on owner’s command.</li></ul></td></tr></tbody></table><h2><strong>Tack and Harness</strong></h2><table><thead><tr><th>Item</th><th>Cost (gp)</th></tr></thead><tbody><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.pwjeydUev0hqHXn5]{Dog armour}</td><td>25</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.6bHeIqe72Y1BGRIJ]{Horse barding}</td><td>150</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.bIGIuLS1AE4shzeb]{Saddle and bridle}</td><td>25</td></tr><tr><td>@UUID[Compendium.ose-advancedfantasytome.equipment.Item.BCsqWrQc2jplWYQn]{Saddle bags}</td><td>5</td></tr></tbody></table><p><strong>Dog armour:</strong> Light leather armour with a spiked collar. Provides the animal with an AC of 6 [13].</p><p><strong>Horse barding:</strong> Armour made of leather and plates of metal. Provides the animal with an AC of 5 [14] and weighs 600 coins.</p><p><strong>Saddle bags:</strong> Hold up to 300 coins weight.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762844952545
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!LbHe6XO6WBsfDseJ.5WAIrl8Kea57GwOy"
+    },
+    {
+      "sort": 425000,
+      "name": "Land Vehicles",
+      "type": "text",
+      "_id": "Wi0Dn0PJMFaLNaly",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table><thead><tr><th>Vehicle</th><th>Cost (gp)</th><th>Miles per Day</th><th>Movement Rate</th><th>Minimum Animals</th><th>Max Load (Coins)</th><th>Extra Animals</th><th>Max Load (Coins)</th></tr></thead><tbody><tr><td>Cart</td><td>100</td><td>12</td><td>60’ (20’)</td><td>1 draft horse or 2 mules</td><td>4,000</td><td>2 draft horses or 4 mules</td><td>8,000</td></tr><tr><td>Wagon</td><td>200</td><td>12</td><td>60’ (20’)</td><td>2 draft horses or 4 mules</td><td>15,000</td><td>4 draft horses or 8 mules</td><td>25,000</td></tr></tbody></table><h2><strong>Descriptions</strong></h2><p><strong>Cart:</strong> A two-wheeled vehicle. Carts have an AC of 9 [10] and [[/r 1d4]] hull points.</p><p><strong>Wagon:</strong> A four-wheeled, open vehicle. Wagons have an AC of 9 [10] and [[/r 2d4]] hull points.</p><h2><strong>Required Animals</strong></h2><p>These vehicles must be pulled by a minimum number of mules or draft horses. If double this number of animals is employed, additional loads may be carried.</p><h2><strong>Difficult Terrain</strong></h2><p>When travelling through difficult terrain (e.g. desert, forest, mountains, swamp), these vehicles can only travel on maintained roads.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!LbHe6XO6WBsfDseJ.Wi0Dn0PJMFaLNaly"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "LbHe6XO6WBsfDseJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!LbHe6XO6WBsfDseJ"
+}

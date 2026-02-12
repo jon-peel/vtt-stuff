@@ -1,0 +1,317 @@
+{
+  "id": "osr-helper",
+  "title": "OSR Helper Module",
+  "description": "A collection of helpers for the Foundry Vtt implementation of the 'Old School Essentials' system.",
+  "authors": [
+    {
+      "name": "Rabid Owlbear",
+      "url": "https://github.com/RabidOwlbear",
+      "flags": {}
+    }
+  ],
+  "version": "0.7.5",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "styles": [
+    "styles/main.css"
+  ],
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "socket": true,
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "path": "lang/es.json",
+      "flags": {}
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-br.json",
+      "flags": {}
+    },
+    {
+      "lang": "cn",
+      "name": "中文",
+      "path": "lang/cn.json",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "osr-helper-items-en",
+      "label": "OSR-helper Items (en)",
+      "type": "Item",
+      "path": "packs/items",
+      "system": "ose",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-cn",
+      "label": "OSR-helper Items (中文)",
+      "type": "Item",
+      "path": "packs/items-cn",
+      "system": "ose",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-es",
+      "label": "OSR-helper Items (es)",
+      "type": "Item",
+      "path": "packs/items-es",
+      "system": "ose",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-pt-br",
+      "label": "OSR-helper Items (pt-BR)",
+      "type": "Item",
+      "path": "packs/items-pt-br",
+      "system": "ose",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-macros-all",
+      "label": "OSR-helper Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-hyperborea-en",
+      "label": "OSR-helper Items (en)",
+      "type": "Item",
+      "path": "packs/items-hyperborea-en",
+      "system": "hyperborea",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-hyperborea-es",
+      "label": "OSR-helper Items (es)",
+      "type": "Item",
+      "path": "packs/items-hyperborea-es",
+      "system": "hyperborea",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-hyperborea-pt-br",
+      "label": "OSR-helper Items (pt-BR)",
+      "type": "Item",
+      "path": "packs/items-hyperborea-pt-br",
+      "system": "hyperborea",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-wwn-en",
+      "label": "OSR-helper Items (en)",
+      "type": "Item",
+      "path": "packs/items-wwn",
+      "system": "wwn",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-wwn-es",
+      "label": "OSR-helper Items (es)",
+      "type": "Item",
+      "path": "packs/items-wwn-es",
+      "system": "wwn",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-wwn-pt-br",
+      "label": "OSR-helper Items (pt-BR)",
+      "type": "Item",
+      "path": "packs/items-wwn-pt-br",
+      "system": "wwn",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-dcc-en",
+      "label": "OSR-helper Items (en)",
+      "type": "Item",
+      "path": "packs/items-dcc",
+      "system": "dcc",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-dcc-es",
+      "label": "OSR-helper Items (es)",
+      "type": "Item",
+      "path": "packs/items-dcc-es",
+      "system": "dcc",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-dcc-pt-br",
+      "label": "OSR-helper Items (pt-BR)",
+      "type": "Item",
+      "path": "packs/items-dcc-pt-br",
+      "system": "dcc",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osr-helper-items-basicfantasyrpg-en",
+      "label": "OSR-helper Items (en)",
+      "type": "Item",
+      "path": "packs/items-basicfantasyrpg",
+      "system": "basicfantasyrpg",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+  {
+    "name": "OSRH Compendiums",
+    "color": "#30741d",
+    "sorting": "m",
+    "packs": ["osr-helper-macros-all"],
+    "folders": [
+      {
+        "name": "en",
+        "color": "#214e14",
+        "sorting": "a",
+        "packs": ["osr-helper-items-en","osr-helper-items-hyperborea-en","osr-helper-items-wwn-en","osr-helper-items-dcc-en","osr-helper-items-basicfantasyrpg-en"]
+      },
+      {
+        "name": "es",
+        "color": "#214e14",
+        "sorting": "a",
+        "packs": ["osr-helper-items-es","osr-helper-items-hyperborea-es","osr-helper-items-wwn-es","osr-helper-items-dcc-es"]
+      },
+      {
+        "name": "pt-BR",
+        "color": "#214e14",
+        "sorting": "a",
+        "packs": ["osr-helper-items-pt-br","osr-helper-items-hyperborea-pt-br","osr-helper-items-wwn-pt-br","osr-helper-items-dcc-pt-br"]
+      },
+      {
+        "name": "cn",
+        "color": "#214e14",
+        "sorting": "a",
+        "packs": ["osr-helper-items-cn","osr-helper-items-hyperborea-cn","osr-helper-items-wwn-cn","osr-helper-items-dcc-cn"]
+      }
+    ]
+  }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "hyperborea",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "wwn",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "ose-dev",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "dcc",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "bfs",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "basicfantasyrpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "socketlib",
+        "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/master/module.json",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/RabidOwlbear/osr-helper",
+  "manifest": "https://raw.githubusercontent.com/RabidOwlbear/osr-helper/refs/heads/v0.7.5/module.json",
+  "download": "https://github.com/RabidOwlbear/osr-helper/archive/refs/heads/v0.7.5.zip",
+  "readme": "REAMDE.md"
+}

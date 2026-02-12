@@ -1,0 +1,38 @@
+{
+  "name": "Sack (large)",
+  "type": "container",
+  "img": "icons/containers/bags/duffel-simple-leather.webp",
+  "system": {
+    "description": "<p>Can hold up to 600 coins.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 2,
+    "containerId": "",
+    "itemIds": [],
+    "tags": []
+  },
+  "effects": [],
+  "folder": "FBxn2Zz0vNSqX0tk",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "13.342",
+    "createdTime": 1683941461750,
+    "modifiedTime": 1683941536290,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "SNq71GG0ySPPM89X",
+  "sort": 0,
+  "_key": "!items!SNq71GG0ySPPM89X"
+}

@@ -1,0 +1,272 @@
+{
+  "name": "P01. Introduction",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "About This Game",
+      "type": "text",
+      "_id": "xTySz0ySU8nvkbfJ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>What is Old-School Essentials?</h2><ul><li><p>A role-playing game of fantastic adventure, where players work together to overcome fearsome monsters, sinister plots, and deadly traps in search of wealth, power, and glory.</p></li><li><p>An old-school role-playing game, styled after the beloved games of the 1970s and 1980s.</p></li><li><p>A relatively rules-light game, where the rules are kept simple in order to let imagination and fast-paced action take the spotlight.</p></li><li><p>A streamlined rules set, with the books carefully structured for maximum usability during play.</p></li><li><p>A modular game that can be easily expanded for play in many different fantastic genres and game worlds.</p></li></ul><h2>Advanced Fantasy</h2><p><em><strong>Old-School Essentials Advanced Fantasy</strong></em> consists of a heady mixture of the best of 1970s and 1980s fantasy gaming:</p><ul><li><p>Streamlined core rules, founded in the tradition of the 1980s Basic/Expert sets, beloved for their robustness, simplicity, and extensibility.</p></li><li><p>Extra classes, options, monsters, and magic inspired by the wondrous flavour of the 1970s Advanced 1st edition game.</p></li><li><p>The combination of these influences results in a fantasy gaming best of both worlds!</p></li></ul><h2>New to Role-Playing Games?</h2><p>This book explains the rules of the game in an easy to learn way. The rules, however, do not demonstrate how a role-playing game (RPG) actually works in practice. Some recommendations for those who have no experience whatsoever of RPGs:</p><ul><li><p>By far the easiest way to learn what RPGs are about and how they work is to simply dive in and play! If you have friends who already play, just ask to join them for a game or two.</p></li><li><p>The next best way to learn is to watch other people playing. There are many live streams and YouTube channels online.</p></li></ul><h2>New to Old-School Games?</h2><p>Newer RPGs (i.e. post-2000) tend to work from a different set of design principles and have somewhat different play expectations than old-school games. Players who are familiar with newer RPGs but not with the old-school style of play may find the following documents useful (both can be found online):</p><ul><li><p>Principia Apocrypha, by Ben Milton, Steven Lumpkin, and David Perry.</p></li><li><p>Quick Primer for Old School Gaming, by Matthew Finch.</p></li></ul><blockquote><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><blockquote><p><em><strong>A Note on Rulings</strong></em></p><p><em>In an old-school game such as Old- School Essentials, the rules are not intended to cover all possible eventualities. The referee must be ready to apply judgement to resolve any unexpected situations which arise.</em></p></blockquote></td></tr></tbody></table></blockquote>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!v4TGf2c1lEasEphN.xTySz0ySU8nvkbfJ"
+    },
+    {
+      "sort": 200000,
+      "name": "Advanced Fantasy Gaming",
+      "type": "text",
+      "_id": "8io8PQ8qFyqTTD3T",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><em><strong>Old-School Essentials Advanced Fantasy </strong></em>provides the game rules to play in fantasy settings inspired by the Advanced 1st edition rules. The fundamental elements of such settings are as follows.</p><h2>Peril and Adventure</h2><p>Players take on the role of characters who are drawn to confront danger in search of wealth, ancient secrets, and wonder. These bold individuals are known as <em><strong>adventurers</strong></em> and are the focus of the game.</p><p>The danger and reward of adventure are most commonly found in three types of locations: <em><strong>wilderness</strong>,</em> <em><strong>dungeons</strong>,</em> and <em><strong>the Underworld</strong>.</em></p><h3>Wilderness</h3><p>Forbidden forests as old as the world, swamps haunted by the spirits of an- cient tribes, wild mountain ranges, the uncharted reaches of the high seas. Any outdoor space where peril and adventure can be met is classified as wilderness.</p><h3>Dungeons</h3><p>Forsaken ruins hiding long-forgotten treasures, primal caverns where strange beasts dwell, subterranean cities of alien splendour and unimaginable wealth. Any indoor or subterranean space where peril and adventure can be met is classified as a dungeon.</p><h3>The Underworld</h3><p>Combining features of both dungeons and the wilderness, the Underworld is a vast realm of caverns, tunnels, waterways, and even subterranean seas which stretch for hundreds (or thousands!) of miles beneath the feet of surface dwellers.</p><h2>The Fantastic</h2><p>The rules assume a setting where characters come into contact with the fantastic, otherworldly, weird, and wonderful.</p><h3>Treasure</h3><p>Hoards of long-forgotten gold, fabled objects of great magical power, artefacts crafted by the gods themselves. The promise of attaining treasures such as these—either for their fabulous material value or for their fantastic powers—is the lure that pulls many an adventurer into perilous realms.</p><h3>Monsters</h3><p>Terrible creatures older than time, fearsome mythical beasts, chimeric biological experiments, bands of monstrous beast-men, beings from otherworldly dimensions. Such inhuman creatures lurk in the wilderness, in dungeons, and in the Underworld, guarding wondrous treasures.</p><h3>Magic</h3><p>Forbidden practices of dark sorcery, rituals to invoke the gods, monsters summoned from weird dimensions, sites of eldritch power, objects bound with occult energies. Magic is a powerful tool that may be wielded by characters, but also by their enemies!</p><h3>Sentient Species</h3><p>Fairies malevolent and kind, dwarves in subterranean kingdoms, bestial humanoids, mutants twisted by magic. While humans are typically the most widespread species in the game, other humanoids of equal (or perhaps greater!) intelligence also exist. Intelligent species that are available as player characters are termed <em><strong>demihumans.</strong></em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!v4TGf2c1lEasEphN.8io8PQ8qFyqTTD3T"
+    },
+    {
+      "sort": 300000,
+      "name": "Terminology",
+      "type": "text",
+      "_id": "cvNbAqdZ6ZTqTMN2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Basic Game Terminology</h2><p><strong>Referee: </strong>Also known as the <em><strong>Game Master</strong></em>. The person who designs the game world and runs game sessions for the other players, arbitrating the rules and determining the reactions of people and creatures encountered.</p><p><strong>Players: </strong>Every other participant in the game. Each player usually runs a single character.</p><p><strong>Player Character (PC):</strong> The imagined character played by a player.</p><p><strong>Party: </strong>The group of PCs who go on adventures together.</p><p><strong>Adventure: </strong>A series of one or more game sessions during which the party explores a specific location or engages with a particular plot.</p><p><strong>Campaign: </strong>A series of adventures, usually involving a consistent set of PCs and a consistent game world.</p><p><strong>Non-Player Character (NPC): </strong>Any other character encountered by the PCs during the game. All NPCs are played by the referee.</p><p><strong>Monster: </strong>Any creature encountered by the party during an adventure. All monsters are played by the referee.</p><h2>Dice Rolling Notation</h2><p>Similar to many other RPGs, Old-School Essentials uses polyhedral dice, each referred to by the number of sides it has:</p><ul><li><p>d4: A four-sided die.</p></li><li><p>d6: A normal six-sided die.</p></li><li><p>d8: An eight-sided die.</p></li><li><p>d10: A ten-sided die.</p></li><li><p>d12: A twelve-sided die.</p></li><li><p>d20: A twenty-sided die.</p></li></ul><p><strong>Multi-Dice Rolls:</strong> In situations where multiple dice should be rolled and the results summed, the number of dice is noted before the “d”. For example, “3d6” indicates that three six-sided dice should be rolled and the results added together.</p><p><strong>Modifiers:</strong> Flat modifiers to the roll are applied after the results of all dice have been summed. For example, “3d6+2” indicates that three six-sided dice should be rolled, the results added together, then 2 added on top.</p><ul><li><p>“Natural” Results</p></li></ul><p>The rules occasionally refer to the “natural” result of rolling dice (e.g. “a natural 20”). This means the number rolled on the die, before any modifiers are applied.</p><p><strong>Percentile Rolls (d100): </strong>A hundred-sided die (d100, sometimes noted as d%) can be mimicked using two d10s: the first treated as “tens” and the second treated as “ones”. For example, a roll of 2 and 3 would be 23. If two 0s are rolled, the result counts as 100.</p><p><strong>X-in-6 Rolls: </strong>Some rules specify an X-in-6 chance of success (e.g. 2-in-6, 3-in-6, etc.). This indicates that 1d6 should be rolled and the result compared against the specified chance. If the roll is less than or equal to the chance of success, the check succeeds.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!v4TGf2c1lEasEphN.cvNbAqdZ6ZTqTMN2"
+    },
+    {
+      "sort": 400000,
+      "name": "In This Compendium",
+      "type": "text",
+      "_id": "4Plt9ZvsDkgDCSL4",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This compendium is a complete guide for players of <em><strong>Old-School Essentials Advanced Fantasy</strong></em> games, with rules, character options, and magic sufficient for decades of play— in conjunction with the active imaginations of the players.</p><h2>Core Rules</h2><p>Rules for magic, battles, and exploration—covering adventures in dungeons, the wilderness, and the high seas.</p><h2>Character Options</h2><p><strong>Character classes:</strong> Thirteen exciting classes: the nimble acrobat, the devious assassin, the brash barbarian, the charming bard, the devout cleric, the mysterious druid, the doughty fighter, the enigmatic illusionist, the noble knight, the sagacious magic-user, the ardent paladin, the stealthy ranger, and the cunning thief.</p><p><strong>Character races:</strong> Ten classic races: the sinister drow, the avaricious duergar, the bold dwarf, the graceful elf, the artful gnome, the spirited half-elf, the plucky halfling, the outcast half-orc, the passionate human, and the stony svirfneblin.</p><p><strong>Equipment:</strong> Full lists of adventuring gear, weapons, armour, vehicles, and animals that characters can purchase.</p><p><strong>Hired help:</strong> Information on the many types of NPC adventurers, mercenaries, and specialists that may be hired.</p><p><strong>Domains:</strong> Rules for constructing a stronghold and managing a domain.</p><h2>Spells</h2><p>Complete lists of spells for bards, clerics, drow, druids, elves, gnomes, half-elves, illusionists, magic-users, paladins, and rangers.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>Monster Stat Blocks<br /><br />While this book does not contain a full bestiary, game statistics for a small number of monsters are present (e.g. for mounts which can be purchased or monsters which can be summoned by magic). Most monster statistics are the same as those used for player characters (@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.XzYWi1aD44eB2sHv.JournalEntryPage.ZnnIy2UP16cSbkGk]{see Game Statistics}), but the following points are worth noting:</p><ul><li><p>HD: The number of d8s rolled to determine the creature’s hit points. The average hp value is listed in parentheses.</p></li><li><p>Att: The attacks the creature can make each round.</p></li><li><p>MV: Creature’s movement rate.</p></li><li><p>SV: Creature’s saving throw values.</p></li><li><p>ML: Creature’s morale rating. @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.4dfEUllNr02Vm7ze]{See Morale}.</p></li><li><p>AL: Creature’s alignment.</p></li><li><p>XP: XP award for defeating creature.</p></li></ul></td></tr></tbody></table>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!v4TGf2c1lEasEphN.4Plt9ZvsDkgDCSL4"
+    },
+    {
+      "sort": 500000,
+      "name": "Other Compendia",
+      "type": "text",
+      "_id": "kGTidbebTPl86Trp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A range of <em><strong>Old-School Essentials</strong></em> supplements are available, adding extra rules options, character classes, equipment, spells, monsters, and treasures to tailor the game to different settings, genres, and styles of play.</p><h2>Mix and Match</h2><p>All <em><strong>Old-School Essentials</strong></em> books are 100% compatible and can be freely mixed and matched! In this way, different settings and genres may be combined.</p><h2>Roll Your Own</h2><p>In addition to using the supplements published in the <em><strong>Old-School Essentials</strong></em> product line, groups may wish to create their own additional content, tailoring the game to their own needs.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p><strong>House Rules</strong></p><p>None of the rules presented in this book (or other Old-School Essentials books) are to be taken as “gospel”. If the players and referee wish, any rule may be expanded, altered, or removed. Such tweaks to the rules are known as house rules—many groups end up with their own unique way of playing, tailored to their particular tastes.</p><p>That said, the rules have been carefully designed and very thoroughly battle tested. Many groups will be perfectly happy with the rules as written.</p><p><strong>Beginning players</strong>: Are advised to play with the rules as written for some time, before starting to change anything.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!v4TGf2c1lEasEphN.kGTidbebTPl86Trp"
+    },
+    {
+      "sort": 600000,
+      "name": "Compatibility",
+      "type": "text",
+      "_id": "XDO5gYOkyo9CTykZ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"page\" title=\"Page 11\"><div class=\"layoutArea\"><div class=\"column\"><p>The old-school gaming scene is sitting on a secret: a huge number of games, despite having different brand names on their covers, are highly compatible! This cross-compatibility between many games means that a great wealth of adventures, campaign settings, and rules supplements can be used with <em><strong>Old-School Essentials.</strong></em></p><h2>The Basic/Expert Rules</h2><p><em><strong>Old-School Essentials</strong></em> is 100% compatible with the 1981 edition of the world’s most popular fantasy RPG, commonly known as the Basic/Expert edition (B/X for short). Any material published for the Basic/Expert rules can be used directly with <em><strong>Old-School Essentials</strong></em>. Decades of adventure are at your fingertips!</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p><strong>Heritage</strong></p><p>The material presented in this book represents a 100% faithful restatement of the rules, character options, and spells from the classic Basic/Expert game, plus additional options and spells adapted from the Advanced game.</p><p>It is worth noting that <strong>errors</strong> in the original Basic/Expert rules have not been slavishly reproduced—an effort has been made to correct obvious mistakes.</p><p>With the aim of increasing the playability of the game, areas of ambiguity or contradiction in the Basic/Expert core rules have also been clarified in <em>Old-School Essentials</em>, while attempting to cleave as closely as possible to the apparent intent of the original rules.</p><p>For those with a passion for rules archaeology, the <strong>Author’s Notes</strong> document, which goes into detail on this topic, can be downloaded for free from necroticgnome.com.</p></td></tr></tbody></table><p></p><h2>Other Basic/Expert Games</h2><p>Over the last decade, a large number of old-school adventure games have been published, many of which—like Old-School Essentials—are also closely compatible with the Basic/Expert rules. Material published for any game that is designed to be compatible with the Basic/Expert rules is easy to use with <em><strong>Old-School Essentials.</strong></em></p><h2>Other Editions</h2><p>Additionally, material published for all 20th century editions of the world’s most popular fantasy RPG (for example, the classic Advanced edition from the 1970s) is also largely compatible with <em><strong>Old-School Essentials.</strong></em></p><p>The rules of other editions do differ somewhat from the Basic/Expert rules, so some amount of adaptation work may be required in order to use these materials with <em><strong>Old-School Essentials.</strong></em> This is not recommended for beginning players, but for those who are familiar with the rules, such adaptation is not complicated.</p><h2>Adaptation Guidelines</h2><p>Concrete guidelines are beyond the scope of this introduction. However, a guide to adapting other, similar rules sets for use with this one is available as a free download from <strong>necroticgnome.com</strong> for those who want more information on this topic.</p></div></div></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!v4TGf2c1lEasEphN.XDO5gYOkyo9CTykZ"
+    },
+    {
+      "sort": 700000,
+      "name": "Thanks",
+      "type": "text",
+      "_id": "0kaoILadoCd0N2Tk",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p>To the indomitable proofreaders who have helped make this book shine: John Anthony, Adam Baulderstone, Neil Benson, Cyril Brocard, Alistair Caunt, Caleb Collins, Vernon Fults, Chuck Glisson, Colin Green, Noah Green, Keith Hann, Ian Helmke, Turan Holland, Michael Julius, Stephen Karnes, David Marsh, Ryan Marsh, Peter McDevitt, Dominic Moore, Frederick Münch, Eric Nieudan, Ray Otus, Alexander Parker, Dave Pettett, Steve Priest, Glenn Robinson, Stuart A. Roe, Brian Scott, Tim Scott, Eric Strathmeyer, Thorin Thompson, Perttu Vedenoja, Geoffrey Walter, Che Webster.</p></td></tr></tbody></table><p>Some monster art by Frank Scacalossi from his collection of free-for-personal-use VTT tokens at <a href=\"https://youseethis.blog/tokens/\">https://youseethis.blog/tokens/</a>. Inclusion in the OSE Foundry VTT Premium Game module with permission of the artist.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1758437413847
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!v4TGf2c1lEasEphN.0kaoILadoCd0N2Tk"
+    }
+  ],
+  "folder": "YjJ1oGW38oTZHO7n",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076656351,
+    "modifiedTime": 1754191706848,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "v4TGf2c1lEasEphN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!v4TGf2c1lEasEphN"
+}

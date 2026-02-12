@@ -1,0 +1,37 @@
+{
+  "name": "Combat",
+  "type": "ability",
+  "img": "icons/skills/melee/swords-parry-block-blue.webp",
+  "effects": [],
+  "folder": "TX9cD07CSUAdxCmL",
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Dwarves can use all types of armour. Due to their short height, dwarves can only use small or normal sized weapons. They cannot use longbows or two-handed swords.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "dwarf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.342",
+    "createdTime": 1685796591342,
+    "modifiedTime": 1685796591342,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "13wvhribNCWBdbFn",
+  "sort": 0,
+  "_key": "!items!13wvhribNCWBdbFn"
+}

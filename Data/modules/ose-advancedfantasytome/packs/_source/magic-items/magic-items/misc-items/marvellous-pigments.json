@@ -1,0 +1,44 @@
+{
+  "_id": "Z75rKVw3ofAROXNd",
+  "name": "Marvellous Pigments",
+  "type": "item",
+  "img": "icons/commodities/materials/bowl-liquid-red.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 7300000,
+  "flags": {},
+  "system": {
+    "description": "<p>Pots of magical paint which can be applied to a flat surface to conjure a real, three-dimensional object. [[/r 1d4]] pots of pigment are usually found together, along with a brush.</p><ul><li><p><strong>Applying:</strong> The object to be conjured must be painted onto a flat surface (e.g. wall, door, floor, ceiling). The artistic skill of the character has no bearing—the object magically flows from the paint brush, guided by the character’s imagination alone.</p></li><li><p><strong>Time:</strong> Painting an object takes 1 turn.</p></li><li><p><strong>Dimensions:</strong> Each pot of the pigments is sufficient to cover a 10’ × 10’ surface, conjuring an object of up to 1,000 cubic feet (e.g. 10’ × 10’ × 10’).</p></li><li><p><strong>Type of objects:</strong> Only non-magical, inanimate things may be conjured, for example: rooms, portals, armour, equipment, trees, flowers, pits, passages, etc.</p></li><li><p><strong>Valuable objects:</strong> May be conjured. These appear valuable, but are actually constructed of low value materials (e.g. tin, glass, etc.).</p></li><li><p><strong>Duration:</strong> Conjured objects are permanent and real in every sense.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440315285,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Z75rKVw3ofAROXNd"
+}

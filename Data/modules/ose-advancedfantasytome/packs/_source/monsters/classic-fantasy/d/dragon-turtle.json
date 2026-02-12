@@ -1,0 +1,510 @@
+{
+  "folder": "9GFyEfB00XrME9tG",
+  "name": "Dragon Turtle",
+  "type": "monster",
+  "_id": "pWbfD9WMZPImKggR",
+  "img": "modules/ose-advancedfantasytome/artwork/monsters/dragon%20turtle%20-%20stefan%20poag%20-%20c%202023%20ng.webp",
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": null,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "30d8",
+      "value": 135,
+      "max": 135
+    },
+    "ac": {
+      "value": -2,
+      "mod": 0
+    },
+    "aac": {
+      "value": 21,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 5,
+      "bba": 14,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 4
+      },
+      "wand": {
+        "value": 5
+      },
+      "paralysis": {
+        "value": 6
+      },
+      "breath": {
+        "value": 5
+      },
+      "spell": {
+        "value": 8
+      }
+    },
+    "movement": {
+      "base": 90
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.EbekC1qu7IWkKNuL.JournalEntryPage.QxgKwpnIqBipZYB4#dragon-turtle]{Dragon Turtle}</p><p>Gargantuan sea monsters with the body and hard shell of a turtle and the head, tail, and legs of a dragon. Lurk in huge caves in the depths of the ocean, only rarely coming to the surface.</p>",
+      "alignment": "Chaotic",
+      "xp": "9000",
+      "specialAbilities": "3",
+      "treasure": {
+        "table": "@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.xeGURxYqgotXb68P]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "1"
+      },
+      "morale": "10",
+      "movement": "30’ (10’) / 90’ (30’) swimming"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "name": "Dragon Turtle",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/ose-advancedfantasytome/artwork/tokens/dragon_turtle.Token.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 4,
+    "height": 4,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "xemfEsPsayxcRUga",
+      "name": "Claw",
+      "type": "weapon",
+      "sort": 1400000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Melee</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 30,
+        "cost": 7,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d8",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 2,
+          "max": 2
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pWbfD9WMZPImKggR.xemfEsPsayxcRUga"
+    },
+    {
+      "_id": "9jFYu8DB8DZcSvgF",
+      "name": "Bite",
+      "type": "weapon",
+      "sort": 1400000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Melee</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 30,
+        "cost": 7,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6*10",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pWbfD9WMZPImKggR.9jFYu8DB8DZcSvgF"
+    },
+    {
+      "_id": "SvJiegvOfB21hkrO",
+      "name": "Mistaken for island",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>When floating,&nbsp;can be mistaken for a small island.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pWbfD9WMZPImKggR.SvJiegvOfB21hkrO"
+    },
+    {
+      "_id": "TBJTvfLf17NFydNM",
+      "name": "Attack ships",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Sometimes try to destroy&nbsp;ships and eat the crew by surfacing below.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pWbfD9WMZPImKggR.TBJTvfLf17NFydNM"
+    },
+    {
+      "_id": "YsA4GaSBgfJfrswd",
+      "name": "Treasure",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>From sunken ships.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pWbfD9WMZPImKggR.YsA4GaSBgfJfrswd"
+    },
+    {
+      "_id": "2a2IrbynLtFa4VZM",
+      "name": "Breath",
+      "type": "weapon",
+      "sort": 600000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>90’ long, 30’ wide cloud of steam.</p><p>Can be used up to three times per day.</p><p>All caught in the area suffer damage equal to the dragon turtle’s current hit points (<strong>save vs breath</strong> for half).</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "breath",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "yellow",
+        "damage": "0",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.10",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1762124455469
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pWbfD9WMZPImKggR.2a2IrbynLtFa4VZM"
+    },
+    {
+      "_id": "66eEDBeCEHGTx5b6",
+      "name": "Breath Weapon",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Can be used up to three times per day. All caught in the area suffer damage equal to the dragon&rsquo;s current hit points (<strong>save versus breath</strong> for half). Shapes of breath weapon:</p>\n<p><strong>a</strong>. <strong>Cloud</strong>: 50&rsquo; long, 40&rsquo; wide, 20&rsquo; high.</p>\n<p><strong>b</strong>. <strong>Cone</strong>: 2&rsquo; wide at the mouth, 30&rsquo; wide at far end.</p>\n<p><strong>c</strong>. <strong>Line</strong>: 5&rsquo; wide along whole length.</p>",
+        "save": "breath",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pWbfD9WMZPImKggR.66eEDBeCEHGTx5b6"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.10",
+    "createdTime": 1752925299445,
+    "modifiedTime": 1763375111579,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!pWbfD9WMZPImKggR"
+}

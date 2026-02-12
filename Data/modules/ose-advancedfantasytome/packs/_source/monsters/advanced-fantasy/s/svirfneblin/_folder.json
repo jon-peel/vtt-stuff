@@ -1,0 +1,22 @@
+{
+  "color": "#9f2060",
+  "name": "Svirfneblin",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "tQilM7Lq7YEXA3tR",
+  "_id": "HDawF9NhRcWGnE7g",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752925312335,
+    "modifiedTime": 1763375337227,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!HDawF9NhRcWGnE7g"
+}

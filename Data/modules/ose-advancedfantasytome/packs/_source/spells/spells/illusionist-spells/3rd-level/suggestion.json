@@ -1,0 +1,37 @@
+{
+  "name": "Suggestion",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "Pa1uO0sRhnseXue5",
+  "system": {
+    "description": "<p>The caster utters a suggestion to influence the behaviour of a selected subject.</p><ul><li><p><strong>Wording:</strong> The suggestion must take the form of a short phrase (at most one or two sentences) suggesting a course of action to the subject.</p></li><li><p><strong>Comprehension:</strong> A language that is understood by the subject must be used.</p></li><li><p><strong>Harmful suggestions:</strong> Suggestions that are obviously harmful to the subject cause the spell to automatically fail.</p></li><li><p><strong>Saving throw:</strong> A <em><strong>save versus spells</strong></em> is allowed to resist the suggestion. If the save fails, the subject will follow the caster’s suggestion for up to the duration.</p></li><li><p><strong>Reasonable suggestions:</strong> A suggestion that is worded in a way to make it sound very reasonable incurs a –2 penalty to the saving throw.</p></li></ul><p><strong>Restrictions:</strong> Undead are unaffected.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": "4 turns +4 per level",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451626502,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Pa1uO0sRhnseXue5"
+}

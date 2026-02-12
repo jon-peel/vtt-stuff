@@ -1,0 +1,59 @@
+{
+  "_id": "z4YAzVDi1UaQeXIT",
+  "name": "Sling",
+  "type": "weapon",
+  "img": "icons/weapons/slings/slingshot-wood.webp",
+  "effects": [],
+  "folder": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Blunt, Missile (5’–40’ / 41’–80’ / 81’–160’)</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 20,
+    "cost": 2,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 40,
+      "medium": 80,
+      "long": 160
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159919042,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!z4YAzVDi1UaQeXIT"
+}

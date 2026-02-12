@@ -1,0 +1,19 @@
+{
+  "name": "Tack and Harness",
+  "sorting": "a",
+  "folder": "yvMZJme1bnhee0JM",
+  "type": "Item",
+  "_id": "exruKHbWQ5EqFcz6",
+  "sort": 0,
+  "color": "#184663",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.3",
+    "coreVersion": "11.304",
+    "createdTime": null,
+    "modifiedTime": 1689078415304,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!exruKHbWQ5EqFcz6"
+}

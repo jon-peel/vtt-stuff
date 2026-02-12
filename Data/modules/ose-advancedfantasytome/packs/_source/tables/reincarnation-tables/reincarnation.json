@@ -1,0 +1,263 @@
+{
+  "name": "Reincarnation",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Reincarnation: Class or monster that the character is reincarnated into.</p>",
+  "results": [
+    {
+      "_id": "CiCVMOryn6dt7ZVy",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cleric",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.CiCVMOryn6dt7ZVy"
+    },
+    {
+      "_id": "lgcef6l86vwnR9O1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dwarf",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.lgcef6l86vwnR9O1"
+    },
+    {
+      "_id": "vwEGcdlYVKHYjp5f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elf",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.vwEGcdlYVKHYjp5f"
+    },
+    {
+      "_id": "YVYpfevikvyqRGvE",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fighter",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.YVYpfevikvyqRGvE"
+    },
+    {
+      "_id": "HAwjfsfpVNd01uYx",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Halfling",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.HAwjfsfpVNd01uYx"
+    },
+    {
+      "_id": "kLEanGfpD3BVWT4r",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magic-User",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.kLEanGfpD3BVWT4r"
+    },
+    {
+      "_id": "qNTWA7zzSJtdgy4t",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thief",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.qNTWA7zzSJtdgy4t"
+    },
+    {
+      "_id": "JhtJML1nqa163HVa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Same Class",
+      "name": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.JhtJML1nqa163HVa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-grey.svg",
+      "_id": "QMjI2S4ieA96igO7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Reincarnation: Monster Alignment",
+      "documentUuid": "Compendium.ose-advancedfantasytome.tables.RollTable.ftAahcet8ZBtuwSW",
+      "description": "",
+      "_key": "!tables.results!1mr20NyiofKbzCkQ.QMjI2S4ieA96igO7"
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "bQ0spjafhnW3IDHf",
+  "sort": 100000,
+  "flags": {},
+  "_id": "1mr20NyiofKbzCkQ",
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.2",
+    "coreVersion": "13.342",
+    "createdTime": 1686550732618,
+    "modifiedTime": 1686550770954,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!1mr20NyiofKbzCkQ"
+}

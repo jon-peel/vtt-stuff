@@ -1,0 +1,22 @@
+{
+  "color": "#389c23",
+  "name": "Hawk",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "nloYRN34cCJIGt9R",
+  "_id": "wxgqMcdIpEJT90qE",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752925299176,
+    "modifiedTime": 1763375111071,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!wxgqMcdIpEJT90qE"
+}

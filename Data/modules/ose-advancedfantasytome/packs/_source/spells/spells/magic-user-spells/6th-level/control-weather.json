@@ -1,0 +1,37 @@
+{
+  "name": "Control Weather",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "bULpI7Ni5aQEAfKG",
+  "sort": 0,
+  "flags": {},
+  "_id": "68TS2Q5KGd2vCvii",
+  "system": {
+    "description": "<p>By concentrating (no movement allowed), the caster causes one of the following conditions to manifest around themselves. This spell only functions outdoors.</p><ul><li><p><strong>Calm:</strong> Clears bad weather (though side-effects—e.g. mud after rain—remain.)</p></li><li><p><strong>Extreme heat:</strong> Dries up snow or mud (including transmute rock to mud). Creatures in the area move at half normal rate.</p></li><li><p><strong>Fog:</strong> Visibility drops to 20’. Creatures in the fog move at half their normal rate. At the referee’s option, they may also have a chance of getting lost.</p></li><li><p><strong>High winds:</strong> Movement rates are halved. Missile fire and flight are impossible. High winds may be used to increase the sailing speed of ships by 50%, if they travel with the wind. In sandy areas, may cause a sandstorm, reducing visibility to 20’.</p></li><li><p><strong>Rain:</strong> –2 penalty to missile attacks. Mud forms in 3 turns, halving movement rates.</p></li><li><p><strong>Snow:</strong> Visibility drops to 20’. Movement rates are halved. Bodies of water may freeze. After the snow thaws, mud remains and still impedes movement.</p></li><li><p><strong>Tornado:</strong> The caster can direct the @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.wVzUb6BCBWUKb8qq]{tornado}, which moves at 120’ per round. The tornado can be directed to attack. Ships caught in a tornado have a [[/roll 1d100]]{75%} chance of suffering 12 points of hull damage.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Concentration",
+    "range": "240 yards around the caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761454631967,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!68TS2Q5KGd2vCvii"
+}

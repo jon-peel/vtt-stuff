@@ -1,0 +1,39 @@
+{
+  "name": "Wand of Summoning",
+  "type": "item",
+  "img": "icons/weapons/wands/wand-gem-violet.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 200000,
+  "flags": {},
+  "_id": "1pROU5ycoKvaspiB",
+  "system": {
+    "description": "<p>Summons monsters to do the character’s bidding.</p><ul><li><p><strong>1st level monsters:</strong> Expending a charge summons [[/r 2d4]] 1st level monsters.</p></li><li><p><strong>2nd level monsters:</strong> Expending 2 charges summons [[/r 1d6]] 2nd level monsters.</p></li><li><p><strong>3rd level monsters:</strong> Expending 3 charges summons [[/r 1d4]] 3rd level monsters.</p></li><li><p><strong>Type of monsters:</strong> The referee should randomly determine the type of monsters which are summoned, for example using dungeon wandering monster tables.</p></li><li><p><strong>Arrival time:</strong> Summoned monsters arrive at the character’s location in [[/r 1d4]] rounds.</p></li><li><p><strong>Commanding:</strong> Monsters will attack enemies as directed or, if the character can communicate with them, be given other tasks.</p></li><li><p><strong>Duration:</strong> The monsters disappear after 1 round per level of the character.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761445362961,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1pROU5ycoKvaspiB"
+}

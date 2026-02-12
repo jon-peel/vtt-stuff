@@ -1,0 +1,19 @@
+{
+  "name": "Elf",
+  "sorting": "a",
+  "folder": "aS8f0fcPo63zq1uB",
+  "type": "Item",
+  "_id": "bHcbTbx1e4imyyb0",
+  "sort": 0,
+  "color": "#00b236",
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685460409599,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!bHcbTbx1e4imyyb0"
+}

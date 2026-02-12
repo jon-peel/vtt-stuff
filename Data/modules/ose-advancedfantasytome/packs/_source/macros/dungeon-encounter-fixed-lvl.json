@@ -1,0 +1,26 @@
+{
+  "_id": "ofVTU0HvS3vP7dte",
+  "name": "Dungeon Encounter (fixed lvl)",
+  "type": "script",
+  "author": "LWUjWFEmslEaL9Zd",
+  "img": "icons/environment/wilderness/tomb-entrance.webp",
+  "scope": "global",
+  "command": "// Specify the level you want within the param: num 1-8\nOSE.util.dungEnc(1)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752024664309,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!macros!ofVTU0HvS3vP7dte"
+}

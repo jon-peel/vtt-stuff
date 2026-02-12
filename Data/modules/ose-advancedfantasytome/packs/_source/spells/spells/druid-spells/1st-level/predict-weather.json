@@ -1,0 +1,37 @@
+{
+  "name": "Predict Weather",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "98H5alZjT4gFD44w",
+  "sort": 0,
+  "flags": {},
+  "_id": "BxqeLHSQP4f1evDE",
+  "system": {
+    "description": "<p>The caster gains accurate knowledge of the weather within range over the next 12 hours.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Druid",
+    "duration": "",
+    "range": "1 mile diamerter/lvl",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682160007713,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BxqeLHSQP4f1evDE"
+}

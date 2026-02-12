@@ -1,0 +1,37 @@
+{
+  "_id": "bZqsk2GN0U3IL0Dx",
+  "name": "Permanent Illusion",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>An illusion of the caster’s choosing— including sounds, smells, and thermal elements—manifests in a 20’ cube area. Two types of illusion may be created:</p><ol><li><p><strong>An illusionary monster:</strong> That can be directed to attack. The monster has AC 5 [14]. If it is hit in combat, the attacker may save versus spells. If the save succeeds, the attacker realises the illusory nature of the monster and can no longer be harmed by it.</p></li><li><p><strong>A scene:</strong> Either changing the appearance of the affected area or creating the appearance of something new.</p></li></ol><p><strong>Stipulations:</strong> The following apply:</p><ul><li><p><strong>Responsiveness:</strong> The illusion behaves and responds as decided by the caster when the spell is cast.</p></li><li><p><strong>Illusionary monsters:</strong> May appear to be harmful but never inflict real damage. A character who appears to die actually falls unconscious, a character turned to stone will actually be paralysed, and so on. Such effects last for [[/r 1d4]] turns.</p></li><li><p><strong>Illusions from imagination:</strong> If the illusion is of something the caster has not personally seen, the referee should grant targets a bonus to any applicable saving throws.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "Permanent",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452447081,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bZqsk2GN0U3IL0Dx"
+}

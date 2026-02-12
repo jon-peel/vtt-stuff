@@ -1,0 +1,19 @@
+{
+  "color": "#14364D",
+  "name": "Weapons",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "yvMZJme1bnhee0JM",
+  "_id": "fCYzDPuVwHDpvV4m",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.9.3",
+    "coreVersion": "11.304",
+    "createdTime": null,
+    "modifiedTime": 1689078528513,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!fCYzDPuVwHDpvV4m"
+}

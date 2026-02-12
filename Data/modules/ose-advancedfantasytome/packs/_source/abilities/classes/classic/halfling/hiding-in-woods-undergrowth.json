@@ -1,0 +1,37 @@
+{
+  "name": "Hiding in Woods/Undergrowth",
+  "type": "ability",
+  "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+  "effects": [],
+  "folder": "uS6dUSjteSXkknkw",
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">Halflings have an uncanny ability to disappear from sight:</p><ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\">In woods or undergrowth, a halfling can hide with a [[/br 1d100]]{90%} chance of success.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "halfling",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 90,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761458835170,
+    "modifiedTime": 1761458849817,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "ZUNEjBCum3sILy4c",
+  "sort": 0,
+  "_key": "!items!ZUNEjBCum3sILy4c"
+}

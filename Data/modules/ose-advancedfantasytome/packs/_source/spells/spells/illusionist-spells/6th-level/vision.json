@@ -1,0 +1,37 @@
+{
+  "_id": "K2vrA8lm1TasPRYR",
+  "name": "Vision",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "RRx3YbXw0EUMwpwC",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The caster calls upon a supernatural power, asking to be sent a vision in answer to a question which vexes them.</p><ul><li><p><strong>The power to be called upon:</strong> May be selected by the caster.</p></li><li><p><strong>Sacrifice:</strong> In order to supplicate the power being contacted, the caster must sacrifice something either valuable to themselves or valuable to the supernatural power. More valuable sacrifices increase the chance of the caster’s question being answered (see below).</p></li></ul><p><strong>The response of the power:</strong> Is determined by rolling [[/r 2d6]]:</p><ul><li><p><strong>2–6:</strong> The power is angered. No vision is sent. Instead, the caster is placed under a powerful enchantment forcing them to perform some quest for the power.</p></li><li><p><strong>7–9</strong>: A minor vision is sent. It may not be directly related to the caster’s question.</p></li><li><p><strong>10 or higher</strong>: A vision that answers the caster’s question is sent.</p></li></ul><p><strong>Value of sacrifice</strong>: The [[/r 2d6]] roll is modified by the value of the sacrifice (as judged by the referee):</p><ul><li><p><strong>Very precious</strong>: +1</p></li><li><p><strong>Extremely precious</strong>: +2</p></li><li><p><strong>Priceless</strong>: +3</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Illusionist",
+    "duration": "1 round per level",
+    "range": "Touch",
+    "roll": "2d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761452575194,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!K2vrA8lm1TasPRYR"
+}

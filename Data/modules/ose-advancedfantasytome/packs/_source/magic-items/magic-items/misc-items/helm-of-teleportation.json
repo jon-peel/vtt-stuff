@@ -1,0 +1,44 @@
+{
+  "_id": "28TViwtjsrLfoLp3",
+  "name": "Helm of Teleportation",
+  "type": "item",
+  "img": "icons/equipment/head/helm-spangen.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 1000000,
+  "flags": {},
+  "system": {
+    "description": "<p>A magical helm that gives an arcane spell caster the ability to cast the <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.Zvkn56CzsC7cCw08]{teleport}</em> spell.</p><ul><li><p><strong>Subject:</strong> The wearer may teleport themselves, another creature, or an object.</p></li><li><p><strong>Resisting:</strong> If used on another creature or object, a <strong>save versus spells</strong> is allowed to resist being teleported.</p></li><li><p><strong>When first found:</strong> The helm’s power is usable only once.</p></li><li><p><strong>Recharging:</strong> To be used again, a <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.Zvkn56CzsC7cCw08]{teleport}</em> spell must be cast upon the helm.</p></li><li><p><strong>Once recharged:</strong> The wearer may use the helm an unlimited number of times (at most once per round). If the helm is used on an unwilling subject, it once again loses its power and must be recharged, as above, to be used again.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761431476216,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!28TViwtjsrLfoLp3"
+}

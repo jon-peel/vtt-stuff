@@ -1,0 +1,44 @@
+{
+  "_id": "llKYNdxTOFHJzSBS",
+  "name": "Pipes of the Sewers",
+  "type": "item",
+  "img": "icons/tools/instruments/pipe-flute-brown.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 10200000,
+  "flags": {},
+  "system": {
+    "description": "<p>A set of wooden musical pipes with the power to summon and control rats.</p><ul><li><p><strong>Playing:</strong> The magical effect is only activated by playing a specific melody, which must be learned (treat as a command word).</p></li><li><p><strong>Summons:</strong> If rats are within 400’, playing the correct melody summons either [[/r 1d6*10]] @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.JBDkJZJ8sFAuIXkr]{giant rats} or [[/r 3d6*10]] @UUID[Compendium.ose-advancedfantasytome.monsters.Actor.oVhyDjpr0zW06LvL]{normal rats}.</p></li><li><p><strong>Arrival:</strong> Summoned rats travel towards the character’s location at a rate of 50’ per round.</p></li><li><p><strong>Controlling:</strong> Summoned rats have a [[/r 1d100]]{95%} chance of obeying the character’s mental commands, as long as they keep playing the pipes.</p></li><li><p><strong>Stopping playing:</strong> Summoned rats leave immediately. If playing is resumed, there is a [[/r 1d100]]{70%} chance of the rats obeying the character once more and a [[/r 1d100]]{30%} chance of them attacking the character.</p></li><li><p><strong>Controlled rats:</strong> The pipes can also be played to take over control of rats controlled by another (e.g. by a vampire or wererat). There is a [[/r 1d100]]{30%} chance of success per round. If successful, the other creature may attempt to reassert control, also with a [[/r 1d100]]{30%} chance per round.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761441071771,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!llKYNdxTOFHJzSBS"
+}

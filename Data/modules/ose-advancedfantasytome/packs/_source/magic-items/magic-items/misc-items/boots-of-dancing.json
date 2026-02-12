@@ -1,0 +1,44 @@
+{
+  "_id": "BsoRG9AFEzGh15zu",
+  "name": "Boots of Dancing",
+  "type": "item",
+  "img": "icons/equipment/feet/boots-leather-banded-pink.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 3200000,
+  "flags": {},
+  "system": {
+    "description": "<p>Cursed boots which cause the wearer to dance uncontrollably.</p><ul><li><p><strong>Melee or evasion:</strong> The curse takes effect when the character is in melee or evading an encounter.</p></li><li><p><strong>Effects of dancing:</strong> Cannot attack or move, –4 penalty to AC, –4 penalty to all saving throws.</p></li><li><p><strong>Removing:</strong> Once the curse is active, the character cannot remove the boots. The curse can only be removed with magic (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.zXFADd6L1nzS6uzq]{remove curse}</em>).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761427195036,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!BsoRG9AFEzGh15zu"
+}

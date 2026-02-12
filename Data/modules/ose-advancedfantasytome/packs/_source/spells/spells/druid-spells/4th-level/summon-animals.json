@@ -1,0 +1,37 @@
+{
+  "name": "Summon Animals",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "EF4o02b1CzjjmfJd",
+  "sort": 0,
+  "flags": {},
+  "_id": "6FE75slm1sqEminW",
+  "system": {
+    "description": "<p>Normal animals within range are summoned to the caster’s aid. The creatures that respond to the summons are determined as follows:</p><ul><li><p><strong>Restrictions:</strong> Insects, arachnids, and other “bugs” are not summoned. Magical creatures and those of greater than animal intelligence are not summoned.</p></li><li><p><strong>Targeted summons:</strong> The caster may choose to limit the summons to creatures of specific species, or to specific, known individuals.</p></li><li><p><strong>Number of animals:</strong> A number of animals of total Hit Dice equal to the caster’s level will respond to the summons.</p></li><li><p><strong>Small animals:</strong> Normal, small animals (e.g. mice, sparrows, squirrels, etc.) are treated as one tenth of a HD, for this purpose.</p></li></ul><p><strong>Summoned creatures</strong> <strong>behave as follows:</strong></p><ul><li><p><strong>Arrival:</strong> They will come to the caster’s location as fast as they can.</p></li><li><p><strong>Comprehension:</strong> They understand the caster’s words while the spell lasts.</p></li><li><p><strong>Aid:</strong> They will aid the caster in whatever way they can.</p></li><li><p><strong>If the caster is being attacked:</strong> The summoned animals will attack the enemy, only fleeing if they fail a morale check.</p></li><li><p><strong>If the caster is not being attacked:</strong> Summoned animals will usually flee if harmed.</p></li><li><p><strong>Once an animal flees:</strong> The spell is broken for that animal.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Druid",
+    "duration": "3 turns",
+    "range": "360'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450008504,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6FE75slm1sqEminW"
+}

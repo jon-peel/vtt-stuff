@@ -1,0 +1,37 @@
+{
+  "name": "Blend into Stone (Gloomy)",
+  "type": "ability",
+  "img": "icons/commodities/stone/paver-brick-teal.webp",
+  "effects": [],
+  "folder": "2VikIAHy5XOpvp8R",
+  "flags": {},
+  "system": {
+    "description": "<p>Svirfneblins have the uncanny ability to go unnoticed when in an environment of natural or carved stone so long as they remain silent and motionless. The chance of success is [[/br 1d6]]{4-in-6} in gloomy conditions.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "svirfneblin",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 4,
+    "blindroll": true,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761459684191,
+    "modifiedTime": 1761459691483,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_id": "l2KJnNQ5srvns6lW",
+  "sort": 700000,
+  "_key": "!items!l2KJnNQ5srvns6lW"
+}

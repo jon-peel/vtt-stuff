@@ -1,0 +1,36 @@
+{
+  "_id": "LdFotJMtjgFsLafu",
+  "name": "Infravision",
+  "type": "ability",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
+  "effects": [],
+  "folder": "j0CgUlbbXoxCZaVW",
+  "sort": 100000,
+  "flags": {},
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Dwarves have infravision to 60&rsquo; (see </span><span style=\"color: #191813;\"><span style=\"box-sizing: border-box; user-select: text; color: #191813;\"><span style=\"box-sizing: border-box; user-select: text;\">@UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.u9gtXY21VnjrwwkH.JournalEntryPage.eh7GQsf8aWU7NcEP#darkness]{Darkness}</span></span>).</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "dwarf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.6",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761458520185,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!LdFotJMtjgFsLafu"
+}

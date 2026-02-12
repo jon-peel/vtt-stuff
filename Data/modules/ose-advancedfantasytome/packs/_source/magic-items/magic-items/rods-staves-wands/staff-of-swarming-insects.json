@@ -1,0 +1,63 @@
+{
+  "name": "Staff of Swarming Insects",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-ornate-wood.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 1900000,
+  "flags": {},
+  "_id": "QGQvsD5yY7PozFPC",
+  "system": {
+    "description": "<p>Has the power to summon a swarm of biting insects.</p><ul><li><p><strong>Divine magic:</strong> Usable by divine spell casters only.</p></li><li><p><strong>Summon swarm:</strong> A target within 60’ + 10’ per level of the wielder is covered with biting insects. The target cannot act for 1 round and suffers 6 damage + 1 per level of the wielder. The insect swarm then dissipates.</p></li><li><p><strong>Restrictions:</strong> Creatures larger than human-sized or which have a natural AC better than 5 [14] are unaffected.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761444619487,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QGQvsD5yY7PozFPC"
+}

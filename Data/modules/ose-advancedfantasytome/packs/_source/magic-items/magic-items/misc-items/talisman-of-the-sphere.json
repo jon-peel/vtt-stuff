@@ -1,0 +1,44 @@
+{
+  "_id": "YGKH15LDfwhRqWyb",
+  "name": "Talisman of the Sphere",
+  "type": "item",
+  "img": "icons/commodities/metal/pin-cottar-steel.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 6900000,
+  "flags": {},
+  "system": {
+    "description": "<p>An adamantine loop and handle which can increase an arcane spell caster’s control over a sphere of annihilation.</p><ul><li><p><strong>Arcane spell casters:</strong> Using the talisman when attempting to control a sphere of annihilation allows the character to add their INT score to the control chance. If a control check succeeds, the character can then move the sphere for 2 rounds before having to make another control check.</p></li><li><p><strong>Other characters:</strong> Suffer [[/r 5d6]] damage when touching the talisman.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761442114638,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!YGKH15LDfwhRqWyb"
+}

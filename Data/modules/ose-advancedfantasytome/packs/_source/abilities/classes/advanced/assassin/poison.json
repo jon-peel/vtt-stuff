@@ -1,0 +1,36 @@
+{
+  "_id": "7CuWqxXlSLCrrquS",
+  "name": "Poison",
+  "type": "ability",
+  "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+  "effects": [],
+  "folder": "fDczuWe9c6QgC3MN",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Victims of a poisoning by an assassin suffer a &ndash;2 penalty to the saving throw.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "assassin",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.4",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1683316167359,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7CuWqxXlSLCrrquS"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "War Hammer +2",
+  "type": "weapon",
+  "img": "icons/weapons/hammers/hammer-double-stone.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "flags": {},
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 20,
+      "medium": 40,
+      "long": 60
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 2,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.10.2",
+    "coreVersion": "13.342",
+    "createdTime": 1685074371673,
+    "modifiedTime": 1721690266666,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "HrnwlAWB8qXrlPnT",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HrnwlAWB8qXrlPnT"
+}

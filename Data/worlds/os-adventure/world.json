@@ -1,0 +1,17 @@
+{
+  "title": "OS Adventure",
+  "id": "os-adventure",
+  "system": "ose",
+  "background": "assets/Gemini_Generated_Image_1eberk1eberk1ebe.png",
+  "joinTheme": "minimal",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "2.1.13",
+  "lastPlayed": "Thu Feb 12 2026 13:42:25 GMT+0300 (Moscow Standard Time)",
+  "playtime": 8860,
+  "description": "",
+  "flags": {}
+}

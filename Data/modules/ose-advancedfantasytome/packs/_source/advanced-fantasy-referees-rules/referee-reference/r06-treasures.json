@@ -1,0 +1,202 @@
+{
+  "name": "R06. Treasures",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Placing Treasure",
+      "type": "text",
+      "_id": "gbL8FO45BtiKwpnN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>There are two methods of deciding what treasure is in the possession of monsters: rolling randomly and referee choice.</p><h2>Method 1: Rolling Randomly</h2><p>Monster listings note which treasure type is present in the creature’s lair and which it may carry on its person. @UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.QaJTYADJoZAOBRPB.JournalEntryPage.wPBBUgdeybiccKxu]{See Treasure Types} for details on how to roll treasure according to a treasure type letter code.</p><h3>Manual Adjustments</h3><p>If the value of the randomly generated treasure is significantly above or below the average value of the treasure type, the referee may adjust the results manually.</p><h2>Method 2: Referee Choice</h2><p>The referee may wish to choose treasures appropriate to the monsters and the PC party. As treasure is the main source of XP (@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.enh7v31EaJT9T0AO.JournalEntryPage.t64Ruy0rJ5zroNhP]{see Awarding XP}), the referee should carefully consider treasure placement. The following procedure is recommended:</p><ol><li><p>Consider the size of the adventuring party, the levels of the characters, and the XP they need to go up in level.</p></li><li><p>Decide how many experience points the treasure hoard should provide if the party successfully acquires it.</p></li><li><p>Place treasures whose total value matches the determined XP total.</p></li></ol><h3>Balance of Reward Versus Danger</h3><p>When using this approach, the referee should ensure that the treasure is guarded by sufficiently powerful monsters. Adventurers should have to earn this reward!</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!QaJTYADJoZAOBRPB.gbL8FO45BtiKwpnN"
+    },
+    {
+      "sort": 200000,
+      "name": "Items of Value",
+      "type": "text",
+      "_id": "yygrFnz49s3JqxHg",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Common treasures</h2><p>The treasure tables (see @UUID[.wPBBUgdeybiccKxu]{Treasure Types}) describe methods for generating hoards of coins, gems, jewellery, and magic items.</p><h2>Unusual treasures</h2><p>Adventures may also include valuable items of other kinds, whose worth may not always be obvious:</p><ul><li><p><strong>Artwork</strong>: Paintings, statuary.</p></li><li><p><strong>Books</strong>: Rare tomes or scrolls.</p></li><li><p><strong>Foodstuffs</strong>: Spices, valuable wines.</p></li><li><p><strong>Furnishings</strong>: Rugs, tapestries.</p></li><li><p><strong>Utensils</strong>: Silver cutlery, unusual kitchen or laboratory implements.</p></li><li><p><strong>Valuables</strong>: Furs, ivory, ores, silks.</p></li></ul><h3>Value and Weight</h3><p>For each unusual item placed, the referee should note its value (in gold pieces) and (if using the @UUID[Compendium.ose-advancedfantasytome.rules.JournalEntry.SN5CVAUjvB4QIh8D.JournalEntryPage.nYCaZdKJr9MkDwk4#encumbrance-(optional-rule)]{optional rules for Encumbrance}) its weight.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!QaJTYADJoZAOBRPB.yygrFnz49s3JqxHg"
+    },
+    {
+      "sort": 300000,
+      "name": "Treasure Types",
+      "type": "text",
+      "_id": "wPBBUgdeybiccKxu",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><h3><strong>Rolling Treasure</strong></h3><section class=\"rolling-treasure\"><p>Each treasure type lists one or more types of coins or items. For each entry in the list:</p><ol><li>If a percentage is given, first roll d100 to see whether this item is present.</li><li>If a range of values is given (e.g. [[/r 1d6*1000]]cp, [[/r 6d6]]gems), roll the specified dice to determine the quantity of this item that is present.</li><li>For gems, jewellery, and magic items, the procedures for determining the value and properties of the items in the hoard are found in later sections.</li></ol><h3>Manual Adjustments</h3><p>If the value of randomly rolled treasure is significantly above or below the average value of the treasure type, the referee may adjust the results manually.</p></section></td></tr></tbody></table><section class=\"rolling-treasure\"><p></p><h3>Coin Conversion Rates</h3><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"vertical-align:top;padding-right:1.5em\"><p>1 pp = 5 gp<br />1 gp = 10 sp</p></td><td style=\"vertical-align:top\"><p>1 gp = 2 ep<br />1 gp = 100 cp</p></td></tr></tbody></table><h2><strong>Hoards: A-O</strong></h2><p>These treasure types indicate the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the monsters’ lair.</p><p>Small lairs: Monster listings note the number of individuals found in a lair. If the number rolled is below average and the lair encounter size is at least [[/r 1d4]], the amount of treasure in the hoard may be reduced accordingly.</p><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p><strong>Average Values</strong><br />The average results of gems, jewellery, and all types of coins, excluding magic items (which have no fixed sale value).</p></td></tr></tbody></table><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.B0PGPkdk8Q3sJZFJ]{Type A (18,000gp average)}</h3><ul><li><p>25%: 1d6 × 1,000cp.</p></li><li><p>30%: 1d6 × 1,000sp.</p></li><li><p>20%: 1d4 × 1,000ep.</p></li><li><p>35%: 2d6 × 1,000gp.</p></li><li><p>25%: 1d2 × 1,000pp.</p></li><li><p>50%: 6d6 gems.</p></li><li><p>50%: 6d6 pieces of jewellery.</p></li><li><p>30%: 3 magic items.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.geaLvpnNJa10uW1R]{Type B (2,000gp average)}</h3><ul><li><p>50%: 1d8 × 1,000cp.</p></li><li><p>25%: 1d6 × 1,000sp.</p></li><li><p>25%: 1d4 × 1,000ep.</p></li><li><p>25%: 1d3 × 1,000gp.</p></li><li><p>25%: 1d6 gems.</p></li><li><p>25%: 1d6 pieces of jewellery.</p></li><li><p>10%: 1 magic sword, suit of armour, or weapon</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.6hRwPJuYNRW5lf94]{Type C (1,000gp average)}</h3><ul><li><p>20%: 1d12 × 1,000cp.</p></li><li><p>30%: 1d4 × 1,000sp.</p></li><li><p>10%: 1d4 × 1,000ep.</p></li><li><p>25%: 1d4 gems.</p></li><li><p>25%: 1d4 pieces of jewellery.</p></li><li><p>10%: 2 magic items.</p></li></ul><hr /></section><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.8TKXVQrjVzO23wCT]{Type D (3,900gp average)}</h3><ul><li><p>10%: 1d8 × 1,000cp.</p></li><li><p>15%: 1d12 × 1,000sp.</p></li><li><p>60%: 1d6 × 1,000gp.</p></li><li><p>30%: 1d8 gems.</p></li><li><p>30%: 1d8 pieces of jewellery.</p></li><li><p>15%: 2 magic items plus 1 potion.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.cJtpLShpjN9xQ7Ab]{Type E (2,300gp average)}</h3><ul><li><p>5%: 1d10 × 1,000cp.</p></li><li><p>30%: 1d12 × 1,000sp.</p></li><li><p>25%: 1d4 × 1,000ep.</p></li><li><p>25%: 1d8 × 1,000gp.</p></li><li><p>10%: 1d10 gems.</p></li><li><p>10%: 1d10 pieces of jewellery.</p></li><li><p>25%: 3 magic items plus 1 scroll.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.AYFshL8fmmeI6SaJ]{Type F (7,700gp average)}</h3><ul><li><p>10%: 2d10 × 1,000sp.</p></li><li><p>20%: 1d8 × 1,000ep.</p></li><li><p>45%: 1d12 × 1,000gp.</p></li><li><p>30%: 1d3 × 1,000pp.</p></li><li><p>20%: 2d12 gems.</p></li><li><p>10%: 1d12 pieces of jewellery.</p></li><li><p>30%: 3 magic items (not weapons), plus 1 potion, plus 1 scroll.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.Sjb5WqrsXsRUv29l]{Type G (23,000gp average)}</h3><ul><li><p>50%: 1d4 × 10,000gp.</p></li><li><p>50%: 1d6 × 1,000pp.</p></li><li><p>25%: 3d6 gems.</p></li><li><p>25%: 1d10 pieces of jewellery.</p></li><li><p>35%: 4 magic items plus 1 scroll.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.xeGURxYqgotXb68P]{Type H (60,000gp average)}</h3><ul><li><p>25%: 3d8 × 1,000cp.</p></li><li><p>50%: 1d100 × 1,000sp.</p></li><li><p>50%: 1d4 × 10,000ep.</p></li><li><p>50%: 1d6 × 10,000gp.</p></li><li><p>25%: 5d4 × 1,000pp.</p></li><li><p>50%: 1d100 gems.</p></li><li><p>50%: 1d4 × 10 pieces of jewellery.</p></li><li><p>15%: 4 magic items, plus 1 potion, plus 1 scroll.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.KcbPOdArD1qK0m0H]{Type I (11,000gp average)}</h3><ul><li><p>30%: 1d8 × 1,000pp.</p></li><li><p>50%: 2d6 gems.</p></li><li><p>50%: 2d6 pieces of jewellery.</p></li><li><p>15%: 1 magic item.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.ju6Q7ceQfRwGdvvd]{Type J (25gp average)}</h3><ul><li><p>25%: 1d4 × 1,000cp.</p></li><li><p>10%: 1d3 × 1,000sp.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.GUyFLNVqCHqI0xBU]{Type K (180gp average)}</h3><ul><li><p>30%: 1d6 × 1,000sp.</p></li><li><p>10%: 1d2 × 1,000ep.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.JzW7rmMCpAvjg9Pn]{Type L (240gp average)}</h3><ul><li><p>50%: 1d4 gems.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.chpR0RfREEFZd098]{Type M (50,000gp average)}</h3><ul><li><p>40%: 2d4 × 1,000gp.</p></li><li><p>50%: 5d6 × 1,000pp.</p></li><li><p>55%: 5d4 gems.</p></li><li><p>45%: 2d6 pieces of jewellery.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.BXuFuRyqjCSd6v31]{Type N (0gp average)}</h3><ul><li><p>40%: 2d4 potions.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.OCTukYoB9COm6dnH]{Type O (0gp average)}</h3><ul><li><p>50%: 1d4 scrolls.</p></li></ul><hr /><section class=\"rolling-treasure\"><h2><strong>Individual Treasure: P-T</strong></h2><p><strong>Intelligent monsters</strong>: Each individual carries this much treasure.</p><p><strong>Unintelligent monsters</strong>: The treasure is from the bodies of the monsters’ victims.</p><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.vBBJsvAnkD65S8FO]{Type P (0.1gp average)}</h3><ul><li><p>3d8cp.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.9pga9eJLUeZbPo1Y]{Type Q (1gp average)}</h3><ul><li><p>3d6sp.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.aMa7PJZKpYBIrGE1]{Type R (3gp average)}</h3><ul><li><p>2d6ep.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.XzifLVY2EYoLobdH]{Type S (5gp average)}</h3><ul><li><p>2d4gp.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.hXUDP8aglCnFAGSq]{Type T (17gp average)}</h3><ul><li><p>1d6pp.</p></li></ul><h2><strong>Group Treasure: U-V</strong></h2><p><strong>Intelligent monsters</strong>: The group carries this much treasure between them.</p><p><strong>Unintelligent monsters</strong>: The treasure is from the bodies of the monsters’ victims.</p><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.kSRviWhVbx8QCQXk]{Type U (160gp average)}</h3><ul><li><p>10%: 1d100cp.</p></li><li><p>10%: 1d100sp.</p></li><li><p>5%: 1d100gp.</p></li><li><p>5%: 1d4 gems.</p></li><li><p>5%: 1d4 pieces of jewellery.</p></li><li><p>2%: 1 magic item.</p></li></ul><hr /><h3>@UUID[Compendium.ose-advancedfantasytome.tables.RollTable.UHquFh2czH1mdYyb]{Type V (330gp average)}</h3><ul><li><p>10%: 1d100sp.</p></li><li><p>5%: 1d100ep.</p></li><li><p>10%: 1d100gp.</p></li><li><p>5%: 1d100pp.</p></li><li><p>10%: 1d4 gems.</p></li><li><p>10%: 1d4 pieces of jewellery.</p></li><li><p>5%: 1 magic item.</p></li></ul></section>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": "osebuilder000000",
+        "modifiedTime": 1761350961074
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!QaJTYADJoZAOBRPB.wPBBUgdeybiccKxu"
+    },
+    {
+      "sort": 400000,
+      "name": "Magic Items",
+      "type": "text",
+      "_id": "EJ66yz7WNMHw5JOU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Magic items are usually classified according to one of the following categories:</p><ul><li><p><strong>Armour and shields:</strong> Grant protective benefits to the user.</p></li><li><p><strong>Miscellaneous item</strong>s<strong>:</strong> Enchanted items that do not fit into any other category.</p></li><li><p><strong>Potions:</strong> Magical liquids stored in glass vials.</p></li><li><p><strong>Rings:</strong> Plain or bejewelled rings that place an enchantment about the wearer.</p></li><li><p><strong>Rods / staves / wands:</strong> Magical lengths of wood, metal, crystal, etc. Used by spell casters to unleash magical effects.</p></li><li><p><strong>Scrolls and maps:</strong> Aged sheets of parchment or paper inscribed with either magical script or instructions leading to a treasure hoard. Note that treasure maps are rolled on the magic items table, although they are not usually magical.</p></li><li><p><strong>Swords:</strong> Grant bonuses to hit and damage in combat. May also be enchanted with additional powers.</p></li><li><p><strong>Weapons:</strong> All enchanted weapons other than swords. Grant bonuses to hit and damage in combat. May also be enchanted with additional powers.</p></li></ul><h2>Rolling Magic Items</h2><p>When a treasure type indicates that a magic item is present, the following procedure is used to determine its nature:</p><ul><li><p><strong>Specific type of item</strong>: If the treasure type indicates a specific type of magic item (e.g. 3 potions), roll on the table for that type of item.</p></li><li><p><strong>Type of item not specified</strong>: Otherwise, first roll on the table below to determine the type of the item, then roll on the table for that type.</p></li></ul><h3>Basic and Expert Magic Items</h3><p>Separate probabilities are listed in the table for Basic and Expert level characters (i.e. characters of 1st to 3rd level and characters of 4th level or higher).</p><p>The Basic probabilities are listed in the B column, and the Expert probabilities in the X column.</p><p>It is recommended that the probabilities appropriate to the group’s experience level be used. Alternatively, if the referee prefers to have an even distribution of magic items, irrespective of player character level, the Expert probabilities may always be used.</p><h2>Magic Item Type</h2><table><thead><tr><th>B: d%</th><th>X: d%</th><th>Type of Item</th></tr></thead><tbody><tr><td>01–10</td><td>01–10</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.IFt2OZyh2FzS2ExM]{Armour or Shield}</td></tr><tr><td>11–15</td><td>11–15</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.9Uk4yDn7mgtWzgFE]{Misc. Item}</td></tr><tr><td>16–40</td><td>16–35</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.4BBygEVrcKAQ9jcF]{Potion}</td></tr><tr><td>41–45</td><td>36–40</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.e3O0ND4s1NmXL1Yz]{Ring}</td></tr><tr><td>46–50</td><td>41–45</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.iD0y24SKBkXF1Bvn]{Rod / Staff / Wand}</td></tr><tr><td>51–70</td><td>46–75</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.bq2ifQTVZM9L1Zel]{Scroll or Map}</td></tr><tr><td>71–90</td><td>76–95</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.w4nZfgr9DkiZAkHE]{Sword}</td></tr><tr><td>91–00</td><td>96–00</td><td>@UUID[Compendium.ose-advancedfantasytome.advanced-fantasy-referees-rules.JournalEntry.zhOUdujvXRBLgGa4.JournalEntryPage.09M4lEEvCYwZNCxH]{Weapon}</td></tr></tbody></table><h2>Identifying Magic Items</h2><p><strong>Testing</strong>: The most common way of identifying magic items is by trial and error—sipping a potion, donning a suit of armour, using a weapon in battle, etc. Retainers: Players may wish to use retainers as “guinea pigs” to test magic items of unknown properties. Retainers may agree to do this, but only if allowed to keep the item in question.</p><p><strong>By magic</strong>: High-level NPC magic-users may also be able to identify magic items. They will always require payment or a service in kind. The process takes time: possibly several weeks.</p><h2>Using Magic Items</h2><p><strong>Appropriate use</strong>: In order to be effective, a magic item must be used, held, or worn after the normal fashion for that type of object.</p><p><strong>Concentration</strong>: To activate an item’s magic, the user must concentrate on its effect. When using a magic item in this way, the character cannot take any other actions.</p><p><strong>Items that are always active</strong>: The following items do not require concentration, and are always active: magic swords, weapons, armour, and protective items (e.g. rings of protection).</p><p><strong>Actions per round</strong>: A magic item’s effect can normally be used only once per round, unless its description notes otherwise.</p><h2>Wishes</h2><p>Some magic items grant wishes, the powerful ability for a character to change the nature of reality in any conceivable way that they desire. Wishes are generally regarded as the most powerful magic in the game and have the potential to greatly upset the balance of play if not handled carefully by the referee.</p><p><strong>Adjudication Guidelines Wording</strong>: The player and referee must pay great attention to the precise wording of a wish.</p><p><strong>Fundamental changes:</strong> A wish that would alter some fundamental aspect of the game or the campaign world will have no effect. For example, a wish that altered the abilities of all monsters of a particular type would fail.</p><p><strong>Greedy wishes</strong>: A wish that the referee judges to be unreasonable or overly greedy may come to pass, but with its intent twisted in some way. For example, a wish for a very powerful magic item may cause the item to appear, but in the possession of a dangerous enemy.</p><p><strong>Wishing for more wishes:</strong> This will result in an infinite time loop, putting the character out of play.</p><h3>Example Wishes</h3><p>Some examples of reasonable wishes:</p><ul><li><p>Wishing for a weapon to help fight magical monsters. The wish may grant a +1 sword that vanishes when the combat ends.</p></li><li><p>Wishing that a monster had not attacked. The wish may place the characters back in time and change the reaction of the monster.</p></li><li><p>Wishing that a deadly blow had not occurred. The affected character may return to life, wounded but not dead.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!QaJTYADJoZAOBRPB.EJ66yz7WNMHw5JOU"
+    },
+    {
+      "sort": 500000,
+      "name": "Gems and Jewellery",
+      "type": "text",
+      "_id": "rqQTl0uv2uQld3Do",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Gems</h2><p>The value of each gem in a treasure hoard is determined by the following table:</p><p><strong>Gem Values</strong></p><hr /><table style=\"height:102px\" border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p><strong>[[/r d20]] </strong></p></td><td style=\"height:17px;width:346px\"><p><strong>Gem Value</strong></p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>1–4 </p></td><td style=\"height:17px;width:346px\"><p>10gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>5–9</p></td><td style=\"height:17px;width:346px\"><p>50gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>10–15</p></td><td style=\"height:17px;width:346px\"><p>100gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>16–19</p></td><td style=\"height:17px;width:346px\"><p>500gp</p></td></tr><tr style=\"height:17px\"><td style=\"height:17px;width:345px\"><p>20</p></td><td style=\"height:17px;width:346px\"><p>1,000gp</p></td></tr></tbody></table><h2>Jewellery</h2><p>Each piece of jewellery indicated by a treasure type is worth <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor data-formula=\"3d6 * 100\" title=\"3d6 * 100\">3d6 * 100</a>gp (or more, if the referee wishes, for characters above 3rd level).</p><p>Damaged Jewellery</p><p>Rough treatment of jewellery (e.g. crushing, intense heat or fire, lightning) can damage it, reducing its value by 50%.</p><h2>Combining Values</h2><p>When a treasure type indicates the presence of multiple gems or pieces of jewellery, the referee may combine the values, as desired. For example, a roll of five 50gp value gems may be placed as a single 250gp gem, a 100gp gem and three 50gp gems, or any other combination.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "flags": {},
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!QaJTYADJoZAOBRPB.rqQTl0uv2uQld3Do"
+    }
+  ],
+  "folder": "ZrsekR7d5VfKW4VT",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1753076664552,
+    "modifiedTime": 1754191713959,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "categories": [],
+  "_id": "QaJTYADJoZAOBRPB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!QaJTYADJoZAOBRPB"
+}

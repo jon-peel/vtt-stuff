@@ -1,0 +1,39 @@
+{
+  "_id": "1eDGPFTCz88WAGc4",
+  "name": "Ring of Regeneration",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-faceted-engraved-gold-purple.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 200000,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">The wearer heals at an accelerated rate.</p><ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Rate</strong><strong>:</strong> The wearer regains 1 hit point per round.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Severed limbs</strong><strong>:</strong> Will also regrow. The rate depends on the size of the limb (e.g. a finger may regrow in one day, while a whole limb may take a week).</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Fire or acid damage</strong><strong>:</strong> Cannot be regenerated.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Death</strong><strong>:</strong> The ring does not function if the wearer is reduced to 0 or less hit points.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443237743,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1eDGPFTCz88WAGc4"
+}

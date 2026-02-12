@@ -1,0 +1,59 @@
+{
+  "name": "Trident +1, Submission",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/trident-silver-red.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 3100000,
+  "flags": {},
+  "_id": "lwRkFtVF20CxjlGA",
+  "system": {
+    "description": "<p>A trident enchanted with the power to demoralise foes.</p><ul><li><p><strong>Successful hits:</strong> The target must <strong>save versus spells</strong> or be demoralised. This consumes one charge.</p></li><li><p><strong>Demoralised targets:</strong> Must make a morale check or surrender. The demoralisation lasts for [[/r 2d4]] rounds.</p></li><li><p><strong>Charges:</strong> [[/r 1d4+16]].</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 0,
+    "containerId": "",
+    "save": "spell",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 1,
+    "tags": [
+      {
+        "title": "Brace",
+        "value": "Brace"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446129137,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!lwRkFtVF20CxjlGA"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Hiding In Dungeons",
+  "type": "ability",
+  "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+  "effects": [],
+  "folder": "y17DHMGsT2ud1wkD",
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">Gnomes have an uncanny ability to disappear from sight:</p><ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\">In dungeons, a gnome can hide in shadows or behind other forms of cover. The chance of success is [[/br 1d6]]{2-in-6}. Hiding requires the gnome to be motionless.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true,
+    "tags": []
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "createdTime": 1761457803204,
+    "modifiedTime": 1761457812390,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_id": "a8k5UEeX0QEvtKe6",
+  "sort": 900000,
+  "_key": "!items!a8k5UEeX0QEvtKe6"
+}

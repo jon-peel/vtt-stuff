@@ -1,0 +1,36 @@
+{
+  "_id": "fxSOAoGFY0P8SWVO",
+  "name": "Lore",
+  "type": "ability",
+  "img": "icons/sundries/books/book-embossed-bound-brown.webp",
+  "effects": [],
+  "folder": "PJTniOTejoshi5Zk",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>From 2nd level, a bard has a [[/r 1d6]]{2-in-6} chance of knowing lore pertaining to monsters, magic items, or heroes of folktale or legend. This ability may be used to identify the nature and powers of magic items.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "bard",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761457208488,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fxSOAoGFY0P8SWVO"
+}

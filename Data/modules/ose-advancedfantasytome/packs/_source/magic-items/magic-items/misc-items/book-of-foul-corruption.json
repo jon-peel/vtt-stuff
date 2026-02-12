@@ -1,0 +1,44 @@
+{
+  "_id": "doyPA3hab0bSsQVn",
+  "name": "Book of Foul Corruption",
+  "type": "item",
+  "img": "icons/sundries/books/book-embossed-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 8200000,
+  "flags": {},
+  "system": {
+    "description": "<p>An unremarkable book with a powerful, unholy enchantment. Opening the book produces an effect dependent on the class and alignment of the character.</p><ul><li><p><strong>Divine casters (lawful):</strong> Must <strong>save versus death</strong> or die.</p></li><li><p><strong>Divine casters (neutral):</strong> Change alignment to chaotic.</p></li><li><p><strong>Divine casters (chaotic):</strong> Sense the book’s foulness and may study it (requires 1 week) to gain one experience level and one point of WIS. A character can only gain this benefit once, even if another book of foul corruption is discovered.</p></li><li><p><strong>Arcane casters:</strong> Must <strong>save versus spells</strong> or lose 1 point of INT.</p></li><li><p><strong>Other classes (lawful):</strong> Suffer [[/r 4d10]] damage.</p></li><li><p><strong>Other classes (neutral):</strong> Change alignment to chaotic.</p></li><li><p><strong>Other classes (chaotic):</strong> Unaffected.</p></li><li><p><strong>Vanishes after use:</strong> Once the book’s magical effect has occurred, it vanishes.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761426976181,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!doyPA3hab0bSsQVn"
+}

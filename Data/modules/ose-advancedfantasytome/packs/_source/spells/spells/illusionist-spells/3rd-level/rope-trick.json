@@ -1,0 +1,37 @@
+{
+  "name": "Rope Trick",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "WZXIhoTJsuEInas4",
+  "sort": 0,
+  "flags": {},
+  "_id": "0HkPPhajwP4b1iSa",
+  "system": {
+    "description": "<p>A rope is enchanted to rise up into the air, enabling the caster and others to climb it and disappear into an imaginary space.</p><ul><li><p><strong>The rope:</strong> Rises up to its full length (or at most 30’) and hangs stiffly in the air, magically tethered at the upper end.</p></li><li><p><strong>Climbing the rope:</strong> The rope may be climbed normally.</p></li><li><p><strong>Imaginary space:</strong> Human-sized (or smaller) creatures that climb to the top of the rope disappear into the imaginary space beyond.</p></li><li><p><strong>Capacity:</strong> The imaginary space can hold up to six individuals.</p></li><li><p><strong>Hidden:</strong> Creatures inside the imaginary space cannot be perceived or affected in any way by those on the outside, in real space.</p></li><li><p><strong>Pulling up the rope:</strong> The rope may be pulled up into the imaginary space, also disappearing.</p></li></ul><p><strong>When the spell’s duration ends:</strong> The rope falls slack, the imaginary space disappears, and anyone inside the imaginary space reappears in mid air.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Illusionist",
+    "duration": "2 turns per level",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761451595568,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!0HkPPhajwP4b1iSa"
+}

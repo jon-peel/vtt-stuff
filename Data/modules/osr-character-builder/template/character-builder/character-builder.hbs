@@ -1,0 +1,167 @@
+<form id='char-builder-form'>
+  <section class='top'>
+    <div class='name-cont'>
+      <input id='name-inp' type='text' placeholder='Name' name='name' value='{{actor.name}}' />
+      <div class="random-name-btn" title="{{localize "osr-character-builder.util.dialog.randomName"}}">
+        <a class='roll-name-btn' data-action="rollName">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>  
+      <div class="lvl-row">
+        <div class='lvl-cont'>
+          <label for='level-inp'>{{localize "osr-character-builder.lvl"}}</label>
+          <input type='number' data-dtype='Number' value='{{actor.system.details.level}}' name='level' id='level-inp' title="{{localize "osr-character-builder.level"}}"/>
+        </div>
+        <div class="alignment-cont">
+          <label for="alignment-inp">{{localize "osr-character-builder.formAlignment"}}</label>
+          <select name="alignment" id="alignment-inp">
+            <option value="{{localize "osr-character-builder.formLaw"}}">{{localize "osr-character-builder.formLaw"}}</option>
+            <option value="{{localize "osr-character-builder.formNeut"}}">{{localize "osr-character-builder.formNeut"}}</option>
+            <option value="{{localize "osr-character-builder.formChaos"}}">{{localize "osr-character-builder.formChaos"}}</option>
+          </select>
+        </div>
+      </div>
+
+    </div>
+    <div class='stat-cont'>
+      <div class='stat-input-col'>
+        <label for='str'>{{localize "osr-character-builder.formStr"}}</label>
+        <input
+          class='stat-inp'
+          type='number'
+          name='str'
+          id='str'
+          value='{{actor.system.scores.str.value}}'
+          data-stat='str'
+          data-dtype='Number'
+        />
+        <a class='single-stat-roll-btn' data-action="rollSingleStat">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>
+      <div class='stat-input-col'>
+        <label for='int'>{{localize "osr-character-builder.formInt"}}</label>
+        <input
+          class='stat-inp'
+          type='number'
+          name='int'
+          id='int'
+          value='{{actor.system.scores.int.value}}'
+          data-stat='int'
+          data-dtype='Number'
+        />
+        <a class='single-stat-roll-btn' data-action="rollSingleStat">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>
+      <div class='stat-input-col'>
+        <label for='wis'>{{localize "osr-character-builder.formWis"}}</label>
+        <input
+          class='stat-inp'
+          type='number'
+          name='wis'
+          id='wis'
+          value='{{actor.system.scores.wis.value}}'
+          data-stat='wis'
+          data-dtype='Number'
+        />
+        <a class='single-stat-roll-btn' data-action="rollSingleStat">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>
+      <div class='stat-input-col'>
+        <label for='dex'>{{localize "osr-character-builder.formDex"}}</label>
+        <input
+          class='stat-inp'
+          type='number'
+          name='dex'
+          id='dex'
+          value='{{actor.system.scores.dex.value}}'
+          data-stat='dex'
+          data-dtype='Number'
+        />
+        <a class='single-stat-roll-btn' data-action="rollSingleStat">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>
+      <div class='stat-input-col'>
+        <label for='con'>{{localize "osr-character-builder.formCon"}}</label>
+        <input
+          class='stat-inp'
+          type='number'
+          name='con'
+          id='con'
+          value='{{actor.system.scores.con.value}}'
+          data-stat='con'
+          data-dtype='Number'
+        />
+        <a class='single-stat-roll-btn' data-action="rollSingleStat">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>
+      <div class='stat-input-col'>
+        <label for='cha'>{{localize "osr-character-builder.formCha"}}</label>
+        <input
+          class='stat-inp'
+          type='number'
+          name='cha'
+          id='cha'
+          value='{{actor.system.scores.cha.value}}'
+          data-stat='cha'
+          data-dtype='Number'
+        />
+        <a class='single-stat-roll-btn' data-action="rollSingleStat">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>
+      <div class='stat-roll-cont'>
+        <a class='roll-stats-btn' data-action="rollAbilScores">
+          <i class='fa-solid fa-dice-six'></i>
+        </a>
+      </div>
+    </div>
+
+  </section>
+  <section class='middle'>
+    <div class='class-select-cont'>
+      <select name='source' id='source-select' class='source-select'>
+        {{#each classData as |source idx|}}
+          <option value='{{source.name}}'>{{source.menu}}</option>
+        {{/each}}
+        <option value='none'>{{localize "osr-character-builder.none"}}</option>
+      </select>
+
+      <select name='classOption' id='class-select' class='class-select'>
+        <option value='none'>{{localize "osr-character-builder.chooseSource"}}</option>
+      </select>
+
+    </div>
+    <div class='info-cont'>
+      <div id='bio'></div>
+      <div id='description'></div>
+    </div>
+  </section>
+  <section class='bottom'>
+    <div class='gp-cont'>
+      <label for='gold-inp'>{{localize "osr-character-builder.gp"}}:</label>
+      <input type='number' id='gold-inp' value='{{gp}}' name='goldAmount' />
+      <a class='roll-gp-btn' data-action="rollGold">
+        <i class='fa-solid fa-dice-six'></i>
+      </a>
+    </div>
+    {{#if addShopCheck}}
+      <label for='shop-check-inp'>{{localize "osr-character-builder.openShop"}}</label>
+      <input type='checkbox' id='shop-check-inp' name='shopCheck' />
+    {{else}}
+      <div class='empty'></div>
+      <div class='empty'></div>
+    {{/if}}
+    <label for='spell-check-inp'>{{localize "osr-character-builder.randomSpells"}}</label>
+    <input type='checkbox' id='spellp-check-inp' name='spellCheck' />
+  </section>
+  <section class='footer'>
+    <button type='button' id='close-btn' data-action="close">{{localize "osr-character-builder.formBtnClose"}}</button>
+    <button type='button' id='choose-btn' data-action="selectClass">{{localize "osr-character-builder.formBtnChoose"}}</button>
+  </section>
+
+</form>

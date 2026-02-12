@@ -1,0 +1,44 @@
+{
+  "_id": "oIpuwGzcCJuoqviJ",
+  "name": "Incense of Obsession",
+  "type": "item",
+  "img": "icons/tools/laboratory/bowl-liquid-orange.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 10700000,
+  "flags": {},
+  "system": {
+    "description": "<p>Small rectangular blocks of sweet-smelling incense. [[/r 2d4]] blocks are usually found together. Burning this incense causes a divine spell caster to suffer the delusion that their spell casting ability is greatly enhanced.</p><ul><li><p><strong>Burning:</strong> When lit, the incense produces a distinctive pearly-hued smoke and fragrance, identical to that of incense of meditation. A block burns for 1 hour.</p></li><li><p><strong>Meditation:</strong> If the divine spell caster who lit the block prays and meditates in the vicinity of the incense, they become obsessed with spell casting.</p></li><li><p><strong>Obsession:</strong> The character is determined to use their spells at every opportunity, especially when not needed or when useless. The obsession remains until all spells have been cast or until 24 hours have elapsed.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761439710986,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!oIpuwGzcCJuoqviJ"
+}

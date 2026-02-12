@@ -1,0 +1,36 @@
+{
+  "_id": "of1don2JgFn9slYc",
+  "name": "Retainers",
+  "type": "ability",
+  "img": "icons/environment/people/spearfighter.webp",
+  "effects": [],
+  "folder": "e0OPI6yYuyHhLkKp",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Half-orcs are reviled by most other races, including both of their parent races. Any retainers in a half-orc&rsquo;s employ have their loyalty score reduced by one. (This does not apply to retainers who are also half-orcs.)</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-orc",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159964874,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!of1don2JgFn9slYc"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "kE3AVt1VVWaCNmPM",
+  "name": "Bag of Transformation",
+  "type": "item",
+  "img": "icons/containers/bags/pack-engraved-leather-blue.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 9900000,
+  "flags": {},
+  "system": {
+    "description": "<p>A normal-looking small sack that can magically hold large objects and weights. Its magic is unstable and after some time will transmute objects placed inside.</p><ul><li><p><strong>Size:</strong> Objects of up to 10’×5’×3’ can fit inside the bag.</p></li><li><p><strong>Weight:</strong> Up to 10,000 coins of weight can be placed in the bag.</p></li><li><p><strong>When full:</strong> The bag weighs 600 coins.</p></li><li><p><strong>Unstable magic:</strong> After [[/br 1d6]] days of use, the bag becomes cursed.</p></li><li><p><strong>Curse:</strong> When the curse is active, precious items in the bag are transmuted into worthless items (e.g. precious metals into lead, gems into rocks, magic items into normal items, etc.).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761426950645,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kE3AVt1VVWaCNmPM"
+}

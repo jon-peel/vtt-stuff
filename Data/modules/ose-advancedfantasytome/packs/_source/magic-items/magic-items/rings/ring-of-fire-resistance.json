@@ -1,0 +1,39 @@
+{
+  "_id": "dyZULni5N5Ztd2RM",
+  "name": "Ring of Fire Resistance",
+  "type": "item",
+  "img": "icons/equipment/finger/ring-cabochon-notched-gold-green.webp",
+  "effects": [],
+  "folder": "8O7HKjRKLOdzukOh",
+  "sort": 1100000,
+  "flags": {},
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813\">Grants the wearer protection against fire.</p><ul><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Normal fire</strong><strong>:</strong> Unharmed by non-magical fire.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Save bonus</strong><strong>:</strong> Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.</p></li><li><p style=\"box-sizing: border-box; user-select: text; color: #191813\"><strong style=\"box-sizing: border-box; user-select: text;\">Fire-based damage</strong><strong>:</strong> Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761443208124,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!dyZULni5N5Ztd2RM"
+}

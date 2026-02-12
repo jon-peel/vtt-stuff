@@ -1,0 +1,59 @@
+{
+  "name": "War Hammer +3, Thunderbolts",
+  "type": "weapon",
+  "img": "icons/weapons/hammers/hammer-double-glowing-yellow.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 2000000,
+  "flags": {},
+  "_id": "VG9uOkmeQxZ1Ma0z",
+  "system": {
+    "description": "<p>A war hammer of unusually large size and weight. In the hands of a very strong character, it has several magical powers.</p><ul><li><p><strong>Minimum STR:</strong> Only characters of 17 STR or higher can wield the hammer.</p></li><li><p><strong>Hurling:</strong> The hammer may be hurled as a missile weapon, with a range of 60’.</p></li><li><p><strong>Successful hits when hurled:</strong> A great clap of thunder rings out, stunning all within 30’ (<strong>save versus paralysis </strong>or be unable to move or act for 3 rounds).</p></li><li><p><strong>After being hurled:</strong> The hammer returns to the wielder’s hands.</p></li><li><p><strong>Frequency of hurling:</strong> The hammer may be hurled at most 3 times in the space of 1 turn (i.e. 3 times per combat).</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 20,
+      "medium": 40,
+      "long": 60
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 3,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446166583,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!VG9uOkmeQxZ1Ma0z"
+}

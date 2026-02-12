@@ -1,0 +1,63 @@
+{
+  "name": "Staff of the Woodlands",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-vines-green.webp",
+  "effects": [],
+  "folder": "hiLFvhYlLslN9uZK",
+  "sort": 2700000,
+  "flags": {},
+  "_id": "iBAwr6KIuVMV3Oxi",
+  "system": {
+    "description": "<p>An item of great druidic power, this staff may be used in melee and may evoke a number of different magical effects.</p><ul><li><p><strong>Druidic magic</strong>: Usable by divine spell casters with access to druidic magic only.</p></li><li><p><strong>Melee</strong>: Acts as a +2 staff.</p></li><li><p><strong>Animate tree</strong>: Causes a large tree within 30’ to come alive under the control of the wielder of the staff.</p></li><li><p><strong>Spells</strong>: Can cast: <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.qB1qcrZJgQUy7zqt]{animal friendship}</em>, <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.67v1jM1P5sjKl6Ub]{speak with animals}</em>, <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.xkKoDOw292U7lAWh]{wall of thorns}</em>.</p></li></ul><table border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"width:258px;height:17px\"><p><strong>@UUID[Compendium.ose-advancedfantasytome.monsters.Actor.T6ZdSexP9IhmZ5lT]{Animated tree}:</strong> AC 2 [17], HD 8 (36hp), Att 2 × fist (2d6), THAC0 12 [+7], MV 30’ (10’), SV D8 W9 P10 B10 S12 (8), ML 9, AL Lawful, XP 650.</p></td></tr></tbody></table>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 2,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      },
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761444727553,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!iBAwr6KIuVMV3Oxi"
+}

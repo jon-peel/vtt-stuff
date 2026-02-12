@@ -1,0 +1,36 @@
+{
+  "_id": "prMWGOBB96PkxKRn",
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-red.webp",
+  "effects": [],
+  "folder": "YopJn8vFhyJwwfqI",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>A half-elf may strive to become a leader among humans or among elves, constructing a stronghold either in the name of a human liege or in the deep forests of the elves.</p>\n<p><strong>Human Stronghold</strong></p>\n<p>The half-elf may build a castle or stronghold and control the surrounding lands. The character may be granted a title such as Baron or Baroness. The land under the half-elf&rsquo;s control is then known as a Barony.</p>\n<p><strong>Elven Stronghold</strong></p>\n<p>The half-elf may construct a stronghold in the depths of the forest, blending in with the natural environment of a site of great beauty, for example: in the treetops, beside a serene valley, or hidden behind a waterfall. Whatever material it is made of, the construction costs as much as similar work in stone due to the exquisite quality of craftsmanship involved.</p>\n<p>Once the construction is complete, elves will come to live under the rule of the character. Forest animals within a 5 mile radius of the completed stronghold will become friends with the elves. They may warn of intruders, carry messages and news, and so on. In exchange for this friendship, the half-elf must protect the animals from harm.</p>\n<p>The ruler of an elven stronghold may only hire elven mercenaries. Specialists and retainers of any race may be hired.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "half-elf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159965324,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!prMWGOBB96PkxKRn"
+}

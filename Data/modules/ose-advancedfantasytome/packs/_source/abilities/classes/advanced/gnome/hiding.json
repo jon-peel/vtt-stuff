@@ -1,0 +1,36 @@
+{
+  "_id": "f8xNmSUo6GPMXymC",
+  "name": "Hiding",
+  "type": "ability",
+  "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+  "effects": [],
+  "folder": "y17DHMGsT2ud1wkD",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Gnomes have an uncanny ability to disappear from sight:</p>\n<p>▶ In woodland cover, a gnome can hide with a 90%&nbsp; [[/r 1d100]]chance of success.</p>\n<p>▶ In dungeons, a gnome can hide in shadows or behind other forms of cover. The chance of success is 2-in-6 [[/r 1d6]]. Hiding requires the gnome to be motionless.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "gnome",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159962339,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!f8xNmSUo6GPMXymC"
+}

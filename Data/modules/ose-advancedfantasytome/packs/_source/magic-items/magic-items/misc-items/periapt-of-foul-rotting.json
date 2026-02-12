@@ -1,0 +1,44 @@
+{
+  "_id": "RIOmNwfWbkVFqm9k",
+  "name": "Periapt of Foul Rotting",
+  "type": "item",
+  "img": "icons/equipment/neck/necklace-astrology-moon-purple.webp",
+  "effects": [],
+  "folder": "bUDTw9Q5QNa0VZwi",
+  "sort": 5700000,
+  "flags": {},
+  "system": {
+    "description": "<p>A small gem of apparently inconsequential value which curses its possessor with a horrible rotting disease.</p><ul><li><p><strong>Curse:</strong> The character loses 1 point of CHA, CON, and DEX per week, beginning one week after coming into possession of the gem.</p></li><li><p><strong>Death:</strong> If any afflicted ability score reaches 0, the character dies.</p></li><li><p><strong>Curing:</strong> The curse must first be removed (e.g. with <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.LvD3XbuvgBpJ5eEL]{remove curse}</em>) before the disease may be cured (e.g. <em>@UUID[Compendium.ose-advancedfantasytome.spells.Item.QoS2cIYWAYSpndEC]{cure disease}</em>).</p></li><li><p><strong>Invisible sigils:</strong> The gem is engraved with magical sigils which can only be seen by magic.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": [
+      {
+        "title": "Magic",
+        "value": "Magic"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761440914154,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!RIOmNwfWbkVFqm9k"
+}

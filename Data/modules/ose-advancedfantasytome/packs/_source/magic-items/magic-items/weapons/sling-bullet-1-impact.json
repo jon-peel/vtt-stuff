@@ -1,0 +1,39 @@
+{
+  "name": "Sling Bullet +1, Impact",
+  "type": "item",
+  "img": "icons/weapons/ammunition/bullet-ice-blue.webp",
+  "effects": [],
+  "folder": "zrLBX1Etzm0TMKfE",
+  "sort": 2500000,
+  "flags": {},
+  "_id": "ZE3EbUUZCRO8xX9p",
+  "system": {
+    "description": "<p>A cast metal sling bullet which inflicts additional damage on an accurate hit.</p><ul><li><p><strong>Examining:</strong> The bullet is engraved with fine runes.</p></li><li><p><strong>On a successful hit:</strong> If the attack roll was higher than the minimum roll required to hit the target, the bullet inflicts additional damage. The additional damage is equal to the actual attack roll minus the minimum required to hit the target. For example, if an attack roll of 12 or more is required to hit a target and a 16 is rolled, the bullet inflicts 4 additional points of damage to the target.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false,
+    "tags": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": 1687339326487,
+    "modifiedTime": 1761446054220,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ZE3EbUUZCRO8xX9p"
+}

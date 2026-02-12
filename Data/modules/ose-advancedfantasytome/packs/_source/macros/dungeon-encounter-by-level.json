@@ -1,0 +1,26 @@
+{
+  "_id": "emCe9847GvZnHYbo",
+  "name": "Dungeon Encounter By Level",
+  "type": "script",
+  "author": "LWUjWFEmslEaL9Zd",
+  "img": "icons/environment/wilderness/tomb-entrance.webp",
+  "scope": "global",
+  "command": "OSE.util.dungeonEncounter()",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!macros!emCe9847GvZnHYbo"
+}

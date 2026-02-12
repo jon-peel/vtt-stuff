@@ -1,0 +1,37 @@
+{
+  "name": "Temperature Control",
+  "type": "spell",
+  "img": "icons/sundries/books/book-tooled-gold-purple.webp",
+  "effects": [],
+  "folder": "EF4o02b1CzjjmfJd",
+  "sort": 0,
+  "flags": {},
+  "_id": "1lVAwf99vm7xiO3D",
+  "system": {
+    "description": "<p>The caster can control the surrounding temperature in a limited radius.</p><ul><li><p><strong>Temperature range:</strong> The temperature may be raised or lowered up to the full, range of temperature variance in the natural world. (e.g. down to arctic cold or up to tropical heat.)</p></li><li><p><strong>Control:</strong> The caster can adjust the temperature at will while the spell lasts.</p></li></ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Druid",
+    "duration": "3 turns",
+    "range": "10' around the caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "2.1.9",
+    "coreVersion": "13.350",
+    "createdTime": null,
+    "modifiedTime": 1761450019897,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1lVAwf99vm7xiO3D"
+}

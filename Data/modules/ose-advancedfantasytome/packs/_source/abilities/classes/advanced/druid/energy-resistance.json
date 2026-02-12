@@ -1,0 +1,36 @@
+{
+  "_id": "QYGZiHyc7j6XHN3K",
+  "name": "Energy Resistance",
+  "type": "ability",
+  "img": "icons/magic/defensive/shield-barrier-deflect-teal.webp",
+  "effects": [],
+  "folder": "Efeewwn5Ev8vbIEu",
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Druids gain a +2 bonus to saving throws against electricity (lightning) and fire. Identification Druids can identify all plants and animals and can discern pure water.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "druid",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682159958954,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QYGZiHyc7j6XHN3K"
+}
