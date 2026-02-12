@@ -1,0 +1,8 @@
+2026/02/12-19:29:13.401 1458 Recovering log #61
+2026/02/12-19:29:13.405 1458 Delete type=0 #61
+2026/02/12-19:29:13.405 1458 Delete type=3 #59
+2026/02/12-19:30:11.482 4d18 Level-0 table #68: started
+2026/02/12-19:30:11.482 4d18 Level-0 table #68: 0 bytes OK
+2026/02/12-19:30:11.488 4d18 Delete type=0 #66
+2026/02/12-19:30:11.498 4d18 Manual compaction at level-0 from '!folders!0K9YYEBQfDx0vrNL' @ 72057594037927935 : 1 .. '!scenes.walls!zQbuY7zqPKplnxJ0.zwlvLaYLwYugBVxa' @ 0 : 0; will stop at (end)
+2026/02/12-19:30:11.498 4d18 Manual compaction at level-1 from '!folders!0K9YYEBQfDx0vrNL' @ 72057594037927935 : 1 .. '!scenes.walls!zQbuY7zqPKplnxJ0.zwlvLaYLwYugBVxa' @ 0 : 0; will stop at (end)

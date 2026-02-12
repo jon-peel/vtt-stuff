@@ -1,0 +1,32 @@
+{ 
+  "id": "CQ-The-Keep-on-the-Borderlands",
+  "title": "CanvasQuest: The-Keep-on-the-Borderlands",
+  "description": "The-Keep-on-the-Borderlands Map Pack",
+
+  "packs": [
+    {
+      "name": "CQ-The-Keep-on-the-Borderlands",
+      "label": "CQ The-Keep-on-the-Borderlands",
+      "path": "/packs/CQ-The-Keep-on-the-Borderlands.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+     }
+   ],  
+  "manifest": "https://www.dropbox.com/scl/fi/fu7mwtthxzr7dt84y1c1z/module.json?rlkey=g9edc5s4kd3zsz1ce1mb77ptv&st=lke4cvpz&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/mxwydaatqtm0zd3g0qes7/CQ-The-Keep-on-the-Borderlands.zip?rlkey=h6c5hojl6yu8rijuyk12xyhw9&st=lgubnvd8&dl=1",
+  "authors": [
+    {
+      "name": "CanvasQuest",
+      "email": "canvasquest1@gmail.com",
+      "url": "https://www.patreon.com/c/CanvasQuest ",
+      "discord": "canvas_quest"
+    }
+  ],
+  "name": "CQ-The-Keep-on-the-Borderlands",
+  "version": "1.0.4",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+    }
+}

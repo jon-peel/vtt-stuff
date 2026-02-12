@@ -1,8 +1,8 @@
 {
-  "title": "OS Adventure",
+  "title": "Aethelgard",
   "id": "os-adventure",
   "system": "ose",
-  "background": "assets/Gemini_Generated_Image_1eberk1eberk1ebe.png",
+  "background": "https://raw.githubusercontent.com/jon-peel/vtt-stuff/refs/heads/main/Assets/Welcome.png",
   "joinTheme": "minimal",
   "coreVersion": "13.351",
   "compatibility": {
@@ -10,8 +10,8 @@
     "verified": "13"
   },
   "systemVersion": "2.1.13",
-  "lastPlayed": "Thu Feb 12 2026 13:42:25 GMT+0300 (Moscow Standard Time)",
-  "playtime": 8860,
+  "lastPlayed": "Thu Feb 12 2026 19:30:59 GMT+0300 (Moscow Standard Time)",
+  "playtime": 17497,
   "description": "",
   "flags": {}
 }
