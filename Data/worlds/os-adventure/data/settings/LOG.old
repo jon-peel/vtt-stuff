@@ -1,14 +1,14 @@
-2026/02/12-19:29:13.138 a58 Recovering log #66
-2026/02/12-19:29:13.142 a58 Delete type=0 #66
-2026/02/12-19:29:13.142 a58 Delete type=3 #64
-2026/02/12-19:30:11.827 4d18 Level-0 table #72: started
-2026/02/12-19:30:11.843 4d18 Level-0 table #72: 84288 bytes OK
-2026/02/12-19:30:11.847 4d18 Delete type=0 #70
-2026/02/12-19:30:11.853 4d18 Manual compaction at level-0 from '!settings!05Az7ztfZX5hsrO2' @ 72057594037927935 : 1 .. '!settings!yy5StgK3T9blZ4bk' @ 0 : 0; will stop at '!settings!no1RFTR5WqJNsn7W' @ 649 : 1
-2026/02/12-19:30:11.854 4d18 Compacting 1@0 + 1@1 files
-2026/02/12-19:30:11.893 4d18 Generated table #73@0: 150 keys, 131327 bytes
-2026/02/12-19:30:11.893 4d18 Compacted 1@0 + 1@1 files => 131327 bytes
-2026/02/12-19:30:11.895 4d18 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/12-19:30:11.897 4d18 Delete type=2 #68
-2026/02/12-19:30:11.898 4d18 Delete type=2 #72
-2026/02/12-19:30:11.898 4d18 Manual compaction at level-0 from '!settings!no1RFTR5WqJNsn7W' @ 649 : 1 .. '!settings!yy5StgK3T9blZ4bk' @ 0 : 0; will stop at (end)
+2026/02/13-11:43:31.163420 72ef737fe6c0 Recovering log #79
+2026/02/13-11:43:31.168133 72ef737fe6c0 Delete type=3 #76
+2026/02/13-11:43:31.168165 72ef737fe6c0 Delete type=0 #79
+2026/02/13-13:30:56.514187 72ef719ff6c0 Level-0 table #85: started
+2026/02/13-13:30:56.525284 72ef719ff6c0 Level-0 table #85: 354012 bytes OK
+2026/02/13-13:30:56.526820 72ef719ff6c0 Delete type=0 #83
+2026/02/13-13:30:56.544350 72ef719ff6c0 Manual compaction at level-0 from '!settings!05Az7ztfZX5hsrO2' @ 72057594037927935 : 1 .. '!settings!yy5StgK3T9blZ4bk' @ 0 : 0; will stop at '!settings!y1dS6ZMJSVK3XGw2' @ 1236 : 1
+2026/02/13-13:30:56.544355 72ef719ff6c0 Compacting 1@0 + 1@1 files
+2026/02/13-13:30:56.550176 72ef719ff6c0 Generated table #86@0: 152 keys, 136810 bytes
+2026/02/13-13:30:56.550186 72ef719ff6c0 Compacted 1@0 + 1@1 files => 136810 bytes
+2026/02/13-13:30:56.551353 72ef719ff6c0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/13-13:30:56.551416 72ef719ff6c0 Delete type=2 #85
+2026/02/13-13:30:56.551528 72ef719ff6c0 Delete type=2 #81
+2026/02/13-13:30:56.551652 72ef719ff6c0 Manual compaction at level-0 from '!settings!y1dS6ZMJSVK3XGw2' @ 1236 : 1 .. '!settings!yy5StgK3T9blZ4bk' @ 0 : 0; will stop at (end)
